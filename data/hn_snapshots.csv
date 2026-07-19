@@ -1139,3 +1139,33 @@ story_id,title,link,points,comments,scraped_at
 48965918,Mirror your GitHub repos to tangled.org automatically,https://synchub.to/,5,0,2026-07-19T10:51:04.310835+00:00
 48964424,I built a browser-based P2P file transfer tool using WebRTC,https://airdows.com/,27,14,2026-07-19T10:51:04.310835+00:00
 48965880,Ollama: All Aboard Open Models,https://ollama.com/blog/all-aboard-open-models,5,2,2026-07-19T10:51:04.310835+00:00
+48966190,Qwen 3.8 Max Preview,https://www.qwencloud.com/pricing/token-plan,74,27,2026-07-19T11:51:57.454832+00:00
+48966754,Qwen 3.8 Max,https://qwen.ai/home,13,1,2026-07-19T11:51:57.454832+00:00
+48963879,Transcribe.cpp,https://workshop.cjpais.com/projects/transcribe-cpp,565,121,2026-07-19T11:51:57.454832+00:00
+48911021,Blender 5.2 LTS,https://www.blender.org/download/releases/5-2-lts/,45,23,2026-07-19T11:51:57.454832+00:00
+48966120,Qwen3.8 is launching and going open-weight soon,https://twitter.com/Alibaba_Qwen/status/2078759124914098291,230,121,2026-07-19T11:51:57.454832+00:00
+48966569,Claude Code uses Bun written in Rust now,https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/,97,89,2026-07-19T11:51:57.454832+00:00
+48965850,OpenAI reduces Codex Model Context Size from 372k to 272k,https://github.com/openai/codex/pull/33972/files,41,7,2026-07-19T11:51:57.454832+00:00
+48911793,Speech Recognition and TTS in less than 500kb,https://github.com/moonshine-ai/moonshine/tree/main/micro,472,63,2026-07-19T11:51:57.454832+00:00
+48882993,I Put My Son in a Swamp,https://thepotato.tech/posts/i-put-my-son-in-a-swamp/,6,1,2026-07-19T11:51:57.454832+00:00
+48966139,Half a Second – a book about the XZ backdoor,https://www.half-second.com/,26,11,2026-07-19T11:51:57.454832+00:00
+48963465,Codex Resets,https://codex-resets.com/,201,142,2026-07-19T11:51:57.454832+00:00
+48960218,The Kimi K3 Moment,https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/,451,458,2026-07-19T11:51:57.454832+00:00
+48964015,Better and Cheaper Than IPTV,https://github.com/stupside/castor,226,63,2026-07-19T11:51:57.454832+00:00
+48895861,Mathematicians still don't know the fastest way to multiply numbers,https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/,128,80,2026-07-19T11:51:57.454832+00:00
+48965914,The Mighty Big Array of Finn Jensen LA8YB,https://la0by.darc.de/LA8YB_EME_MBA.htm,7,2,2026-07-19T11:51:57.454832+00:00
+48966769,The death and rebirth of my home server,https://sgt.hootr.club/blog/home-server-rebirth/,5,0,2026-07-19T11:51:57.454832+00:00
+48966713,"What I learned selling 2,500 MIDI recorders: Hardware is not so hard",https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard,7,5,2026-07-19T11:51:57.454832+00:00
+48962758,Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day,https://www.neatnik.net/hardcore-indieweb,185,132,2026-07-19T11:51:57.454832+00:00
+48920328,Searchable field-level encryption on Supabase with CipherStash,https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash,39,30,2026-07-19T11:51:57.454832+00:00
+48965161,Scrying the AMD GFX1250 LLVM Tea Leaves,https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea,34,0,2026-07-19T11:51:57.454832+00:00
+48875738,Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf],https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf,17,2,2026-07-19T11:51:57.454832+00:00
+48896558,How the Elite See Rome,https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/,24,21,2026-07-19T11:51:57.454832+00:00
+48905836,Using self-hosted Umami for iOS app analytics,https://hjerpbakk.com/blog/2026/07/14/umami-for-apps,24,3,2026-07-19T11:51:57.454832+00:00
+48965886,Perforce charges $500 for training training videos.. and it's AI narrated,https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic,41,54,2026-07-19T11:51:57.454832+00:00
+48962838,"Classic Amiga titles, free to download",https://amigafreeware.downer.tech/,127,16,2026-07-19T11:51:57.454832+00:00
+48904269,Making Software: How to make a font,https://www.makingsoftware.com/chapters/how-to-make-a-font,52,9,2026-07-19T11:51:57.454832+00:00
+48877124,A Visual Catalog of Retro Macintosh Software,https://www.marciot.com/mac68k-visual-catalog/,54,6,2026-07-19T11:51:57.454832+00:00
+48965719,The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf],https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf,8,1,2026-07-19T11:51:57.454832+00:00
+48960155,"Goodbye, and Thanks for All the Bikesheds",https://queue.acm.org/detail.cfm?id=3818307,231,216,2026-07-19T11:51:57.454832+00:00
+48962983,NYC may require landlords and realtors to disclose the use of AI in listings,https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/,491,212,2026-07-19T11:51:57.454832+00:00
