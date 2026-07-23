@@ -2789,3 +2789,33 @@ story_id,title,link,points,comments,scraped_at
 48990219,Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot,https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html,122,98,2026-07-23T15:51:21.395948+00:00
 49021569,What happens when the information runs out,https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/,6,0,2026-07-23T15:51:21.395948+00:00
 49022137,Fields Medals 2026,https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026,8,1,2026-07-23T15:51:21.395948+00:00
+49022152,Writing by hand is good for your brain,https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your,353,147,2026-07-23T17:13:57.336848+00:00
+49022038,Software rendering in 500 lines of bare C++,https://haqr.eu/tinyrenderer/,114,22,2026-07-23T17:13:57.336848+00:00
+49021783,Astronomers may have found the first exomoon,https://www.eso.org/public/news/eso2610/,126,51,2026-07-23T17:13:57.336848+00:00
+49023016,Startup founders urge Trump not to shut off Chinese open weight AI,https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992,276,277,2026-07-23T17:13:57.336848+00:00
+49022634,"Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",https://learnopengl.com/,70,32,2026-07-23T17:13:57.336848+00:00
+49024620,Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording,item?id=49024620,9,2,2026-07-23T17:13:57.336848+00:00
+49023809,JEP 540: Simple JSON API (Now in Incubator),https://openjdk.org/jeps/540,27,12,2026-07-23T17:13:57.336848+00:00
+49021868,Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency,https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development,37,15,2026-07-23T17:13:57.336848+00:00
+49023427,Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents,https://github.com/onecli/onecli,12,3,2026-07-23T17:13:57.336848+00:00
+49023486,Free way to get your data out of ChatGPT Business accounts,https://github.com/Conradqh/scrapemychats,24,3,2026-07-23T17:13:57.336848+00:00
+49022284,Show HN: Remux – an open-source tmux workspace designed for iPhone,https://github.com/h3nock/remux,40,10,2026-07-23T17:13:57.336848+00:00
+49022668,"Encryption and Globalization 15 Years Later: E2EE and the ""Going Dark"" Debate",https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699,24,10,2026-07-23T17:13:57.336848+00:00
+49022663,Learn WebGPU for C++,https://eliemichel.github.io/LearnWebGPU/,24,4,2026-07-23T17:13:57.336848+00:00
+49020999,AI Companies Are Trying to Hide a Staggering Amount of Debt,https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet,336,153,2026-07-23T17:13:57.336848+00:00
+48970844,How to Sell a Kettle,https://www.economist.com/business/2026/07/16/how-to-sell-a-kettle,18,3,2026-07-23T17:13:57.336848+00:00
+49022911,Show HN: Palmier Pro – open-source macOS video editor built for AI,https://github.com/palmier-io/palmier-pro,13,3,2026-07-23T17:13:57.336848+00:00
+48968010,OpenStreetMap: Admin_level for All Countries,https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries,47,5,2026-07-23T17:13:57.336848+00:00
+49022371,Show HN: Whetuu – a zero-config cross-shell prompt written in Zig,https://yamafaktory.github.io/whetuu/,26,6,2026-07-23T17:13:57.336848+00:00
+49024691,What just happened to TheNumbers.com should worry us all,https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all,3,0,2026-07-23T17:13:57.336848+00:00
+49021569,What happens when the information runs out,https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/,29,6,2026-07-23T17:13:57.336848+00:00
+49021880,You can now run same OCI images as containers or Firecracker microVMs,https://github.com/pullrun/pullrun,16,4,2026-07-23T17:13:57.336848+00:00
+48919004,Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor,https://dl.acm.org/doi/10.1145/3800645.3813051,9,3,2026-07-23T17:13:57.336848+00:00
+49022790,NerdLens: Mirror your computer with cardboard VR,https://github.com/ThatXliner/NerdLens,14,6,2026-07-23T17:13:57.336848+00:00
+49021786,Emacs Is a Lispboard,https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/,24,7,2026-07-23T17:13:57.336848+00:00
+48945139,Scanning for Pangram Errors,https://veryfineprint.substack.com/p/scanning-for-pangram-errors,56,33,2026-07-23T17:13:57.336848+00:00
+49021647,Brow6el: A full-featured web browser for the terminal using Chromium,https://tangled.org/janantos.tngl.sh/brow6el,26,6,2026-07-23T17:13:57.336848+00:00
+49023291,UK households free to install plug-in balcony solar panels from end of August,https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels,43,15,2026-07-23T17:13:57.336848+00:00
+49022137,Fields Medals 2026,https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026,24,7,2026-07-23T17:13:57.336848+00:00
+49015639,OpenAI’s accidental attack against Hugging Face is science fiction that happened,https://simonwillison.net/2026/Jul/22/openai-cyberattack/,221,183,2026-07-23T17:13:57.336848+00:00
+48995712,The Unity CLI: manage Unity from your terminal,https://unity.com/blog/meet-the-unity-cli,73,21,2026-07-23T17:13:57.336848+00:00
