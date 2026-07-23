@@ -2819,3 +2819,33 @@ story_id,title,link,points,comments,scraped_at
 49022137,Fields Medals 2026,https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026,24,7,2026-07-23T17:13:57.336848+00:00
 49015639,OpenAI’s accidental attack against Hugging Face is science fiction that happened,https://simonwillison.net/2026/Jul/22/openai-cyberattack/,221,183,2026-07-23T17:13:57.336848+00:00
 48995712,The Unity CLI: manage Unity from your terminal,https://unity.com/blog/meet-the-unity-cli,73,21,2026-07-23T17:13:57.336848+00:00
+49022152,Writing by hand is good for your brain,https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your,524,261,2026-07-23T18:43:57.377979+00:00
+49024691,What happened to TheNumbers.com,https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all,114,28,2026-07-23T18:43:57.377979+00:00
+49023019,Why Software Factories Fail (or: harness engineering is not enough),https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md,58,36,2026-07-23T18:43:57.377979+00:00
+49022038,Software rendering in 500 lines of bare C++,https://haqr.eu/tinyrenderer/,159,26,2026-07-23T18:43:57.377979+00:00
+49022634,"Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",https://learnopengl.com/,106,56,2026-07-23T18:43:57.377979+00:00
+49023016,Startup founders urge U.S. government not to shut off Chinese open weight AI,https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992,408,417,2026-07-23T18:43:57.377979+00:00
+49021783,Astronomers may have found the first exomoon,https://www.eso.org/public/news/eso2610/,151,54,2026-07-23T18:43:57.377979+00:00
+49025984,Building on ATProto,https://lukekanies.com/writing/building-on-atproto/,13,0,2026-07-23T18:43:57.377979+00:00
+49024620,Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording,item?id=49024620,26,21,2026-07-23T18:43:57.377979+00:00
+49022911,Show HN: Palmier Pro – Open-source macOS video editor built for AI,https://github.com/palmier-io/palmier-pro,39,10,2026-07-23T18:43:57.377979+00:00
+49025812,Geekbench 7,https://www.geekbench.com/blog/2026/07/geekbench-7/,7,2,2026-07-23T18:43:57.377979+00:00
+49024643,The arguments against open source AI are bad,https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/,54,27,2026-07-23T18:43:57.377979+00:00
+49022663,Learn WebGPU for C++,https://eliemichel.github.io/LearnWebGPU/,41,8,2026-07-23T18:43:57.377979+00:00
+49023427,Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents,https://github.com/onecli/onecli,37,15,2026-07-23T18:43:57.377979+00:00
+49023809,JEP 540: Simple JSON API (Now in Incubator),https://openjdk.org/jeps/540,56,40,2026-07-23T18:43:57.377979+00:00
+49023486,Free way to get your data out of ChatGPT Business accounts,https://github.com/Conradqh/scrapemychats,47,4,2026-07-23T18:43:57.377979+00:00
+49021597,"DARPA, U.S. Air Force fly AI-controlled F-16",https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16,60,52,2026-07-23T18:43:57.377979+00:00
+49025831,A solid-state “atomic channel” for separating rare earth elements,https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements,4,0,2026-07-23T18:43:57.377979+00:00
+49026059,From Evaluation to Guardrails: What We Brought to ACM FAccT 2026,https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/,3,0,2026-07-23T18:43:57.377979+00:00
+49021868,Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency,https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development,60,41,2026-07-23T18:43:57.377979+00:00
+49022284,Show HN: Remux – an open-source tmux workspace designed for iPhone,https://github.com/h3nock/remux,54,17,2026-07-23T18:43:57.377979+00:00
+49020999,AI Companies Are Trying to Hide a Staggering Amount of Debt,https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet,408,193,2026-07-23T18:43:57.377979+00:00
+48968010,OpenStreetMap: Admin_level for All Countries,https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries,68,9,2026-07-23T18:43:57.377979+00:00
+49022668,"Encryption and Globalization 15 Years Later: E2EE and the ""Going Dark"" Debate",https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699,35,14,2026-07-23T18:43:57.377979+00:00
+49024882,Show HN: Claude-thermos – keeps your Claude session warm for you,https://github.com/izeigerman/claude-thermos,14,12,2026-07-23T18:43:57.377979+00:00
+49021786,Emacs Is a Lispboard,https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/,40,9,2026-07-23T18:43:57.377979+00:00
+49022137,Fields Medals 2026,https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026,50,15,2026-07-23T18:43:57.377979+00:00
+48978989,Meta Garbage Collection: Using OCaml's GC to GC Rust,https://soteria-tools.com/blog/meta-garbage-collection,7,0,2026-07-23T18:43:57.377979+00:00
+49022371,Show HN: Whetuu – a zero-config cross-shell prompt written in Zig,https://yamafaktory.github.io/whetuu/,33,17,2026-07-23T18:43:57.377979+00:00
+49021569,What happens when the information runs out,https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/,39,12,2026-07-23T18:43:57.377979+00:00
