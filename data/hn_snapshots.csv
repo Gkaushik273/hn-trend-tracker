@@ -2639,3 +2639,33 @@ story_id,title,link,points,comments,scraped_at
 49013924,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,https://claytondorge.com/patterns-list,42,5,2026-07-23T04:47:34.642079+00:00
 49015878,"Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",https://arxiv.org/abs/2607.20386,8,0,2026-07-23T04:47:34.642079+00:00
 48975395,Taking OCaml and Eio for a Spin,https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html,47,6,2026-07-23T04:47:34.642079+00:00
+49017265,"July 23 1985, Commodore introduced its Amiga 1000: 10 years ahead of its time",https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/,35,13,2026-07-23T07:28:35.091256+00:00
+49010345,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56,805,473,2026-07-23T07:28:35.091256+00:00
+48991882,git's –end-of-options Flag,https://nesbitt.io/2026/07/21/end-of-options.html,103,45,2026-07-23T07:28:35.091256+00:00
+49007247,Quality non-fiction books are the antithesis of AI slop,https://resobscura.substack.com/p/quality-non-fiction-books-are-the,306,104,2026-07-23T07:28:35.091256+00:00
+48990219,Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot,https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html,9,0,2026-07-23T07:28:35.091256+00:00
+49010167,GigaToken: ~1000x faster Language model tokenization,https://github.com/marcelroed/gigatoken/,467,95,2026-07-23T07:28:35.091256+00:00
+49008211,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),https://bento.page/slides/,779,175,2026-07-23T07:28:35.091256+00:00
+49010648,Everyone should know SIMD,https://mitchellh.com/writing/everyone-should-know-simd,380,125,2026-07-23T07:28:35.091256+00:00
+49010129,Are AI labs pelicanmaxxing?,https://dylancastillo.co/posts/pelicanmaxxing.html,487,189,2026-07-23T07:28:35.091256+00:00
+49010782,Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong,https://github.com/cactus-compute/cactus-hybrid,119,16,2026-07-23T07:28:35.091256+00:00
+49005747,So Reddit has decided that plain HTML is unsafe,https://www.cole-k.com/2026/07/21/reddit/,409,398,2026-07-23T07:28:35.091256+00:00
+48983076,Making ASCII Art in Vim,https://alexyang.dev/vim-ascii-art/,52,4,2026-07-23T07:28:35.091256+00:00
+49016099,Restructuring GitHub's bug bounty program,https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/,40,16,2026-07-23T07:28:35.091256+00:00
+48977463,Why malloc always does more than I asked for?,https://ssenthilnathan3.github.io/blog/malloc/,18,11,2026-07-23T07:28:35.091256+00:00
+48984534,ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS),https://github.com/exlee/ascdraw,36,4,2026-07-23T07:28:35.091256+00:00
+49008440,Making,https://beej.us/blog/data/ai-making/,335,129,2026-07-23T07:28:35.091256+00:00
+49014007,Medici family mystery may be solved after more than 400 years,https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria,108,27,2026-07-23T07:28:35.091256+00:00
+49005787,The startup's Postgres survival guide,https://hatchet.run/blog/postgres-survival-guide,387,183,2026-07-23T07:28:35.091256+00:00
+49012070,John C. Dvorak has died,https://twitter.com/na_announce/status/2079952538040672302,707,227,2026-07-23T07:28:35.091256+00:00
+49013538,"Malleable Computing, Emacs, and You",http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html,95,29,2026-07-23T07:28:35.091256+00:00
+49017344,"Cruller: Bun's Zig Runtime, Continued on Zig 0.16",https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734,7,2,2026-07-23T07:28:35.091256+00:00
+49012777,Fairphone 6 wide camera experimental Linux support,https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/,104,18,2026-07-23T07:28:35.091256+00:00
+49005973,Businesses with ugly AI menu redesigns,https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/,255,172,2026-07-23T07:28:35.091256+00:00
+48917135,Nobody knows what a used GPU cluster is worth,https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster,216,192,2026-07-23T07:28:35.091256+00:00
+49013924,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,https://claytondorge.com/patterns-list,64,10,2026-07-23T07:28:35.091256+00:00
+49006195,Back to Kagi,https://blog.melashri.net/micro/back-to-kagi/,252,191,2026-07-23T07:28:35.091256+00:00
+49015735,"Petals: Run LLMs at home, BitTorrent-style",https://petals.dev/,99,31,2026-07-23T07:28:35.091256+00:00
+49015588,Codeberg Bans Cryptocurrency Projects,https://codeberg.org/Codeberg/org/pulls/1254,254,337,2026-07-23T07:28:35.091256+00:00
+49013995,Any text-to-SQL benchmark should address difficulties of real-world data stores,https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/,49,17,2026-07-23T07:28:35.091256+00:00
+49007626,Ghost Cut – or why Cut and Paste is broken everywhere,https://ishmael.textualize.io/blog/ghost-cut/,154,101,2026-07-23T07:28:35.091256+00:00
