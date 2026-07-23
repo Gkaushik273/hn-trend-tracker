@@ -2609,3 +2609,33 @@ story_id,title,link,points,comments,scraped_at
 49006195,Back to Kagi,https://blog.melashri.net/micro/back-to-kagi/,190,159,2026-07-23T01:02:24.617656+00:00
 49007626,Ghost Cut – or why Cut and Paste is broken everywhere,https://ishmael.textualize.io/blog/ghost-cut/,123,85,2026-07-23T01:02:24.617656+00:00
 48950562,How we made our LeRobot video reader up to 15× faster,https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster,11,0,2026-07-23T01:02:24.617656+00:00
+48991882,git's –end-of-options Flag,https://nesbitt.io/2026/07/21/end-of-options.html,40,7,2026-07-23T04:47:34.642079+00:00
+49010345,Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample,https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56,706,426,2026-07-23T04:47:34.642079+00:00
+49007247,Quality non-fiction books are the antithesis of AI slop,https://resobscura.substack.com/p/quality-non-fiction-books-are-the,235,92,2026-07-23T04:47:34.642079+00:00
+49010167,GigaToken: ~1000x faster Language model tokenization,https://github.com/marcelroed/gigatoken/,414,82,2026-07-23T04:47:34.642079+00:00
+49008211,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),https://bento.page/slides/,716,161,2026-07-23T04:47:34.642079+00:00
+49014007,Medici family mystery may be solved after more than 400 years,https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria,98,23,2026-07-23T04:47:34.642079+00:00
+49010648,Everyone should know SIMD,https://mitchellh.com/writing/everyone-should-know-simd,320,102,2026-07-23T04:47:34.642079+00:00
+49010129,Are AI labs pelicanmaxxing?,https://dylancastillo.co/posts/pelicanmaxxing.html,434,167,2026-07-23T04:47:34.642079+00:00
+48984534,ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS),https://github.com/exlee/ascdraw,15,5,2026-07-23T04:47:34.642079+00:00
+49016099,Restructuring GitHub's bug bounty program,https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/,18,9,2026-07-23T04:47:34.642079+00:00
+49010782,Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong,https://github.com/cactus-compute/cactus-hybrid,93,14,2026-07-23T04:47:34.642079+00:00
+49012070,John C. Dvorak has died,https://twitter.com/na_announce/status/2079952538040672302,652,207,2026-07-23T04:47:34.642079+00:00
+49013538,"Malleable Computing, Emacs, and You",http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html,82,23,2026-07-23T04:47:34.642079+00:00
+49005747,So Reddit has decided that plain HTML is unsafe,https://www.cole-k.com/2026/07/21/reddit/,341,342,2026-07-23T04:47:34.642079+00:00
+49012777,Fairphone 6 wide camera experimental Linux support,https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/,90,10,2026-07-23T04:47:34.642079+00:00
+49008440,Making,https://beej.us/blog/data/ai-making/,307,117,2026-07-23T04:47:34.642079+00:00
+49015735,"Petals: Run LLMs at home, BitTorrent-style",https://petals.dev/,79,26,2026-07-23T04:47:34.642079+00:00
+49005787,The startup's Postgres survival guide,https://hatchet.run/blog/postgres-survival-guide,349,175,2026-07-23T04:47:34.642079+00:00
+49015588,Codeberg Bans Cryptocurrency Projects,https://codeberg.org/Codeberg/org/pulls/1254,181,218,2026-07-23T04:47:34.642079+00:00
+48917135,Nobody knows what a used GPU cluster is worth,https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster,194,177,2026-07-23T04:47:34.642079+00:00
+48958266,What Rose Petals Teach Us about Induction,https://www.oranlooney.com/post/rose-petals/,27,2,2026-07-23T04:47:34.642079+00:00
+49005973,Businesses with ugly AI menu redesigns,https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/,213,161,2026-07-23T04:47:34.642079+00:00
+49013995,Any text-to-SQL benchmark should address difficulties of real-world data stores,https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/,42,13,2026-07-23T04:47:34.642079+00:00
+49011687,"Clarity didn't work, trying mysterianism (2012)",https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html,58,22,2026-07-23T04:47:34.642079+00:00
+49006195,Back to Kagi,https://blog.melashri.net/micro/back-to-kagi/,226,172,2026-07-23T04:47:34.642079+00:00
+49008901,Launch HN: Unlayer (YC W22) – Add email and document builders to your app,https://unlayer.com,48,33,2026-07-23T04:47:34.642079+00:00
+49007626,Ghost Cut – or why Cut and Paste is broken everywhere,https://ishmael.textualize.io/blog/ghost-cut/,143,97,2026-07-23T04:47:34.642079+00:00
+49013924,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,https://claytondorge.com/patterns-list,42,5,2026-07-23T04:47:34.642079+00:00
+49015878,"Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",https://arxiv.org/abs/2607.20386,8,0,2026-07-23T04:47:34.642079+00:00
+48975395,Taking OCaml and Eio for a Spin,https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html,47,6,2026-07-23T04:47:34.642079+00:00
