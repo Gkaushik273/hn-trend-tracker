@@ -3299,3 +3299,33 @@ story_id,title,link,points,comments,scraped_at
 49038481,DuckPGQ – A DuckDB community extension for graph workloads,https://duckpgq.org/,35,6,2026-07-24T21:35:30.063205+00:00
 49037031,"The front end framework for correctness: built on Effect, architected like Elm",https://foldkit.dev/,75,39,2026-07-24T21:35:30.063205+00:00
 49031796,Flux 3,https://bfl.ai/blog/flux-3,542,128,2026-07-24T21:35:30.063205+00:00
+49038433,Claude Opus 5,https://www.anthropic.com/news/claude-opus-5,1152,624,2026-07-24T22:56:40.012262+00:00
+49040296,Postgres LISTEN/NOTIFY actually scales,https://www.dbos.dev/blog/postgres-listen-notify-scalability,147,28,2026-07-24T22:56:40.012262+00:00
+49034292,My security camera shipped a GitHub admin token in its login page,https://hhh.hn/hanwha-github-token/,476,165,2026-07-24T22:56:40.012262+00:00
+48973835,India's first privately-developed rocket reaches orbit on debut launch,https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/,447,131,2026-07-24T22:56:40.012262+00:00
+49020545,Show HN: I simulated closing the Strait of Hormuz on real oil trade data,https://globaloilnetwork.staffinganalytics.io/,33,14,2026-07-24T22:56:40.012262+00:00
+49035303,"Nvidia, Microsoft, Meta warn against overregulating open-weight models",https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html,435,206,2026-07-24T22:56:40.012262+00:00
+48985182,Designing an Ethernet Switch ASIC,https://essenceia.github.io/projects/ethernet_switch_asic/,54,12,2026-07-24T22:56:40.012262+00:00
+49040741,Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard,https://artificialanalysis.ai/models,28,14,2026-07-24T22:56:40.012262+00:00
+49026933,"Fil-C: Garbage In, Memory Safety Out [video]",https://www.youtube.com/watch?v=5F-2Y1LPRek,84,77,2026-07-24T22:56:40.012262+00:00
+49008512,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",https://news.mit.edu/2026/three-sided-y-zipper-design-0504,89,25,2026-07-24T22:56:40.012262+00:00
+49039395,Gsxui – Shadcn-style components for Go,https://ui.gsxhq.dev/,50,8,2026-07-24T22:56:40.012262+00:00
+48997998,The Secret Origins of Amazon's Alexa,https://www.wired.com/story/how-amazon-made-alexa-smarter/,25,4,2026-07-24T22:56:40.012262+00:00
+49033004,"If coding has been solved, why does software keep getting worse?",https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/,401,329,2026-07-24T22:56:40.012262+00:00
+49034868,Half-Life 2 running natively on HaikuOS,https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18,243,43,2026-07-24T22:56:40.012262+00:00
+49004464,Marimo now runs in PyCharm,https://marimo.io/blog/pycharm,53,10,2026-07-24T22:56:40.012262+00:00
+49024938,Kimi K3 exploited the latest Redis server,https://twitter.com/fried_rice/status/2080059356322918777,102,29,2026-07-24T22:56:40.012262+00:00
+48995409,Firefox Containers Preview,https://blog.mozilla.org/en/firefox/firefox-containers-preview/,180,70,2026-07-24T22:56:40.012262+00:00
+49039448,I got into YC Startup School by hacking it,https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html,91,55,2026-07-24T22:56:40.012262+00:00
+49038298,Don't Take the Black Pill [video],https://www.youtube.com/watch?v=zLZwpH5lCD4,95,61,2026-07-24T22:56:40.012262+00:00
+49038045,Unitree As2-W,https://www.unitree.com/As2-W/,82,37,2026-07-24T22:56:40.012262+00:00
+49038060,Be skeptical of OpenAI's rogue hacker agent story,https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker,362,192,2026-07-24T22:56:40.012262+00:00
+48977849,The footprints of every building in NYC,https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/,35,4,2026-07-24T22:56:40.012262+00:00
+49017054,How to Write a Quine,https://czterycztery.pl/slowo/quine-EN.html,4,0,2026-07-24T22:56:40.012262+00:00
+49033127,Flux 3 X Mimic: The Next Generation of Video-Action Models,https://bfl.ai/blog/flux-3-mimic,305,48,2026-07-24T22:56:40.012262+00:00
+49041546,Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live,https://github.com/apresta/max-studio-tools,8,0,2026-07-24T22:56:40.012262+00:00
+49033110,Future euro banknote design proposals,https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html,101,99,2026-07-24T22:56:40.012262+00:00
+49036433,Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey,https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece,333,252,2026-07-24T22:56:40.012262+00:00
+49034673,Programming language file extensions that match ISO 3166-1 alpha-2 country codes,https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/,29,17,2026-07-24T22:56:40.012262+00:00
+49033240,IRGC claims it destroyed Amazon's Bahrain data center,https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/,216,271,2026-07-24T22:56:40.012262+00:00
+49034217,The case for MUDs in modern times (2018),https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times,64,64,2026-07-24T22:56:40.012262+00:00
