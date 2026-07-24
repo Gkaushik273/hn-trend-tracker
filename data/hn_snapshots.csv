@@ -3209,3 +3209,33 @@ story_id,title,link,points,comments,scraped_at
 49033099,"Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891,186,135,2026-07-24T17:24:22.996313+00:00
 49035864,Writing a Debugger from Scratch,https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/,25,5,2026-07-24T17:24:22.996313+00:00
 49033916,"The IBM PC, Part 1: Arrival",https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/,60,19,2026-07-24T17:24:22.996313+00:00
+49038433,Claude Opus 5,https://www.anthropic.com/news/claude-opus-5,659,371,2026-07-24T18:55:43.839272+00:00
+49035303,"Nvidia, Microsoft, Meta warn against overregulating open-weight models",https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html,118,98,2026-07-24T18:55:43.839272+00:00
+49039448,I got into YC by hacking it,https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html,27,9,2026-07-24T18:55:43.839272+00:00
+49034292,My security camera shipped a GitHub admin token in its login page,https://hhh.hn/hanwha-github-token/,390,148,2026-07-24T18:55:43.839272+00:00
+48973835,India's first privately-developed rocket reaches orbit on dramatic debut launch,https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/,350,94,2026-07-24T18:55:43.839272+00:00
+49034868,Half-Life 2 running natively on HaikuOS,https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18,188,26,2026-07-24T18:55:43.839272+00:00
+49026933,"Fil-C: Garbage In, Memory Safety Out [video]",https://www.youtube.com/watch?v=5F-2Y1LPRek,15,8,2026-07-24T18:55:43.839272+00:00
+49020751,Self-host your mail server,https://blog.haschek.at/2026/you-should-selfhost-your-mail.html,18,9,2026-07-24T18:55:43.839272+00:00
+49038060,Be skeptical of OpenAI's rogue hacker agent story,https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker,194,70,2026-07-24T18:55:43.839272+00:00
+49038059,Proving a Human Wrote Something,https://gjtorikian.online/posts/proving-a-human-wrote-something/,39,39,2026-07-24T18:55:43.839272+00:00
+49038181,The rise and fall of language diversity through the Holocene,https://www.science.org/doi/10.1126/science.adx4343,38,2,2026-07-24T18:55:43.839272+00:00
+49039395,Gsxui – Shadcn-style components for Go,https://ui.gsxhq.dev/,8,0,2026-07-24T18:55:43.839272+00:00
+49037031,"The front end framework for correctness: built on Effect, architected like Elm",https://foldkit.dev/,52,26,2026-07-24T18:55:43.839272+00:00
+49032126,The hardest way to make a GIF,https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html,14,2,2026-07-24T18:55:43.839272+00:00
+49038481,DuckPGQ – A DuckDB community extension for graph workloads,https://duckpgq.org/,18,2,2026-07-24T18:55:43.839272+00:00
+49033127,Flux 3 X Mimic: The Next Generation of Video-Action Models,https://bfl.ai/blog/flux-3-mimic,284,45,2026-07-24T18:55:43.839272+00:00
+49038352,JEP 541: Deprecate the macOS/x64 Port for Removal,https://openjdk.org/jeps/541,82,75,2026-07-24T18:55:43.839272+00:00
+49032660,It's getting harder to focus every day,https://glyphack.com/attention/,601,341,2026-07-24T18:55:43.839272+00:00
+49038298,Don't Take the Black Pill [video],https://www.youtube.com/watch?v=zLZwpH5lCD4,15,8,2026-07-24T18:55:43.839272+00:00
+48998589,Extending Polars with Rust Expression Plugins,https://fenic.ai/blog/extending-polars-with-rust-expression-plugins,15,0,2026-07-24T18:55:43.839272+00:00
+48977014,Reporting Web 3D Capabilities on a Budget of $3 a Month,https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget,6,0,2026-07-24T18:55:43.839272+00:00
+49031796,Flux 3,https://bfl.ai/blog/flux-3,520,125,2026-07-24T18:55:43.839272+00:00
+49034747,Em dashes are amazing,https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing,277,248,2026-07-24T18:55:43.839272+00:00
+49038045,Unitree As2-W,https://www.unitree.com/As2-W/,36,13,2026-07-24T18:55:43.839272+00:00
+49038977,"The small, real, original web",https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/,8,0,2026-07-24T18:55:43.839272+00:00
+49039490,BGP ORIGIN attribute manipulation and its impact on the Internet,https://blog.cloudflare.com/bgp-origin-attribute/,8,0,2026-07-24T18:55:43.839272+00:00
+49038276,Online Historical Encyclopaedia of Programming Languages,https://hopl.info/,14,1,2026-07-24T18:55:43.839272+00:00
+49036765,Codeberg Divides,https://lucumr.pocoo.org/2026/7/24/codeberg-divides/,63,78,2026-07-24T18:55:43.839272+00:00
+49004541,Making Xen's dom0 I/O path NUMA aware,https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap,21,4,2026-07-24T18:55:43.839272+00:00
+48994440,Latest Airbus single aisle aircraft innovations,https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers,37,53,2026-07-24T18:55:43.839272+00:00
