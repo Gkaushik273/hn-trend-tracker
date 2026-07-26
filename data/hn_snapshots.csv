@@ -4169,3 +4169,33 @@ story_id,title,link,points,comments,scraped_at
 49047453,A shell colon does nothing. Use it anyway,https://refp.se/articles/your-shell-and-the-magic-colon,366,155,2026-07-26T20:51:30.877990+00:00
 49020647,Sum of Cubes via Difference Tables,https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/,15,2,2026-07-26T20:51:30.877990+00:00
 49024980,Rethinking legal education in the AI era,https://www.law.uchicago.edu/news/ai-strategy-statement,127,86,2026-07-26T20:51:30.877990+00:00
+49060856,"Decker, a platform that builds on the legacy of Hypercard and classic macOS",https://beyondloom.com/decker/,131,30,2026-07-26T21:53:54.503494+00:00
+49060592,It's not empowering to hand off the details,https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/,92,34,2026-07-26T21:53:54.503494+00:00
+49060724,Introduction to Data-Oriented Design [pdf],https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf,59,15,2026-07-26T21:53:54.503494+00:00
+49059367,Design is compromise,https://stephango.com/design-is-compromise,147,65,2026-07-26T21:53:54.503494+00:00
+49062120,Plasma Tunnels Reveal How Dying Satellites Fall to Earth,https://spectrum.ieee.org/space-debris-atmosphere-burn-up,11,0,2026-07-26T21:53:54.503494+00:00
+49062259,Multiway Turing Machines (2021 pre-ai),https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/,9,1,2026-07-26T21:53:54.503494+00:00
+49057241,"Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",https://swag.htmx.org/en-cad/products/htmx-4-the-game,280,91,2026-07-26T21:53:54.503494+00:00
+49059398,"Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",https://github.com/gmrandazzo/CheapSecurity,81,17,2026-07-26T21:53:54.503494+00:00
+49060295,How to Write English Prose,https://thelampmagazine.com/blog/how-to-write-english-prose,47,23,2026-07-26T21:53:54.503494+00:00
+49061887,Simulate cassette tape audio profiles using FFmpeg,https://github.com/AARomanov1985/Audio-Cassette-Simulation,13,4,2026-07-26T21:53:54.503494+00:00
+49058993,The relay market powering token resellers and fraud,https://vectoral.com/blog/token-relay-market,130,74,2026-07-26T21:53:54.503494+00:00
+49062700,Teaching Kids Forth – Anna Liberty,https://gracefulliberty.com/articles/teaching-kids-forth/,5,1,2026-07-26T21:53:54.503494+00:00
+49057398,Go Analysis Framework: modular static analysis by go team,https://pkg.go.dev/golang.org/x/tools/go/analysis,162,32,2026-07-26T21:53:54.503494+00:00
+49059977,Using ThinkPad T480 as a mobile phone,https://grego.site/blog/thinkphone,92,33,2026-07-26T21:53:54.503494+00:00
+49062291,We have proof automation now,https://www.imperialviolet.org/2026/07/26/zstd-lean.html,7,0,2026-07-26T21:53:54.503494+00:00
+48997008,Jimothy the raccoon has a rare spinal condition. Here's what that means,https://www.popsci.com/science/whats-jimothy-raccoon-condition/,84,41,2026-07-26T21:53:54.503494+00:00
+49008834,Building the Grace Cathedral experience,https://blog.playcanvas.com/building-the-grace-cathedral-experience/,22,3,2026-07-26T21:53:54.503494+00:00
+49057877,The New AI Superpowers: Focus and Followthrough,https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and,102,32,2026-07-26T21:53:54.503494+00:00
+49022355,"I learned PCB design, 3D printing and C just to listen to music",https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/,154,34,2026-07-26T21:53:54.503494+00:00
+49016917,Using sed to make indexes for books (1997),https://www.pement.org/sed/make_indexes.txt,35,6,2026-07-26T21:53:54.503494+00:00
+49057175,Kill The Cookie Banner,https://killthecookiebanner.eu/,704,331,2026-07-26T21:53:54.503494+00:00
+49055169,GrapheneOS protections against data extraction from locked devices,https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices,345,210,2026-07-26T21:53:54.503494+00:00
+49006049,What's Under Your Feet in New York City?,https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city,140,31,2026-07-26T21:53:54.503494+00:00
+49061879,Show HN: Infinite Jigsaw Game,https://infinitejigsaw.com,11,11,2026-07-26T21:53:54.503494+00:00
+49058669,London Gatwick has launched a robotic airport parking service,https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/,255,209,2026-07-26T21:53:54.503494+00:00
+49057666,Show HN: Reverse Minesweeper,https://sunflowersgame.com/,110,39,2026-07-26T21:53:54.503494+00:00
+49060509,How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster,https://astgrep.com/blog/tree-sitter-rust-rewrite,23,1,2026-07-26T21:53:54.503494+00:00
+49009582,Thoughts on Integers (2023),https://blog.xoria.org/integers/,12,2,2026-07-26T21:53:54.503494+00:00
+48997828,Some more things about Django I've been enjoying,https://jvns.ca/blog/2026/07/21/more-nice-django-things/,109,62,2026-07-26T21:53:54.503494+00:00
+49005150,Classic WTF: Server Room Fans and More Fun,https://thedailywtf.com/articles/classic-wtf-server-room-fans-and-more-fun,14,5,2026-07-26T21:53:54.503494+00:00
