@@ -3869,3 +3869,33 @@ story_id,title,link,points,comments,scraped_at
 49054307,Humans haven't stopped evolving,https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure,42,42,2026-07-26T05:44:46.499758+00:00
 49050058,Memory Safety Absolutists,https://itsallaboutthebit.com/memory-safety-absolutists/,76,103,2026-07-26T05:44:46.499758+00:00
 49051120,Did They Ghost You?,https://didtheyghostyou.com/,349,158,2026-07-26T05:44:46.499758+00:00
+49047453,A shell colon does nothing. Use it anyway,https://refp.se/articles/your-shell-and-the-magic-colon,120,37,2026-07-26T08:15:38.203309+00:00
+49054107,An ESP32 based plane radar for my desk,https://blog.ktz.me/esp32-plane-radar/,118,21,2026-07-26T08:15:38.203309+00:00
+49051361,The new rules of context engineering for Claude 5 generation models,https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models,301,187,2026-07-26T08:15:38.203309+00:00
+49034777,Stinkpot: SQLite-backed shell history,https://tangled.org/oppi.li/stinkpot,41,9,2026-07-26T08:15:38.203309+00:00
+49054010,Show HN: I mapped every US golf course,https://golfcoursebrowser.com/,110,57,2026-07-26T08:15:38.203309+00:00
+49053375,Inflect-Micro-v2: complete voice in 9.36M parameters,https://huggingface.co/owensong/Inflect-Micro-v2,110,9,2026-07-26T08:15:38.203309+00:00
+48997828,Some more things about Django I've been enjoying,https://jvns.ca/blog/2026/07/21/more-nice-django-things/,20,2,2026-07-26T08:15:38.203309+00:00
+49052912,DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf],https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf,129,93,2026-07-26T08:15:38.203309+00:00
+49052564,Cloudflare's new AI traffic options for customers,https://blog.cloudflare.com/content-independence-day-ai-options/,105,74,2026-07-26T08:15:38.203309+00:00
+49024980,Rethinking Legal Education in the AI Era,https://www.law.uchicago.edu/news/ai-strategy-statement,68,31,2026-07-26T08:15:38.203309+00:00
+49055169,GrapheneOS protections against data extraction from locked devices,https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices,11,0,2026-07-26T08:15:38.203309+00:00
+49054224,JetZero,https://www.jetzero.aero,183,143,2026-07-26T08:15:38.203309+00:00
+49053708,Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home,https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/,56,15,2026-07-26T08:15:38.203309+00:00
+49050512,Running a 28.9M parameter LLM on an $8 microcontroller,https://github.com/slvDev/esp32-ai,166,37,2026-07-26T08:15:38.203309+00:00
+49053385,Git rebase -I is not that scary,https://cachebag.sh/journal/interactive-rebasing/,55,53,2026-07-26T08:15:38.203309+00:00
+49052628,Clinical failure rates over the decades: yikes,https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes,94,67,2026-07-26T08:15:38.203309+00:00
+49053382,Systems and Delays,https://martin.janiczek.cz/2026/07/24/systems-and-delays.html,59,14,2026-07-26T08:15:38.203309+00:00
+49054697,W4ME Station – a WASM-4 runtime for Java ME phones,https://github.com/mulfyx/w4me-station,15,2,2026-07-26T08:15:38.203309+00:00
+49050859,LLM Usage in Debian: Three Proposals,https://www.debian.org/vote/2026/vote_002,141,121,2026-07-26T08:15:38.203309+00:00
+49052570,What is happening to jobs? Separating AI hype from reality,https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality,76,81,2026-07-26T08:15:38.203309+00:00
+49013464,SIMD for Collision,https://box2d.org/posts/2026/07/simd-for-collision/,88,27,2026-07-26T08:15:38.203309+00:00
+49051947,GM Backs Sodium Ion Batteries for U.S. Grid Storage,https://spectrum.ieee.org/sodium-ion-battery-peak-energy,171,72,2026-07-26T08:15:38.203309+00:00
+49039868,Show HN: I made some transistor animations,https://brandonli.net/semisim/animations,173,21,2026-07-26T08:15:38.203309+00:00
+49049693,"Show HN: Brolly, a plain-text weather forecast site",https://brolly.sh/forecast/RWFP2qW8,180,54,2026-07-26T08:15:38.203309+00:00
+49015898,"Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/,21,9,2026-07-26T08:15:38.203309+00:00
+49050735,"Producing ammonia and fertiliser using wind power in Morris, Minnesota",https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/,118,85,2026-07-26T08:15:38.203309+00:00
+49050058,Memory safety absolutists,https://itsallaboutthebit.com/memory-safety-absolutists/,91,128,2026-07-26T08:15:38.203309+00:00
+49051369,Turn And Face The Strange,https://fly.io/blog/kurt-scott-money-sprites/,192,127,2026-07-26T08:15:38.203309+00:00
+49045159,Android may soon restrict on-device ADB,https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/,915,447,2026-07-26T08:15:38.203309+00:00
+49054307,Humans haven't stopped evolving,https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure,58,63,2026-07-26T08:15:38.203309+00:00
