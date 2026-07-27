@@ -4379,3 +4379,33 @@ story_id,title,link,points,comments,scraped_at
 49067919,"Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available,16,5,2026-07-27T13:24:28.658107+00:00
 49061887,Simulate cassette tape audio profiles using FFmpeg,https://github.com/AARomanov1985/Audio-Cassette-Simulation,152,65,2026-07-27T13:24:28.658107+00:00
 49016303,8086 Emulator Inside Scratch,https://turbowarp.org/1248315967?size=640x400,16,1,2026-07-27T13:24:28.658107+00:00
+49070985,Kimi-K3 Technical Report [pdf],https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf,98,8,2026-07-27T15:57:47.959480+00:00
+49065752,Kimi-K3 Releases on HuggingFace 7/27,https://huggingface.co/moonshotai/Kimi-K3,831,367,2026-07-27T15:57:47.959480+00:00
+49012309,The Computer That Helped Win World War II,https://spectrum.ieee.org/colossus-computer-ieee-milestone,37,6,2026-07-27T15:57:47.959480+00:00
+49067301,Removing React.js from the codebase and adapting Htmx for UI interactivity (2023),https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/,113,68,2026-07-27T15:57:47.959480+00:00
+49070427,Apple Will 'Watch Everything Burn' When the AI Bubble Bursts,https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/,95,36,2026-07-27T15:57:47.959480+00:00
+49020993,Glue bonds to nonstick surfaces and wipes clean with ethanol,https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07,10,1,2026-07-27T15:57:47.959480+00:00
+49069791,DIY Home Solar System for under $5000,https://www.gavinmai.com/1736354308000-diy-home-solar-backup-system,15,4,2026-07-27T15:57:47.959480+00:00
+49067854,How is the Bun Rewrite in Rust going?,https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html,291,198,2026-07-27T15:57:47.959480+00:00
+49069132,Should you wash your solar panels?,https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html,110,78,2026-07-27T15:57:47.959480+00:00
+49067352,Libsm64: Mario 64 as a library for use in external game engines,https://github.com/libsm64/libsm64,88,12,2026-07-27T15:57:47.959480+00:00
+49063754,PGSimCity - How PostgreSQL Works,https://nikolays.github.io/PGSimCity/,800,77,2026-07-27T15:57:47.959480+00:00
+49069939,AI companies spend record sums on Washington lobbying,https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db,59,18,2026-07-27T15:57:47.959480+00:00
+49009706,"Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",https://mymodernmet.com/magnolia-ancient-flowers-beetles/,188,76,2026-07-27T15:57:47.959480+00:00
+49007852,Building a Fast Lock-Free Queue in Modern C++ from Scratch,https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/,56,20,2026-07-27T15:57:47.959480+00:00
+49066928,VLC for Unity now supported on Linux,https://code.videolan.org/videolan/vlc-unity,86,25,2026-07-27T15:57:47.959480+00:00
+49033114,Towards a Theory of Bugs: The Ruliology of the Unexpected,https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/,36,7,2026-07-27T15:57:47.959480+00:00
+49026755,First Robotic Satellite Servicer Launched,https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/,28,10,2026-07-27T15:57:47.959480+00:00
+49021270,Show HN: Physically accurate black hole you can put in your room,https://blackhole.plav.in,424,153,2026-07-27T15:57:47.959480+00:00
+49067690,The Birth of the American 12-string Guitar,https://www.harpguitars.net/history/grunewald/12-string.htm,46,26,2026-07-27T15:57:47.959480+00:00
+49070820,Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition,https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition,16,15,2026-07-27T15:57:47.959480+00:00
+49066639,Modern email can be built from borrowed parts,https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/,82,37,2026-07-27T15:57:47.959480+00:00
+49067043,Shay Locomotives,https://www.shaylocomotives.com/,43,8,2026-07-27T15:57:47.959480+00:00
+49063175,"Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",https://github.com/vercel-labs/scriptc,236,131,2026-07-27T15:57:47.959480+00:00
+49068711,The Proof Machine (2016),https://incredible.pm/,18,1,2026-07-27T15:57:47.959480+00:00
+49068738,AI companies are shredding rare books,https://twitter.com/HedgieMarkets/status/2081534588485296565,555,316,2026-07-27T15:57:47.959480+00:00
+49060856,"Decker, a platform that builds on the legacy of Hypercard and classic macOS",https://beyondloom.com/decker/,354,85,2026-07-27T15:57:47.959480+00:00
+49063022,US citizen charged after GrapheneOS phone wipes during airport search,https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html,1091,828,2026-07-27T15:57:47.959480+00:00
+49067919,"Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available,50,25,2026-07-27T15:57:47.959480+00:00
+49062291,We have proof automation now,https://www.imperialviolet.org/2026/07/26/zstd-lean.html,210,96,2026-07-27T15:57:47.959480+00:00
+49060724,Introduction to Data-Oriented Design [pdf],https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf,227,58,2026-07-27T15:57:47.959480+00:00
