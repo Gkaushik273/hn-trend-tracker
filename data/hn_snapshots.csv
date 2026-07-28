@@ -4859,3 +4859,33 @@ story_id,title,link,points,comments,scraped_at
 49081783,DMARC has been public since 2012 but most company domains still don't enforce it,https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026,160,100,2026-07-28T21:13:08.102831+00:00
 49039904,The most advanced robotic servicing satellite–that we know about,https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/,25,1,2026-07-28T21:13:08.102831+00:00
 49085509,"So, you want to make a game engine (2023)",https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3,49,30,2026-07-28T21:13:08.102831+00:00
+49089755,OpenAI just open-sourced Codex Security,https://github.com/openai/codex-security,184,36,2026-07-28T22:32:58.363347+00:00
+49086788,"Substack writers, you need a website",https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/,347,186,2026-07-28T22:32:58.363347+00:00
+49089814,Half-Life ported to Mac OS 9,https://mac-classic.com/news/half-life-ported-to-mac-os-9/,54,20,2026-07-28T22:32:58.363347+00:00
+49090083,Anthropic publishes a practical key-recovery attack on HAWK-256,https://github.com/anthropics/cryptography-research-demo,23,1,2026-07-28T22:32:58.363347+00:00
+49086971,Steel Bank Common Lisp version 2.6.7,https://sbcl.org/all-news.html?2.6.7,169,63,2026-07-28T22:32:58.363347+00:00
+49085698,Kimi K3 Architecture Overview and Notes,https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html,236,30,2026-07-28T22:32:58.363347+00:00
+49087306,The iPhone Upgrade Program is being replaced by Apple Upgrade,https://www.apple.com/shop/iphone/iphone-upgrade-program,105,183,2026-07-28T22:32:58.363347+00:00
+49088058,MCP 2026-07-28 Specification: transport going stateless,https://blog.modelcontextprotocol.io/posts/2026-07-28/,90,28,2026-07-28T22:32:58.363347+00:00
+49085731,Delayed Gratification – Proud to Be 'Last to Breaking News',https://www.slow-journalism.com/,206,112,2026-07-28T22:32:58.363347+00:00
+49090233,Running Kimi K3 on a M1 Max,https://github.com/gavamedia/deltafin,43,28,2026-07-28T22:32:58.363347+00:00
+49036460,The Fabled Flatbreads of Uzbekistan (2015),https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan,55,36,2026-07-28T22:32:58.363347+00:00
+49085666,Zig's Incremental Compilation Internals,https://mlugg.co.uk/posts/incremental-compilation-internals/,158,121,2026-07-28T22:32:58.363347+00:00
+49087091,Discovering Cryptographic Weaknesses with Claude,https://www.anthropic.com/research/discovering-cryptographic-weaknesses,143,74,2026-07-28T22:32:58.363347+00:00
+49089406,Recursion is lying to you,https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/,25,27,2026-07-28T22:32:58.363347+00:00
+49077040,Interview with Boris Cherny [video],https://www.youtube.com/watch?v=qyPCVqFUyDo,25,14,2026-07-28T22:32:58.363347+00:00
+49028358,Show HN: How far do I have to go to run into 100k people?,https://imjasonh.github.io/playground/population-rays/,25,16,2026-07-28T22:32:58.363347+00:00
+49085811,How Do I Profile eBPF Code?,https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/,102,6,2026-07-28T22:32:58.363347+00:00
+49083314,New HIV vaccine shows unprecedented success in preclinical study,https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/,510,227,2026-07-28T22:32:58.363347+00:00
+49089240,Pacing the frontier,https://www.pacingthefrontier.com/,36,20,2026-07-28T22:32:58.363347+00:00
+49085798,"Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",https://github.com/reflex-dev/xy,99,38,2026-07-28T22:32:58.363347+00:00
+49082022,"Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",https://arxiv.org/abs/2510.26692,260,111,2026-07-28T22:32:58.363347+00:00
+49084813,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",https://unawatch.com/,113,75,2026-07-28T22:32:58.363347+00:00
+49089045,"Hulios: An eBPF-powered, transparent Tor gateway for Linux",https://github.com/ghaziwali/Hulios,22,1,2026-07-28T22:32:58.363347+00:00
+49090607,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",https://github.com/twalichiewicz/HNewhere,3,0,2026-07-28T22:32:58.363347+00:00
+49089600,Toolcraft,https://toolcraft.sh,13,1,2026-07-28T22:32:58.363347+00:00
+49085280,Harmony Explained: Progress Towards a Scientific Theory of Music (2012),https://arxiv.org/abs/1202.4212,84,65,2026-07-28T22:32:58.363347+00:00
+49058956,Robotics development made dead simple (open source),item?id=49058956,7,2,2026-07-28T22:32:58.363347+00:00
+49086890,WOFF 1.0: a milestone on W3C's journey of fonts on the web,https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/,58,4,2026-07-28T22:32:58.363347+00:00
+49036068,How to survive boiling water,https://taxa.substack.com/p/how-to-survive-boiling-water,425,93,2026-07-28T22:32:58.363347+00:00
+49084989,"Anthropeum – Where in the world, and when, does this human artifact belong?",https://anthropeum.com/,125,35,2026-07-28T22:32:58.363347+00:00
