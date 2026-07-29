@@ -4949,3 +4949,33 @@ story_id,title,link,points,comments,scraped_at
 49090233,Running Kimi K3 on a M1 Max,https://github.com/gavamedia/deltafin,96,69,2026-07-29T02:02:13.362855+00:00
 49036068,How to survive boiling water,https://taxa.substack.com/p/how-to-survive-boiling-water,458,105,2026-07-29T02:02:13.362855+00:00
 49090867,"Underwater oxygen loss threatens earth's stability, researchers warn",https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn,124,68,2026-07-29T02:02:13.362855+00:00
+49093569,More Tailscale tricks for your jailbroken Kindle,https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes,30,0,2026-07-29T05:35:50.467497+00:00
+49089755,Codex Security,https://github.com/openai/codex-security,434,135,2026-07-29T05:35:50.467497+00:00
+49093434,User Interfaces of the Demo Scene,https://www.datagubbe.se/scenegui/,18,2,2026-07-29T05:35:50.467497+00:00
+49093232,Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design,https://transformer-transformer.github.io/,19,0,2026-07-29T05:35:50.467497+00:00
+49092499,LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences,https://learnvector.ai/,109,62,2026-07-29T05:35:50.467497+00:00
+49090607,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",https://github.com/twalichiewicz/HNewhere,208,62,2026-07-29T05:35:50.467497+00:00
+49086788,"Substack writers, you need a website",https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/,476,226,2026-07-29T05:35:50.467497+00:00
+49089814,Half-Life ported to Mac OS 9,https://mac-classic.com/news/half-life-ported-to-mac-os-9/,197,95,2026-07-29T05:35:50.467497+00:00
+49069033,Truth is not a direction: a Tarski attack on LLM probes,https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html,60,16,2026-07-29T05:35:50.467497+00:00
+49055816,Teach yourself programming in ten years (1998),https://www.norvig.com/21-days.html,91,37,2026-07-29T05:35:50.467497+00:00
+49091730,Hubble: Open-source notetaking app for you and your agents,https://www.hubble.md/,77,20,2026-07-29T05:35:50.467497+00:00
+49092112,Multiple Mouse Cursors in Wayland,https://blinry.org/multi-seat-wayland/,68,41,2026-07-29T05:35:50.467497+00:00
+49091379,ReFrame – The EPaper Camera,https://reframe.camera/,74,17,2026-07-29T05:35:50.467497+00:00
+49073357,Beyond Greece and Rome,https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome,20,6,2026-07-29T05:35:50.467497+00:00
+49085698,Kimi K3 Architecture Overview and Notes,https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html,358,60,2026-07-29T05:35:50.467497+00:00
+49086971,Steel Bank Common Lisp version 2.6.7,https://sbcl.org/all-news.html?2.6.7,213,90,2026-07-29T05:35:50.467497+00:00
+49092754,Hooray for the Sockets Interface,https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/,17,12,2026-07-29T05:35:50.467497+00:00
+49093435,Cracking Windows Open: Porting RADV to Win32,https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html,7,0,2026-07-29T05:35:50.467497+00:00
+49085731,Delayed Gratification – Proud to Be 'Last to Breaking News',https://www.slow-journalism.com/,265,151,2026-07-29T05:35:50.467497+00:00
+49021756,Log is non-monotonic in PHP and Lua,https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/,24,15,2026-07-29T05:35:50.467497+00:00
+49087306,The iPhone Upgrade Program is being replaced by Apple Upgrade,https://www.apple.com/shop/iphone/iphone-upgrade-program,153,306,2026-07-29T05:35:50.467497+00:00
+49092730,Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects,https://github.com/jagg-ix/zil-lean,11,1,2026-07-29T05:35:50.467497+00:00
+49077040,Interview with Boris Cherny [video],https://www.youtube.com/watch?v=qyPCVqFUyDo,45,50,2026-07-29T05:35:50.467497+00:00
+49085666,Zig's Incremental Compilation Internals,https://mlugg.co.uk/posts/incremental-compilation-internals/,216,151,2026-07-29T05:35:50.467497+00:00
+49091895,Lightweight Spring Boot Monitoring Without Prometheus and Grafana,https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html,19,2,2026-07-29T05:35:50.467497+00:00
+49091738,The Difference Between a Button and a Link,https://unplannedobsolescence.com/blog/buttons-vs-links/,55,39,2026-07-29T05:35:50.467497+00:00
+49084813,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",https://unawatch.com/,165,111,2026-07-29T05:35:50.467497+00:00
+49084987,Now is the time to give LLMs access to the ACM digital library,https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/,137,114,2026-07-29T05:35:50.467497+00:00
+49083314,New HIV vaccine shows unprecedented success in preclinical study,https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/,602,262,2026-07-29T05:35:50.467497+00:00
+49087091,Discovering Cryptographic Weaknesses with Claude,https://www.anthropic.com/research/discovering-cryptographic-weaknesses,196,136,2026-07-29T05:35:50.467497+00:00
