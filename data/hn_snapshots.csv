@@ -5189,3 +5189,33 @@ story_id,title,link,points,comments,scraped_at
 49098260,Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon,https://github.com/VladUZH/qwen-scribe,49,14,2026-07-29T19:51:31.543583+00:00
 49093569,More Tailscale tricks for your jailbroken Kindle,https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes,371,106,2026-07-29T19:51:31.543583+00:00
 49098388,"GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",https://juliahub.com/blog/frontier-models-physical-ai-evaluation,61,12,2026-07-29T19:51:31.543583+00:00
+49101852,Kimi K3-256k,https://www.kimi.com/code/docs/en/kimi-code/models,168,36,2026-07-29T20:47:22.547121+00:00
+49098510,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,https://github.com/drumih/turbo-fieldfare,510,179,2026-07-29T20:47:22.547121+00:00
+49089500,Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident,https://huggingface.co/blog/agent-intrusion-technical-timeline,183,101,2026-07-29T20:47:22.547121+00:00
+49098965,Superlogical,https://www.superlogical.com/,376,255,2026-07-29T20:47:22.547121+00:00
+49099715,Keychron announces first open-source firmware for gaming mice,https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice,176,81,2026-07-29T20:47:22.547121+00:00
+49095865,KOReader,https://koreader.rocks/,600,191,2026-07-29T20:47:22.547121+00:00
+49101198,Turning a Dumb AC Unit Smart (Without Losing My Security Deposit),https://prilik.com/blog/post/automating-ac-nyc/,44,26,2026-07-29T20:47:22.547121+00:00
+49098198,A.I. companies are recruiting electricians and carpenters by the thousands,https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html,149,198,2026-07-29T20:47:22.547121+00:00
+49096969,Handbook.md shows that long policy documents do not reliably govern agents,https://arxiv.org/abs/2607.25398,258,165,2026-07-29T20:47:22.547121+00:00
+49096188,Document-borne AI worms can self-propagate through Copilot for Word,https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/,298,216,2026-07-29T20:47:22.547121+00:00
+49101529,"Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",https://www.emergingtrajectories.com/lh/commodification-and-circularity/,23,17,2026-07-29T20:47:22.547121+00:00
+49099143,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,https://usetokenless.com/,41,37,2026-07-29T20:47:22.547121+00:00
+49100056,PgDog (YC P25) Is Hiring,https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer,0,0,2026-07-29T20:47:22.547121+00:00
+49100043,Show HN: CheapFoodMap – A map of good meals under $10,https://cheapfoodmap.com/,65,56,2026-07-29T20:47:22.547121+00:00
+49099804,Some thoughts about Anthropic's new cryptanalysis results,https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/,68,41,2026-07-29T20:47:22.547121+00:00
+49102425,A Trampoline,https://dogdogfish.com/blog/2026/07/29/a-trampoline/,8,1,2026-07-29T20:47:22.547121+00:00
+49047351,The Rust on ESP Book,https://docs.espressif.com/projects/rust/book/,83,9,2026-07-29T20:47:22.547121+00:00
+49101351,"How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html,22,4,2026-07-29T20:47:22.547121+00:00
+49096654,Darktable,https://www.darktable.org/,232,119,2026-07-29T20:47:22.547121+00:00
+49101655,How much can you delegate to agents?,https://newsletter.posthog.com/p/agent-autonomy,19,0,2026-07-29T20:47:22.547121+00:00
+49102525,"Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture,6,0,2026-07-29T20:47:22.547121+00:00
+49045686,I'm Running a Programming Contest,https://eieio.games/blog/im-running-the-icfp-programming-contest/,6,0,2026-07-29T20:47:22.547121+00:00
+49102774,The coolest use for the Vision Pro,https://christianselig.com/2026/07/vision-pro-house/,3,0,2026-07-29T20:47:22.547121+00:00
+49065785,Hamburg's Stadtpark: A Park Built to Be Used,https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/,81,22,2026-07-29T20:47:22.547121+00:00
+49098130,"Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",https://aistack.imec-int.com/blog/gpu-self-hosting,85,30,2026-07-29T20:47:22.547121+00:00
+49098260,Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon,https://github.com/VladUZH/qwen-scribe,59,15,2026-07-29T20:47:22.547121+00:00
+49096811,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/,97,8,2026-07-29T20:47:22.547121+00:00
+49098388,"GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",https://juliahub.com/blog/frontier-models-physical-ai-evaluation,67,13,2026-07-29T20:47:22.547121+00:00
+49101334,A field day for Gleam's language server – Gleam v1.18.0 release,https://gleam.run/news/a-field-day-for-gleams-language-server/,8,0,2026-07-29T20:47:22.547121+00:00
+49102150,Claude Is Down,https://status.claude.com/incidents/q2kg8n613kr3,150,132,2026-07-29T20:47:22.547121+00:00
