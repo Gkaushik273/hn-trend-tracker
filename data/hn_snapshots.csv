@@ -5009,3 +5009,33 @@ story_id,title,link,points,comments,scraped_at
 49084987,Now is the time to give LLMs access to the ACM digital library,https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/,153,122,2026-07-29T08:29:46.308830+00:00
 49087091,Discovering Cryptographic Weaknesses with Claude,https://www.anthropic.com/research/discovering-cryptographic-weaknesses,214,152,2026-07-29T08:29:46.308830+00:00
 49091895,Lightweight Spring Boot Monitoring Without Prometheus and Grafana,https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html,26,3,2026-07-29T08:29:46.308830+00:00
+49093569,More Tailscale tricks for your jailbroken Kindle,https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes,214,71,2026-07-29T11:04:04.590611+00:00
+49093434,User Interfaces of the Demo Scene,https://www.datagubbe.se/scenegui/,224,35,2026-07-29T11:04:04.590611+00:00
+49094346,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers,77,32,2026-07-29T11:04:04.590611+00:00
+49095628,SpecForge – A Platform for Authoring Formal Specifications,https://docs.imiron.io/v/0.5.10/en/tour.html,7,0,2026-07-29T11:04:04.590611+00:00
+49060363,Lisp moving Forth moving Lisp,https://letoverlambda.com/textmode.cl/guest/chap8.html,34,8,2026-07-29T11:04:04.590611+00:00
+49089755,Codex Security,https://github.com/openai/codex-security,513,181,2026-07-29T11:04:04.590611+00:00
+49090607,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",https://github.com/twalichiewicz/HNewhere,322,93,2026-07-29T11:04:04.590611+00:00
+49086788,"Substack writers, you need a website",https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/,555,299,2026-07-29T11:04:04.590611+00:00
+49089814,Half-Life ported to Mac OS 9,https://mac-classic.com/news/half-life-ported-to-mac-os-9/,255,118,2026-07-29T11:04:04.590611+00:00
+49095511,Amiga Graphics Archive,https://amiga.lychesis.net/index.html,3,0,2026-07-29T11:04:04.590611+00:00
+49092499,LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences,https://learnvector.ai/,197,118,2026-07-29T11:04:04.590611+00:00
+49012754,Ancient Rome's version of Google Maps: how long to reach the beach,https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach,15,10,2026-07-29T11:04:04.590611+00:00
+49093435,Cracking Windows Open: Porting RADV to Win32,https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html,49,18,2026-07-29T11:04:04.590611+00:00
+49095143,Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels,https://vimgolf.ai,6,1,2026-07-29T11:04:04.590611+00:00
+49085698,Kimi K3 Architecture Overview and Notes,https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html,438,93,2026-07-29T11:04:04.590611+00:00
+49091379,ReFrame – The EPaper Camera,https://reframe.camera/,143,31,2026-07-29T11:04:04.590611+00:00
+49091730,Hubble: Open-source notetaking app for you and your agents,https://www.hubble.md/,121,53,2026-07-29T11:04:04.590611+00:00
+49086971,Steel Bank Common Lisp version 2.6.7,https://sbcl.org/all-news.html?2.6.7,239,106,2026-07-29T11:04:04.590611+00:00
+49094996,ChatGPT claims rogue AI attacked more companies,https://www.bbc.co.uk/news/articles/c2el319vzr3o,28,24,2026-07-29T11:04:04.590611+00:00
+49085731,Delayed Gratification – Proud to Be 'Last to Breaking News',https://www.slow-journalism.com/,302,172,2026-07-29T11:04:04.590611+00:00
+49058673,CSV Is Never Just CSV,https://immaschinenraum.blog/en/funpark/never-just-csv/,3,0,2026-07-29T11:04:04.590611+00:00
+49093232,Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design,https://transformer-transformer.github.io/,56,5,2026-07-29T11:04:04.590611+00:00
+49055816,Teach yourself programming in ten years (1998),https://www.norvig.com/21-days.html,150,93,2026-07-29T11:04:04.590611+00:00
+49092754,Hooray for the Sockets Interface,https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/,41,22,2026-07-29T11:04:04.590611+00:00
+49084813,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",https://unawatch.com/,228,140,2026-07-29T11:04:04.590611+00:00
+49076450,"60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/,23,9,2026-07-29T11:04:04.590611+00:00
+49085666,Zig's Incremental Compilation Internals,https://mlugg.co.uk/posts/incremental-compilation-internals/,247,177,2026-07-29T11:04:04.590611+00:00
+49087306,The iPhone Upgrade Program is being replaced by Apple Upgrade,https://www.apple.com/shop/iphone/iphone-upgrade-program,182,331,2026-07-29T11:04:04.590611+00:00
+49084987,Now is the time to give LLMs access to the ACM digital library,https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/,170,138,2026-07-29T11:04:04.590611+00:00
+49077040,Interview with Boris Cherny [video],https://www.youtube.com/watch?v=qyPCVqFUyDo,62,66,2026-07-29T11:04:04.590611+00:00
