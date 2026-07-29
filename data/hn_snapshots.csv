@@ -5039,3 +5039,33 @@ story_id,title,link,points,comments,scraped_at
 49087306,The iPhone Upgrade Program is being replaced by Apple Upgrade,https://www.apple.com/shop/iphone/iphone-upgrade-program,182,331,2026-07-29T11:04:04.590611+00:00
 49084987,Now is the time to give LLMs access to the ACM digital library,https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/,170,138,2026-07-29T11:04:04.590611+00:00
 49077040,Interview with Boris Cherny [video],https://www.youtube.com/watch?v=qyPCVqFUyDo,62,66,2026-07-29T11:04:04.590611+00:00
+49095865,KOReader,https://koreader.rocks/,148,60,2026-07-29T13:13:20.872806+00:00
+49096188,Document-borne AI worms can self-propagate through Copilot for Word,https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/,87,59,2026-07-29T13:13:20.872806+00:00
+49093569,More Tailscale tricks for your jailbroken Kindle,https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes,267,92,2026-07-29T13:13:20.872806+00:00
+49095628,SpecForge – A Platform for Authoring Formal Specifications,https://docs.imiron.io/v/0.5.10/en/tour.html,36,1,2026-07-29T13:13:20.872806+00:00
+49095511,Amiga Graphics Archive,https://amiga.lychesis.net/index.html,52,9,2026-07-29T13:13:20.872806+00:00
+49093434,User Interfaces of the Demo Scene,https://www.datagubbe.se/scenegui/,273,46,2026-07-29T13:13:20.872806+00:00
+49096742,A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT),https://jcgt.org/published/0015/02/01/,4,0,2026-07-29T13:13:20.872806+00:00
+49094346,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers,121,45,2026-07-29T13:13:20.872806+00:00
+49060363,Lisp moving Forth moving Lisp,https://letoverlambda.com/textmode.cl/guest/chap8.html,56,18,2026-07-29T13:13:20.872806+00:00
+49089755,Codex Security,https://github.com/openai/codex-security,536,194,2026-07-29T13:13:20.872806+00:00
+49012754,Ancient Rome's version of Google Maps: how long to reach the beach,https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach,38,29,2026-07-29T13:13:20.872806+00:00
+49096290,French musician Kavinsky found dead,https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home,75,10,2026-07-29T13:13:20.872806+00:00
+49090607,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",https://github.com/twalichiewicz/HNewhere,351,100,2026-07-29T13:13:20.872806+00:00
+49086788,"Substack writers, you need a website",https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/,583,310,2026-07-29T13:13:20.872806+00:00
+49096493,Pulse Path – a browser puzzle where placement is the only decision,https://pulsepathgame.netlify.app/,3,0,2026-07-29T13:13:20.872806+00:00
+49089814,Half-Life ported to Mac OS 9,https://mac-classic.com/news/half-life-ported-to-mac-os-9/,276,129,2026-07-29T13:13:20.872806+00:00
+49095143,Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels,https://vimgolf.ai,20,16,2026-07-29T13:13:20.872806+00:00
+49096427,Disrupting supply chain attacks on NPM and GitHub Actions,https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/,3,1,2026-07-29T13:13:20.872806+00:00
+49085698,Kimi K3 Architecture Overview and Notes,https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html,468,101,2026-07-29T13:13:20.872806+00:00
+49051355,ALP: Adaptive lossless floating-point compression,https://github.com/cwida/ALP,5,0,2026-07-29T13:13:20.872806+00:00
+49093435,Cracking Windows Open: Porting RADV to Win32,https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html,64,21,2026-07-29T13:13:20.872806+00:00
+49091379,ReFrame – The EPaper Camera,https://reframe.camera/,168,37,2026-07-29T13:13:20.872806+00:00
+49086971,Steel Bank Common Lisp version 2.6.7,https://sbcl.org/all-news.html?2.6.7,249,114,2026-07-29T13:13:20.872806+00:00
+49085731,Delayed Gratification – Proud to Be 'Last to Breaking News',https://www.slow-journalism.com/,314,184,2026-07-29T13:13:20.872806+00:00
+49093232,Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design,https://transformer-transformer.github.io/,65,7,2026-07-29T13:13:20.872806+00:00
+49092499,LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences,https://learnvector.ai/,223,143,2026-07-29T13:13:20.872806+00:00
+49091730,Hubble: Open-source notetaking app for you and your agents,https://www.hubble.md/,128,61,2026-07-29T13:13:20.872806+00:00
+49084813,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",https://unawatch.com/,246,159,2026-07-29T13:13:20.872806+00:00
+49076450,"60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/,30,13,2026-07-29T13:13:20.872806+00:00
+49092754,Hooray for the Sockets Interface,https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/,49,30,2026-07-29T13:13:20.872806+00:00
