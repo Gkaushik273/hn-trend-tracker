@@ -5069,3 +5069,33 @@ story_id,title,link,points,comments,scraped_at
 49084813,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",https://unawatch.com/,246,159,2026-07-29T13:13:20.872806+00:00
 49076450,"60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/,30,13,2026-07-29T13:13:20.872806+00:00
 49092754,Hooray for the Sockets Interface,https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/,49,30,2026-07-29T13:13:20.872806+00:00
+49095865,KOReader,https://koreader.rocks/,399,133,2026-07-29T15:27:59.497493+00:00
+49096969,Handbook.md shows that long policy documents do not reliably govern agents,https://arxiv.org/abs/2607.25398,123,78,2026-07-29T15:27:59.497493+00:00
+49098510,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,https://github.com/drumih/turbo-fieldfare,28,0,2026-07-29T15:27:59.497493+00:00
+49096811,Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem,https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/,35,0,2026-07-29T15:27:59.497493+00:00
+49096654,Darktable,https://www.darktable.org/,89,39,2026-07-29T15:27:59.497493+00:00
+49063983,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/,44,28,2026-07-29T15:27:59.497493+00:00
+49093569,More Tailscale tricks for your jailbroken Kindle,https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes,326,100,2026-07-29T15:27:59.497493+00:00
+49097730,Choose DuckDB rather than SQLite,https://tracewayapp.com/blog/sqlite-vs-duckdb,67,37,2026-07-29T15:27:59.497493+00:00
+49095511,Amiga Graphics Archive,https://amiga.lychesis.net/index.html,96,16,2026-07-29T15:27:59.497493+00:00
+49096188,Document-borne AI worms can self-propagate through Copilot for Word,https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/,180,162,2026-07-29T15:27:59.497493+00:00
+49096427,Disrupting supply chain attacks on NPM and GitHub Actions,https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/,45,11,2026-07-29T15:27:59.497493+00:00
+49093434,User Interfaces of the Demo Scene,https://www.datagubbe.se/scenegui/,326,54,2026-07-29T15:27:59.497493+00:00
+49095628,SpecForge – A Platform for Authoring Formal Specifications,https://docs.imiron.io/v/0.5.10/en/tour.html,55,3,2026-07-29T15:27:59.497493+00:00
+49094346,"SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers,175,53,2026-07-29T15:27:59.497493+00:00
+49096742,A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT),https://jcgt.org/published/0015/02/01/,25,3,2026-07-29T15:27:59.497493+00:00
+49097003,TokenTown: A visual way to understand how LLMs work,https://laurentiugabriel.github.io/token-town/,47,13,2026-07-29T15:27:59.497493+00:00
+49023076,"Show HN: Write, simulate and synthesize VHDL/Verilog in the browser",https://risingedge.pro,8,3,2026-07-29T15:27:59.497493+00:00
+49060363,Lisp moving Forth moving Lisp,https://letoverlambda.com/textmode.cl/guest/chap8.html,82,21,2026-07-29T15:27:59.497493+00:00
+49089755,Codex Security,https://github.com/openai/codex-security,571,210,2026-07-29T15:27:59.497493+00:00
+49096290,French musician Kavinsky found dead,https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home,234,53,2026-07-29T15:27:59.497493+00:00
+49012754,Ancient Rome's version of Google Maps: how long to reach the beach,https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach,57,34,2026-07-29T15:27:59.497493+00:00
+49051355,ALP: Adaptive lossless floating-point compression,https://github.com/cwida/ALP,25,3,2026-07-29T15:27:59.497493+00:00
+49096885,San Francisco: Don't Fall for Industry Defense of Surveillance Pricing,https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing,55,8,2026-07-29T15:27:59.497493+00:00
+49097727,"Show HN: A verification browser for AI agents – 13ms windows, one-call checks",https://github.com/hongnoul/hwatu,8,1,2026-07-29T15:27:59.497493+00:00
+49097591,Valve Sponsors Work Bringing Open-Source RADV Driver to Windows,https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows,33,7,2026-07-29T15:27:59.497493+00:00
+49096767,Show HN: Echologue – the private AI voice journal I built for myself,https://echologue.com/,21,11,2026-07-29T15:27:59.497493+00:00
+49090607,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",https://github.com/twalichiewicz/HNewhere,393,105,2026-07-29T15:27:59.497493+00:00
+49098198,A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands,https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html,16,4,2026-07-29T15:27:59.497493+00:00
+49097209,Kalshi attacks a Wisconsin law banning election bets as 'voter suppression',https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets,49,14,2026-07-29T15:27:59.497493+00:00
+49089814,Half-Life ported to Mac OS 9,https://mac-classic.com/news/half-life-ported-to-mac-os-9/,291,139,2026-07-29T15:27:59.497493+00:00
