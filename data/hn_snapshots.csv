@@ -5279,3 +5279,33 @@ story_id,title,link,points,comments,scraped_at
 49103910,GitHub is the wrong shape for this new world,https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world,5,0,2026-07-29T22:56:10.218768+00:00
 49098130,"Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",https://aistack.imec-int.com/blog/gpu-self-hosting,115,40,2026-07-29T22:56:10.218768+00:00
 49063983,Hunter-gatherers introduced fish to a mountain lake 7000 years ago,https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/,132,100,2026-07-29T22:56:10.218768+00:00
+49103285,AI's top startups are barely publishing their research,https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research,228,129,2026-07-30T02:23:38.232567+00:00
+49102774,The coolest use for the Vision Pro,https://christianselig.com/2026/07/vision-pro-house/,406,193,2026-07-30T02:23:38.232567+00:00
+49098510,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,https://github.com/drumih/turbo-fieldfare,663,230,2026-07-30T02:23:38.232567+00:00
+49098965,Superlogical,https://www.superlogical.com/,539,331,2026-07-30T02:23:38.232567+00:00
+49104117,LLM Honeypot,https://llm2human.pages.dev/,69,23,2026-07-30T02:23:38.232567+00:00
+49105190,A pharmacy chain in Vermont implemented AI for efficiency,https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/,14,9,2026-07-30T02:23:38.232567+00:00
+49099715,Keychron announces first open-source firmware for gaming mice,https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice,297,111,2026-07-30T02:23:38.232567+00:00
+49089500,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,https://huggingface.co/blog/agent-intrusion-technical-timeline,298,179,2026-07-30T02:23:38.232567+00:00
+49103089,The Cold Email,https://zachholman.com/posts/cold-email,96,39,2026-07-30T02:23:38.232567+00:00
+49104335,The Productivity Mirage,https://frantic.im/mirage/,53,18,2026-07-30T02:23:38.232567+00:00
+49095865,KOReader,https://koreader.rocks/,672,212,2026-07-30T02:23:38.232567+00:00
+49101852,Kimi K3-256k,https://www.kimi.com/code/docs/en/kimi-code/models,345,100,2026-07-30T02:23:38.232567+00:00
+49098198,A.I. companies are recruiting electricians and carpenters by the thousands,https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html,222,281,2026-07-30T02:23:38.232567+00:00
+49096188,Document-borne AI worms can self-propagate through Copilot for Word,https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/,349,267,2026-07-30T02:23:38.232567+00:00
+49096969,Handbook.md shows that long policy documents do not reliably govern agents,https://arxiv.org/abs/2607.25398,296,184,2026-07-30T02:23:38.232567+00:00
+49105136,Flume Water Monitor 915 MHz Security Is Pretty Good,https://waveformsecurity.com/blog/flume/,14,4,2026-07-30T02:23:38.232567+00:00
+49103026,SalesPatriot (YC W25) Is Hiring FDEs,https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer,0,0,2026-07-30T02:23:38.232567+00:00
+49104747,Show HN: A local merge queue for parallel Claude Code agents,https://github.com/funador/claude-code-merge-queue,16,4,2026-07-30T02:23:38.232567+00:00
+49101198,Turning a dumb AC unit smart (without losing my security deposit),https://prilik.com/blog/post/automating-ac-nyc/,114,92,2026-07-30T02:23:38.232567+00:00
+49080031,"Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",https://www.staszewski.xyz/blog/recursive-filters/,12,2,2026-07-30T02:23:38.232567+00:00
+49102425,A Trampoline,https://dogdogfish.com/blog/2026/07/29/a-trampoline/,74,42,2026-07-30T02:23:38.232567+00:00
+49061213,Angels in Coptic Magic I: Introduction,https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/,6,0,2026-07-30T02:23:38.232567+00:00
+49100043,Show HN: CheapFoodMap – A map of good meals under $10,https://cheapfoodmap.com/,130,154,2026-07-30T02:23:38.232567+00:00
+49096654,Darktable,https://www.darktable.org/,298,142,2026-07-30T02:23:38.232567+00:00
+49062997,Refactoring cuisine: how an Iraqi stew sailed to Singapore,https://iza.ac/posts/2026/07/the-journey-of-bamya/,24,5,2026-07-30T02:23:38.232567+00:00
+49101529,"Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",https://www.emergingtrajectories.com/lh/commodification-and-circularity/,60,31,2026-07-30T02:23:38.232567+00:00
+49104140,Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC),https://archive.org/details/mancomputerbyjoh0000john,20,9,2026-07-30T02:23:38.232567+00:00
+49099143,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,https://usetokenless.com/,53,45,2026-07-30T02:23:38.232567+00:00
+49099804,Some thoughts about Anthropic's new cryptanalysis results,https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/,108,57,2026-07-30T02:23:38.232567+00:00
+49047351,The Rust on ESP Book,https://docs.espressif.com/projects/rust/book/,127,13,2026-07-30T02:23:38.232567+00:00
