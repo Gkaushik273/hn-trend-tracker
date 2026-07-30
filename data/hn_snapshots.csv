@@ -5399,3 +5399,33 @@ story_id,title,link,points,comments,scraped_at
 49062997,Refactoring cuisine: how an Iraqi stew sailed to Singapore,https://iza.ac/posts/2026/07/the-journey-of-bamya/,55,22,2026-07-30T10:19:20.285211+00:00
 49095865,KOReader,https://koreader.rocks/,713,224,2026-07-30T10:19:20.285211+00:00
 49103026,SalesPatriot (YC W25) Is Hiring FDEs,https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer,0,0,2026-07-30T10:19:20.285211+00:00
+49108048,Gpiozero Flow,https://bennuttall.com/blog/2026/07/gpiozero-flow/,53,14,2026-07-30T12:10:57.354446+00:00
+49108685,GCC steering committee announces AI policy,https://lwn.net/Articles/1086041/,11,2,2026-07-30T12:10:57.354446+00:00
+49107713,Carolina Cloud pays SOFR on unused prepaid credits,https://docs.carolinacloud.io/organizations/prepaid-interest/,26,11,2026-07-30T12:10:57.354446+00:00
+49103285,AI's top startups are barely publishing their research,https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research,517,266,2026-07-30T12:10:57.354446+00:00
+49102774,The coolest use for the Vision Pro,https://christianselig.com/2026/07/vision-pro-house/,724,278,2026-07-30T12:10:57.354446+00:00
+49108840,Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers,https://www.ycombinator.com/companies/mbodi-ai/jobs,0,0,2026-07-30T12:10:57.354446+00:00
+49107749,"Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",https://github.com/YoanWai/agent-manager,18,6,2026-07-30T12:10:57.354446+00:00
+49089502,Azulejo,https://en.wikipedia.org/wiki/Azulejo,66,22,2026-07-30T12:10:57.354446+00:00
+49107950,Google will expand age checks on Android worldwide till the end of the year,https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html,119,144,2026-07-30T12:10:57.354446+00:00
+49057130,The first watch featuring computer functions,https://by.seiko-design.com/140th/en/topic/58.html,37,12,2026-07-30T12:10:57.354446+00:00
+49098965,Superlogical,https://www.superlogical.com/,725,425,2026-07-30T12:10:57.354446+00:00
+49104117,LLM Honeypot,https://llm2human.pages.dev/,300,88,2026-07-30T12:10:57.354446+00:00
+49107246,Ron Gilbert started production on Thimbleweed Park 2,https://www.grumpygamer.com/twp2_announce/,32,8,2026-07-30T12:10:57.354446+00:00
+49070073,The Glass Famine,https://edconway.substack.com/p/the-glass-famine,24,1,2026-07-30T12:10:57.354446+00:00
+49104335,The Productivity Mirage,https://frantic.im/mirage/,277,120,2026-07-30T12:10:57.354446+00:00
+49099715,Keychron announces first open-source firmware for gaming mice,https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice,397,165,2026-07-30T12:10:57.354446+00:00
+49065874,"Concurrency, interactivity, mutability, choose two",https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/,41,26,2026-07-30T12:10:57.354446+00:00
+49089500,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,https://huggingface.co/blog/agent-intrusion-technical-timeline,411,224,2026-07-30T12:10:57.354446+00:00
+49103089,The Cold Email,https://zachholman.com/posts/cold-email,237,91,2026-07-30T12:10:57.354446+00:00
+49104937,Logic for Programmers,https://logicforprogrammers.com/,147,29,2026-07-30T12:10:57.354446+00:00
+49050218,ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison,https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/,40,10,2026-07-30T12:10:57.354446+00:00
+49107437,The Apple Calculator Language,https://wadetregaskis.com/the-apple-calculator-language/,9,1,2026-07-30T12:10:57.354446+00:00
+49100043,Show HN: CheapFoodMap – A map of good meals under $10,https://cheapfoodmap.com/,231,206,2026-07-30T12:10:57.354446+00:00
+49105563,Kuna: Decompiler Development in the Age of Coding Agents,https://noelo.org/blog/kuna-release/,53,11,2026-07-30T12:10:57.354446+00:00
+49101852,Kimi K3-256k,https://www.kimi.com/code/docs/en/kimi-code/models,457,132,2026-07-30T12:10:57.354446+00:00
+49047692,London’s most equidistant pub,https://equidistance.io/londons-most-equidistant-pub/,58,33,2026-07-30T12:10:57.354446+00:00
+49101198,Turning a dumb AC unit smart (without losing my security deposit),https://prilik.com/blog/post/automating-ac-nyc/,179,141,2026-07-30T12:10:57.354446+00:00
+49108556,"ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms,12,0,2026-07-30T12:10:57.354446+00:00
+49099804,Some thoughts about Anthropic's new cryptanalysis results,https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/,170,96,2026-07-30T12:10:57.354446+00:00
+49098510,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,https://github.com/drumih/turbo-fieldfare,833,295,2026-07-30T12:10:57.354446+00:00
