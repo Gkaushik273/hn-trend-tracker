@@ -5459,3 +5459,33 @@ story_id,title,link,points,comments,scraped_at
 49104335,The Productivity Mirage,https://frantic.im/mirage/,311,137,2026-07-30T14:40:36.120493+00:00
 49089500,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,https://huggingface.co/blog/agent-intrusion-technical-timeline,438,238,2026-07-30T14:40:36.120493+00:00
 49108556,"ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms,51,34,2026-07-30T14:40:36.120493+00:00
+49111237,Gemini Robotics 2 brings whole body intelligence to robots,https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/,136,97,2026-07-30T16:22:40.147539+00:00
+49111305,"Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/,27,0,2026-07-30T16:22:40.147539+00:00
+49111176,The Economic Benefit of Refactoring,https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html,34,13,2026-07-30T16:22:40.147539+00:00
+49111006,Paging Through a Parquet File in DuckDB: File_row_number or Offset?,https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/,18,3,2026-07-30T16:22:40.147539+00:00
+49110655,"SDL_GPU minimal, single-header, high-performance 2D graphics painting library",https://github.com/n67094/sdl_gp,28,7,2026-07-30T16:22:40.147539+00:00
+49110547,Hacker Public Radio,https://hackerpublicradio.org/,44,3,2026-07-30T16:22:40.147539+00:00
+49109721,Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools,https://prized.dev,39,19,2026-07-30T16:22:40.147539+00:00
+49109474,RFC 8890 – The Internet is for End Users (2020),https://mnot.net/blog/2020/for_the_users,58,17,2026-07-30T16:22:40.147539+00:00
+49107246,Ron Gilbert started production on Thimbleweed Park 2,https://www.grumpygamer.com/twp2_announce/,169,79,2026-07-30T16:22:40.147539+00:00
+49109616,Upper stage impacting the moon on 2026 August 5,https://www.projectpluto.com/25010d.htm,41,11,2026-07-30T16:22:40.147539+00:00
+49103059,"RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",https://www.youtube.com/watch?v=W-OpIbLUOU0,9,0,2026-07-30T16:22:40.147539+00:00
+49111019,Show HN: Claude-account – switch Claude Code accounts without logging in again,https://github.com/hamzarehmandeveloper/claude-account,7,2,2026-07-30T16:22:40.147539+00:00
+49108048,Gpiozero Flow,https://bennuttall.com/blog/2026/07/gpiozero-flow/,105,33,2026-07-30T16:22:40.147539+00:00
+49108678,Are We Stuck with Lean?,https://mathoverflow.net/questions/513742/are-we-stuck-with-lean,58,20,2026-07-30T16:22:40.147539+00:00
+49108840,Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers,https://www.ycombinator.com/companies/mbodi-ai/jobs,0,0,2026-07-30T16:22:40.147539+00:00
+49067162,The Alice and Bob After Dinner Speech (1984),https://hex.ooo/library/alicebob.html,25,4,2026-07-30T16:22:40.147539+00:00
+49109026,Why Don't People Use Formal Methods? (2019),https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/,82,58,2026-07-30T16:22:40.147539+00:00
+49074842,Building a native C# implementation of CEL engine,https://bsid.io/writing/building-a-cel-engine-for-net,26,4,2026-07-30T16:22:40.147539+00:00
+49109193,Why Is Everyone Trying to Build a Solid-State Battery?,https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a,83,88,2026-07-30T16:22:40.147539+00:00
+49110577,Trusted URLs via Cryptographic Signatures,https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html,8,7,2026-07-30T16:22:40.147539+00:00
+49108485,3D Pinball for Windows (1995),https://98.js.org/programs/pinball/space-cadet.html,48,25,2026-07-30T16:22:40.147539+00:00
+49108778,"Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",https://github.com/grafana/ai-sdk,40,13,2026-07-30T16:22:40.147539+00:00
+49070073,The Glass Famine,https://edconway.substack.com/p/the-glass-famine,82,36,2026-07-30T16:22:40.147539+00:00
+49108963,CosmosEscape: Taking over Every Database in Azure Cosmos DB,https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db,39,10,2026-07-30T16:22:40.147539+00:00
+49089502,Azulejo,https://en.wikipedia.org/wiki/Azulejo,132,42,2026-07-30T16:22:40.147539+00:00
+49111312,Show HN: I think I made my own web version of minimalistic audacity,https://github.com/askpext/HERTZ,4,1,2026-07-30T16:22:40.147539+00:00
+49110308,The Lost Civic Life of Movie Rental Stores,https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/,47,50,2026-07-30T16:22:40.147539+00:00
+49107950,Google will expand age checks on Android worldwide till the end of the year,https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html,258,291,2026-07-30T16:22:40.147539+00:00
+49108542,You can't solve computer use by ignoring the interface,https://steelmanlabs.com/blog/computer-use-is-far-from-solved,41,22,2026-07-30T16:22:40.147539+00:00
+49057130,The first watch featuring computer functions,https://by.seiko-design.com/140th/en/topic/58.html,71,28,2026-07-30T16:22:40.147539+00:00
