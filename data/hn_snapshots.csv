@@ -5819,3 +5819,33 @@ story_id,title,link,points,comments,scraped_at
 49111176,The Economic Benefit of Refactoring,https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html,268,115,2026-07-31T15:36:16.881727+00:00
 49083970,"Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",https://github.com/MemoireMorte/Memo-1,96,13,2026-07-31T15:36:16.881727+00:00
 49071299,Bad Apple but It's Traceroute,https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html,148,48,2026-07-31T15:36:16.881727+00:00
+49124218,Elevators,https://john.fun/elevators,289,103,2026-07-31T17:23:32.424941+00:00
+49124858,Big Food vs. the People,https://www.lighthousereports.com/investigation/big-food-vs-the-people/,50,13,2026-07-31T17:23:32.424941+00:00
+49120299,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",https://artificialanalysis.ai/models/deepseek-v4-flash,397,216,2026-07-31T17:23:32.424941+00:00
+49119559,DeepSeek-V4-Flash Update,https://api-docs.deepseek.com/updates/,544,261,2026-07-31T17:23:32.424941+00:00
+49124658,Algorithms on billion-scale graph using 10GB RAM: I love DataFusion,https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/,22,5,2026-07-31T17:23:32.424941+00:00
+49124496,A GTK4 SSH-askpass in Zig,https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/,29,6,2026-07-31T17:23:32.424941+00:00
+49125785,Miso (YC S16) is hiring for U.S. expansion,https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion,0,0,2026-07-31T17:23:32.424941+00:00
+49123208,Arch Linux disables AUR package adoption,https://lwn.net/Articles/1086489/,51,20,2026-07-31T17:23:32.424941+00:00
+49125034,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/,11,2,2026-07-31T17:23:32.424941+00:00
+49121980,The End of an Era,https://hughhowey.com/the-end-of-an-era/,291,328,2026-07-31T17:23:32.424941+00:00
+49118781,The session you cannot take with you,https://earendil.com/posts/session-portability/,674,194,2026-07-31T17:23:32.424941+00:00
+49123199,The C ``Clockwise/Spiral Rule'',https://c-faq.com/decl/spiral.anderson.html,24,8,2026-07-31T17:23:32.424941+00:00
+49124336,"13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",https://swe-rebench.com,12,3,2026-07-31T17:23:32.424941+00:00
+49124525,The Art of Decision-Making (2019),https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making,13,0,2026-07-31T17:23:32.424941+00:00
+49120097,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",https://blog.google/security/chrome-stronger-with-every-update/,406,394,2026-07-31T17:23:32.424941+00:00
+49123789,"Show HN: BitBang – Reach machines behind NAT from a browser, no account",https://github.com/richlegrand/bitbang-cli,14,2,2026-07-31T17:23:32.424941+00:00
+49122882,Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling,https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/,23,13,2026-07-31T17:23:32.424941+00:00
+49070810,How JPEG works: Interactively explore JPEG's lossy compression methods,https://cgjennings.ca/articles/jpeg-compression/,7,0,2026-07-31T17:23:32.424941+00:00
+49048452,IMAX vs. IMAX 70mm: The difference between these two cinema formats,https://www.engadget.com/2220571/differences-between-imax-70mm/,51,66,2026-07-31T17:23:32.424941+00:00
+49120120,Danube's record low levels force shutdown of Hungary's only nuclear plant,https://www.bbc.com/news/articles/cn0nqv05g0do,68,88,2026-07-31T17:23:32.424941+00:00
+49124409,New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key,https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/,41,7,2026-07-31T17:23:32.424941+00:00
+49124358,Is AI reasoning right for the wrong reasons?,https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/,72,75,2026-07-31T17:23:32.424941+00:00
+49119274,Show HN: What should the GUI for AI agents look like?,https://marbleos.com/demo,81,48,2026-07-31T17:23:32.424941+00:00
+49121868,The Maxwell Conjecture Is False (GPT 5.6 Sol),https://arxiv.org/abs/2607.27197,111,103,2026-07-31T17:23:32.424941+00:00
+49124017,Show HN: I built a cross-browser extension that controls fingerprinting surfaces,https://privacything.com/en/,13,2,2026-07-31T17:23:32.424941+00:00
+49122838,Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba,https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba,67,44,2026-07-31T17:23:32.424941+00:00
+49122994,Situational Awareness down 67% in July in AI stock rout,https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f,111,107,2026-07-31T17:23:32.424941+00:00
+49049992,Winding Down Artichoke Ruby,https://hyperbo.la/w/winding-down-artichoke-ruby/,42,5,2026-07-31T17:23:32.424941+00:00
+49124042,The most official water costs $120k a gallon,https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/,25,3,2026-07-31T17:23:32.424941+00:00
+49119425,"Show HN: Gander, an Android file viewer that asks for no permissions",https://github.com/mokshablr/gander,175,62,2026-07-31T17:23:32.424941+00:00
