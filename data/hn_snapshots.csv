@@ -5879,3 +5879,33 @@ story_id,title,link,points,comments,scraped_at
 49116922,Investigating three real-world incidents in our cybersecurity evaluations,https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals,211,165,2026-07-31T18:51:36.479624+00:00
 49111523,Solving poker in custom WebGPU kernels,https://phulin.me/blog/poker/,55,15,2026-07-31T18:51:36.479624+00:00
 49119274,Show HN: What should the GUI for AI agents look like?,https://marbleos.com/demo,92,57,2026-07-31T18:51:36.479624+00:00
+49124218,Elevators,https://john.fun/elevators,622,162,2026-07-31T20:16:26.735590+00:00
+49127306,Tailscale didn't stop the Hugging Face intrusion,https://tailscale.com/blog/hugging-face-intrusion,93,38,2026-07-31T20:16:26.735590+00:00
+49126604,qm,https://github.com/yc-software/qm,177,45,2026-07-31T20:16:26.735590+00:00
+49124858,Big Food vs. the People,https://www.lighthousereports.com/investigation/big-food-vs-the-people/,126,81,2026-07-31T20:16:26.735590+00:00
+49127031,Golang proposal: container/: generic collection types,https://github.com/golang/go/issues/80590,35,5,2026-07-31T20:16:26.735590+00:00
+49126883,Termixer (TUI DJ Mixer),https://github.com/l00sed/termixer,25,13,2026-07-31T20:16:26.735590+00:00
+49125034,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/,84,54,2026-07-31T20:16:26.735590+00:00
+49126630,"Everyone is building LLM routers, we deprecated ours",https://manifest.build/blog/why-we-deprecated-our-llm-router/,33,12,2026-07-31T20:16:26.735590+00:00
+49125971,Severance,https://lcamtuf.substack.com/p/severance,58,15,2026-07-31T20:16:26.735590+00:00
+49126765,"June in Servo: real world compat, media queries, SharedWorker, and more",https://servo.org/blog/2026/07/31/june-in-servo/,23,0,2026-07-31T20:16:26.735590+00:00
+49120299,"DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",https://artificialanalysis.ai/models/deepseek-v4-flash,475,260,2026-07-31T20:16:26.735590+00:00
+49125785,Miso (YC S16) is hiring for U.S. expansion,https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion,0,0,2026-07-31T20:16:26.735590+00:00
+49119559,DeepSeek-V4-Flash Update,https://api-docs.deepseek.com/updates/,629,301,2026-07-31T20:16:26.735590+00:00
+49124658,Algorithms on billion-scale graph using 10GB RAM: I love DataFusion,https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/,67,18,2026-07-31T20:16:26.735590+00:00
+49126919,Using the railway network as a flatbed scanner [video],https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner,15,5,2026-07-31T20:16:26.735590+00:00
+49126943,Orca-Bench: How Ready Are Language Model Agents for Oncall?,https://arxiv.org/abs/2607.28545,13,4,2026-07-31T20:16:26.735590+00:00
+49123386,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,https://github.com/sqliteai/waste,77,28,2026-07-31T20:16:26.735590+00:00
+49070810,How JPEG works: Interactively explore JPEG's lossy compression methods,https://cgjennings.ca/articles/jpeg-compression/,56,6,2026-07-31T20:16:26.735590+00:00
+49124496,A GTK4 SSH-askpass in Zig,https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/,49,16,2026-07-31T20:16:26.735590+00:00
+49064656,Making Referential Stability a Type,https://jovidecroock.com/blog/referential-stability-types/,10,0,2026-07-31T20:16:26.735590+00:00
+49079837,A simple clustering algorithm for lists,https://cassidoo.co/post/clustering-tiles/,4,0,2026-07-31T20:16:26.735590+00:00
+49122882,Anti-fraud tools can't keep pace with robocall scammers,https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/,49,64,2026-07-31T20:16:26.735590+00:00
+49121980,The End of an Era,https://hughhowey.com/the-end-of-an-era/,356,389,2026-07-31T20:16:26.735590+00:00
+49123199,The C ``Clockwise/Spiral Rule'',https://c-faq.com/decl/spiral.anderson.html,52,38,2026-07-31T20:16:26.735590+00:00
+49123208,Arch Linux disables AUR package adoption,https://lwn.net/Articles/1086489/,107,75,2026-07-31T20:16:26.735590+00:00
+49124525,The Art of Decision-Making (2019),https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making,28,2,2026-07-31T20:16:26.735590+00:00
+49123789,"Show HN: BitBang – Reach machines behind NAT from a browser, no account",https://github.com/richlegrand/bitbang-cli,54,13,2026-07-31T20:16:26.735590+00:00
+49124336,"13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",https://swe-rebench.com,31,11,2026-07-31T20:16:26.735590+00:00
+49120120,Danube's record low levels force shutdown of Hungary's only nuclear plant,https://www.bbc.com/news/articles/cn0nqv05g0do,111,119,2026-07-31T20:16:26.735590+00:00
+49120097,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",https://blog.google/security/chrome-stronger-with-every-update/,454,463,2026-07-31T20:16:26.735590+00:00
