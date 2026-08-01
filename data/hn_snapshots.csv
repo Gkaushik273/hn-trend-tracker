@@ -6419,3 +6419,33 @@ story_id,title,link,points,comments,scraped_at
 49105013,"Manual: •.,:;…!?·",https://type.today/en/journal/dots,105,22,2026-08-01T22:26:13.173666+00:00
 49132083,Solid Queue 1.6.0 now supports fiber workers,https://github.com/rails/solid_queue/releases/tag/v1.6.0,91,38,2026-08-01T22:26:13.173666+00:00
 49091614,The tiny holdout building in the middle of Macy’s is back in view,https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/,188,58,2026-08-01T22:26:13.173666+00:00
+49139102,AI financial advice is surprisingly good if you ask the right questions,https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions,50,33,2026-08-01T23:28:14.624180+00:00
+49138188,Diátaxis,https://diataxis.fr/,120,18,2026-08-01T23:28:14.624180+00:00
+49138302,Seedance 2.5,https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5,75,23,2026-08-01T23:28:14.624180+00:00
+49139383,Unraveling the mysteries of habit formation,https://www.kyoto-u.ac.jp/en/research-news/2026-07-28,7,2,2026-08-01T23:28:14.624180+00:00
+49137060,Postmortem for Kernel Soundness Bug #14576,https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/,103,36,2026-08-01T23:28:14.624180+00:00
+49137713,But can your calculator run Linux?,https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html,47,3,2026-08-01T23:28:14.624180+00:00
+49139352,Morph (YC S23) Is Hiring Member of Technical Stuff,https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff,0,0,2026-08-01T23:28:14.624180+00:00
+49137228,CISA Alert: Water Sector PLC Targeting,https://censys.com/blog/cisa-alert-water-tower-plc-targeting/,45,31,2026-08-01T23:28:14.624180+00:00
+49120230,Just because a game is on disc doesn't mean it will work in the future,https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/,78,62,2026-08-01T23:28:14.624180+00:00
+49134599,The Art of 64-bit Assembly,https://nostarch.com/art-64-bit-assembly-v2,171,80,2026-08-01T23:28:14.624180+00:00
+49136821,How Google helped destroy adoption of RSS feeds (2023),https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds,333,109,2026-08-01T23:28:14.624180+00:00
+49136736,NetBSD 11.0,https://blog.netbsd.org/tnf/entry/netbsd_11_0_released,188,81,2026-08-01T23:28:14.624180+00:00
+49120000,Beltrunner: Game Design Postmortem,https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/,7,3,2026-08-01T23:28:14.624180+00:00
+49081851,Nyctography: A substituton cypher by Lewis Carroll,https://en.wikipedia.org/wiki/Nyctography,39,3,2026-08-01T23:28:14.624180+00:00
+49133889,RipGrep musl binaries occasionally segfault during very-large searches,https://github.com/BurntSushi/ripgrep/issues/3494,239,161,2026-08-01T23:28:14.624180+00:00
+49135245,Explorative modeling: Train on the best of K guesses,https://alexiglad.github.io/blog/2026/explorative_modeling/,74,21,2026-08-01T23:28:14.624180+00:00
+49135546,Pgtestdb's template cloning approach to testing is fast,https://brandur.org/fragments/pgtestdb,58,36,2026-08-01T23:28:14.624180+00:00
+49085065,Glyphs 4 – the leading Mac font editor,https://glyphsapp.com,41,8,2026-08-01T23:28:14.624180+00:00
+49135985,Kaisel – Routes as Values. Dart 3 Native Router for Flutter,https://kaisel.dev/,49,7,2026-08-01T23:28:14.624180+00:00
+49087499,Linux on ESP32,https://github.com/GrieferPig/esp32-s31-linux,90,32,2026-08-01T23:28:14.624180+00:00
+49134694,A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention,https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/,251,136,2026-08-01T23:28:14.624180+00:00
+49135426,Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga,https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe,68,48,2026-08-01T23:28:14.624180+00:00
+49132460,RamenHaus,https://ramen.haus/,215,105,2026-08-01T23:28:14.624180+00:00
+49135257,Cursor removed cost information from the usage page and CSV export,https://forum.cursor.com/t/usage-page-to-token-amount-what/167153,290,125,2026-08-01T23:28:14.624180+00:00
+49077209,The Burau representation of the braid group is faithful for n = 4,https://arxiv.org/abs/2607.05283,39,18,2026-08-01T23:28:14.624180+00:00
+49109019,Register deprivation: spills and runtime under forced register scarcity,https://rjp.io/blog/2026-07-19-register-deprivation,23,4,2026-08-01T23:28:14.624180+00:00
+49130604,Flint: A Visualization Language for the AI Era,https://microsoft.github.io/flint-chart/,246,66,2026-08-01T23:28:14.624180+00:00
+49139304,Anime User Interfaces,https://animeuserinterface.tumblr.com,8,0,2026-08-01T23:28:14.624180+00:00
+49105013,"Manual: •.,:;…!?·",https://type.today/en/journal/dots,108,25,2026-08-01T23:28:14.624180+00:00
+49138045,The Silicon Valley Founder Meat Grinder,https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/,190,125,2026-08-01T23:28:14.624180+00:00
