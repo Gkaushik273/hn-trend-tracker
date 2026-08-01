@@ -6239,3 +6239,33 @@ story_id,title,link,points,comments,scraped_at
 49125034,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/,214,106,2026-08-01T15:56:51.782242+00:00
 49126765,"June in Servo: real world compat, media queries, SharedWorker, and more",https://servo.org/blog/2026/07/31/june-in-servo/,184,52,2026-08-01T15:56:51.782242+00:00
 49133675,Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8),https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/,12,0,2026-08-01T15:56:51.782242+00:00
+49135257,Cursor removed cost information from the usage page and CSV export,https://forum.cursor.com/t/usage-page-to-token-amount-what/167153,61,16,2026-08-01T16:56:48.865931+00:00
+49134599,The Art of 64-bit Assembly,https://nostarch.com/art-64-bit-assembly-v2,77,37,2026-08-01T16:56:48.865931+00:00
+49133889,RipGrep musl binaries occasionally segfault during very-large searches,https://github.com/BurntSushi/ripgrep/issues/3494,165,94,2026-08-01T16:56:48.865931+00:00
+49135546,Pgtestdb's template cloning approach to testing is fast,https://brandur.org/fragments/pgtestdb,11,3,2026-08-01T16:56:48.865931+00:00
+49134694,A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention,https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/,135,65,2026-08-01T16:56:48.865931+00:00
+49135245,Explorative modeling: Train on the best of K guesses,https://alexiglad.github.io/blog/2026/explorative_modeling/,13,2,2026-08-01T16:56:48.865931+00:00
+49135383,Indexing the Data Lake for Online Point Queries,https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries,12,0,2026-08-01T16:56:48.865931+00:00
+49134038,Charlie Stross – On the non-use of AI in my writing process,https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html,59,47,2026-08-01T16:56:48.865931+00:00
+49124218,Elevators,https://john.fun/elevators,1506,375,2026-08-01T16:56:48.865931+00:00
+49087499,Linux on ESP32,https://github.com/GrieferPig/esp32-s31-linux,37,14,2026-08-01T16:56:48.865931+00:00
+49105331,Study uncovers lost 'golden age' of languages,https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages,23,9,2026-08-01T16:56:48.865931+00:00
+49109019,Register deprivation: spills and runtime under forced register scarcity,https://rjp.io/blog/2026-07-19-register-deprivation,5,0,2026-08-01T16:56:48.865931+00:00
+49105013,"Manual: •.,:;?·",https://type.today/en/journal/dots,87,15,2026-08-01T16:56:48.865931+00:00
+49133655,Kontigo (YC S24) Is Hiring,https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer,0,0,2026-08-01T16:56:48.865931+00:00
+49135365,"GitHub has alternatives, but no replacement",https://lalitm.com/post/github-alternatives/,61,65,2026-08-01T16:56:48.865931+00:00
+49130604,Flint: A Visualization Language for the AI Era,https://microsoft.github.io/flint-chart/,219,64,2026-08-01T16:56:48.865931+00:00
+49135507,Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran,https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html,38,14,2026-08-01T16:56:48.865931+00:00
+49135174,Ask HN: Any tips for a college freshman enrolled in computer science?,item?id=49135174,19,29,2026-08-01T16:56:48.865931+00:00
+49132460,RamenHaus,https://ramen.haus/,167,82,2026-08-01T16:56:48.865931+00:00
+49132083,Solid Queue 1.6.0 now supports fiber workers,https://github.com/rails/solid_queue/releases/tag/v1.6.0,68,24,2026-08-01T16:56:48.865931+00:00
+49126604,qm – Multiplayer agent harness for work,https://github.com/yc-software/qm,625,146,2026-08-01T16:56:48.865931+00:00
+49091614,A tiny holdout building in the middle of Macy’s is back in view,https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/,144,41,2026-08-01T16:56:48.865931+00:00
+49133777,Astro Loop,https://pubdeer.com/,21,3,2026-08-01T16:56:48.865931+00:00
+49129990,How to Exist,https://www.raptitude.com/2026/07/how-to-exist/,314,186,2026-08-01T16:56:48.865931+00:00
+49096605,Software for One,https://www.ajwaxman.com/writing/software-for-one,195,199,2026-08-01T16:56:48.865931+00:00
+49132058,Ten advances in mathematics and theoretical computer science,https://openai.com/index/ten-advances-in-mathematics/,318,207,2026-08-01T16:56:48.865931+00:00
+49123386,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,https://github.com/sqliteai/waste,300,141,2026-08-01T16:56:48.865931+00:00
+49083207,The First Idempotency Key,https://hatchet.run/blog/first-idempotency-key,26,5,2026-08-01T16:56:48.865931+00:00
+49096847,"G'mic 4.0: Squaring the Pixel, Easier",https://gmic.eu/gmic40/,69,4,2026-08-01T16:56:48.865931+00:00
+49130726,The development pipeline is a production system,https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system,128,64,2026-08-01T16:56:48.865931+00:00
