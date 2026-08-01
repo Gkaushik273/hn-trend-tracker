@@ -6269,3 +6269,33 @@ story_id,title,link,points,comments,scraped_at
 49083207,The First Idempotency Key,https://hatchet.run/blog/first-idempotency-key,26,5,2026-08-01T16:56:48.865931+00:00
 49096847,"G'mic 4.0: Squaring the Pixel, Easier",https://gmic.eu/gmic40/,69,4,2026-08-01T16:56:48.865931+00:00
 49130726,The development pipeline is a production system,https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system,128,64,2026-08-01T16:56:48.865931+00:00
+49136063,I ♥ RSS – A directory of people who love RSS,https://andrewshell.org/2026/07/i-%e2%99%a5-rss/,91,41,2026-08-01T17:58:36.803962+00:00
+49135257,Cursor removed cost information from the usage page and CSV export,https://forum.cursor.com/t/usage-page-to-token-amount-what/167153,148,61,2026-08-01T17:58:36.803962+00:00
+49134599,The Art of 64-bit Assembly,https://nostarch.com/art-64-bit-assembly-v2,95,48,2026-08-01T17:58:36.803962+00:00
+49135985,Kaisel – Routes as Values. Dart 3 Native Router for Flutter,https://kaisel.dev/,16,0,2026-08-01T17:58:36.803962+00:00
+49133889,RipGrep musl binaries occasionally segfault during very-large searches,https://github.com/BurntSushi/ripgrep/issues/3494,186,109,2026-08-01T17:58:36.803962+00:00
+49135245,Explorative modeling: Train on the best of K guesses,https://alexiglad.github.io/blog/2026/explorative_modeling/,30,6,2026-08-01T17:58:36.803962+00:00
+49134694,A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention,https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/,161,86,2026-08-01T17:58:36.803962+00:00
+49135546,Pgtestdb's template cloning approach to testing is fast,https://brandur.org/fragments/pgtestdb,26,8,2026-08-01T17:58:36.803962+00:00
+49109019,Register deprivation: spills and runtime under forced register scarcity,https://rjp.io/blog/2026-07-19-register-deprivation,13,1,2026-08-01T17:58:36.803962+00:00
+49105331,Study uncovers lost 'golden age' of languages,https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages,36,27,2026-08-01T17:58:36.803962+00:00
+49085369,Rear center fuel tank adds roughly 20k liters and extends range by 1k NM,https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies,21,23,2026-08-01T17:58:36.803962+00:00
+49134038,Charlie Stross – On the non-use of AI in my writing process,https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html,93,71,2026-08-01T17:58:36.803962+00:00
+49105013,"Manual: •.,:;?·",https://type.today/en/journal/dots,92,19,2026-08-01T17:58:36.803962+00:00
+49130604,Flint: A Visualization Language for the AI Era,https://microsoft.github.io/flint-chart/,227,65,2026-08-01T17:58:36.803962+00:00
+49132460,RamenHaus,https://ramen.haus/,173,83,2026-08-01T17:58:36.803962+00:00
+49126604,qm – Multiplayer agent harness for work,https://github.com/yc-software/qm,633,146,2026-08-01T17:58:36.803962+00:00
+49132083,Solid Queue 1.6.0 now supports fiber workers,https://github.com/rails/solid_queue/releases/tag/v1.6.0,72,30,2026-08-01T17:58:36.803962+00:00
+49133655,Kontigo (YC S24) Is Hiring,https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer,0,0,2026-08-01T17:58:36.803962+00:00
+49087499,Linux on ESP32,https://github.com/GrieferPig/esp32-s31-linux,47,18,2026-08-01T17:58:36.803962+00:00
+49091614,A tiny holdout building in the middle of Macy’s is back in view,https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/,157,45,2026-08-01T17:58:36.803962+00:00
+49130726,The development pipeline is a production system,https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system,136,66,2026-08-01T17:58:36.803962+00:00
+49124218,Elevators,https://john.fun/elevators,1516,382,2026-08-01T17:58:36.803962+00:00
+49096605,Software for One,https://www.ajwaxman.com/writing/software-for-one,203,208,2026-08-01T17:58:36.803962+00:00
+49133777,Astro Loop,https://pubdeer.com/,24,6,2026-08-01T17:58:36.803962+00:00
+49129990,How to Exist,https://www.raptitude.com/2026/07/how-to-exist/,328,194,2026-08-01T17:58:36.803962+00:00
+49123386,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,https://github.com/sqliteai/waste,304,146,2026-08-01T17:58:36.803962+00:00
+49096847,"G'mic 4.0: Squaring the Pixel, Easier",https://gmic.eu/gmic40/,74,4,2026-08-01T17:58:36.803962+00:00
+49135184,Toast IDE Gets Markdown Spell Checking,https://github.com/paradise-runner/toast,4,1,2026-08-01T17:58:36.803962+00:00
+49132058,Ten advances in mathematics and theoretical computer science,https://openai.com/index/ten-advances-in-mathematics/,341,224,2026-08-01T17:58:36.803962+00:00
+49135511,BMW Is Showing Commercials on Their Car's Dash Screens as a Treat,https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/,21,9,2026-08-01T17:58:36.803962+00:00
