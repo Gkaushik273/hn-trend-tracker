@@ -6089,3 +6089,33 @@ story_id,title,link,points,comments,scraped_at
 49123468,"Authorize, don't authenticate",https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html,83,31,2026-08-01T08:10:43.261034+00:00
 49124358,Is AI reasoning right for the wrong reasons?,https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/,158,181,2026-08-01T08:10:43.261034+00:00
 49083599,"Twenty-five years ago it was cryptography, today it's model weights",https://weeraman.com/because-we-can/,233,119,2026-08-01T08:10:43.261034+00:00
+49132130,"AI doesn't generate working products, that's still your job",https://weeraman.com/the-prototype-isnt-the-product/,54,32,2026-08-01T10:14:56.211161+00:00
+49132460,RamenHaus,https://ramen.haus/,72,24,2026-08-01T10:14:56.211161+00:00
+49124218,Elevators,https://john.fun/elevators,1305,321,2026-08-01T10:14:56.211161+00:00
+49130604,Flint: A Visualization Language for the AI Era,https://microsoft.github.io/flint-chart/,123,41,2026-08-01T10:14:56.211161+00:00
+49132083,Solid Queue 1.6.0 now supports fiber workers,https://github.com/rails/solid_queue/releases/tag/v1.6.0,14,1,2026-08-01T10:14:56.211161+00:00
+49126604,qm – Multiplayer agent harness for work,https://github.com/yc-software/qm,574,119,2026-08-01T10:14:56.211161+00:00
+49129990,How to Exist,https://www.raptitude.com/2026/07/how-to-exist/,204,117,2026-08-01T10:14:56.211161+00:00
+49130726,The development pipeline is a production system,https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system,84,34,2026-08-01T10:14:56.211161+00:00
+49132289,How to Do Great Work,https://paulgraham.com/greatwork.html,13,1,2026-08-01T10:14:56.211161+00:00
+49096605,Software for One,https://www.ajwaxman.com/writing/software-for-one,116,96,2026-08-01T10:14:56.211161+00:00
+49132058,Ten advances in mathematics and theoretical computer science,https://openai.com/index/ten-advances-in-mathematics/,103,81,2026-08-01T10:14:56.211161+00:00
+49096847,"G'mic 4.0: Squaring the Pixel, Easier",https://gmic.eu/gmic40/,20,2,2026-08-01T10:14:56.211161+00:00
+49077646,Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide,https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html,39,0,2026-08-01T10:14:56.211161+00:00
+49091614,A tiny holdout building in the middle of Macy’s is back in view,https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/,29,9,2026-08-01T10:14:56.211161+00:00
+49120097,"Google fixed more Chrome bugs in June than over the past two years, thanks to AI",https://blog.google/security/chrome-stronger-with-every-update/,520,537,2026-08-01T10:14:56.211161+00:00
+49131367,Ten Ways NAS Is Getting Enshitified,https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/,93,83,2026-08-01T10:14:56.211161+00:00
+49083141,AWS Secrets Manager Terraform: Least-Privilege Access,https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/,7,0,2026-08-01T10:14:56.211161+00:00
+49117089,The Absurdity of Albert Camus,https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus,124,54,2026-08-01T10:14:56.211161+00:00
+49123386,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,https://github.com/sqliteai/waste,252,107,2026-08-01T10:14:56.211161+00:00
+49121196,Progressive Web Components,https://arielsalminen.com/2026/progressive-web-components/,155,32,2026-08-01T10:14:56.211161+00:00
+49125034,Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio,https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/,191,95,2026-08-01T10:14:56.211161+00:00
+49126765,"June in Servo: real world compat, media queries, SharedWorker, and more",https://servo.org/blog/2026/07/31/june-in-servo/,153,49,2026-08-01T10:14:56.211161+00:00
+49124858,Big Food vs. the People,https://www.lighthousereports.com/investigation/big-food-vs-the-people/,231,146,2026-08-01T10:14:56.211161+00:00
+49121849,Increasing the lifespan of a bulb makes it worse in every other way,https://maurycyz.com/misc/tungsten/,90,90,2026-08-01T10:14:56.211161+00:00
+49132341,EU will mandate labels on authentic-looking AI content starting August 2,https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/,17,2,2026-08-01T10:14:56.211161+00:00
+49127031,Golang proposal: container/: generic collection types,https://github.com/golang/go/issues/80590,154,126,2026-08-01T10:14:56.211161+00:00
+49084005,Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019),https://www.phidgets.com/?view=articles&article=LongRangeWifi,55,32,2026-08-01T10:14:56.211161+00:00
+49124042,The most official water costs $120k a gallon,https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/,189,150,2026-08-01T10:14:56.211161+00:00
+49128462,Loops (YC W22) Is Hiring a Product Educator,https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator,0,0,2026-08-01T10:14:56.211161+00:00
+49128323,Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena,https://arxiv.org/abs/2607.28233,51,29,2026-08-01T10:14:56.211161+00:00
