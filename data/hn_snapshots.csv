@@ -6299,3 +6299,33 @@ story_id,title,link,points,comments,scraped_at
 49135184,Toast IDE Gets Markdown Spell Checking,https://github.com/paradise-runner/toast,4,1,2026-08-01T17:58:36.803962+00:00
 49132058,Ten advances in mathematics and theoretical computer science,https://openai.com/index/ten-advances-in-mathematics/,341,224,2026-08-01T17:58:36.803962+00:00
 49135511,BMW Is Showing Commercials on Their Car's Dash Screens as a Treat,https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/,21,9,2026-08-01T17:58:36.803962+00:00
+49136736,NetBSD 11.0 Released,https://blog.netbsd.org/tnf/entry/netbsd_11_0_released,64,10,2026-08-01T19:12:02.530817+00:00
+49134599,The Art of 64-bit Assembly,https://nostarch.com/art-64-bit-assembly-v2,114,64,2026-08-01T19:12:02.530817+00:00
+49137060,Postmortem for Kernel Soundness Bug #14576,https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/,17,2,2026-08-01T19:12:02.530817+00:00
+49135985,Kaisel – Routes as Values. Dart 3 Native Router for Flutter,https://kaisel.dev/,28,1,2026-08-01T19:12:02.530817+00:00
+49135245,Explorative modeling: Train on the best of K guesses,https://alexiglad.github.io/blog/2026/explorative_modeling/,45,18,2026-08-01T19:12:02.530817+00:00
+49135546,Pgtestdb's template cloning approach to testing is fast,https://brandur.org/fragments/pgtestdb,37,20,2026-08-01T19:12:02.530817+00:00
+49133889,RipGrep musl binaries occasionally segfault during very-large searches,https://github.com/BurntSushi/ripgrep/issues/3494,203,141,2026-08-01T19:12:02.530817+00:00
+49135257,Cursor removed cost information from the usage page and CSV export,https://forum.cursor.com/t/usage-page-to-token-amount-what/167153,207,94,2026-08-01T19:12:02.530817+00:00
+49134694,A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention,https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/,191,107,2026-08-01T19:12:02.530817+00:00
+49109019,Register deprivation: spills and runtime under forced register scarcity,https://rjp.io/blog/2026-07-19-register-deprivation,16,1,2026-08-01T19:12:02.530817+00:00
+49135975,"Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",https://franken.domains/,13,12,2026-08-01T19:12:02.530817+00:00
+49136063,A directory of people who love RSS,https://andrewshell.org/2026/07/i-%e2%99%a5-rss/,114,63,2026-08-01T19:12:02.530817+00:00
+49137024,Oil companies report sky-high profits thanks to wartime crude prices,https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026,14,4,2026-08-01T19:12:02.530817+00:00
+49136990,Tell HN: I hate your fuzzy search,item?id=49136990,36,18,2026-08-01T19:12:02.530817+00:00
+49130604,Flint: A Visualization Language for the AI Era,https://microsoft.github.io/flint-chart/,230,65,2026-08-01T19:12:02.530817+00:00
+49085065,Glyphs 4 – the leading Mac font editor,https://glyphsapp.com,10,2,2026-08-01T19:12:02.530817+00:00
+49105013,"Manual: •.,:;…!?·",https://type.today/en/journal/dots,93,19,2026-08-01T19:12:02.530817+00:00
+49126604,qm – Multiplayer agent harness for work,https://github.com/yc-software/qm,636,149,2026-08-01T19:12:02.530817+00:00
+49132460,RamenHaus,https://ramen.haus/,177,89,2026-08-01T19:12:02.530817+00:00
+49133655,Kontigo (YC S24) Is Hiring,https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer,0,0,2026-08-01T19:12:02.530817+00:00
+49132083,Solid Queue 1.6.0 now supports fiber workers,https://github.com/rails/solid_queue/releases/tag/v1.6.0,78,33,2026-08-01T19:12:02.530817+00:00
+49091614,The tiny holdout building in the middle of Macy’s is back in view,https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/,166,48,2026-08-01T19:12:02.530817+00:00
+49087499,Linux on ESP32,https://github.com/GrieferPig/esp32-s31-linux,56,24,2026-08-01T19:12:02.530817+00:00
+49105331,Study uncovers lost 'golden age' of languages,https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages,43,42,2026-08-01T19:12:02.530817+00:00
+49130726,The development pipeline is a production system,https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system,145,71,2026-08-01T19:12:02.530817+00:00
+49124218,Elevators,https://john.fun/elevators,1531,382,2026-08-01T19:12:02.530817+00:00
+49096605,Software for One,https://www.ajwaxman.com/writing/software-for-one,220,221,2026-08-01T19:12:02.530817+00:00
+49135426,Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga,https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe,5,1,2026-08-01T19:12:02.530817+00:00
+49123386,Run Kimi K3 using 29 GB of RAM at 0.50 tok/s,https://github.com/sqliteai/waste,314,148,2026-08-01T19:12:02.530817+00:00
+49129990,How to Exist,https://www.raptitude.com/2026/07/how-to-exist/,342,203,2026-08-01T19:12:02.530817+00:00
