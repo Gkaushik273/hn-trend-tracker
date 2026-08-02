@@ -6569,3 +6569,33 @@ story_id,title,link,points,comments,scraped_at
 49136736,NetBSD 11.0,https://blog.netbsd.org/tnf/entry/netbsd_11_0_released,282,127,2026-08-02T09:34:37.605028+00:00
 49085065,Glyphs 4 – the leading Mac font editor,https://glyphsapp.com,83,13,2026-08-02T09:34:37.605028+00:00
 49090268,The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes,https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/,9,7,2026-08-02T09:34:37.605028+00:00
+49143001,Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge,https://publicdomainreview.org/essay/ars-notoria/,13,1,2026-08-02T11:12:56.612221+00:00
+49143053,Is the Industrial Revolution a good precedent for explosive growth today?,https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html,8,2,2026-08-02T11:12:56.612221+00:00
+49142569,Show HN: Bor – Open-source policy management for Linux desktops,https://getbor.dev/blog/2026-08-02-bor-v080-release/,23,1,2026-08-02T11:12:56.612221+00:00
+49142794,Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores,https://github.com/syncular/syncular,14,5,2026-08-02T11:12:56.612221+00:00
+49140218,Go 1.27 Interactive Tour,https://victoriametrics.com/blog/go-1-27/index.html,236,89,2026-08-02T11:12:56.612221+00:00
+49140396,"Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",https://github.com/tom-ilan/cycloidal_gearbox,181,49,2026-08-02T11:12:56.612221+00:00
+49123984,Maze Toys,https://maze.toys,12,1,2026-08-02T11:12:56.612221+00:00
+49124051,A big win for Android interoperability,https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/,130,46,2026-08-02T11:12:56.612221+00:00
+49138302,Seedance 2.5,https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5,357,190,2026-08-02T11:12:56.612221+00:00
+49140702,MkLinux and the pimped-out Apple Workgroup Server 9150,http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html,59,3,2026-08-02T11:12:56.612221+00:00
+49138188,Diátaxis,https://diataxis.fr/,371,47,2026-08-02T11:12:56.612221+00:00
+49142130,Cyberscript,https://cyberscript.dev,10,4,2026-08-02T11:12:56.612221+00:00
+49140599,Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific,https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#,57,25,2026-08-02T11:12:56.612221+00:00
+49141891,I don't recommend Tailwind CSS,https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/,100,102,2026-08-02T11:12:56.612221+00:00
+49139352,Morph (YC S23) Is Hiring Member of Technical Staff,https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff,0,0,2026-08-02T11:12:56.612221+00:00
+49140213,ASRock BC-250: Building the Budget Steam Machine,https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/,69,31,2026-08-02T11:12:56.612221+00:00
+49141073,Running Kimi K3 on MI355X at Better Performance per Dollar Than B300,https://www.wafer.ai/blog/kimi-k3-mi355x,135,46,2026-08-02T11:12:56.612221+00:00
+49140405,When random.bytes() runs but doesn't work,https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt,53,24,2026-08-02T11:12:56.612221+00:00
+49141937,IBM i (OS/400) the Database Operating System,https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/,9,0,2026-08-02T11:12:56.612221+00:00
+49115423,Show HN: Logan Basic v2.1 - An online BASIC interpreter.,https://sinusoft.com/loganbasic/,10,3,2026-08-02T11:12:56.612221+00:00
+49107216,Instrumenting my espresso machine with OpenTelemetry,https://clickhouse.com/blog/espresso-machine-observability-with-otel,14,3,2026-08-02T11:12:56.612221+00:00
+49139383,Unraveling the mysteries of habit formation,https://www.kyoto-u.ac.jp/en/research-news/2026-07-28,83,30,2026-08-02T11:12:56.612221+00:00
+49109759,"Elena, a library for building Progressive Web Components",https://elenajs.com/,35,2,2026-08-02T11:12:56.612221+00:00
+49137060,Postmortem for Kernel Soundness Bug #14576,https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/,152,57,2026-08-02T11:12:56.612221+00:00
+49137713,But can your calculator run Linux?,https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html,97,9,2026-08-02T11:12:56.612221+00:00
+49139711,RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2,https://www.rfc-editor.org/rfc/rfc10015.html,61,16,2026-08-02T11:12:56.612221+00:00
+49142458,The time filter in Google Search broke a few days ago,https://mastodon.online/@mwichary/117023736804129342,23,11,2026-08-02T11:12:56.612221+00:00
+49140174,The Prospects for 128 Bit Processors ( John Mashey SGI 1995),https://yarchive.net/comp/128bit.html,25,11,2026-08-02T11:12:56.612221+00:00
+49143188,US Treasury undertakes historic intervention in yen market,https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8,3,0,2026-08-02T11:12:56.612221+00:00
+49136821,How Google helped destroy adoption of RSS feeds (2023),https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds,537,187,2026-08-02T11:12:56.612221+00:00
