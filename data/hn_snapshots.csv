@@ -6809,3 +6809,33 @@ story_id,title,link,points,comments,scraped_at
 49083146,Turtle-inspired interactive Python project,https://www.codembark.com/projects/fv20lz9map/spider-web-drawing,13,3,2026-08-02T20:27:20.532911+00:00
 49143096,Rust All Hands 2026 Retrospective,https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/,83,41,2026-08-02T20:27:20.532911+00:00
 49138188,Diátaxis,https://diataxis.fr/,506,57,2026-08-02T20:27:20.532911+00:00
+49148159,AI Mania: From Tulips to Tokens,https://seanhelvey.com/tools-and-their-tools/,18,7,2026-08-02T21:24:48.275989+00:00
+49140998,Karpathy’s Pelican,https://twitter.com/karpathy/status/2083749667410727319,288,230,2026-08-02T21:24:48.275989+00:00
+49145937,Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM,https://github.com/wie-project/kakehashi,123,29,2026-08-02T21:24:48.275989+00:00
+49084324,Note-Taking and Personal Knowledge Management,https://unattributed.cc/note-taking-and-personal-knowledge-management,49,14,2026-08-02T21:24:48.275989+00:00
+49097961,Developers are attached to tools because tools encode trust,https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/,88,38,2026-08-02T21:24:48.275989+00:00
+49147622,"My personal AI benchmark: ""Generate an SVG of a frog with a Habsburg jaw.""",https://frogs.vaguespac.es/,34,17,2026-08-02T21:24:48.275989+00:00
+49148163,"Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",https://github.com/0xchasercat/draco/,6,0,2026-08-02T21:24:48.275989+00:00
+49147978,Sharing an X11 Server Across Hosts with FamilyWild,https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/,8,1,2026-08-02T21:24:48.275989+00:00
+49146267,Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark,https://github.com/graham33/nixos-dgx-spark,64,16,2026-08-02T21:24:48.275989+00:00
+49147890,Let the Machines In,https://blog.semenzin.com/let-the-machines-in/,9,0,2026-08-02T21:24:48.275989+00:00
+49143967,Twenty Years of RISC OS Open,https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open,134,24,2026-08-02T21:24:48.275989+00:00
+49143925,F*: A general-purpose proof-oriented programming language,https://fstar-lang.org/,128,51,2026-08-02T21:24:48.275989+00:00
+49147450,Europe EV Sales BEVs Jump 50% & Reach 26% Market Share,https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/,54,26,2026-08-02T21:24:48.275989+00:00
+49145883,"Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/,65,10,2026-08-02T21:24:48.275989+00:00
+49111194,Schmitt Trigger: Robust Comparator Design with Hysteresis,https://www.wevolver.com/article/schmitt-trigger-robust-comparator-design-with-hysteresis,6,2,2026-08-02T21:24:48.275989+00:00
+49146605,Harvesting SSH Credentials: Insights from My Honeypot Network,https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/,26,20,2026-08-02T21:24:48.275989+00:00
+49123003,When transit passes were designed by hand (2022),https://letterformarchive.org/news/milwaukee-transit-passes/,75,20,2026-08-02T21:24:48.275989+00:00
+49145590,How the words we teach English language learners changed,https://pudding.cool/2026/07/essential-words/,171,99,2026-08-02T21:24:48.275989+00:00
+49094151,Fasttracker II clone in C using SDL 2,https://16-bits.org/ft2.php,105,33,2026-08-02T21:24:48.275989+00:00
+49143479,"Meshdiff – visually compare two STL versions in the browser, client-side",https://meshdiff.com/,159,16,2026-08-02T21:24:48.275989+00:00
+49148048,Show HN: Make your Framework 12 sound like a creaky door,https://github.com/ArcaEge/creakwork12,3,0,2026-08-02T21:24:48.275989+00:00
+49146960,The Myth of Snow Leopard,https://www.rubenerd.au/the-myth-of-snow-leopard/,10,0,2026-08-02T21:24:48.275989+00:00
+49093845,Folding Paper Globes,https://foldingglobes.com/globes,123,27,2026-08-02T21:24:48.275989+00:00
+49147435,'Crush this lady': how eBay harassment campaign led to $56M payout,https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2,63,16,2026-08-02T21:24:48.275989+00:00
+49143683,Great Question (YC W21) Is Hiring Senior Demand Gen Manager,https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager,0,0,2026-08-02T21:24:48.275989+00:00
+49147478,German carmakers flood jobs market with managers after wielding axe,https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597,33,29,2026-08-02T21:24:48.275989+00:00
+49142569,Show HN: Bor – Open-source policy management for Linux desktops,https://getbor.dev/blog/2026-08-02-bor-v080-release/,156,19,2026-08-02T21:24:48.275989+00:00
+49148128,EU Age Verification Project Mandates Hardware-Bound Attestation,https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/,14,2,2026-08-02T21:24:48.275989+00:00
+49143001,Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge,https://publicdomainreview.org/essay/ars-notoria/,116,28,2026-08-02T21:24:48.275989+00:00
+49143412,Show HN: Fuse – statically typed functional programming language,https://fuselang.org,91,26,2026-08-02T21:24:48.275989+00:00
