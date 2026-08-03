@@ -7169,3 +7169,33 @@ story_id,title,link,points,comments,scraped_at
 49154332,SQLite Critical CVEs or LLM Slop?,https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/,685,337,2026-08-03T22:02:45.257224+00:00
 49152023,Rust project goals: Immobile types and guaranteed destructors,https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md,224,87,2026-08-03T22:02:45.257224+00:00
 49155626,"SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",https://dmarcguard.io/blog/spf-record-syntax/,45,11,2026-08-03T22:02:45.257224+00:00
+49161518,LLMs reward expertise,https://www.seangoedecke.com/llms-reward-expertise/,273,116,2026-08-03T23:33:58.810506+00:00
+49157930,Ten advances in mathematics and theoretical computer science,https://openai.com/index/ten-advances-in-mathematics/,383,672,2026-08-03T23:33:58.810506+00:00
+49162086,Windows XP 2002 for the Itanium: Unbridled rage,https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/,32,1,2026-08-03T23:33:58.810506+00:00
+49156111,Devtools must be open source,https://blog.exe.dev/devtools-must-be-open-source,465,171,2026-08-03T23:33:58.810506+00:00
+49156683,Ask HN: Who is hiring? (August 2026),item?id=49156683,57,81,2026-08-03T23:33:58.810506+00:00
+49158581,"Smaller, faster, safer: running Kimi and GLM at scale",https://blog.cloudflare.com/smaller-faster-safer-models/,122,31,2026-08-03T23:33:58.810506+00:00
+49156682,Ask HN: Who wants to be hired? (August 2026),item?id=49156682,22,137,2026-08-03T23:33:58.810506+00:00
+49132992,200 Milliseconds,https://200ms.thenodebook.com,154,47,2026-08-03T23:33:58.810506+00:00
+49158474,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase,117,32,2026-08-03T23:33:58.810506+00:00
+49155629,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui,237,75,2026-08-03T23:33:58.810506+00:00
+49131250,Battle of the Beams,https://en.wikipedia.org/wiki/Battle_of_the_Beams,11,1,2026-08-03T23:33:58.810506+00:00
+49153374,Prevent cognitive debt by manually retyping LLM-generated code,https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/,360,296,2026-08-03T23:33:58.810506+00:00
+49156011,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,https://clickhouse.com/blog/andy-pavlo-joins-clickhouse,254,54,2026-08-03T23:33:58.810506+00:00
+49106935,Replacing the Kobo Libra H2O Battery,https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/,37,9,2026-08-03T23:33:58.810506+00:00
+49160437,The Dunning-Kruger effect may just be a data artefact (2020),https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real,104,108,2026-08-03T23:33:58.810506+00:00
+49157997,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,https://hoplite.sh,49,50,2026-08-03T23:33:58.810506+00:00
+49161801,ZX Spectrum System Tour: Text Mode,https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/,11,0,2026-08-03T23:33:58.810506+00:00
+49082937,How Hollywood stopped making movies in Hollywood,https://www.statsignificant.com/p/how-hollywood-stopped-making-movies,156,178,2026-08-03T23:33:58.810506+00:00
+49123105,Kelly Criterion Simulator,https://kellysimulator.com/,47,22,2026-08-03T23:33:58.810506+00:00
+49159970,KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer,https://github.com/SwagSoftware/KisakCOD,30,3,2026-08-03T23:33:58.810506+00:00
+49124213,Massively Parallel Postgres Backups,https://planetscale.com/blog/massively-parallel-postgres-backups,84,10,2026-08-03T23:33:58.810506+00:00
+49154228,AirLLM 70B inference with single 4GB GPU,https://github.com/lyogavin/airllm,181,69,2026-08-03T23:33:58.810506+00:00
+49152842,Bonsai: Janestreet's UI Library,https://github.com/janestreet/bonsai,291,111,2026-08-03T23:33:58.810506+00:00
+49125168,Decades-old fish sauce at abandoned factory in Canada finally being removed,https://defector.com/abandoned-fish-sauce-canada-interview,186,180,2026-08-03T23:33:58.810506+00:00
+49159676,ZX Spectrum System Tour: Sound,https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/,28,5,2026-08-03T23:33:58.810506+00:00
+49158714,The Billable Usage API: programmatic cost visibility for Cloudflare,https://blog.cloudflare.com/billable-usage-api/,38,6,2026-08-03T23:33:58.810506+00:00
+49156750,Twenty Years of Pandoc,https://pandoc.org/twenty-years-of-pandoc.html,71,9,2026-08-03T23:33:58.810506+00:00
+49157786,What's the largest software project AI can complete on its own?,https://epoch.ai/MirrorCode,57,62,2026-08-03T23:33:58.810506+00:00
+49160631,DDoS against Norwegian government IT infrastructure – status,https://status.digdir.no/incidents/d7hvqmf2yr3l,78,57,2026-08-03T23:33:58.810506+00:00
+49158287,Use Task Runners for Common Coding Tasks,https://hamvocke.com/blog/task-runners/,62,21,2026-08-03T23:33:58.810506+00:00
