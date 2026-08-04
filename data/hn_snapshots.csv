@@ -7289,3 +7289,33 @@ story_id,title,link,points,comments,scraped_at
 49161801,ZX Spectrum System Tour: Text Mode,https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/,42,2,2026-08-04T07:59:28.200947+00:00
 49151734,More German than many Germans,https://mertbulan.com/more-german-than-many-germans/,503,355,2026-08-04T07:59:28.200947+00:00
 49154228,AirLLM 70B inference with single 4GB GPU,https://github.com/lyogavin/airllm,216,77,2026-08-04T07:59:28.200947+00:00
+49166202,FFmpeg 9.0,https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES,130,13,2026-08-04T10:44:18.180020+00:00
+49166182,Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal,https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal,34,26,2026-08-04T10:44:18.180020+00:00
+49166386,DeepSeek V4 Flash on a Single AMD MI300X,https://github.com/ryanzhou/deepseek-v4-flash-mi300x,14,0,2026-08-04T10:44:18.180020+00:00
+49161518,LLMs reward expertise,https://www.seangoedecke.com/llms-reward-expertise/,980,416,2026-08-04T10:44:18.180020+00:00
+49164896,Harness Engineering for Self-Improvement,https://lilianweng.github.io/posts/2026-07-04-harness/,62,7,2026-08-04T10:44:18.180020+00:00
+49158333,"Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",https://github.com/leonickson1/Swiftlet,190,84,2026-08-04T10:44:18.180020+00:00
+49165665,You don't need React: creating a minimal UI library in Vanilla JavaScript,https://pedroth.github.io/?p=post/NoNeedReact,41,32,2026-08-04T10:44:18.180020+00:00
+49157930,Ten advances in mathematics and theoretical computer science,https://openai.com/index/ten-advances-in-mathematics/,545,835,2026-08-04T10:44:18.180020+00:00
+49156111,Devtools must be open source,https://blog.exe.dev/devtools-must-be-open-source,620,206,2026-08-04T10:44:18.180020+00:00
+49099336,Amazonian civilization had estimated 3M people in 3% of forest area,https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization,158,129,2026-08-04T10:44:18.180020+00:00
+49095386,That time when I failed the Microsoft interview,https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/,68,118,2026-08-04T10:44:18.180020+00:00
+49166254,"The US is not a democracy but an oligarchy, study concludes (2014)",https://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/,55,20,2026-08-04T10:44:18.180020+00:00
+49165170,CollectWise (YC F24) Is Hiring,https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer,0,0,2026-08-04T10:44:18.180020+00:00
+49135005,Archaeologists Find Ancient Glyphs in the Amazon,https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html,7,4,2026-08-04T10:44:18.180020+00:00
+49156683,Ask HN: Who is hiring? (August 2026),item?id=49156683,179,170,2026-08-04T10:44:18.180020+00:00
+49153374,Prevent cognitive debt by manually retyping LLM-generated code,https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/,489,403,2026-08-04T10:44:18.180020+00:00
+49162653,There Will Come Soft Rains (1950) [pdf],https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf,162,59,2026-08-04T10:44:18.180020+00:00
+49158581,"Smaller, faster, safer: running Kimi and GLM at scale",https://blog.cloudflare.com/smaller-faster-safer-models/,221,58,2026-08-04T10:44:18.180020+00:00
+49156750,Twenty Years of Pandoc,https://pandoc.org/twenty-years-of-pandoc.html,270,31,2026-08-04T10:44:18.180020+00:00
+49119671,Beauty in my backyard,https://worksinprogress.co/issue/beauty-in-my-backyard/,26,8,2026-08-04T10:44:18.180020+00:00
+49156682,Ask HN: Who wants to be hired? (August 2026),item?id=49156682,119,288,2026-08-04T10:44:18.180020+00:00
+49155629,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui,300,87,2026-08-04T10:44:18.180020+00:00
+49157997,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,https://hoplite.sh,72,59,2026-08-04T10:44:18.180020+00:00
+49165845,Show HN: I made a private self-destructing image hosting site in Golang,https://picburn.xyz/,3,0,2026-08-04T10:44:18.180020+00:00
+49127492,Trembling Photons in Non-Abelian Electric Fields,https://physics.aps.org/articles/v19/89,9,1,2026-08-04T10:44:18.180020+00:00
+49158474,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase,168,43,2026-08-04T10:44:18.180020+00:00
+49156011,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,https://clickhouse.com/blog/andy-pavlo-joins-clickhouse,314,67,2026-08-04T10:44:18.180020+00:00
+49132992,200 Milliseconds,https://200ms.thenodebook.com,287,88,2026-08-04T10:44:18.180020+00:00
+49162086,Windows XP 2002 for the Itanium: Unbridled rage,https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/,107,60,2026-08-04T10:44:18.180020+00:00
+49106935,Replacing the Kobo Libra H2O Battery,https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/,78,29,2026-08-04T10:44:18.180020+00:00
