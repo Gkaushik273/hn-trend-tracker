@@ -7919,3 +7919,33 @@ story_id,title,link,points,comments,scraped_at
 49184216,The Valley of Webhooks,https://weli.dev/blog/the-valley-of-webhooks/,154,73,2026-08-06T02:00:14.778315+00:00
 49187084,What happens if you put work into the second dimension?,https://norbertkozsir.com/posts/work-in-the-second-dimension/,51,43,2026-08-06T02:00:14.778315+00:00
 49187259,Sula: A Gemini protocol server written in Scryer Prolog,https://sagredo.dev/projects/sula/,45,2,2026-08-06T02:00:14.778315+00:00
+49191624,Nashville uses eminent domain to block data center near zoo,https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project,152,158,2026-08-06T05:23:32.788262+00:00
+49184960,Discovery Loop,https://www.discoveryloop.com/,665,416,2026-08-06T05:23:32.788262+00:00
+49187256,Zed DeltaDB,https://zed.dev/deltadb,351,187,2026-08-06T05:23:32.788262+00:00
+49184755,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/,564,637,2026-08-06T05:23:32.788262+00:00
+49189287,The title cards in Blade Runner are amazing,https://randsinrepose.com/archives/blade-runner-title-cards/,200,92,2026-08-06T05:23:32.788262+00:00
+49151991,Branchless Rust: Making a Filter 4x Faster by Removing an If,https://www.greyblake.com/blog/branchless-rust/,82,17,2026-08-06T05:23:32.788262+00:00
+49187575,Muse Code and Muse Spark 1.2,https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2,217,125,2026-08-06T05:23:32.788262+00:00
+49186762,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency,267,66,2026-08-06T05:23:32.788262+00:00
+49187061,"Born Against, or why hobby programming communities are against LLM usage",https://blog.fogus.me/llm/born-against.html,183,176,2026-08-06T05:23:32.788262+00:00
+49189075,Prime Agent: A self-improving RLM agent,https://www.primeintellect.ai/blog/prime-agent,138,24,2026-08-06T05:23:32.788262+00:00
+49182996,"Cloudflare OS: an open platform for agents, apps, and work",https://blog.cloudflare.com/cloudflare-os/,514,254,2026-08-06T05:23:32.788262+00:00
+49112348,Quantego: A Family of Lego Models of IBM Quantum Computers,https://quantego.org/,6,0,2026-08-06T05:23:32.788262+00:00
+49185983,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data,201,79,2026-08-06T05:23:32.788262+00:00
+49189234,NVIDIA’s Vera Whitepaper Has a Thread Loose,https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread,110,15,2026-08-06T05:23:32.788262+00:00
+49185430,"Celld: Self-hosted, distributed Durable Objects",https://github.com/denoland/celld,179,30,2026-08-06T05:23:32.788262+00:00
+49146183,GNU Hurd News 2026-Q2,https://www.gnu.org/software/hurd/news/2026-q2.html,154,101,2026-08-06T05:23:32.788262+00:00
+49189113,I'll be stepping back from leading product for X,https://twitter.com/nikitabier/status/2085105586966827343/,98,157,2026-08-06T05:23:32.788262+00:00
+49188022,I'm switching my phone from Android to Linux,https://runarcn.no/android-to-linux/,256,212,2026-08-06T05:23:32.788262+00:00
+49192277,"Ship Safe, an open source security scanner for coding agents",https://github.com/asamassekou10/ship-safe,3,0,2026-08-06T05:23:32.788262+00:00
+49192219,"Show HN: Wallfacer – A terminal session manager for Claude Code, and more",https://github.com/pradipta/wallfacer,7,1,2026-08-06T05:23:32.788262+00:00
+49181083,Position: LLMs Can't Jump,https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt,259,175,2026-08-06T05:23:32.788262+00:00
+49186720,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),https://arxiv.org/abs/2510.01395,94,60,2026-08-06T05:23:32.788262+00:00
+49106756,The Origins of Vintage Comics Part 1,https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1,22,1,2026-08-06T05:23:32.788262+00:00
+49126716,Goodhart's Law Comes for Every Benchmark You Trust,https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/,75,32,2026-08-06T05:23:32.788262+00:00
+49125532,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",https://github.com/morishuz/delaunay32,44,5,2026-08-06T05:23:32.788262+00:00
+49115096,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,https://www.science.org/doi/10.1126/sciadv.aeg8299,120,55,2026-08-06T05:23:32.788262+00:00
+49124917,Online Friends Are Real Friends,https://toska.bearblog.dev/re-online-friends-are-real-friends/,92,56,2026-08-06T05:23:32.788262+00:00
+49183017,The Entropy of a Markov Chain,https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain,117,9,2026-08-06T05:23:32.788262+00:00
+49099904,Pushing the limits of RISC-V emulation,https://shuklaayu.sh/blog/riscv-recompiler,36,17,2026-08-06T05:23:32.788262+00:00
+49184216,The Valley of Webhooks,https://weli.dev/blog/the-valley-of-webhooks/,173,79,2026-08-06T05:23:32.788262+00:00
