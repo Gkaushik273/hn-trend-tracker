@@ -7889,3 +7889,33 @@ story_id,title,link,points,comments,scraped_at
 49185215,Stop sending me your errors,https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html,44,6,2026-08-05T23:54:51.342959+00:00
 49185931,Phishers are hijacking legitimate cloud infrastructure,https://securelist.com/cloud-platforms-in-phishing/120832/,41,13,2026-08-05T23:54:51.342959+00:00
 49181083,Position: LLMs Can't Jump,https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt,233,162,2026-08-05T23:54:51.342959+00:00
+49184960,Discovery Loop,https://www.discoveryloop.com/,599,383,2026-08-06T02:00:14.778315+00:00
+49187256,Zed DeltaDB,https://zed.dev/deltadb,304,156,2026-08-06T02:00:14.778315+00:00
+49189287,The title cards in Blade Runner are amazing,https://randsinrepose.com/archives/blade-runner-title-cards/,144,62,2026-08-06T02:00:14.778315+00:00
+49184755,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/,477,593,2026-08-06T02:00:14.778315+00:00
+49187575,Muse Code and Muse Spark 1.2,https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2,177,106,2026-08-06T02:00:14.778315+00:00
+49186762,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency,226,47,2026-08-06T02:00:14.778315+00:00
+49189075,Prime Agent: A self-improving RLM agent,https://www.primeintellect.ai/blog/prime-agent,105,19,2026-08-06T02:00:14.778315+00:00
+49185983,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data,171,68,2026-08-06T02:00:14.778315+00:00
+49151991,Branchless Rust: Making a Filter 4x Faster by Removing an If,https://www.greyblake.com/blog/branchless-rust/,15,0,2026-08-06T02:00:14.778315+00:00
+49187061,"Born Against, or why hobby programming communities are against LLM usage",https://blog.fogus.me/llm/born-against.html,131,141,2026-08-06T02:00:14.778315+00:00
+49189234,NVIDIA’s Vera Whitepaper Has a Thread Loose,https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread,85,13,2026-08-06T02:00:14.778315+00:00
+49189113,I'll be stepping back from leading product for X,https://twitter.com/nikitabier/status/2085105586966827343/,60,80,2026-08-06T02:00:14.778315+00:00
+49182996,"Cloudflare OS: an open platform for agents, apps, and work",https://blog.cloudflare.com/cloudflare-os/,472,237,2026-08-06T02:00:14.778315+00:00
+49185111,Something is changing in the unit economics of software,https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/,27,20,2026-08-06T02:00:14.778315+00:00
+49188022,I'm switching my phone from Android to Linux,https://runarcn.no/android-to-linux/,210,173,2026-08-06T02:00:14.778315+00:00
+49146183,GNU Hurd News 2026-Q2,https://www.gnu.org/software/hurd/news/2026-q2.html,127,91,2026-08-06T02:00:14.778315+00:00
+49185430,"Celld: Self-hosted, distributed Durable Objects",https://github.com/denoland/celld,145,25,2026-08-06T02:00:14.778315+00:00
+49125532,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",https://github.com/morishuz/delaunay32,32,2,2026-08-06T02:00:14.778315+00:00
+49181083,Position: LLMs Can't Jump,https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt,244,166,2026-08-06T02:00:14.778315+00:00
+49126716,Goodhart's Law Comes for Every Benchmark You Trust,https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/,62,30,2026-08-06T02:00:14.778315+00:00
+49099904,Pushing the limits of RISC-V emulation,https://shuklaayu.sh/blog/riscv-recompiler,23,8,2026-08-06T02:00:14.778315+00:00
+49185389,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,https://www.hyperprobe.co,44,31,2026-08-06T02:00:14.778315+00:00
+49115096,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,https://www.science.org/doi/10.1126/sciadv.aeg8299,111,48,2026-08-06T02:00:14.778315+00:00
+49106756,The Origins of Vintage Comics Part 1,https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1,9,1,2026-08-06T02:00:14.778315+00:00
+49183017,The Entropy of a Markov Chain,https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain,106,9,2026-08-06T02:00:14.778315+00:00
+49186720,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),https://arxiv.org/abs/2510.01395,74,53,2026-08-06T02:00:14.778315+00:00
+49124917,Online Friends Are Real Friends,https://toska.bearblog.dev/re-online-friends-are-real-friends/,66,47,2026-08-06T02:00:14.778315+00:00
+49184216,The Valley of Webhooks,https://weli.dev/blog/the-valley-of-webhooks/,154,73,2026-08-06T02:00:14.778315+00:00
+49187084,What happens if you put work into the second dimension?,https://norbertkozsir.com/posts/work-in-the-second-dimension/,51,43,2026-08-06T02:00:14.778315+00:00
+49187259,Sula: A Gemini protocol server written in Scryer Prolog,https://sagredo.dev/projects/sula/,45,2,2026-08-06T02:00:14.778315+00:00
