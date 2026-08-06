@@ -7949,3 +7949,33 @@ story_id,title,link,points,comments,scraped_at
 49183017,The Entropy of a Markov Chain,https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain,117,9,2026-08-06T05:23:32.788262+00:00
 49099904,Pushing the limits of RISC-V emulation,https://shuklaayu.sh/blog/riscv-recompiler,36,17,2026-08-06T05:23:32.788262+00:00
 49184216,The Valley of Webhooks,https://weli.dev/blog/the-valley-of-webhooks/,173,79,2026-08-06T05:23:32.788262+00:00
+49192566,Crime Pays but Botany Doesn't,https://www.crimepaysbutbotanydoesnt.com/reading-list,112,40,2026-08-06T08:00:17.142368+00:00
+49184960,Discovery Loop,https://www.discoveryloop.com/,723,446,2026-08-06T08:00:17.142368+00:00
+49168622,How to Make a Nintendo 64 Game in 2026,https://phoboslab.org/log/2026/08/xibalba64-making-of,8,0,2026-08-06T08:00:17.142368+00:00
+49184755,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/,624,674,2026-08-06T08:00:17.142368+00:00
+49187256,Zed DeltaDB,https://zed.dev/deltadb,398,212,2026-08-06T08:00:17.142368+00:00
+49151991,Branchless Rust: Making a Filter 4x Faster by Removing an If,https://www.greyblake.com/blog/branchless-rust/,148,35,2026-08-06T08:00:17.142368+00:00
+49193314,Let's all meet up in the Y2K,https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/,10,1,2026-08-06T08:00:17.142368+00:00
+49191624,Nashville uses eminent domain to block data center near zoo,https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project,221,251,2026-08-06T08:00:17.142368+00:00
+49189287,The title cards in Blade Runner are amazing,https://randsinrepose.com/archives/blade-runner-title-cards/,245,113,2026-08-06T08:00:17.142368+00:00
+49187575,Muse Code and Muse Spark 1.2,https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2,245,145,2026-08-06T08:00:17.142368+00:00
+49186762,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency,296,76,2026-08-06T08:00:17.142368+00:00
+49112348,Quantego: A Family of Lego Models of IBM Quantum Computers,https://quantego.org/,19,7,2026-08-06T08:00:17.142368+00:00
+49187061,"Born Against, or why hobby programming communities are against LLM usage",https://blog.fogus.me/llm/born-against.html,243,224,2026-08-06T08:00:17.142368+00:00
+49189075,Prime Agent: A self-improving RLM agent,https://www.primeintellect.ai/blog/prime-agent,173,32,2026-08-06T08:00:17.142368+00:00
+49182996,"Cloudflare OS: an open platform for agents, apps, and work",https://blog.cloudflare.com/cloudflare-os/,546,263,2026-08-06T08:00:17.142368+00:00
+49157792,Decimen Optical Transfer: fountain-coded QR file transfer,https://github.com/bashalarmistalt/decimen-optical-transfer,14,7,2026-08-06T08:00:17.142368+00:00
+49185983,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data,215,86,2026-08-06T08:00:17.142368+00:00
+49185389,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,https://www.hyperprobe.co,54,41,2026-08-06T08:00:17.142368+00:00
+49185430,"Celld: Self-hosted, distributed Durable Objects",https://github.com/denoland/celld,201,31,2026-08-06T08:00:17.142368+00:00
+49146183,GNU Hurd News 2026-Q2,https://www.gnu.org/software/hurd/news/2026-q2.html,167,109,2026-08-06T08:00:17.142368+00:00
+49189234,NVIDIA’s Vera Whitepaper Has a Thread Loose,https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread,120,22,2026-08-06T08:00:17.142368+00:00
+49129551,Morioka Shoten,https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten,3,0,2026-08-06T08:00:17.142368+00:00
+49192219,"Show HN: Wallfacer – A terminal session manager for Claude Code, and more",https://github.com/pradipta/wallfacer,17,9,2026-08-06T08:00:17.142368+00:00
+49188022,I'm switching my phone from Android to Linux,https://runarcn.no/android-to-linux/,303,292,2026-08-06T08:00:17.142368+00:00
+49181083,Position: LLMs Can't Jump,https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt,269,182,2026-08-06T08:00:17.142368+00:00
+49191455,Virginia Orders Data Centers to Pay for Dedicated New Electric Infrastructure,https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/,19,8,2026-08-06T08:00:17.142368+00:00
+49186720,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),https://arxiv.org/abs/2510.01395,109,64,2026-08-06T08:00:17.142368+00:00
+49125532,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",https://github.com/morishuz/delaunay32,54,15,2026-08-06T08:00:17.142368+00:00
+49115096,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,https://www.science.org/doi/10.1126/sciadv.aeg8299,129,57,2026-08-06T08:00:17.142368+00:00
+49126716,Goodhart's Law Comes for Every Benchmark You Trust,https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/,82,35,2026-08-06T08:00:17.142368+00:00
