@@ -9389,3 +9389,33 @@ story_id,title,link,points,comments,scraped_at
 49214098,Assembly Hall of Shame,https://github.com/xoreaxeaxeax/asm-hall-of-shame,401,98,2026-08-08T20:22:02.853524+00:00
 49222824,Message your other Claude Code sessions,https://code.claude.com/docs/en/cross-session-messaging,10,2,2026-08-08T20:22:02.853524+00:00
 49223105,Wireblast a 100 Gbps packet generator in Go using AF_XDP,https://toonk.io/index.html,20,7,2026-08-08T20:22:02.853524+00:00
+49224294,Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating,https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/,296,142,2026-08-08T20:57:30.737175+00:00
+49223082,Fastmail offers EU data region,https://www.fastmail.com/blog/fastmail-offers-eu-data-region/,225,104,2026-08-08T20:57:30.737175+00:00
+49223475,LinkedIn Feed Blocker,https://github.com/andrewpollack/linkedin-feed-blocker,123,73,2026-08-08T20:57:30.737175+00:00
+49222189,"""Code was never the hard part"" is an insult to all programmers",https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers,321,224,2026-08-08T20:57:30.737175+00:00
+49221668,"A domain can now say it is for sale, in DNS",https://specification.website/spec/foundations/for-sale-dns/,270,117,2026-08-08T20:57:30.737175+00:00
+49223079,Can Intel finally beat ARM on performance per Watt?,https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/,87,28,2026-08-08T20:57:30.737175+00:00
+49220126,DeepMind's WeatherNext model achieves breakthrough forecasting cyclones,https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/,328,103,2026-08-08T20:57:30.737175+00:00
+49220609,Timeline of the OpenAI accidental attack against Hugging Face,https://simonwillison.net/2026/Aug/7/openai-timeline/,261,274,2026-08-08T20:57:30.737175+00:00
+49225139,Open-source interactive map for the Aug 12 total solar eclipse,https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute,10,1,2026-08-08T20:57:30.737175+00:00
+49192556,Python string literals are kinda funny,https://sebsite.pw/w/20260806-pystrings.html,37,17,2026-08-08T20:57:30.737175+00:00
+49221711,Triton: DirectX 11 Driver for QEMU,https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/,97,20,2026-08-08T20:57:30.737175+00:00
+49221220,Gateway 2000's hilariously bad ads in the 90s (Part II),https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/,81,62,2026-08-08T20:57:30.737175+00:00
+49223845,Amazon Is Creating the Biggest Pollution Source in the Country,https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country,118,38,2026-08-08T20:57:30.737175+00:00
+49224020,"TinySol, a tiny solitaire game for DOS",https://classicbits.net/coding-and-software/my-software/monosol/,22,4,2026-08-08T20:57:30.737175+00:00
+49184233,Monitors for Work,https://etbe.coker.com.au/2026/08/05/monitors-for-work/,47,27,2026-08-08T20:57:30.737175+00:00
+49169973,Preventing Misfolding by Preventing Folding,https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding,12,0,2026-08-08T20:57:30.737175+00:00
+49220339,US Military's cyber command unit grapples with cluster of deaths by suicide,https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide,176,283,2026-08-08T20:57:30.737175+00:00
+49133850,Building a local positioning system to track runners using Ultra-Wideband,https://zeus.ugent.be/blog/25-26/12urenloop-uwb/,8,0,2026-08-08T20:57:30.737175+00:00
+49221679,Voyager 1 FDS Computer Emulator,https://zaneham.github.io/voyager-fds-emulator/,62,12,2026-08-08T20:57:30.737175+00:00
+49189457,A physicist rigged his pet hamster’s wheel to upload to Strava,https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/,396,97,2026-08-08T20:57:30.737175+00:00
+49163466,BYOC Is Not Just 'Deploy into Their Cloud',https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments,58,10,2026-08-08T20:57:30.737175+00:00
+49219508,Hardware backdoors in some x86 CPUs,https://github.com/xoreaxeaxeax/rosenbridge,303,89,2026-08-08T20:57:30.737175+00:00
+49177224,From your doorbell to your home network,https://adepts.of0x.cc/eufy-doorbell-hacking/,60,3,2026-08-08T20:57:30.737175+00:00
+49214008,DeepSeek V4 Flash 0731,https://arcprize.org/results/deepseek-v4-flash-0731,741,446,2026-08-08T20:57:30.737175+00:00
+49209539,What happens if an entire class of workers loses faith in their careers,https://www.noemamag.com/why-is-everyone-in-tech-so-sad/,936,1105,2026-08-08T20:57:30.737175+00:00
+49216946,U.S. Department of Energy Launches the Genesis Open Models Initiative,https://genesisopenmodels.anl.gov/,333,139,2026-08-08T20:57:30.737175+00:00
+49221864,Gentoo bugzilla closed due AI bot scraper overload,https://social.treehouse.systems/@mgorny/117058483039362779,132,88,2026-08-08T20:57:30.737175+00:00
+49215786,Lost my phone at the office. Claude suggested tracking Bluetooth signal strength,https://twitter.com/un1c0rnioz/status/2084686552299634805,154,134,2026-08-08T20:57:30.737175+00:00
+49214098,Assembly Hall of Shame,https://github.com/xoreaxeaxeax/asm-hall-of-shame,402,99,2026-08-08T20:57:30.737175+00:00
+49222824,Message your other Claude Code sessions,https://code.claude.com/docs/en/cross-session-messaging,17,8,2026-08-08T20:57:30.737175+00:00
