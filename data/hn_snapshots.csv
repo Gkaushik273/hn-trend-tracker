@@ -10709,3 +10709,33 @@ story_id,title,link,points,comments,scraped_at
 49235697,Tuxedo No. 2 – Cocktail recipes,https://tuxedono2.com,120,35,2026-08-10T13:53:02.688799+00:00
 49230477,Everything you do is being recorded,https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/,350,310,2026-08-10T13:53:02.688799+00:00
 49174017,Nearest Pint,https://knowwhereconsulting.co.uk/maps/pubs/,43,25,2026-08-10T13:53:02.688799+00:00
+49241679,Meta Muse Glimmer – open weights 30B local coding model,https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model,483,248,2026-08-10T14:52:44.018758+00:00
+49242653,Squeak/Smalltalk 6.1 Release Notes,https://squeak.org/release_notes/6.1/,62,15,2026-08-10T14:52:44.018758+00:00
+49243029,50k Boat Names,https://www.beautifulpublicdata.com/boat-names/,60,30,2026-08-10T14:52:44.018758+00:00
+49239751,"Docker Sandboxes – Disposable, isolated sandboxes for AI agents",https://www.docker.com/products/docker-sandboxes/,393,253,2026-08-10T14:52:44.018758+00:00
+49242297,Tail-call optimization in C is relatively recent,https://lwn.net/Articles/1034703/,65,29,2026-08-10T14:52:44.018758+00:00
+49241846,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,"https://ethw.org/Milestones:Parametron,_1954",69,22,2026-08-10T14:52:44.018758+00:00
+49242739,"Over 181,000 AI meeting recordings left wide open in note taking app",https://bobdahacker.com/blog/tldv-hack,189,61,2026-08-10T14:52:44.018758+00:00
+49244308,OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas,https://openai.com/index/responsible-ai-infrastructure-texas/,3,0,2026-08-10T14:52:44.018758+00:00
+49243397,"Mistral Patent for ""Code implemented tool calls""",https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html,71,70,2026-08-10T14:52:44.018758+00:00
+49243880,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878,19,7,2026-08-10T14:52:44.018758+00:00
+49238561,What Happened to HackerOne?,https://blog.teknogeek.io/posts/what-happened-to-hackerone/,314,164,2026-08-10T14:52:44.018758+00:00
+49243269,Defending my own brain against enshittification,https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/,49,34,2026-08-10T14:52:44.018758+00:00
+49238818,Run Android ARM64 VR APKs on Apple Vision Pro,https://github.com/shinyquagsire23/Klepton,136,40,2026-08-10T14:52:44.018758+00:00
+49205082,An Interesting Fourier Transform – 1/F Noise,https://www.dsprelated.com/showarticle/40.php,85,17,2026-08-10T14:52:44.018758+00:00
+49209132,Tail-Call Interpreters in Rust – Jimmy Ostler,https://lordgoati.us/blog/tail-call/,61,25,2026-08-10T14:52:44.018758+00:00
+49183917,How Blackwing Pencils are Made [video],https://www.youtube.com/watch?v=fow-LsdaH2E,56,24,2026-08-10T14:52:44.018758+00:00
+49238851,"Show HN: Voice driven murder mystery, Interview AI suspects with your voice",https://www.whodunnitai.com/,154,61,2026-08-10T14:52:44.018758+00:00
+49181584,Findphone: Locate a nearby Bluetooth device by signal strength,https://github.com/ben-z/findphone,24,12,2026-08-10T14:52:44.018758+00:00
+49232253,Taxi drivers rarely die of Alzheimer's,https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650,346,246,2026-08-10T14:52:44.018758+00:00
+49243531,China is now the world's greatest oil power,https://www.economist.com/finance-and-economics/2026/08/09/china-is-now-the-worlds-great-oil-power,25,2,2026-08-10T14:52:44.018758+00:00
+49234675,How I use LLMs to learn complex topics,https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/,744,480,2026-08-10T14:52:44.018758+00:00
+49202628,"Open QEC harness – greedy vs. GE, uniform vs. clustered k=4",https://github.com/mrblakessinger-rgb/qec-evaluation-suite,4,0,2026-08-10T14:52:44.018758+00:00
+49238050,How We Pushed CDC into Postgres,https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/,121,23,2026-08-10T14:52:44.018758+00:00
+49233423,Ask HN: What are you working on? (August 2026),item?id=49233423,285,981,2026-08-10T14:52:44.018758+00:00
+49241728,The Future Is for Everyone – The Path to a Positive AI Future,https://www.meta.com/thefutureisforeveryone/,14,4,2026-08-10T14:52:44.018758+00:00
+49202912,ATProto for Distributed Systems Engineers,https://atproto.com/articles/atproto-for-distsys-engineers,117,24,2026-08-10T14:52:44.018758+00:00
+49211821,An alias-based formulation of the borrow checker (2018),https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/,23,1,2026-08-10T14:52:44.018758+00:00
+49231809,Cool URIs Don't Change (1998),https://www.w3.org/Provider/Style/URI,272,63,2026-08-10T14:52:44.018758+00:00
+49230477,Everything you do is being recorded,https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/,373,323,2026-08-10T14:52:44.018758+00:00
+49182148,"Picophysics: Single file physics for games on platforms like N64, PSX, DC",https://gitlab.com/Kazade/picophysics,76,23,2026-08-10T14:52:44.018758+00:00
