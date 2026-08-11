@@ -11579,3 +11579,33 @@ story_id,title,link,points,comments,scraped_at
 49246804,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",https://cactuscompute.com/needle,502,169,2026-08-11T21:39:52.970161+00:00
 49250836,"As AI eats the web, the internet’s collective memory is disappearing",https://thewalrus.ca/google-search-is-dying/,845,844,2026-08-11T21:39:52.970161+00:00
 49251702,Chicken Scheme 6.0,https://code.call-cc.org/releases/6.0.0/NEWS,293,49,2026-08-11T21:39:52.970161+00:00
+49263340,Nvidia Nemotron 3.5 Lightning and NeMo Switchyard,https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/,132,62,2026-08-11T22:35:19.476497+00:00
+49263497,Compression is prediction,https://ngrok.com/blog/compression-is-prediction,157,64,2026-08-11T22:35:19.476497+00:00
+49261128,Mojo 1.0,https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here,228,104,2026-08-11T22:35:19.476497+00:00
+49257876,Stealing Reasoning Traces from Proprietary LLM APIs,https://stolen-thoughts.com/,432,174,2026-08-11T22:35:19.476497+00:00
+49262811,Making holograms with a pen plotter,https://blog.jordan.matelsky.com/Penplotter-holography/,79,7,2026-08-11T22:35:19.476497+00:00
+49226623,"Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",https://photosynthesis.camera,151,160,2026-08-11T22:35:19.476497+00:00
+49265051,WorldClaw Agentic 3D open-world generation at scale,https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/,6,0,2026-08-11T22:35:19.476497+00:00
+49257160,OpenAI’s head of ethics leaves less than a year after joining,https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0,207,283,2026-08-11T22:35:19.476497+00:00
+49262211,How we used to get jobs: A newspaper classifieds story,https://ironicsans.ghost.io/how-we-used-to-get-jobs/,82,64,2026-08-11T22:35:19.476497+00:00
+49257377,England set to be one of the first countries to eliminate hepatitis C,https://www.bbc.com/news/articles/c75gk620r22o,465,332,2026-08-11T22:35:19.476497+00:00
+49223965,Jolt: Clojure compiler implemented with Chez Scheme,https://jolt-lang.github.io,131,47,2026-08-11T22:35:19.476497+00:00
+49261192,RSI Simulator,https://www.paradigm.xyz/writing/rsi-simulator,12,5,2026-08-11T22:35:19.476497+00:00
+49264352,The 19th-Century Family Fortunes Funding Degrowth,https://www.effort.news/p4ne,11,4,2026-08-11T22:35:19.476497+00:00
+49264755,Suzanne: AI tool for designing and manufacturing physical products,https://www.suzanne3d.com/,7,5,2026-08-11T22:35:19.476497+00:00
+49258764,Manus will return to operating as an independent company,https://manus.im/blog/a-note-to-our-users,119,63,2026-08-11T22:35:19.476497+00:00
+49255710,Nvidia's Risky Business,https://stratechery.com/2026/nvidias-risky-business/,269,120,2026-08-11T22:35:19.476497+00:00
+49259611,"Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",https://github.com/TheRealYT/git-knife,113,82,2026-08-11T22:35:19.476497+00:00
+49261514,Grok Bot,https://x.ai/bot,58,59,2026-08-11T22:35:19.476497+00:00
+49264583,Emergent Introspective Awareness in Large Language Models,https://arxiv.org/abs/2601.01828,7,2,2026-08-11T22:35:19.476497+00:00
+49261417,CSS properties you should know for better text designs,https://master.dev/blog/typographic-css-tricks/,48,5,2026-08-11T22:35:19.476497+00:00
+49261895,OpenSSH 10.5/10.5p1,https://www.openssh.org/releasenotes.html#10.5,80,29,2026-08-11T22:35:19.476497+00:00
+49259339,Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp,https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md,270,43,2026-08-11T22:35:19.476497+00:00
+49218463,The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics,https://momath.org/the-hat/,5,1,2026-08-11T22:35:19.476497+00:00
+49252179,H3-metal – Native MiniMax-H3 inference for Apple Silicon,https://github.com/antirez/h3.c,419,93,2026-08-11T22:35:19.476497+00:00
+49255496,London Underground begins scanning passengers' faces,https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/,169,205,2026-08-11T22:35:19.476497+00:00
+49264921,"Give Palantir up to $244M through 2028, says internal Defense Department memo",https://www.theregister.com/public-sector/2026/08/11/palantir-could-receive-244m-pentagon-no-bid-contract/5286438,15,1,2026-08-11T22:35:19.476497+00:00
+49256057,What I learned by putting GitHub Copilot behind a MitM proxy,https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm,139,20,2026-08-11T22:35:19.476497+00:00
+49259309,Launch HN: Keet (YC S24) – An app to create video courses on anything,https://www.trykeet.com/,37,40,2026-08-11T22:35:19.476497+00:00
+49258011,"Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS",https://writemd.app/,59,61,2026-08-11T22:35:19.476497+00:00
+49227610,"Archive of Animal Photography Reveals 18,000 Species and Counting",https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/,29,8,2026-08-11T22:35:19.476497+00:00
