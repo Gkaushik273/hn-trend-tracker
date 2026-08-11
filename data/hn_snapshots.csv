@@ -11099,3 +11099,33 @@ story_id,title,link,points,comments,scraped_at
 49172319,The Psychedelic Toad of the Sonoran Desert,https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert,88,59,2026-08-11T04:14:47.045481+00:00
 49244085,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs,125,14,2026-08-11T04:14:47.045481+00:00
 49243029,50k Boat Names,https://www.beautifulpublicdata.com/boat-names/,168,106,2026-08-11T04:14:47.045481+00:00
+49252179,H3-metal – Native MiniMax-H3 inference for Apple Silicon,https://github.com/antirez/h3.c,142,16,2026-08-11T05:34:13.285567+00:00
+49251702,Chicken Scheme 6.0,https://code.call-cc.org/releases/6.0.0/NEWS,120,14,2026-08-11T05:34:13.285567+00:00
+49251179,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,https://everycube.alen.is/,133,33,2026-08-11T05:34:13.285567+00:00
+49252462,Recycle – Floppydisks,https://www.floppydisk.com/recycle,39,12,2026-08-11T05:34:13.285567+00:00
+49184220,The “mechanical miracle” that ruined Mark Twain’s life,https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined,97,42,2026-08-11T05:34:13.285567+00:00
+49246804,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",https://cactuscompute.com/needle,255,99,2026-08-11T05:34:13.285567+00:00
+49173107,LFM2.5 2.6B model competitive with 4x larger models,https://huggingface.co/LiquidAI/LFM2.5-2.6B,16,1,2026-08-11T05:34:13.285567+00:00
+49243880,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878,445,419,2026-08-11T05:34:13.285567+00:00
+49252493,Hyperspace,https://hypercritical.co/hyperspace/,36,22,2026-08-11T05:34:13.285567+00:00
+49209918,Stowaway – Take the window seat on any plane or satellite overhead,https://stowaway.live/,199,20,2026-08-11T05:34:13.285567+00:00
+49247477,Rust SIMD on the GPU,https://www.vectorware.com/blog/simd-on-gpu/,160,75,2026-08-11T05:34:13.285567+00:00
+49208296,Sonic Pi v5,https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392,340,83,2026-08-11T05:34:13.285567+00:00
+49250894,World Train Map – 1247 train routes around the world,https://worldtrainmap.com/,86,28,2026-08-11T05:34:13.285567+00:00
+49212449,Publishing Schematics Before “Open Source” Was a Word,https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704,79,18,2026-08-11T05:34:13.285567+00:00
+49249555,Confessions of a Long-Distance Sailor,https://arachnoid.com/lutusp/sailbook.html,83,25,2026-08-11T05:34:13.285567+00:00
+49241679,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model,1081,592,2026-08-11T05:34:13.285567+00:00
+49245936,What's the best programming language for coding agents?,http://danluu.com/pl-tokens/,116,76,2026-08-11T05:34:13.285567+00:00
+49242653,Squeak 6.1,https://squeak.org/release_notes/6.1/,245,123,2026-08-11T05:34:13.285567+00:00
+49253329,Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App,https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/,17,4,2026-08-11T05:34:13.285567+00:00
+49243474,Humanising LLM Outputs Is Dumb,https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb,188,115,2026-08-11T05:34:13.285567+00:00
+49253176,Why My Father Is Wrong: A Defense of Guitar Hero,https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/,25,6,2026-08-11T05:34:13.285567+00:00
+49245491,Exploiting System Management Mode with a very long interrupt,https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii,150,54,2026-08-11T05:34:13.285567+00:00
+49215111,Choral: Choreographic Programming for Java,https://www.choral-lang.org/,15,1,2026-08-11T05:34:13.285567+00:00
+49253250,Updated GPG Key for Signing Firefox and Thunderbird Releases,https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/,19,3,2026-08-11T05:34:13.285567+00:00
+49178868,The Story of Mac: A Just-So Story,https://gigamonkeys.com/book/macros-defining-your-own,22,3,2026-08-11T05:34:13.285567+00:00
+49246057,Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers,https://www.stoaexchange.com,74,45,2026-08-11T05:34:13.285567+00:00
+49241846,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,"https://ethw.org/Milestones:Parametron,_1954",209,51,2026-08-11T05:34:13.285567+00:00
+49213660,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",item?id=49213660,171,55,2026-08-11T05:34:13.285567+00:00
+49244308,Letter to Governor Abbott on responsible AI infrastructure in Texas,https://openai.com/index/responsible-ai-infrastructure-texas/,106,190,2026-08-11T05:34:13.285567+00:00
+49244085,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs,134,17,2026-08-11T05:34:13.285567+00:00
