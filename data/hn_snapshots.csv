@@ -11459,3 +11459,33 @@ story_id,title,link,points,comments,scraped_at
 49184220,The “mechanical miracle” that ruined Mark Twain’s life,https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined,204,107,2026-08-11T17:53:33.681676+00:00
 49257947,Nvidia Nemotron 3.5 Lightning,https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4,89,22,2026-08-11T17:53:33.681676+00:00
 49196581,Faster floating point math with Rust's new API,https://pythonspeed.com/articles/faster-float-math-rust/,91,30,2026-08-11T17:53:33.681676+00:00
+49259339,Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp,https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md,212,32,2026-08-11T18:54:03.498273+00:00
+49261895,OpenSSH 10.5/10.5p1,https://www.openssh.org/releasenotes.html#10.5,29,9,2026-08-11T18:54:03.498273+00:00
+49257876,Stealing Reasoning Traces from Proprietary LLM APIs,https://stolen-thoughts.com/,285,105,2026-08-11T18:54:03.498273+00:00
+49257377,England set to be one of the first countries to eliminate hepatitis C,https://www.bbc.com/news/articles/c75gk620r22o,408,290,2026-08-11T18:54:03.498273+00:00
+49226623,"Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",https://photosynthesis.camera,65,33,2026-08-11T18:54:03.498273+00:00
+49258764,Manus will return to operating as an independent company,https://manus.im/blog/a-note-to-our-users,88,39,2026-08-11T18:54:03.498273+00:00
+49223965,Jolt: Clojure compiler implemented with Chez Scheme,https://jolt-lang.github.io,75,23,2026-08-11T18:54:03.498273+00:00
+49261133,Why Go Is an Ideal Language for AI-Assisted Software Engineering,https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/,105,112,2026-08-11T18:54:03.498273+00:00
+49250836,"As AI eats the web, the internet’s collective memory is disappearing",https://thewalrus.ca/google-search-is-dying/,776,792,2026-08-11T18:54:03.498273+00:00
+49255710,Nvidia's Risky Business,https://stratechery.com/2026/nvidias-risky-business/,210,85,2026-08-11T18:54:03.498273+00:00
+49254880,France to ban unsolicited telemarketing calls,https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html,941,448,2026-08-11T18:54:03.498273+00:00
+49227610,"Archive of Animal Photography Reveals 18,000 Species and Counting",https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/,17,2,2026-08-11T18:54:03.498273+00:00
+49259309,Launch HN: Keet (YC S24) – An app to create video courses on anything,https://www.trykeet.com/,24,30,2026-08-11T18:54:03.498273+00:00
+49252179,H3-metal – Native MiniMax-H3 inference for Apple Silicon,https://github.com/antirez/h3.c,401,93,2026-08-11T18:54:03.498273+00:00
+49256057,What I learned by putting GitHub Copilot behind a MitM proxy,https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm,105,12,2026-08-11T18:54:03.498273+00:00
+49259611,"Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",https://github.com/TheRealYT/git-knife,75,60,2026-08-11T18:54:03.498273+00:00
+49261128,Mojo 1.0 Is Here,https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here,39,10,2026-08-11T18:54:03.498273+00:00
+49246804,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",https://cactuscompute.com/needle,488,162,2026-08-11T18:54:03.498273+00:00
+49211158,Halcyon Video – a 3D video store for your media server,https://github.com/halcyon-video/halcyon-video,56,13,2026-08-11T18:54:03.498273+00:00
+49243880,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878,614,573,2026-08-11T18:54:03.498273+00:00
+49251702,Chicken Scheme 6.0,https://code.call-cc.org/releases/6.0.0/NEWS,281,44,2026-08-11T18:54:03.498273+00:00
+49173107,LFM2.5 2.6B model competitive with 4x larger models,https://huggingface.co/LiquidAI/LFM2.5-2.6B,147,38,2026-08-11T18:54:03.498273+00:00
+49251179,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,https://everycube.alen.is/,274,108,2026-08-11T18:54:03.498273+00:00
+49250109,How Claude marks AI-generated content,https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content,383,354,2026-08-11T18:54:03.498273+00:00
+49209918,Stowaway – Take the window seat on any plane or satellite overhead,https://stowaway.live/,411,50,2026-08-11T18:54:03.498273+00:00
+49262211,We Used to Get Jobs,https://ironicsans.ghost.io/how-we-used-to-get-jobs/,12,1,2026-08-11T18:54:03.498273+00:00
+49257947,Nvidia Nemotron 3.5 Lightning,https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4,101,23,2026-08-11T18:54:03.498273+00:00
+49184220,The “mechanical miracle” that ruined Mark Twain’s life,https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined,213,109,2026-08-11T18:54:03.498273+00:00
+49196581,Faster floating point math with Rust's new API,https://pythonspeed.com/articles/faster-float-math-rust/,93,33,2026-08-11T18:54:03.498273+00:00
+49208296,Sonic Pi v5,https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392,420,103,2026-08-11T18:54:03.498273+00:00
