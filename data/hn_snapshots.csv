@@ -11129,3 +11129,33 @@ story_id,title,link,points,comments,scraped_at
 49213660,"Ask HN: In your experience, what are sound conventions for e-ink UI development?",item?id=49213660,171,55,2026-08-11T05:34:13.285567+00:00
 49244308,Letter to Governor Abbott on responsible AI infrastructure in Texas,https://openai.com/index/responsible-ai-infrastructure-texas/,106,190,2026-08-11T05:34:13.285567+00:00
 49244085,Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines,https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs,134,17,2026-08-11T05:34:13.285567+00:00
+49252179,H3-metal – Native MiniMax-H3 inference for Apple Silicon,https://github.com/antirez/h3.c,194,25,2026-08-11T06:55:49.685540+00:00
+49253721,Show HN: Mcptoon – Token-efficient MCP CLI client,https://github.com/activeing123/mcptoon,25,11,2026-08-11T06:55:49.685540+00:00
+49251702,Chicken Scheme 6.0,https://code.call-cc.org/releases/6.0.0/NEWS,139,17,2026-08-11T06:55:49.685540+00:00
+49173107,LFM2.5 2.6B model competitive with 4x larger models,https://huggingface.co/LiquidAI/LFM2.5-2.6B,34,9,2026-08-11T06:55:49.685540+00:00
+49251179,Show HN: Scroll through all 43252003274489856000 Rubik's Cube states,https://everycube.alen.is/,159,46,2026-08-11T06:55:49.685540+00:00
+49250836,"As AI eats the web, the internet’s collective memory is disappearing",https://thewalrus.ca/google-search-is-dying/,136,127,2026-08-11T06:55:49.685540+00:00
+49246804,"Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",https://cactuscompute.com/needle,285,106,2026-08-11T06:55:49.685540+00:00
+49184220,The “mechanical miracle” that ruined Mark Twain’s life,https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined,112,53,2026-08-11T06:55:49.685540+00:00
+49252462,Recycle – Floppydisks,https://www.floppydisk.com/recycle,48,18,2026-08-11T06:55:49.685540+00:00
+49243880,Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models,https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878,471,434,2026-08-11T06:55:49.685540+00:00
+49252493,Hyperspace,https://hypercritical.co/hyperspace/,53,38,2026-08-11T06:55:49.685540+00:00
+49209918,Stowaway – Take the window seat on any plane or satellite overhead,https://stowaway.live/,218,27,2026-08-11T06:55:49.685540+00:00
+49208296,Sonic Pi v5,https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392,355,85,2026-08-11T06:55:49.685540+00:00
+49247477,Rust SIMD on the GPU,https://www.vectorware.com/blog/simd-on-gpu/,168,80,2026-08-11T06:55:49.685540+00:00
+49250109,How Claude marks AI-generated content,https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content,104,85,2026-08-11T06:55:49.685540+00:00
+49245936,What's the best programming language for coding agents?,http://danluu.com/pl-tokens/,143,96,2026-08-11T06:55:49.685540+00:00
+49249555,Confessions of a Long-Distance Sailor,https://arachnoid.com/lutusp/sailbook.html,94,27,2026-08-11T06:55:49.685540+00:00
+49212449,Publishing Schematics Before “Open Source” Was a Word,https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704,82,18,2026-08-11T06:55:49.685540+00:00
+49241679,Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows,https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model,1094,597,2026-08-11T06:55:49.685540+00:00
+49242653,Squeak 6.1,https://squeak.org/release_notes/6.1/,252,125,2026-08-11T06:55:49.685540+00:00
+49242297,Tail-call optimization in C is relatively recent (2025),https://lwn.net/Articles/1034703/,139,127,2026-08-11T06:55:49.685540+00:00
+49215111,Choral: Choreographic Programming for Java,https://www.choral-lang.org/,20,3,2026-08-11T06:55:49.685540+00:00
+49247070,Learning more about Claude's mathematical capabilities,https://www.anthropic.com/research/riemann-zeta,180,122,2026-08-11T06:55:49.685540+00:00
+49245437,"Show HN: Ante, a coding agent in a single binary that runs offline",https://github.com/AntigmaLabs/ante,126,75,2026-08-11T06:55:49.685540+00:00
+49243474,Humanising LLM Outputs Is Dumb,https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb,191,125,2026-08-11T06:55:49.685540+00:00
+49245491,Exploiting System Management Mode with a very long interrupt,https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii,151,55,2026-08-11T06:55:49.685540+00:00
+49245023,Mars Bar from 1991 found – and it's 20g bigger than today's,https://www.bbc.com/news/articles/c1j1kjy7gewo,322,478,2026-08-11T06:55:49.685540+00:00
+49250894,World Train Map – 1247 train routes around the world,https://worldtrainmap.com/,106,34,2026-08-11T06:55:49.685540+00:00
+49241846,Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes,"https://ethw.org/Milestones:Parametron,_1954",214,53,2026-08-11T06:55:49.685540+00:00
+49200947,Once More in Triple Time,https://theamericanscholar.org/once-more-in-triple-time/,3,0,2026-08-11T06:55:49.685540+00:00
