@@ -12269,3 +12269,33 @@ story_id,title,link,points,comments,scraped_at
 49271994,AI is removing the middle class of software engineering?,https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html,764,709,2026-08-13T03:38:20.989514+00:00
 49279628,I built a browser-native SysEx librarian for 80s/90s synthesizers,https://bipluk.com/,12,7,2026-08-13T03:38:20.989514+00:00
 49227709,Waits: Arthur Samuel's Checkers,https://timereshared.com/waits-samuel-checkers/,7,1,2026-08-13T03:38:20.989514+00:00
+49274600,DeepSeek V4 Pro 0813,https://openrouter.ai/deepseek/deepseek-v4-pro-0813,831,327,2026-08-13T05:30:07.238605+00:00
+49272832,Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug,https://tailscale.com/blog/sqlite-wal-reset-bug,911,177,2026-08-13T05:30:07.238605+00:00
+49276574,Delta,https://zed.dev/blog/introducing-delta,470,162,2026-08-13T05:30:07.238605+00:00
+49273478,Qwen3.8-2.4T,https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B,558,128,2026-08-13T05:30:07.238605+00:00
+49279928,Principia Mathematica is modern and insightful,https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html,101,46,2026-08-13T05:30:07.238605+00:00
+49242698,Antiqua–Fraktur dispute,https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute,38,3,2026-08-13T05:30:07.238605+00:00
+49280103,Happy 45th Birthday to the IBM PC and Model F/XT,https://sharktastica.co.uk/articles/pc-fxt-45,55,17,2026-08-13T05:30:07.238605+00:00
+49270953,2026 Eclipse Webcams,https://jonty.github.io/2026_eclipse_webcams/,467,126,2026-08-13T05:30:07.238605+00:00
+49280047,"Build Wide, Ship Narrow",https://adapt.com/blog/build-wide-ship-narrow,67,12,2026-08-13T05:30:07.238605+00:00
+49269429,Why Target Common Lisp for Code Generation?,http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html,66,52,2026-08-13T05:30:07.238605+00:00
+49272655,"Tim King, AmigaDOS developer, has died",https://amiga-news.de/en/news/AN-2026-08-00070-EN.html,249,31,2026-08-13T05:30:07.238605+00:00
+49275335,HTML over WebSockets: real-time SPAs with barely any JavaScript,https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/,172,116,2026-08-13T05:30:07.238605+00:00
+49238831,From rubber boots to Copa: When MicroProse Soccer revolutionized football,https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/,7,0,2026-08-13T05:30:07.238605+00:00
+49274027,Grok 4.6,https://x.ai/news/grok-4-6,475,445,2026-08-13T05:30:07.238605+00:00
+49270726,uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook,https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html,377,493,2026-08-13T05:30:07.238605+00:00
+49269090,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,https://discoveredmaterials.com/research/,129,28,2026-08-13T05:30:07.238605+00:00
+49279013,"Thanks to social media, canned sardines are a scarcity on the supermarket shelf",https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/,83,101,2026-08-13T05:30:07.238605+00:00
+49224802,Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting,https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7,20,17,2026-08-13T05:30:07.238605+00:00
+49272549,Why tiny JPEGs look different in Chrome,https://guillaumetech.github.io/posts/jpg-scaling-chrome/,278,61,2026-08-13T05:30:07.238605+00:00
+49272569,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",https://knownagents.com/insights,257,190,2026-08-13T05:30:07.238605+00:00
+49280184,Show HN: Ballet – Workflow automation that writes integrations against any API,https://www.ballet.dev/,28,4,2026-08-13T05:30:07.238605+00:00
+49274757,Pixel Watch 5,https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/,122,233,2026-08-13T05:30:07.238605+00:00
+49274858,Lovable raises $400M Series C,https://lovable.dev/blog/series-c,117,115,2026-08-13T05:30:07.238605+00:00
+49271757,Shade Map,https://shademap.app,170,44,2026-08-13T05:30:07.238605+00:00
+49271994,AI is removing the middle class of software engineering?,https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html,807,739,2026-08-13T05:30:07.238605+00:00
+49270040,Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation,https://woxi.ad-si.com,274,40,2026-08-13T05:30:07.238605+00:00
+49275465,Reflex (YC W23) Is hiring Growth and GTM Roles,https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer,0,0,2026-08-13T05:30:07.238605+00:00
+49279197,Process as a Proxy for Motivation,https://bengodfrey.dev/blog/process/,45,15,2026-08-13T05:30:07.238605+00:00
+49277799,Breaking the WAL,https://antithesis.com/blog/2026/wal-reset-bug/,80,41,2026-08-13T05:30:07.238605+00:00
+49273165,License plate reader searches should require a warrant,https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/,567,336,2026-08-13T05:30:07.238605+00:00
