@@ -12869,3 +12869,33 @@ story_id,title,link,points,comments,scraped_at
 49288293,AI At Home Part 1: A Box Of Scraps,https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html,110,51,2026-08-14T05:27:42.569284+00:00
 49286485,Kubernetes on Oxide: How customer needs shaped our integrations,https://oxide.computer/blog/kubernetes-on-oxide,172,75,2026-08-14T05:27:42.569284+00:00
 49285327,"Choosing an AI model: one prompt, 11 models, different results",https://www.netlify.com/blog/one-prompt-11-models-very-different-results/,188,77,2026-08-14T05:27:42.569284+00:00
+49294997,GLM-5.3: Frontier Coding with Emergent Cyber Capabilities,https://z.ai/blog/glm-5.3,215,73,2026-08-14T06:54:08.069015+00:00
+49289112,Gemini 3.7 Flash,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/,770,404,2026-08-14T06:54:08.069015+00:00
+49289844,Accelerating GPT-5.6 Sol Ultrafast,https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai,542,225,2026-08-14T06:54:08.069015+00:00
+49290166,"Hello, me. It's been a while",https://themech.net/2026/08/hello-me-its-been-a-while/,147,59,2026-08-14T06:54:08.069015+00:00
+49293324,Bluesky Protocol Services,https://atproto.com/blog/introducing-bluesky-protocol-services,138,22,2026-08-14T06:54:08.069015+00:00
+49285244,DeepSeek Harness developer preview,https://deepseek.com/harness/en/,625,263,2026-08-14T06:54:08.069015+00:00
+49286341,Spaghettifying DRAM,https://github.com/xoreaxeaxeax/skitter-creek-bath-salts,573,152,2026-08-14T06:54:08.069015+00:00
+49288889,Mistral OCR 4.1,https://docs.mistral.ai/models/ocr-4-1,307,117,2026-08-14T06:54:08.069015+00:00
+49248769,The Library of Ashurbanipal,https://www.historytoday.com/archive/feature/library-ashurbanipal,13,0,2026-08-14T06:54:08.069015+00:00
+49290299,Understanding is the new bottleneck,https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck,291,154,2026-08-14T06:54:08.069015+00:00
+49291268,NP-overrated,https://gruhn.me/blog/2026-08-13/,192,121,2026-08-14T06:54:08.069015+00:00
+49289512,Choose Boring Technology (2015),https://mcfunley.com/choose-boring-technology,317,158,2026-08-14T06:54:08.069015+00:00
+49289465,Donkey.bas is 45 Years Old – 131 line of Glory,https://donkeybas.com/,219,104,2026-08-14T06:54:08.069015+00:00
+49242287,How do you sell a CPU design when the instruction set is free?,https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry,17,4,2026-08-14T06:54:08.069015+00:00
+49285418,Nine PBS sues Iron Mountain over blocked access to archival data,https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/,294,165,2026-08-14T06:54:08.069015+00:00
+49232753,The Legend of the Novell NE2000 [video],https://www.youtube.com/watch?v=nNXzQ7V1S_k,39,10,2026-08-14T06:54:08.069015+00:00
+49289654,How Compaction Works in Pi,https://earendil.com/posts/compaction-in-pi/,146,58,2026-08-14T06:54:08.069015+00:00
+49293087,Blog about things you don't understand yet,https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/,73,28,2026-08-14T06:54:08.069015+00:00
+49289532,"Where did the old web go? We followed 657,607 links to find out",https://0.mk/blog/link-rot,165,144,2026-08-14T06:54:08.069015+00:00
+49290215,Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes,https://github.com/systemd/systemd/issues/40262,188,118,2026-08-14T06:54:08.069015+00:00
+49223964,Finite State Machines in Forth (1994),https://www.forth.org/literature/noble.html,71,2,2026-08-14T06:54:08.069015+00:00
+49290768,How Organizations Use AI: Evidence from ChatGPT [pdf],https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf,95,52,2026-08-14T06:54:08.069015+00:00
+49290969,How Gödel's Proof Works (2020),https://www.quantamagazine.org/how-godels-proof-works-20200714/,94,42,2026-08-14T06:54:08.069015+00:00
+49240615,An ambiguity in c89 which will never be fixed,https://sebsite.pw/w/20260810-c89ambiguity.html,56,18,2026-08-14T06:54:08.069015+00:00
+49285770,Ordinary Abundance,https://ordinaryabundance.com/,278,141,2026-08-14T06:54:08.069015+00:00
+49221431,Cave of the Crystals,https://en.wikipedia.org/wiki/Cave_of_the_Crystals,32,1,2026-08-14T06:54:08.069015+00:00
+49285327,"Choosing an AI model: one prompt, 11 models, different results",https://www.netlify.com/blog/one-prompt-11-models-very-different-results/,196,78,2026-08-14T06:54:08.069015+00:00
+49283063,Launch HN: Bullet (YC S26) – A Faster Coding Agent,https://www.codewithbullet.com,95,71,2026-08-14T06:54:08.069015+00:00
+49286485,Kubernetes on Oxide: How customer needs shaped our integrations,https://oxide.computer/blog/kubernetes-on-oxide,179,76,2026-08-14T06:54:08.069015+00:00
+49287153,Text AI watermarks will always be trivial to remove,https://www.seangoedecke.com/text-ai-watermarks/,116,121,2026-08-14T06:54:08.069015+00:00
