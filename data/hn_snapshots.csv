@@ -13229,3 +13229,33 @@ story_id,title,link,points,comments,scraped_at
 49297637,"The TEMU-Fication of Software, Digital Goods and Services",https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/,99,74,2026-08-14T19:27:08.155475+00:00
 49299667,"Self-hosted web push Cloudflare Worker, works on iOS",https://kukuroo.cc/,44,15,2026-08-14T19:27:08.155475+00:00
 49300615,RayforceDB – a pure C analytics database with a Lisp-like syntax,https://rayforcedb.com/,26,14,2026-08-14T19:27:08.155475+00:00
+49299605,Qwen 3.8 27B,https://huggingface.co/Qwen/Qwen3.8-27B-FP8,579,381,2026-08-14T20:03:14.076099+00:00
+49301260,Count Binface receives over a quarter of votes in Clacton by-election,https://www.bbc.com/news/articles/ce97mm3vvemo,350,244,2026-08-14T20:03:14.076099+00:00
+49299675,Seven books I keep close because I love them,https://blog.plover.com/2026/08/02/,213,94,2026-08-14T20:03:14.076099+00:00
+49300759,RustDesk now supports true unattended remote access on Wayland,https://rustdesk.com/blog/unattended-remote-access-wayland/,132,53,2026-08-14T20:03:14.076099+00:00
+49300314,Google is making private AI practical with homomorphic encryption,https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/,138,88,2026-08-14T20:03:14.076099+00:00
+49296740,Why does Opus 5 feel worse to work with?,https://mun-logadan.github.io/why-does-opus-5-feel-worse/,582,545,2026-08-14T20:03:14.076099+00:00
+49294997,GLM-5.3: Frontier coding with emergent cyber capabilities,https://z.ai/blog/glm-5.3,973,486,2026-08-14T20:03:14.076099+00:00
+49299746,Introducing Toast 1,https://www.mixedbread.com/blog/toast-1,134,41,2026-08-14T20:03:14.076099+00:00
+49300800,Maximizing the value of your Claude Code sessions,https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions,80,53,2026-08-14T20:03:14.076099+00:00
+49300568,AI by Hand,https://www.byhand.ai/,90,10,2026-08-14T20:03:14.076099+00:00
+49303652,New Lower and Upper Bounds for the Grothendieck Constant,https://arxiv.org/abs/2608.11158,4,0,2026-08-14T20:03:14.076099+00:00
+49211375,Ultraviolet Bird Photography,https://uvbirds.com/,62,9,2026-08-14T20:03:14.076099+00:00
+49303350,How Claude's text watermarking works,https://www.anthropic.com/news/claude-text-watermark,16,8,2026-08-14T20:03:14.076099+00:00
+49299081,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,https://heyjonny.dev/posts/rss-to-eink-newspaper/,86,38,2026-08-14T20:03:14.076099+00:00
+49303237,Open WireGuard Endpoints,https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html,6,0,2026-08-14T20:03:14.076099+00:00
+49303433,Z.ai Security Disclosure,https://cvd.z.ai,21,3,2026-08-14T20:03:14.076099+00:00
+49299222,Every Fucking Website (2020),https://lxe.github.io/everywebsite/,627,362,2026-08-14T20:03:14.076099+00:00
+49303046,Show HN: Mole – Deep research agent for your terminal,https://github.com/lajosdeme/mole,11,3,2026-08-14T20:03:14.076099+00:00
+49269809,"Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines",http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/,31,7,2026-08-14T20:03:14.076099+00:00
+49301215,Show HN: LuaCAD – Parametric CAD Scripted in Lua,https://luacad.ad-si.com,45,8,2026-08-14T20:03:14.076099+00:00
+49296627,DeepSeek peak/off-peak pricing update,https://api-docs.deepseek.com/news/news260813/,225,119,2026-08-14T20:03:14.076099+00:00
+49249523,"Don't classify, hallucinate",https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications,185,76,2026-08-14T20:03:14.076099+00:00
+49269240,Forbidden City Cabbage,https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl,35,4,2026-08-14T20:03:14.076099+00:00
+49300671,France's top court blocks social media ban for under-15s,https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/,152,97,2026-08-14T20:03:14.076099+00:00
+49297637,"The TEMU-Fication of Software, Digital Goods and Services",https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/,105,75,2026-08-14T20:03:14.076099+00:00
+49298910,"In Australia, a home battery boom has helped cut wholesale power prices",https://e360.yale.edu/digest/australia-home-batteries,270,202,2026-08-14T20:03:14.076099+00:00
+49253831,Moving integer division to floating-point is trivial,http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html,17,8,2026-08-14T20:03:14.076099+00:00
+49301417,A Contract-Grade Verifier for LLM-Generated GPU Kernels,https://arxiv.org/abs/2608.12700,14,0,2026-08-14T20:03:14.076099+00:00
+49303292,High-Performance Array-Backed LRU Hash Table,https://github.com/adanil-code/LRUHashTable,3,0,2026-08-14T20:03:14.076099+00:00
+49299102,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0,40,6,2026-08-14T20:03:14.076099+00:00
