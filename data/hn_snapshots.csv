@@ -13169,3 +13169,33 @@ story_id,title,link,points,comments,scraped_at
 49298088,"HashAgent – Share an AI agent as a URL, runs locally via WebGPU",https://hashagent.pages.dev/,30,3,2026-08-14T17:25:56.517426+00:00
 49301342,Discrete Fourier Transform by Hand,https://www.byhand.ai/p/28-discrete-fourier-transform,5,1,2026-08-14T17:25:56.517426+00:00
 49301215,Show HN: LuaCAD – Parametric CAD Scripted in Lua,https://luacad.ad-si.com,4,0,2026-08-14T17:25:56.517426+00:00
+49299605,Qwen 3.8 27B,https://huggingface.co/Qwen/Qwen3.8-27B-FP8,359,265,2026-08-14T18:15:18.193043+00:00
+49299675,Seven books I keep close because I love them,https://blog.plover.com/2026/08/02/,160,61,2026-08-14T18:15:18.193043+00:00
+49301260,Count Binface receives over a quarter of votes in Clacton by-election,https://www.bbc.com/news/articles/ce97mm3vvemo,109,52,2026-08-14T18:15:18.193043+00:00
+49300759,RustDesk now supports true unattended remote access on Wayland,https://rustdesk.com/blog/unattended-remote-access-wayland/,76,24,2026-08-14T18:15:18.193043+00:00
+49296740,Why does Opus 5 feel worse to work with?,https://mun-logadan.github.io/why-does-opus-5-feel-worse/,467,445,2026-08-14T18:15:18.193043+00:00
+49294997,GLM-5.3: Frontier coding with emergent cyber capabilities,https://z.ai/blog/glm-5.3,936,472,2026-08-14T18:15:18.193043+00:00
+49299746,Introducing Toast 1,https://www.mixedbread.com/blog/toast-1,102,28,2026-08-14T18:15:18.193043+00:00
+49300568,AI by Hand,https://www.byhand.ai/,47,4,2026-08-14T18:15:18.193043+00:00
+49269240,Forbidden City Cabbage,https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl,22,1,2026-08-14T18:15:18.193043+00:00
+49211375,Ultraviolet Bird Photography,https://uvbirds.com/,34,3,2026-08-14T18:15:18.193043+00:00
+49299222,Every Fucking Website (2020),https://lxe.github.io/everywebsite/,565,331,2026-08-14T18:15:18.193043+00:00
+49299081,I turned my RSS feeds into an e-ink newspaper to stop reading on my phone,https://heyjonny.dev/posts/rss-to-eink-newspaper/,63,25,2026-08-14T18:15:18.193043+00:00
+49300800,Maximizing the value of your Claude Code sessions,https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions,24,13,2026-08-14T18:15:18.193043+00:00
+49300615,RayforceDB – a pure C analytics database with a Lisp-like syntax,https://rayforcedb.com/,21,14,2026-08-14T18:15:18.193043+00:00
+49300671,France's top court blocks social media ban for under-15s,https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/,118,51,2026-08-14T18:15:18.193043+00:00
+49298910,"In Australia, a home battery boom has helped cut wholesale power prices",https://e360.yale.edu/digest/australia-home-batteries,234,177,2026-08-14T18:15:18.193043+00:00
+49301342,Discrete Fourier Transform by Hand,https://www.byhand.ai/p/28-discrete-fourier-transform,11,1,2026-08-14T18:15:18.193043+00:00
+49249523,"Don't classify, hallucinate",https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications,171,73,2026-08-14T18:15:18.193043+00:00
+49301215,Show HN: LuaCAD – Parametric CAD Scripted in Lua,https://luacad.ad-si.com,25,3,2026-08-14T18:15:18.193043+00:00
+49296627,DeepSeek peak/off-peak pricing update,https://api-docs.deepseek.com/news/news260813/,208,111,2026-08-14T18:15:18.193043+00:00
+49300314,Google is making private AI practical with homomorphic encryption,https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/,77,59,2026-08-14T18:15:18.193043+00:00
+49299102,AI Model Atlas – visualizing populations of ML models as interconnected 3D graph,https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0,28,4,2026-08-14T18:15:18.193043+00:00
+49299667,"Self-hosted web push Cloudflare Worker, works on iOS",https://kukuroo.cc/,40,12,2026-08-14T18:15:18.193043+00:00
+49298088,"HashAgent – Share an AI agent as a URL, runs locally via WebGPU",https://hashagent.pages.dev/,36,4,2026-08-14T18:15:18.193043+00:00
+49297637,"The TEMU-Fication of Software, Digital Goods and Services",https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/,83,62,2026-08-14T18:15:18.193043+00:00
+49175067,"Gödel, Escher, Elisp: The Beauty of Macros",https://www.chiply.dev/post-elisp-macros-are-beautiful,54,16,2026-08-14T18:15:18.193043+00:00
+49301417,A Contract-Grade Verifier for LLM-Generated GPU Kernels,https://arxiv.org/abs/2608.12700,4,0,2026-08-14T18:15:18.193043+00:00
+49297996,"Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",https://goonhost.rocks/blog/implementing-ipv8-internet-draft,57,37,2026-08-14T18:15:18.193043+00:00
+49231490,Differential Heuristics,https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/,99,7,2026-08-14T18:15:18.193043+00:00
+49299364,Earth.nullschool.net,https://earth.nullschool.net/,26,12,2026-08-14T18:15:18.193043+00:00
