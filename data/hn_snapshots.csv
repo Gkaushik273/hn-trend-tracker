@@ -14129,3 +14129,33 @@ story_id,title,link,points,comments,scraped_at
 49310725,Secondhand book sales are booming. Is it because of AI?,https://www.bbc.co.uk/news/articles/cp3rprx2wl4o,3,0,2026-08-15T14:16:03.741180+00:00
 49306196,Simplifying and Refactoring Introductory Calculus (2018),https://arxiv.org/abs/1811.03459,113,57,2026-08-15T14:16:03.741180+00:00
 49272784,Unearthing a 31 year old Easter egg in Ecco the Dolphin,https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c,113,25,2026-08-15T14:16:03.741180+00:00
+49309549,Auto-research with codex: How I achieved a 232x Faster Kernel,https://sankalp.bearblog.dev/autoresearch/,153,46,2026-08-15T14:46:15.432066+00:00
+49309451,Working with AI Feels More Like Leadership Than Coding,https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/,55,31,2026-08-15T14:46:15.432066+00:00
+49310623,Writergate: Zig I/O Interface Overhaul,https://alexrios.me/blog/writergate/,7,0,2026-08-15T14:46:15.432066+00:00
+49310177,GenRec: Towards LLM-Native Recommendation at Netflix,https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3,23,27,2026-08-15T14:46:15.432066+00:00
+49307592,The other Sean Byrne doesn't exist,https://conic.al/writing/the-other-sean-byrne-doesnt-exist/,282,138,2026-08-15T14:46:15.432066+00:00
+49310719,Cloudflare's AI Psychosis,https://opensauce.it/cloudflare-ai-psychosis/,15,1,2026-08-15T14:46:15.432066+00:00
+49299605,Qwen 3.8 27B,https://huggingface.co/Qwen/Qwen3.8-27B-FP8,1250,733,2026-08-15T14:46:15.432066+00:00
+49310495,Yadda 3.0.0: BDD in the Age of AI Agents,http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html,10,3,2026-08-15T14:46:15.432066+00:00
+49310533,Show HN: Quasicrystals Animation Playground with WebXR,https://hypnagogic-quasicrystals.github.io/,5,2,2026-08-15T14:46:15.432066+00:00
+49237183,The mathematical beauty of hyperbezier curves,https://linebender.org/blog/hyperbezier/,79,8,2026-08-15T14:46:15.432066+00:00
+49310725,Secondhand book sales are booming. Is it because of AI?,https://www.bbc.co.uk/news/articles/cp3rprx2wl4o,16,4,2026-08-15T14:46:15.432066+00:00
+49246366,Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum,https://baselashraf81.github.io/eigendrum/,82,17,2026-08-15T14:46:15.432066+00:00
+49260582,The Color of White Light,https://ludens.cl/photo/spectra/spectra.html,34,24,2026-08-15T14:46:15.432066+00:00
+49310128,Xorshift Generators,https://www.alanzucconi.com/2026/08/15/xorshift-generators/,5,0,2026-08-15T14:46:15.432066+00:00
+49308685,Using GCC's Nested Functions with Wide Pointers and No Trampolines II,https://uecker.codeberg.page/2026-07-14.html,48,29,2026-08-15T14:46:15.432066+00:00
+49304447,"Going Dark, and the era of law enforcement hacking",https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/,394,189,2026-08-15T14:46:15.432066+00:00
+49309963,The Problem,https://intelligence.org/the-problem/,8,1,2026-08-15T14:46:15.432066+00:00
+49271382,"In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/,77,44,2026-08-15T14:46:15.432066+00:00
+49310248,"Brain turns listening inward during REM sleep, EEG recordings suggest",https://medicalxpress.com/news/2026-07-brain-rem-eeg.html,20,3,2026-08-15T14:46:15.432066+00:00
+49309923,T3X/0 a Minimal Procedural Language,https://t3x.org/t3x/0/index.html,6,0,2026-08-15T14:46:15.432066+00:00
+49310291,Brazilian election filter in X For You timeline,https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs,30,22,2026-08-15T14:46:15.432066+00:00
+49242085,Möbius Strips and Differential Equations,https://hidden-phenomena.com/articles/monodromy,14,0,2026-08-15T14:46:15.432066+00:00
+49300314,Google is making private AI practical with homomorphic encryption,https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/,447,265,2026-08-15T14:46:15.432066+00:00
+49307700,Show HN: ThoughtDAG – An editable context graph for LLM conversations,https://chenxiachan.github.io/thoughtdag/,79,21,2026-08-15T14:46:15.432066+00:00
+49303202,Firefox is now the last major browser that still supports uBlock Origin,https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html,1361,523,2026-08-15T14:46:15.432066+00:00
+49310277,"388 years ago, Galileo worked out why human giants can't exist",https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/,16,10,2026-08-15T14:46:15.432066+00:00
+49271442,Understanding WCAG 2.2 as ePub and PDF,https://doeken.org/wcag-ebook,42,3,2026-08-15T14:46:15.432066+00:00
+49300759,RustDesk now supports true unattended remote access on Wayland,https://rustdesk.com/blog/unattended-remote-access-wayland/,323,135,2026-08-15T14:46:15.432066+00:00
+49282951,Coin-sized device can hack a Boeing 737,https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/,115,83,2026-08-15T14:46:15.432066+00:00
+49305250,eigendrum,https://eigendrum.com/#p=circle,200,58,2026-08-15T14:46:15.432066+00:00
