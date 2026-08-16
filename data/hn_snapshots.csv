@@ -15869,3 +15869,33 @@ story_id,title,link,points,comments,scraped_at
 49320984,The weekend is 100 years old,https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it,169,101,2026-08-16T23:14:16.836548+00:00
 49323874,Stop Turning every purchase into a tip request,https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request,27,25,2026-08-16T23:14:16.836548+00:00
 49243061,"Asynchronous I/O in DuckDB: Work, Thread, Work",https://duckdb.org/2026/07/31/asynchronous-io,268,29,2026-08-16T23:14:16.836548+00:00
+49321717,"A 3rd World Embedded Engineer Responds to ""RISC-V They Should Have Known Better""",https://rvembedded.com/blog_post/12/,315,166,2026-08-16T23:42:16.372583+00:00
+49319556,Claude: System Prompts,https://platform.claude.com/docs/en/release-notes/system-prompts,497,212,2026-08-16T23:42:16.372583+00:00
+49285096,SIMD in the 90s: Programming Intel's Pentium MMX,https://pikuma.com/blog/programming-intel-pentium-mmx-simd,55,21,2026-08-16T23:42:16.372583+00:00
+49322573,Protobuf has LSP support. You're welcome,https://buf.build/blog/protobuf-lsp,94,65,2026-08-16T23:42:16.372583+00:00
+49303776,A quick look at zero-knowledge proofs,https://bernsteinbear.com/blog/zkp/,21,1,2026-08-16T23:42:16.372583+00:00
+49259980,Low-Tech Ceramic Water Filter,https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en,66,20,2026-08-16T23:42:16.372583+00:00
+49322695,Models Are Getting Dumber on Purpose,https://w4g1.dev/blog/models-are-getting-dumber-on-purpose,222,132,2026-08-16T23:42:16.372583+00:00
+49320611,The AI Credit Resale Economy,https://vectoral.com/blog/who-are-the-token-brokers,211,82,2026-08-16T23:42:16.372583+00:00
+49322330,"MathCode, Mathematical Coding Agent",https://math-ai-org.github.io/mathcode/,49,14,2026-08-16T23:42:16.372583+00:00
+49324087,Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing,https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing,94,76,2026-08-16T23:42:16.372583+00:00
+49323686,Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee,https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/,65,7,2026-08-16T23:42:16.372583+00:00
+49306021,Anton Chekhov played at love most of his life,https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/,55,10,2026-08-16T23:42:16.372583+00:00
+49313920,Plastic mechanical computer from 1963: The Digi-Comp 1 [video],https://www.youtube.com/watch?v=-y8bGBE71yw,43,10,2026-08-16T23:42:16.372583+00:00
+49281352,Clamiga: Common Lisp for the Amiga,https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga,75,7,2026-08-16T23:42:16.372583+00:00
+49323381,Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter,https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion,113,86,2026-08-16T23:42:16.372583+00:00
+49323459,"The Case Against Formal Verification, 50 Years Later",https://ivan-gavran.github.io/0-social-processes-paper,71,61,2026-08-16T23:42:16.372583+00:00
+49319633,Firefox for iOS now has a native adblocker,https://support.mozilla.org/en-US/kb/block-ads-firefox-ios,502,207,2026-08-16T23:42:16.372583+00:00
+49320856,"St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core,146,106,2026-08-16T23:42:16.372583+00:00
+49322107,Tell HN: Cloudflare silently injects its analytics when you switch nameservers,item?id=49322107,233,57,2026-08-16T23:42:16.372583+00:00
+49284093,"2,085 Tests, and None of Them Opens the Front Door",https://i.brandanthonymcdonald.com/what-my-tests-do-not-cover,3,5,2026-08-16T23:42:16.372583+00:00
+49323874,Stop Turning every purchase into a tip request,https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request,44,37,2026-08-16T23:42:16.372583+00:00
+49268580,Asus Bike Booster,https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/,603,424,2026-08-16T23:42:16.372583+00:00
+49319349,A True Telnet BBS on a Casio Calculator,https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/,82,9,2026-08-16T23:42:16.372583+00:00
+49260268,"Before Rightmove, there was the Cosmorama",https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/,23,3,2026-08-16T23:42:16.372583+00:00
+49268565,A SAT Attack on Tarski's High School Algebra Problem,https://arxiv.org/abs/2608.08421,80,32,2026-08-16T23:42:16.372583+00:00
+49319892,Tasklet (YC P26) Is Hiring a Head of Design Engineering,https://tasklet.ai/careers/head-of-design-engineering,0,0,2026-08-16T23:42:16.372583+00:00
+49321353,NIH is ending a key grant for budding clinical researchers,https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers,128,65,2026-08-16T23:42:16.372583+00:00
+49279624,Archie G. Norcross' Maine Forest Fire Maps (1918–22),https://publicdomainreview.org/collection/maine-forest-fire-maps/,24,3,2026-08-16T23:42:16.372583+00:00
+49292385,Chestnut – eGPU dock with open-source firmware,https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/,128,35,2026-08-16T23:42:16.372583+00:00
+49277952,Does anyone run Postgres without PgBouncer?,https://brandur.org/fragments/postgres-without-pgbouncer,137,87,2026-08-16T23:42:16.372583+00:00
