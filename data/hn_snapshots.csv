@@ -15149,3 +15149,33 @@ story_id,title,link,points,comments,scraped_at
 49263086,Speaking for the Dead,https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/,8,6,2026-08-16T10:46:58.173935+00:00
 49299605,Qwen 3.8 27B,https://huggingface.co/Qwen/Qwen3.8-27B-FP8,1384,777,2026-08-16T10:46:58.173935+00:00
 49309549,Auto-research with codex: How I achieved a 232x Faster Kernel,https://sankalp.bearblog.dev/autoresearch/,422,91,2026-08-16T10:46:58.173935+00:00
+49268580,Asus Bike Booster,https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/,430,278,2026-08-16T11:14:55.228998+00:00
+49277153,Superconducting monolayer cuprate with a single CuO2 plane,https://www.nature.com/articles/s41586-026-10857-1,17,4,2026-08-16T11:14:55.228998+00:00
+49316271,Patterns and problems in emerging multi-agent systems,https://www.anthropic.com/research/multiagent-systems,104,49,2026-08-16T11:14:55.228998+00:00
+49243061,"Asynchronous I/O in DuckDB: Work, Thread, Work",https://duckdb.org/2026/07/31/asynchronous-io,173,20,2026-08-16T11:14:55.228998+00:00
+49311651,Semaglutide linked to lower predicted dementia risk,https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432,438,306,2026-08-16T11:14:55.228998+00:00
+49314902,Software Engineering fundamentals matter more,https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/,164,101,2026-08-16T11:14:55.228998+00:00
+49313428,Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter,https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/,262,158,2026-08-16T11:14:55.228998+00:00
+49314235,Cultivating a state of mind where new ideas are born (2023),https://www.henrikkarlsson.xyz/p/good-ideas,185,46,2026-08-16T11:14:55.228998+00:00
+49317760,What happens when an LLM never sees material beyond fifth grade?,https://littlelearner-ll.github.io/,134,93,2026-08-16T11:14:55.228998+00:00
+49315995,Guiding Ships with Moire Patterns,https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/,61,17,2026-08-16T11:14:55.228998+00:00
+49310682,At-home test for infected ticks could improve Lyme Disease diagnosis,https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/,263,95,2026-08-16T11:14:55.228998+00:00
+49315742,"Show HN: Mic Drop, a real-time multiplayer karaoke game",https://www.micdrop.gg/,60,24,2026-08-16T11:14:55.228998+00:00
+49298035,RISC-V: They Should Have Known Better,https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV,325,371,2026-08-16T11:14:55.228998+00:00
+49313367,"AI in drug discovery – what it is, where we stand and the path forward",https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really,144,78,2026-08-16T11:14:55.228998+00:00
+49316872,Falstad Math and Physics Simulations,https://www.falstad.com/mathphysics.html,22,4,2026-08-16T11:14:55.228998+00:00
+49270279,Impulse Tracker,https://ovidem.com/impulsetracker/,23,3,2026-08-16T11:14:55.228998+00:00
+49292385,Chestnut – eGPU dock with open-source firmware,https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/,15,1,2026-08-16T11:14:55.228998+00:00
+49279628,I built a browser-native SysEx librarian for 80s/90s synthesizers,https://bipluk.com/,22,13,2026-08-16T11:14:55.228998+00:00
+49269451,Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite,https://notebook.link/blog/numba-in-the-browser/,47,7,2026-08-16T11:14:55.228998+00:00
+49244872,A fortuitous decade as an indie software developer,https://lapcatsoftware.com/articles/2026/8/3.html,94,11,2026-08-16T11:14:55.228998+00:00
+49310926,A spectre is haunting Unicode,https://www.dampfkraft.com/ghost-characters.html,234,87,2026-08-16T11:14:55.228998+00:00
+49314579,Tracking down a Zsh history data loss bug,https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/,80,30,2026-08-16T11:14:55.228998+00:00
+49312845,AI has access to a vastly larger working memory than the human brain,https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians,507,428,2026-08-16T11:14:55.228998+00:00
+49314403,Abdominal fat predicts heart disease risk better than BMI,https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi,269,206,2026-08-16T11:14:55.228998+00:00
+49315456,Tea5767-Radio-Tuner,https://github.com/turtushig22-blip/tea5767-radio-tuner,44,2,2026-08-16T11:14:55.228998+00:00
+49314967,AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code,https://arxiv.org/abs/2608.13122,37,4,2026-08-16T11:14:55.228998+00:00
+49316395,Zapping Rocks Unlocks Stimulated Geologic Hydrogen,https://spectrum.ieee.org/stimulated-geologic-hydrogen,19,5,2026-08-16T11:14:55.228998+00:00
+49263086,Speaking for the Dead,https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/,8,6,2026-08-16T11:14:55.228998+00:00
+49261421,An image can overflow,https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/,50,13,2026-08-16T11:14:55.228998+00:00
+49299605,Qwen 3.8 27B,https://huggingface.co/Qwen/Qwen3.8-27B-FP8,1387,778,2026-08-16T11:14:55.228998+00:00
