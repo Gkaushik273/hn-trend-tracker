@@ -15329,3 +15329,33 @@ story_id,title,link,points,comments,scraped_at
 49318735,AI Coding Without the Vibes,https://peterbloem.nl/blog/craft-coding,7,1,2026-08-16T14:16:28.600251+00:00
 49310926,A spectre is haunting Unicode,https://www.dampfkraft.com/ghost-characters.html,246,98,2026-08-16T14:16:28.600251+00:00
 49314579,Tracking down a Zsh history data loss bug,https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/,99,38,2026-08-16T14:16:28.600251+00:00
+49319556,Claude: System Prompts,https://platform.claude.com/docs/en/release-notes/system-prompts,118,56,2026-08-16T14:46:53.343690+00:00
+49319633,Firefox for iOS now has a native adblocker,https://support.mozilla.org/en-US/kb/block-ads-firefox-ios,87,27,2026-08-16T14:46:53.343690+00:00
+49268565,A SAT Attack on Tarski's High School Algebra Problem,https://arxiv.org/abs/2608.08421,32,14,2026-08-16T14:46:53.343690+00:00
+49277952,Does anyone run Postgres without PgBouncer?,https://brandur.org/fragments/postgres-without-pgbouncer,56,23,2026-08-16T14:46:53.343690+00:00
+49319389,"Research papers using ""kidney disappointment"" instead of ""kidney failure""",https://scholar.google.com/scholar?q=%22kidney+disappointment%22,96,43,2026-08-16T14:46:53.343690+00:00
+49268580,Asus Bike Booster,https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/,521,360,2026-08-16T14:46:53.343690+00:00
+49292385,Chestnut – eGPU dock with open-source firmware,https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/,65,17,2026-08-16T14:46:53.343690+00:00
+49243061,"Asynchronous I/O in DuckDB: Work, Thread, Work",https://duckdb.org/2026/07/31/asynchronous-io,216,28,2026-08-16T14:46:53.343690+00:00
+49319892,Tasklet (YC P26) Is Hiring a Head of Design Engineering,https://tasklet.ai/careers/head-of-design-engineering,0,0,2026-08-16T14:46:53.343690+00:00
+49277153,Superconducting monolayer cuprate with a single CuO2 plane,https://www.nature.com/articles/s41586-026-10857-1,35,11,2026-08-16T14:46:53.343690+00:00
+49314902,Software Engineering fundamentals matter more,https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/,230,146,2026-08-16T14:46:53.343690+00:00
+49314235,Cultivating a state of mind where new ideas are born (2023),https://www.henrikkarlsson.xyz/p/good-ideas,220,54,2026-08-16T14:46:53.343690+00:00
+49319349,A True Telnet BBS on a Casio Calculator,https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/,8,0,2026-08-16T14:46:53.343690+00:00
+49313428,Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter,https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/,331,219,2026-08-16T14:46:53.343690+00:00
+49311651,Semaglutide linked to lower predicted dementia risk,https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432,452,340,2026-08-16T14:46:53.343690+00:00
+49315995,Guiding Ships with Moire Patterns (2018),https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/,85,22,2026-08-16T14:46:53.343690+00:00
+49288857,What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund,https://sniffnet.app/news/github-secure-open-source-fund/,8,0,2026-08-16T14:46:53.343690+00:00
+49316271,Patterns and problems in emerging multi-agent systems,https://www.anthropic.com/research/multiagent-systems,148,105,2026-08-16T14:46:53.343690+00:00
+49310682,At-home test for infected ticks could improve Lyme Disease diagnosis,https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/,272,105,2026-08-16T14:46:53.343690+00:00
+49316872,Falstad Math and Physics Simulations,https://www.falstad.com/mathphysics.html,42,10,2026-08-16T14:46:53.343690+00:00
+49313367,"AI in drug discovery – what it is, where we stand and the path forward",https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really,161,84,2026-08-16T14:46:53.343690+00:00
+49318128,Show HN: Grafana agent observability for Hermes Agent,https://github.com/alexander-akhmetov/grafana-agento11y-hermes,16,0,2026-08-16T14:46:53.343690+00:00
+49298035,RISC-V: They Should Have Known Better,https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV,344,387,2026-08-16T14:46:53.343690+00:00
+49244872,A fortuitous decade as an indie software developer,https://lapcatsoftware.com/articles/2026/8/3.html,120,17,2026-08-16T14:46:53.343690+00:00
+49315742,"Show HN: Mic Drop, a real-time multiplayer karaoke game",https://www.micdrop.gg/,71,30,2026-08-16T14:46:53.343690+00:00
+49269451,Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite,https://notebook.link/blog/numba-in-the-browser/,62,11,2026-08-16T14:46:53.343690+00:00
+49317760,What happens when an LLM never sees material beyond fifth grade?,https://littlelearner-ll.github.io/,204,173,2026-08-16T14:46:53.343690+00:00
+49310926,A spectre is haunting Unicode,https://www.dampfkraft.com/ghost-characters.html,253,98,2026-08-16T14:46:53.343690+00:00
+49314579,Tracking down a Zsh history data loss bug,https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/,103,38,2026-08-16T14:46:53.343690+00:00
+49320144,Anthropic revenue reportedly jumps to more than $11.5B in second quarter,https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html,7,5,2026-08-16T14:46:53.343690+00:00
