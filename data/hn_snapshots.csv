@@ -16649,3 +16649,33 @@ story_id,title,link,points,comments,scraped_at
 49331222,Apple's App Tracking Transparency treated its own apps better than rivals,https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html,221,82,2026-08-17T19:49:49.887012+00:00
 49330978,How to ship a database every day,https://turbopuffer.com/blog/control-plane,52,8,2026-08-17T19:49:49.887012+00:00
 49327643,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,https://desktopcolors.com,112,49,2026-08-17T19:49:49.887012+00:00
+49336573,AI;DR (AI; Didn't Read),https://www.rickmanelius.com/p/aidr-ai-didnt-read,117,39,2026-08-17T20:19:23.838317+00:00
+49330781,A Preview of DuckDB v2.0,https://duckdb.org/2026/08/17/duckdb-20-highlights,423,67,2026-08-17T20:19:23.838317+00:00
+49334991,"GPU Offload in Rust: Portable, Safe, and Fast",https://arxiv.org/abs/2608.13759,51,9,2026-08-17T20:19:23.838317+00:00
+49331423,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug,251,111,2026-08-17T20:19:23.838317+00:00
+49336672,Will you have spent more of your life with computers than your family?,https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/,17,5,2026-08-17T20:19:23.838317+00:00
+49330597,Incident with Github.com,https://www.githubstatus.com/incidents/zkxwbgr0cnmx,387,795,2026-08-17T20:19:23.838317+00:00
+49336304,India built the biggest digital payments miracle: Now comes the bill,https://www.bbc.com/news/articles/c8xnwqe00v1o,11,1,2026-08-17T20:19:23.838317+00:00
+49333824,Sun Clock,https://sunclock.net/,83,32,2026-08-17T20:19:23.838317+00:00
+49331220,How to disable or avoid intrusive AI,https://www.librarian.net/notoai/,191,95,2026-08-17T20:19:23.838317+00:00
+49329575,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",https://blog.roboflow.com/openai-gpt-5-6/,255,132,2026-08-17T20:19:23.838317+00:00
+49332751,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,https://speko.ai/,76,48,2026-08-17T20:19:23.838317+00:00
+49336050,AirTag reveals Amazon is trashing rare books to train AI,https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/,81,48,2026-08-17T20:19:23.838317+00:00
+49333344,Judge sets framework for Nine PBS to retrieve archival data,https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/,68,23,2026-08-17T20:19:23.838317+00:00
+49270194,Olo (Color),https://en.wikipedia.org/wiki/Olo_(color),193,46,2026-08-17T20:19:23.838317+00:00
+49335517,Roboflow Playground: Try and Compare 30 Computer Vision Models,https://blog.roboflow.com/roboflow-playground/,13,1,2026-08-17T20:19:23.838317+00:00
+49335292,How I Over-Engineered My Book,https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/,33,25,2026-08-17T20:19:23.838317+00:00
+49289898,The Oldest Bar in Every US State,https://www.businessinsider.com/oldest-bar-every-state,29,9,2026-08-17T20:19:23.838317+00:00
+49334544,Qwen3.8 27B scores 52 on Artificial Analysis,https://artificialanalysis.ai/models/qwen3-8-27b,187,95,2026-08-17T20:19:23.838317+00:00
+49331033,Ask HN: Alternatives to GitHub,item?id=49331033,398,253,2026-08-17T20:19:23.838317+00:00
+49335600,"The Lonely Men Who Work in Patagonia, at the End of the World",https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world,59,22,2026-08-17T20:19:23.838317+00:00
+49288644,Marketers are Addicted to Bad Data (2020),https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data,12,14,2026-08-17T20:19:23.838317+00:00
+49331474,How to put 170 atoms in an atom,https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/,79,16,2026-08-17T20:19:23.838317+00:00
+49324087,Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing,https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing,737,641,2026-08-17T20:19:23.838317+00:00
+49335216,"Amazon, which started off selling books, is destroying rare texts to train AI",https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/,72,34,2026-08-17T20:19:23.838317+00:00
+49335001,We Are Forking dotenvy into dotenv-ng,https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/,18,16,2026-08-17T20:19:23.838317+00:00
+49272891,A particle made of force: physicists say they've found mysterious 'glueball',https://www.nature.com/articles/d41586-026-02498-1,49,2,2026-08-17T20:19:23.838317+00:00
+49323474,How I developed an Am29000 C compiler and web browser,https://nanochess.org/am29000_c_compiler_web_browser.html,62,9,2026-08-17T20:19:23.838317+00:00
+49330215,Show HN: Sokoban AI Solver,https://mkornreich.me/projects/sokoban/,59,33,2026-08-17T20:19:23.838317+00:00
+49325789,On AI regulation and messaging,https://twitter.com/DarioAmodei/status/2088758816376807762,218,460,2026-08-17T20:19:23.838317+00:00
+49331288,Show HN: Learn Flags Quiz,https://flagquizzes.com/,33,19,2026-08-17T20:19:23.838317+00:00
