@@ -16229,3 +16229,33 @@ story_id,title,link,points,comments,scraped_at
 49281352,Clamiga: Common Lisp for the Amiga,https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga,116,19,2026-08-17T11:20:37.127277+00:00
 49320673,GPS and the Lost Art of Getting Lost,https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost,82,73,2026-08-17T11:20:37.127277+00:00
 49313920,Plastic mechanical computer from 1963: The Digi-Comp 1 [video],https://www.youtube.com/watch?v=-y8bGBE71yw,69,18,2026-08-17T11:20:37.127277+00:00
+49324985,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",https://simonwillison.net/2026/Aug/16/qwen-38-27b/,557,263,2026-08-17T11:48:51.212745+00:00
+49328911,Self hosted email continues to steeply decline,https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/,12,2,2026-08-17T11:48:51.212745+00:00
+49325789,On A.I. regulation and messaging,https://twitter.com/DarioAmodei/status/2088758816376807762,103,176,2026-08-17T11:48:51.212745+00:00
+49324087,Anthropic's 'watermark' text adulteration in Claude is a perversion of writing,https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing,351,339,2026-08-17T11:48:51.212745+00:00
+49321717,A third world engineer responds to “RISC-V: They should have known better”,https://rvembedded.com/blog_post/12/,538,278,2026-08-17T11:48:51.212745+00:00
+49325061,Reticulum – Decentralized Mesh Network,https://reticulum.network/,143,44,2026-08-17T11:48:51.212745+00:00
+49319556,Claude: System Prompts,https://platform.claude.com/docs/en/release-notes/system-prompts,682,264,2026-08-17T11:48:51.212745+00:00
+49327643,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,https://desktopcolors.com,22,5,2026-08-17T11:48:51.212745+00:00
+49325714,AGI-64 Brings Sierra Adventures to the Commodore 64,https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64,95,12,2026-08-17T11:48:51.212745+00:00
+49281175,Production-ready detection and response queries for osquery,https://github.com/chainguard-dev/osquery-defense-kit,9,0,2026-08-17T11:48:51.212745+00:00
+49288449,Gakutensoku,https://en.wikipedia.org/wiki/Gakutensoku,38,5,2026-08-17T11:48:51.212745+00:00
+49296495,"The continuing ""Q collar"" scandal",https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/,34,13,2026-08-17T11:48:51.212745+00:00
+49303380,The Mysterious Syndrome Destroying Endurance Athletes,https://www.outsideonline.com/health/training-performance/running-empty/,19,10,2026-08-17T11:48:51.212745+00:00
+49325384,Rhombus 1.1 is now available,https://blog.racket-lang.org/2026/08/rhombus-v1.1.html,95,28,2026-08-17T11:48:51.212745+00:00
+49290545,How do I permanently disable random Google Photos popup to backup photos? (2024),https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en,145,91,2026-08-17T11:48:51.212745+00:00
+49326816,Linear algebra done right,https://linear.axler.net/,102,42,2026-08-17T11:48:51.212745+00:00
+49285096,SIMD in the 90s: Programming Intel's Pentium MMX,https://pikuma.com/blog/programming-intel-pentium-mmx-simd,126,53,2026-08-17T11:48:51.212745+00:00
+49298932,Design 3D-printable parts by talking,https://nurb.dev/,28,12,2026-08-17T11:48:51.212745+00:00
+49325304,Applying a photosynthetic process to treat “dry eye”,https://www.science.org/content/blog-post/taking-tip-plants-eyes,51,17,2026-08-17T11:48:51.212745+00:00
+49326156,GIMP Development Update,https://www.gimp.org/news/2026/08/16/dev-update-august-2026/,202,152,2026-08-17T11:48:51.212745+00:00
+49320611,The AI Credit Resale Economy,https://vectoral.com/blog/who-are-the-token-brokers,301,121,2026-08-17T11:48:51.212745+00:00
+49323136,Red queen hypothesis – A new way forward for self-improving AI,https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai,78,21,2026-08-17T11:48:51.212745+00:00
+49325458,Prolly: A content-addressed ordered map built on prolly trees,https://github.com/crabbuild/prolly,47,4,2026-08-17T11:48:51.212745+00:00
+49322107,Tell HN: Cloudflare silently injects its analytics when you switch nameservers,item?id=49322107,541,153,2026-08-17T11:48:51.212745+00:00
+49322573,Protobuf has LSP support,https://buf.build/blog/protobuf-lsp,160,110,2026-08-17T11:48:51.212745+00:00
+49322330,"MathCode, Mathematical Coding Agent",https://math-ai-org.github.io/mathcode/,101,29,2026-08-17T11:48:51.212745+00:00
+49323381,Stripe will reportedly acquire OpenRouter for $7B+,https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/,380,234,2026-08-17T11:48:51.212745+00:00
+49326071,Strong gravitational lensing and microlensing of supernovae (2024),https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5,12,1,2026-08-17T11:48:51.212745+00:00
+49281352,Clamiga: Common Lisp for the Amiga,https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga,117,19,2026-08-17T11:48:51.212745+00:00
+49313920,Plastic mechanical computer from 1963: The Digi-Comp 1 [video],https://www.youtube.com/watch?v=-y8bGBE71yw,71,18,2026-08-17T11:48:51.212745+00:00
