@@ -15959,3 +15959,33 @@ story_id,title,link,points,comments,scraped_at
 49320856,"St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core,160,125,2026-08-17T02:17:17.907212+00:00
 49260268,"Before Rightmove, there was the Cosmorama",https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/,26,3,2026-08-17T02:17:17.907212+00:00
 49268565,A SAT Attack on Tarski's High School Algebra Problem,https://arxiv.org/abs/2608.08421,85,35,2026-08-17T02:17:17.907212+00:00
+49324985,"Qwen 3.8 27B is excellent, but it defaults to overthinking things",https://simonwillison.net/2026/Aug/16/qwen-38-27b/,124,51,2026-08-17T03:26:53.043041+00:00
+49325185,The Life and Death of Direct File [pdf],https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf,105,33,2026-08-17T03:26:53.043041+00:00
+49325714,AGI-64 Brings Sierra Adventures to the Commodore 64,https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64,16,2,2026-08-17T03:26:53.043041+00:00
+49325384,Rhombus 1.1 is now available,https://blog.racket-lang.org/2026/08/rhombus-v1.1.html,24,10,2026-08-17T03:26:53.043041+00:00
+49321717,"A 3rd World Embedded Engineer Responds to ""RISC-V They Should Have Known Better""",https://rvembedded.com/blog_post/12/,398,216,2026-08-17T03:26:53.043041+00:00
+49319556,Claude: System Prompts,https://platform.claude.com/docs/en/release-notes/system-prompts,568,235,2026-08-17T03:26:53.043041+00:00
+49325061,Reticulum – Decentralized Mesh Network,https://reticulum.network/,31,7,2026-08-17T03:26:53.043041+00:00
+49259980,Low-Tech Ceramic Water Filter,https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en,117,31,2026-08-17T03:26:53.043041+00:00
+49231418,"Interview with Amit Patel, Creator of ""Solar Realms Elite""",https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/,22,1,2026-08-17T03:26:53.043041+00:00
+49285096,SIMD in the 90s: Programming Intel's Pentium MMX,https://pikuma.com/blog/programming-intel-pentium-mmx-simd,79,37,2026-08-17T03:26:53.043041+00:00
+49322573,Protobuf has LSP support. You're welcome,https://buf.build/blog/protobuf-lsp,128,84,2026-08-17T03:26:53.043041+00:00
+49257362,Dancing with friends and enemies: boids' swarm intelligence,https://community.wolfram.com/groups/-/m/t/122095,21,1,2026-08-17T03:26:53.043041+00:00
+49325159,The federal keyword lists that canceled billions in research funding,https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/,131,24,2026-08-17T03:26:53.043041+00:00
+49322330,"MathCode, Mathematical Coding Agent",https://math-ai-org.github.io/mathcode/,71,23,2026-08-17T03:26:53.043041+00:00
+49320611,The AI Credit Resale Economy,https://vectoral.com/blog/who-are-the-token-brokers,239,93,2026-08-17T03:26:53.043041+00:00
+49281352,Clamiga: Common Lisp for the Amiga,https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga,93,10,2026-08-17T03:26:53.043041+00:00
+49323686,Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee,https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/,134,50,2026-08-17T03:26:53.043041+00:00
+49306021,Anton Chekhov played at love most of his life,https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/,70,15,2026-08-17T03:26:53.043041+00:00
+49313920,Plastic mechanical computer from 1963: The Digi-Comp 1 [video],https://www.youtube.com/watch?v=-y8bGBE71yw,53,15,2026-08-17T03:26:53.043041+00:00
+49323381,Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter,https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion,227,157,2026-08-17T03:26:53.043041+00:00
+49325304,"Applying a photosynthetic process to treat ""dry eye""",https://www.science.org/content/blog-post/taking-tip-plants-eyes,4,0,2026-08-17T03:26:53.043041+00:00
+49322695,Models Are Getting Dumber on Purpose,https://w4g1.dev/blog/models-are-getting-dumber-on-purpose,284,160,2026-08-17T03:26:53.043041+00:00
+49319633,Firefox for iOS now has a native adblocker,https://support.mozilla.org/en-US/kb/block-ads-firefox-ios,558,236,2026-08-17T03:26:53.043041+00:00
+49323136,Red queen hypothesis – a new way forward for self-improving AI,https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai,20,2,2026-08-17T03:26:53.043041+00:00
+49303776,A quick look at zero-knowledge proofs,https://bernsteinbear.com/blog/zkp/,56,25,2026-08-17T03:26:53.043041+00:00
+49325458,Prolly: A content-addressed ordered map built on prolly trees,https://github.com/crabbuild/prolly,3,0,2026-08-17T03:26:53.043041+00:00
+49322107,Tell HN: Cloudflare silently injects its analytics when you switch nameservers,item?id=49322107,317,78,2026-08-17T03:26:53.043041+00:00
+49263928,The FastLanes Unified Transport Layout,https://blog.dave.tf/post/fastlanes-utl/,3,0,2026-08-17T03:26:53.043041+00:00
+49319349,A True Telnet BBS on a Casio Calculator,https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/,91,9,2026-08-17T03:26:53.043041+00:00
+49320856,"St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core,164,128,2026-08-17T03:26:53.043041+00:00
