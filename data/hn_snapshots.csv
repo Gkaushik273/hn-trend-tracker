@@ -16829,3 +16829,33 @@ story_id,title,link,points,comments,scraped_at
 49335600,"Los Puesteros, solitary men who look after ranches and livestock in Patagonia",https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world,92,35,2026-08-17T22:48:34.689367+00:00
 49323474,How I developed an Am29000 C compiler and web browser,https://nanochess.org/am29000_c_compiler_web_browser.html,76,11,2026-08-17T22:48:34.689367+00:00
 49337630,How do functions like alloca allocate memory from the stack?,https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617,3,0,2026-08-17T22:48:34.689367+00:00
+49338459,How Bluesky draws its logo on screenshots,https://timmarinin.net/2026/bluesky-screenshots/,78,51,2026-08-17T23:17:10.482482+00:00
+49338328,"Quake Shareware, a CD-ROM just a little too full",https://fabiensanglard.net/quake_shareware_cd/index.html,52,11,2026-08-17T23:17:10.482482+00:00
+49334991,"GPU Offload in Rust: Portable, Safe, and Fast",https://arxiv.org/abs/2608.13759,139,29,2026-08-17T23:17:10.482482+00:00
+49330781,A Preview of DuckDB v2.0,https://duckdb.org/2026/08/17/duckdb-20-highlights,502,86,2026-08-17T23:17:10.482482+00:00
+49331423,AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira,https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug,298,122,2026-08-17T23:17:10.482482+00:00
+49330597,Incident with Github.com,https://www.githubstatus.com/incidents/zkxwbgr0cnmx,486,869,2026-08-17T23:17:10.482482+00:00
+49338285,Fairphone 6 and PostmarketOS working main camera,https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera,32,5,2026-08-17T23:17:10.482482+00:00
+49336573,AI;DR (AI; Didn't Read),https://www.rickmanelius.com/p/aidr-ai-didnt-read,481,296,2026-08-17T23:17:10.482482+00:00
+49331220,How to disable or avoid intrusive AI,https://www.librarian.net/notoai/,236,129,2026-08-17T23:17:10.482482+00:00
+49270194,Olo (Color),https://en.wikipedia.org/wiki/Olo_(color),270,62,2026-08-17T23:17:10.482482+00:00
+49333824,Sun Clock,https://sunclock.net/,152,49,2026-08-17T23:17:10.482482+00:00
+49329575,"GPT 5.6 Sol is the best ""vision"" model OpenAI ever released",https://blog.roboflow.com/openai-gpt-5-6/,288,150,2026-08-17T23:17:10.482482+00:00
+49333344,Judge sets framework for Nine PBS to retrieve archival data,https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/,114,43,2026-08-17T23:17:10.482482+00:00
+49279146,Intriguing stories in computer science,https://inventwithpython.com/blog/intriguing-stories-in-cs.html,18,1,2026-08-17T23:17:10.482482+00:00
+49338139,My friends all hate AI; I just joined an AI startup,https://www.fast.ai/posts/2026-08-18-returning-to-AI/,9,1,2026-08-17T23:17:10.482482+00:00
+49337630,How do functions like alloca allocate memory from the stack?,https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617,10,0,2026-08-17T23:17:10.482482+00:00
+49332751,Launch HN: Speko (YC S26) – OpenRouter for Voice AI,https://speko.ai/,85,51,2026-08-17T23:17:10.482482+00:00
+49335517,Roboflow Playground: Try and Compare 30 Computer Vision Models,https://blog.roboflow.com/roboflow-playground/,36,3,2026-08-17T23:17:10.482482+00:00
+49272891,A particle made of force: physicists say they've found mysterious 'glueball',https://www.nature.com/articles/d41586-026-02498-1,88,6,2026-08-17T23:17:10.482482+00:00
+49331033,Ask HN: Alternatives to GitHub,item?id=49331033,467,296,2026-08-17T23:17:10.482482+00:00
+49295179,A simple fix for LLM tail latency,https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/,26,11,2026-08-17T23:17:10.482482+00:00
+49338428,scScript for Linux,https://scapplications.com/,4,1,2026-08-17T23:17:10.482482+00:00
+49338404,Colorado River plummets as lakes Powell and Mead drop to record lows,https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html,23,28,2026-08-17T23:17:10.482482+00:00
+49334544,Qwen3.8 27B scores 52 on Artificial Analysis,https://artificialanalysis.ai/models/qwen3-8-27b,273,123,2026-08-17T23:17:10.482482+00:00
+49334409,An update on leaving Gmail for Fastmail,https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/,84,74,2026-08-17T23:17:10.482482+00:00
+49289898,The oldest bar in every state,https://www.businessinsider.com/oldest-bar-every-state,51,29,2026-08-17T23:17:10.482482+00:00
+49289583,Some Virtues of Narrative Poetry,https://newversereview.substack.com/p/the-purpose-of-poetry-is-to-tell,4,0,2026-08-17T23:17:10.482482+00:00
+49331474,How to put 170 atoms in an atom,https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/,96,20,2026-08-17T23:17:10.482482+00:00
+49335001,We Are Forking dotenvy into dotenv-ng,https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/,34,36,2026-08-17T23:17:10.482482+00:00
+49336304,India has paved the way for charging merchants a fee on UPI transactions,https://www.bbc.com/news/articles/c8xnwqe00v1o,79,70,2026-08-17T23:17:10.482482+00:00
