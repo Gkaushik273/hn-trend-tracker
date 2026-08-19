@@ -18929,3 +18929,33 @@ story_id,title,link,points,comments,scraped_at
 49363710,Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams,https://github.com/onecli/onecli,45,14,2026-08-19T22:49:30.828643+00:00
 49367836,Collaborative Human Agent Protocol (CHAP),https://github.com/BrightbeamAI/chap,4,0,2026-08-19T22:49:30.828643+00:00
 49366270,Digital Immortality,https://dogdogfish.com/blog/2026/08/19/digital-immortality/,22,7,2026-08-19T22:49:30.828643+00:00
+49364559,OpenRouter is joining Stripe,https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/,532,291,2026-08-19T23:17:20.354123+00:00
+49365405,Go 1.27,https://go.dev/blog/go1.27,382,85,2026-08-19T23:17:20.354123+00:00
+49367350,Anthropic Refuses to Support Agents.md,https://github.com/anthropics/claude-code/issues/6235,64,24,2026-08-19T23:17:20.354123+00:00
+49364745,Google replaced Git tags for certain source code with obtaining via Google Drive,https://grapheneos.social/@GrapheneOS/117057099753905023,225,68,2026-08-19T23:17:20.354123+00:00
+49365841,Unlocking a locked/deactivated e-waste Cricut Maker,https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/,102,26,2026-08-19T23:17:20.354123+00:00
+49365443,Unsloth Dynamic 3.0 GGUFs,https://unsloth.ai/docs/basics/dynamic-3.0-ggufs,155,53,2026-08-19T23:17:20.354123+00:00
+49348189,Sol Loves to Cheat,https://jumploops.com/blog/sol-loves-to-cheat/,39,7,2026-08-19T23:17:20.354123+00:00
+49367256,"Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",https://os8088.com/spotlight/,22,9,2026-08-19T23:17:20.354123+00:00
+49366792,DFlash 2: Keep Drafting Parallel,https://inco.ai/blog/dflash2/,53,6,2026-08-19T23:17:20.354123+00:00
+49360015,A joke domain purchase turned in geopolitical warfare,https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/,705,102,2026-08-19T23:17:20.354123+00:00
+49362887,Casio F-B100W-1A,https://www.casio.com/uk/watches/casio/product.F-B100W-1A/,242,192,2026-08-19T23:17:20.354123+00:00
+49314109,The little-known winstart.bat batch file,https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605,61,9,2026-08-19T23:17:20.354123+00:00
+49366597,Pressed Penny Machine Map,https://pennypresses.net/home/map.php,31,29,2026-08-19T23:17:20.354123+00:00
+49360545,Geolocating a random island using geometry and CUDA programming,https://yassa9.github.io/osint/gralhix-004/,387,73,2026-08-19T23:17:20.354123+00:00
+49362728,Mathematics in the age of AI,https://arxiv.org/abs/2608.16753,103,91,2026-08-19T23:17:20.354123+00:00
+49362401,Ornith-1.5: From Self-Scaffolding to Self-Improvement,https://ornith.ai/ornith_1_5.html,159,53,2026-08-19T23:17:20.354123+00:00
+49365419,Rules of good social skills (2025),https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/,71,33,2026-08-19T23:17:20.354123+00:00
+49363668,Extensible Software in the age of LLMs,https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/,95,43,2026-08-19T23:17:20.354123+00:00
+49317632,"A portable, sensitive, low power, analog Geiger counter (2025)",https://ludens.cl/Electron/geiger2/geiger2.html,27,0,2026-08-19T23:17:20.354123+00:00
+49366474,Xwayland 26.1.0 rc1,https://lists.x.org/archives/xorg/2026-August/062280.html,37,13,2026-08-19T23:17:20.354123+00:00
+49294621,Aluminum Frame PC Fan Corsi-Rosenthal Build (2023),https://itsairborne.com/aluminum-frame-pc-fan-corsi-rosenthal-build-c28aa7ca8927,7,0,2026-08-19T23:17:20.354123+00:00
+49353339,"fx :Tiny, open, native coding agent.",https://fx.sh,152,76,2026-08-19T23:17:20.354123+00:00
+49305415,IDE Nostalgia (2022),https://davidsmaynard.com/blog/keyset,20,0,2026-08-19T23:17:20.354123+00:00
+49362934,"Remote workers report the highest well-being in study of 7,700 employees",https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees,446,220,2026-08-19T23:17:20.354123+00:00
+49367836,Collaborative Human Agent Protocol (CHAP),https://github.com/BrightbeamAI/chap,11,2,2026-08-19T23:17:20.354123+00:00
+49361279,PostgreSQL for Everything,https://www.raphaelbauer.com:443/posts/postgresql-everything/,280,178,2026-08-19T23:17:20.354123+00:00
+49359425,Air Theremin – A browser theremin you play by waving at your webcam,https://theremin.bizibah.com/,234,81,2026-08-19T23:17:20.354123+00:00
+49350031,Pacing model development in an era of cyber-critical capabilities,https://openai.com/index/pacing-model-development-cyber-capabilities/,115,134,2026-08-19T23:17:20.354123+00:00
+49363665,How Kubernetes Probes Work,https://ngrok.com/blog/probes,109,21,2026-08-19T23:17:20.354123+00:00
+49363710,Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams,https://github.com/onecli/onecli,47,14,2026-08-19T23:17:20.354123+00:00
