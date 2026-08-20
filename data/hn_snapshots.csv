@@ -19439,3 +19439,33 @@ story_id,title,link,points,comments,scraped_at
 49373616,Browser De-Slop,https://www.sacredheartsc.com/blog/browser-de-slop/,5,1,2026-08-20T12:35:07.146553+00:00
 49312446,"Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",https://qdrant.tech/articles/filtered-vector-search-acorn/,4,0,2026-08-20T12:35:07.146553+00:00
 49321934,Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020),https://github.com/cesarblum/sectorforth,40,11,2026-08-20T12:35:07.146553+00:00
+49371857,"Don't Paste the AI, please",https://dontpastetheai.com/,729,361,2026-08-20T13:40:45.568624+00:00
+49372583,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html,269,83,2026-08-20T13:40:45.568624+00:00
+49373456,Show HN: I trained a 125M model to autocomplete piano on-device,https://simedw.com/2026/08/20/midi-autocomplete/,84,26,2026-08-20T13:40:45.568624+00:00
+49371006,Windows brings out the Rorschach test in everyone (2003),https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803,266,99,2026-08-20T13:40:45.568624+00:00
+49374269,Malicious Rust Crate Arrayref Runs a Build-Time Payload,https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/,10,0,2026-08-20T13:40:45.568624+00:00
+49364559,OpenRouter is joining Stripe,https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/,909,464,2026-08-20T13:40:45.568624+00:00
+49369408,Turns are Better than Radians (2022),https://www.computerenhance.com/p/turns-are-better-than-radians,270,139,2026-08-20T13:40:45.568624+00:00
+49374177,Sokoban via Grok App Builder,https://sokoban.grok.me/,3,1,2026-08-20T13:40:45.568624+00:00
+49373423,Proof of Human (YC S23) Is Hiring a Member of Technical Staff,https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff,0,0,2026-08-20T13:40:45.568624+00:00
+49364745,Google has stopped pushing Git tags for some Android source code,https://grapheneos.social/@GrapheneOS/117057099753905023,705,275,2026-08-20T13:40:45.568624+00:00
+49365405,Go 1.27,https://go.dev/blog/go1.27,708,216,2026-08-20T13:40:45.568624+00:00
+49372994,Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery,https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/,18,3,2026-08-20T13:40:45.568624+00:00
+49323795,A faster way to calculate the day of the week,https://www.benjoffe.com/fast-day-of-week,201,48,2026-08-20T13:40:45.568624+00:00
+49372661,Risk Engineering,https://risk-engineering.org/,20,2,2026-08-20T13:40:45.568624+00:00
+49303545,Show HN: Streambench – Native Mac Client for Kafka and NATS,https://streambench.app,7,1,2026-08-20T13:40:45.568624+00:00
+49360015,A joke domain purchase turned in geopolitical warfare,https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/,965,157,2026-08-20T13:40:45.568624+00:00
+49362001,Manabu Kosaka's Handmade Paper Sculptures,https://coca11272000.wixsite.com/manabukosaka,163,19,2026-08-20T13:40:45.568624+00:00
+49365443,Unsloth Dynamic 3.0 GGUFs,https://unsloth.ai/docs/basics/dynamic-3.0-ggufs,301,106,2026-08-20T13:40:45.568624+00:00
+49373616,Browser De-Slop,https://www.sacredheartsc.com/blog/browser-de-slop/,23,13,2026-08-20T13:40:45.568624+00:00
+49365841,Unlocking a locked/deactivated e-waste Cricut Maker,https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/,239,57,2026-08-20T13:40:45.568624+00:00
+49362887,Casio F-B100W-1A,https://www.casio.com/uk/watches/casio/product.F-B100W-1A/,424,351,2026-08-20T13:40:45.568624+00:00
+49373123,Australia passes law to levy tech giants that fail to pay for local news,https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/,32,15,2026-08-20T13:40:45.568624+00:00
+49348189,Sol loves to cheat,https://jumploops.com/blog/sol-loves-to-cheat/,203,166,2026-08-20T13:40:45.568624+00:00
+49325037,The Chauffeur Problem,https://engines.egr.uh.edu/episode/1495,39,22,2026-08-20T13:40:45.568624+00:00
+49360545,Geolocating a random island using geometry and CUDA programming,https://yassa9.github.io/osint/gralhix-004/,500,81,2026-08-20T13:40:45.568624+00:00
+49353339,"fx :Tiny, open, native coding agent.",https://fx.sh,298,127,2026-08-20T13:40:45.568624+00:00
+49361279,PostgreSQL for Everything,https://www.raphaelbauer.com:443/posts/postgresql-everything/,407,237,2026-08-20T13:40:45.568624+00:00
+49367256,"Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",https://os8088.com/spotlight/,109,46,2026-08-20T13:40:45.568624+00:00
+49374162,Canonical Backs New Project to Translate Large C Codebases into Safe Rust,https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/,5,0,2026-08-20T13:40:45.568624+00:00
+49362728,Mathematics in the age of AI,https://arxiv.org/abs/2608.16753,196,231,2026-08-20T13:40:45.568624+00:00
