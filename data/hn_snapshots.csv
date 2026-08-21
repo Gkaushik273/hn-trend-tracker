@@ -20189,3 +20189,33 @@ story_id,title,link,points,comments,scraped_at
 49376332,How to compromise your system with a job interview,https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview,149,131,2026-08-21T06:39:44.047537+00:00
 49379550,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/,1359,295,2026-08-21T06:39:44.047537+00:00
 49374635,Every Model Cheats,https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/,94,76,2026-08-21T06:39:44.047537+00:00
+49384210,Stop Making TUIs,https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/,22,18,2026-08-21T07:37:40.225914+00:00
+49378957,The August 17 outage,https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/,474,541,2026-08-21T07:37:40.225914+00:00
+49347543,I like 'em thick: an apology to my English teachers,https://www.experimental-history.com/p/i-like-em-thick,695,288,2026-08-21T07:37:40.225914+00:00
+49362689,HTML Can Do That,https://chrisburnell.com/html-can-do-that/,733,181,2026-08-21T07:37:40.225914+00:00
+49374269,Malicious Rust crate Arrayref runs a build-time payload,https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/,476,406,2026-08-21T07:37:40.225914+00:00
+49336358,Version Control for Everything,https://tyoverby.com/posts/version-control-for-everything-else/,18,4,2026-08-21T07:37:40.225914+00:00
+49381896,Ox Alpha,https://openrouter.ai/stealth/ox-alpha,120,88,2026-08-21T07:37:40.225914+00:00
+49384224,The Religious Experience of Philip K. Dick by R. Crumb (1986),https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/,20,8,2026-08-21T07:37:40.225914+00:00
+49377853,I should have loved biology (2020),https://jsomers.net/i-should-have-loved-biology/,257,100,2026-08-21T07:37:40.225914+00:00
+49384180,"Japan tried to build an operating system for the world, the US intervened",https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/,59,26,2026-08-21T07:37:40.225914+00:00
+49384477,Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents,https://Argentic.network,5,0,2026-08-21T07:37:40.225914+00:00
+49383326,Codex on AWS bedrock bug causing 10x charges,https://github.com/openai/codex/issues/37674,123,36,2026-08-21T07:37:40.225914+00:00
+49368886,CIA funding helped keep NeXT afloat in the 80s,https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink,392,234,2026-08-21T07:37:40.225914+00:00
+49376038,Launch HN: Vendo (YC S26) – Let users build features on top of your product,https://github.com/runvendo/vendo,34,18,2026-08-21T07:37:40.225914+00:00
+49378446,Why aren't smart people happier? (2022),https://www.experimental-history.com/p/why-arent-smart-people-happier,156,211,2026-08-21T07:37:40.225914+00:00
+49329919,Captain Zilog,https://www.zilog.com/captain_zilog/,44,5,2026-08-21T07:37:40.225914+00:00
+49378768,Show HN: Huzzah – a novel approach to coding with AI,https://www.danielvaughn.dev/posts/huzzah/,288,153,2026-08-21T07:37:40.225914+00:00
+49304409,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh,36,7,2026-08-21T07:37:40.225914+00:00
+49310857,I Ported Moonshine to JavaScript,https://petewarden.com/2026/08/15/why-i-ported-moonshine-to-javascript/,4,1,2026-08-21T07:37:40.225914+00:00
+49375996,Vomit: Clean up Claude 5's token output with a separate LLM,https://github.com/zachahn/vomit,237,241,2026-08-21T07:37:40.225914+00:00
+49384113,"Seed: Minimal, self-modifying agent harness",https://github.com/vivekhaldar/seed,5,0,2026-08-21T07:37:40.225914+00:00
+49376265,Linux 7.2,https://www.igalia.com/2026/08/19/Linux-72-Released.html,240,87,2026-08-21T07:37:40.225914+00:00
+49372583,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html,951,298,2026-08-21T07:37:40.225914+00:00
+49383026,AI companies destroy physical books – let's scan rare books before it's too late,https://annas-archive.gl/blog/physical-destruction.html,281,207,2026-08-21T07:37:40.225914+00:00
+49348141,Git at any scale,https://cursor.com/blog/git-at-any-scale,324,102,2026-08-21T07:37:40.225914+00:00
+49378933,SpacetimeDB: a short technical review,https://strn.cat/posts/spacetime/,88,17,2026-08-21T07:37:40.225914+00:00
+49295112,Speeding Up (Small) Ruby Hashes,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,47,0,2026-08-21T07:37:40.225914+00:00
+49360140,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),https://arxiv.org/abs/2504.09762,225,145,2026-08-21T07:37:40.225914+00:00
+49375719,Anti-AI fonts are useless and harmful,https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/,150,109,2026-08-21T07:37:40.225914+00:00
+49378243,Consumer Rights Wiki,https://consumerrights.wiki/w/Main_Page,271,50,2026-08-21T07:37:40.225914+00:00
