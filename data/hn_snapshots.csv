@@ -20429,3 +20429,33 @@ story_id,title,link,points,comments,scraped_at
 49375719,Anti-AI fonts are useless and harmful,https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/,178,134,2026-08-21T12:34:20.461995+00:00
 49329919,Captain Zilog,https://www.zilog.com/captain_zilog/,61,8,2026-08-21T12:34:20.461995+00:00
 49385068,Better Batteries,https://matklad.github.io/2026/08/20/better-batteries.html,14,11,2026-08-21T12:34:20.461995+00:00
+49386163,DeepSeek-v4-flash-vision-exp,https://api-docs.deepseek.com/guides/vision/,225,55,2026-08-21T13:39:58.472713+00:00
+49385994,AI companies destroy physical books – let's scan rare books before it's too late,https://annas-archive.pk/blog/physical-destruction.html,243,166,2026-08-21T13:39:58.472713+00:00
+49386659,TigerBeetle Core System Architecture: Deconstructing Performance Engineering,https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering,59,22,2026-08-21T13:39:58.472713+00:00
+49385860,"Small, native web tricks worth remembering",https://htmlcat.net/,125,26,2026-08-21T13:39:58.472713+00:00
+49384896,The Lost Treasure of Sid Meier's Pirates,https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/,166,94,2026-08-21T13:39:58.472713+00:00
+49386383,Kino: A high-performance Ractor web server for Ruby 4.0,https://github.com/yaroslav/kino,29,4,2026-08-21T13:39:58.472713+00:00
+49384716,We Rebuilt the Linux MicroVM Stack on Apple Silicon,https://encore.dev/blog/firecracker-apple-silicon,119,58,2026-08-21T13:39:58.472713+00:00
+49331084,Flat Chair by Sara Paculdo,https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/,73,23,2026-08-21T13:39:58.472713+00:00
+49387497,Grand jury declines to indict Ohio man charged with destroying Flock camera,https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/,22,2,2026-08-21T13:39:58.472713+00:00
+49319733,The Mystery of Dark Oxygen,https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen,26,6,2026-08-21T13:39:58.472713+00:00
+49378957,The August 17 outage,https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/,590,675,2026-08-21T13:39:58.472713+00:00
+49347543,I like 'em thick: an apology to my English teachers,https://www.experimental-history.com/p/i-like-em-thick,793,322,2026-08-21T13:39:58.472713+00:00
+49362689,HTML Can Do That,https://chrisburnell.com/html-can-do-that/,906,205,2026-08-21T13:39:58.472713+00:00
+49374269,Malicious Rust crate Arrayref runs a build-time payload,https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/,522,457,2026-08-21T13:39:58.472713+00:00
+49381896,Ox Alpha,https://openrouter.ai/stealth/ox-alpha,193,152,2026-08-21T13:39:58.472713+00:00
+49383582,Micron announces $10B research hub in Boise,https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx,68,23,2026-08-21T13:39:58.472713+00:00
+49377853,I should have loved biology (2020),https://jsomers.net/i-should-have-loved-biology/,307,116,2026-08-21T13:39:58.472713+00:00
+49318718,Siemens PC-X (2015),https://www.geekdot.com/siemens-pc-x/,8,2,2026-08-21T13:39:58.472713+00:00
+49385068,Better Batteries,https://matklad.github.io/2026/08/20/better-batteries.html,25,15,2026-08-21T13:39:58.472713+00:00
+49378446,Why aren't smart people happier? (2022),https://www.experimental-history.com/p/why-arent-smart-people-happier,226,315,2026-08-21T13:39:58.472713+00:00
+49384113,"Seed: Minimal, self-modifying agent harness",https://github.com/vivekhaldar/seed,45,16,2026-08-21T13:39:58.472713+00:00
+49368886,CIA funding helped keep NeXT afloat in the 80s,https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink,427,257,2026-08-21T13:39:58.472713+00:00
+49384224,The Religious Experience of Philip K. Dick by R. Crumb (1986),https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/,70,46,2026-08-21T13:39:58.472713+00:00
+49376038,Launch HN: Vendo (YC S26) – Let users build features on top of your product,https://github.com/runvendo/vendo,50,20,2026-08-21T13:39:58.472713+00:00
+49315836,Attention Through Arithmetic Intensity,https://changyi.fun/posts/attention-arithmetic-intensity/,13,0,2026-08-21T13:39:58.472713+00:00
+49384180,"Japan tried to build an operating system for the world, the US intervened",https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/,281,159,2026-08-21T13:39:58.472713+00:00
+49375996,Vomit: Clean up Claude 5's token output with a separate LLM,https://github.com/zachahn/vomit,274,270,2026-08-21T13:39:58.472713+00:00
+49360140,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),https://arxiv.org/abs/2504.09762,266,218,2026-08-21T13:39:58.472713+00:00
+49376265,Linux 7.2,https://www.igalia.com/2026/08/19/Linux-72-Released.html,274,118,2026-08-21T13:39:58.472713+00:00
+49375719,Anti-AI fonts are useless and harmful,https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/,187,141,2026-08-21T13:39:58.472713+00:00
