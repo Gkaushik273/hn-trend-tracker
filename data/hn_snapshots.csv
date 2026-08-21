@@ -20459,3 +20459,33 @@ story_id,title,link,points,comments,scraped_at
 49360140,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),https://arxiv.org/abs/2504.09762,266,218,2026-08-21T13:39:58.472713+00:00
 49376265,Linux 7.2,https://www.igalia.com/2026/08/19/Linux-72-Released.html,274,118,2026-08-21T13:39:58.472713+00:00
 49375719,Anti-AI fonts are useless and harmful,https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/,187,141,2026-08-21T13:39:58.472713+00:00
+49388154,Kagi added a setting for removing paywalled links from search results,https://kagi.com/changelog#11296,90,24,2026-08-21T14:28:21.060736+00:00
+49386163,DeepSeek-v4-flash-vision-exp,https://api-docs.deepseek.com/guides/vision/,270,75,2026-08-21T14:28:21.060736+00:00
+49385994,AI companies destroy physical books – let's scan rare books before it's too late,https://annas-archive.pk/blog/physical-destruction.html,335,256,2026-08-21T14:28:21.060736+00:00
+49387497,Grand jury declines to indict Ohio man charged with destroying Flock camera,https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/,172,62,2026-08-21T14:28:21.060736+00:00
+49386659,TigerBeetle Core System Architecture: Deconstructing Performance Engineering,https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering,77,31,2026-08-21T14:28:21.060736+00:00
+49388095,"Kodak's ""Pre-Invented"" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/,7,0,2026-08-21T14:28:21.060736+00:00
+49385860,"Small, native web tricks worth remembering",https://htmlcat.net/,150,33,2026-08-21T14:28:21.060736+00:00
+49387856,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,https://arxiv.org/abs/2608.18214,17,4,2026-08-21T14:28:21.060736+00:00
+49386699,I'm Becoming AI-Blind,https://cymerys.com/w/im-becoming-ai-blind,44,34,2026-08-21T14:28:21.060736+00:00
+49386383,Kino: A high-performance Ractor web server for Ruby 4.0,https://github.com/yaroslav/kino,39,7,2026-08-21T14:28:21.060736+00:00
+49384896,The Lost Treasure of Sid Meier's Pirates,https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/,186,106,2026-08-21T14:28:21.060736+00:00
+49387735,What Happens When the Cost of Intelligence Drops 100x,https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/,9,2,2026-08-21T14:28:21.060736+00:00
+49388064,Rama 0.4: System proxy and PAC support,https://plabayo.tech/blog/rama-0-4,5,2,2026-08-21T14:28:21.060736+00:00
+49388446,What We Lost When Search Stopped Making Us Think,https://blog.8ball.space/what-we-lost-when-search/,3,0,2026-08-21T14:28:21.060736+00:00
+49331084,Flat Chair by Sara Paculdo,https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/,84,26,2026-08-21T14:28:21.060736+00:00
+49387687,Convite,https://www.guidavid.com/writing/convite,6,0,2026-08-21T14:28:21.060736+00:00
+49384716,We Rebuilt the Linux MicroVM Stack on Apple Silicon,https://encore.dev/blog/firecracker-apple-silicon,123,66,2026-08-21T14:28:21.060736+00:00
+49378957,The August 17 outage,https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/,602,691,2026-08-21T14:28:21.060736+00:00
+49387755,Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark,https://twitter.com/NVIDIAAI/status/2090786258981466231,26,7,2026-08-21T14:28:21.060736+00:00
+49387525,We are living in a version of the future out of J.G. Ballard or William Gibson,https://precastreinforced.co.uk/2026/08/16/new-worlds/,4,0,2026-08-21T14:28:21.060736+00:00
+49347543,I like 'em thick: an apology to my English teachers,https://www.experimental-history.com/p/i-like-em-thick,812,326,2026-08-21T14:28:21.060736+00:00
+49362689,HTML Can Do That,https://chrisburnell.com/html-can-do-that/,933,210,2026-08-21T14:28:21.060736+00:00
+49387433,Yes/No/Cancel causes Aspirin sales to soar,https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html,4,1,2026-08-21T14:28:21.060736+00:00
+49387349,DuckDB V2 PEG-based SQL parser,https://duckdb.org/2026/08/20/duckdb-20-peg-parser,6,0,2026-08-21T14:28:21.060736+00:00
+49387570,I accidentally logged phone calls to military bases,https://lina.sh/blog/hijacking-e164-arpa,9,0,2026-08-21T14:28:21.060736+00:00
+49383582,Micron announces $10B research hub in Boise,https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx,88,33,2026-08-21T14:28:21.060736+00:00
+49374269,Malicious Rust crate Arrayref runs a build-time payload,https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/,531,463,2026-08-21T14:28:21.060736+00:00
+49319733,The Mystery of Dark Oxygen,https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen,39,11,2026-08-21T14:28:21.060736+00:00
+49387504,Show HN: Agent Office (Slack for AI Agents) – Similar to Grok Bot but older,https://github.com/baturyilmaz/agent-office,5,0,2026-08-21T14:28:21.060736+00:00
+49318718,Siemens PC-X (2015),https://www.geekdot.com/siemens-pc-x/,13,3,2026-08-21T14:28:21.060736+00:00
