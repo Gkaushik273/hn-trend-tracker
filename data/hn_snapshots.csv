@@ -20159,3 +20159,33 @@ story_id,title,link,points,comments,scraped_at
 49374287,DiffusionGemma Technical Report,https://arxiv.org/abs/2608.00146,146,35,2026-08-21T05:56:21.438171+00:00
 49377248,Sixtyfour (YC P25) Is Hiring,https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern,0,0,2026-08-21T05:56:21.438171+00:00
 49374635,Every Model Cheats,https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/,90,76,2026-08-21T05:56:21.438171+00:00
+49383326,Codex on AWS bedrock bug causing 10x charges,https://github.com/openai/codex/issues/37674,93,27,2026-08-21T06:39:44.047537+00:00
+49378957,The August 17 outage,https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/,444,511,2026-08-21T06:39:44.047537+00:00
+49347543,I like 'em thick: an apology to my English teachers,https://www.experimental-history.com/p/i-like-em-thick,671,277,2026-08-21T06:39:44.047537+00:00
+49384224,The Religious Experience of Philip K. Dick by R. Crumb (1986),https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/,11,1,2026-08-21T06:39:44.047537+00:00
+49362689,HTML Can Do That,https://chrisburnell.com/html-can-do-that/,698,176,2026-08-21T06:39:44.047537+00:00
+49374269,Malicious Rust crate Arrayref runs a build-time payload,https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/,462,394,2026-08-21T06:39:44.047537+00:00
+49377853,I should have loved biology (2020),https://jsomers.net/i-should-have-loved-biology/,245,93,2026-08-21T06:39:44.047537+00:00
+49381896,Ox Alpha,https://openrouter.ai/stealth/ox-alpha,91,74,2026-08-21T06:39:44.047537+00:00
+49382152,There's no such thing as a small software team anymore,https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/,70,114,2026-08-21T06:39:44.047537+00:00
+49329919,Captain Zilog,https://www.zilog.com/captain_zilog/,41,5,2026-08-21T06:39:44.047537+00:00
+49378768,Show HN: Huzzah – a novel approach to coding with AI,https://www.danielvaughn.dev/posts/huzzah/,280,146,2026-08-21T06:39:44.047537+00:00
+49378446,Why aren't smart people happier? (2022),https://www.experimental-history.com/p/why-arent-smart-people-happier,144,196,2026-08-21T06:39:44.047537+00:00
+49383026,AI companies destroy physical books – let's scan rare books before it's too late,https://annas-archive.gl/blog/physical-destruction.html,258,179,2026-08-21T06:39:44.047537+00:00
+49368886,CIA funding helped keep NeXT afloat in the 80s,https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink,387,232,2026-08-21T06:39:44.047537+00:00
+49304409,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh,32,5,2026-08-21T06:39:44.047537+00:00
+49384180,"Japan tried to build an operating system for the world, the US intervened",https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/,26,7,2026-08-21T06:39:44.047537+00:00
+49336358,Version Control for Everything,https://tyoverby.com/posts/version-control-for-everything-else/,5,0,2026-08-21T06:39:44.047537+00:00
+49375996,Vomit: Clean up Claude 5's token output with a separate LLM,https://github.com/zachahn/vomit,230,232,2026-08-21T06:39:44.047537+00:00
+49376265,Linux 7.2,https://www.igalia.com/2026/08/19/Linux-72-Released.html,229,77,2026-08-21T06:39:44.047537+00:00
+49372583,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html,942,297,2026-08-21T06:39:44.047537+00:00
+49295112,Speeding Up (Small) Ruby Hashes,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,44,0,2026-08-21T06:39:44.047537+00:00
+49348141,Git at any scale,https://cursor.com/blog/git-at-any-scale,318,102,2026-08-21T06:39:44.047537+00:00
+49378933,SpacetimeDB: A Short Technical Review,https://strn.cat/posts/spacetime/,81,17,2026-08-21T06:39:44.047537+00:00
+49375719,Anti-AI fonts are useless and harmful,https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/,144,102,2026-08-21T06:39:44.047537+00:00
+49360140,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,https://arxiv.org/abs/2504.09762,223,136,2026-08-21T06:39:44.047537+00:00
+49378243,Consumer Rights Wiki,https://consumerrights.wiki/w/Main_Page,264,49,2026-08-21T06:39:44.047537+00:00
+49377739,Project Cybersyn (2022),https://bactra.org/notebooks/cybersyn.html,58,44,2026-08-21T06:39:44.047537+00:00
+49376332,How to compromise your system with a job interview,https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview,149,131,2026-08-21T06:39:44.047537+00:00
+49379550,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/,1359,295,2026-08-21T06:39:44.047537+00:00
+49374635,Every Model Cheats,https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/,94,76,2026-08-21T06:39:44.047537+00:00
