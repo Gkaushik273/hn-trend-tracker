@@ -20279,3 +20279,33 @@ story_id,title,link,points,comments,scraped_at
 49295112,Speeding Up (Small) Ruby Hashes,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,53,0,2026-08-21T09:30:23.541792+00:00
 49383026,AI companies destroy physical books – let's scan rare books before it's too late,https://annas-archive.gl/blog/physical-destruction.html,329,236,2026-08-21T09:30:23.541792+00:00
 49378933,SpacetimeDB: a short technical review,https://strn.cat/posts/spacetime/,94,20,2026-08-21T09:30:23.541792+00:00
+49384896,The Lost Treasure of Sid Meier's Pirates,https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/,73,24,2026-08-21T10:03:08.462904+00:00
+49384716,We Rebuilt the Linux MicroVM Stack on Apple Silicon,https://encore.dev/blog/firecracker-apple-silicon,65,31,2026-08-21T10:03:08.462904+00:00
+49378957,The August 17 outage,https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/,529,590,2026-08-21T10:03:08.462904+00:00
+49385860,"Small, native web tricks worth remembering",https://htmlcat.net/,5,0,2026-08-21T10:03:08.462904+00:00
+49347543,I like 'em thick: an apology to my English teachers,https://www.experimental-history.com/p/i-like-em-thick,731,303,2026-08-21T10:03:08.462904+00:00
+49362689,HTML Can Do That,https://chrisburnell.com/html-can-do-that/,806,189,2026-08-21T10:03:08.462904+00:00
+49320866,The case against a C alternative (2022),https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative,25,18,2026-08-21T10:03:08.462904+00:00
+49374269,Malicious Rust crate Arrayref runs a build-time payload,https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/,497,423,2026-08-21T10:03:08.462904+00:00
+49381896,Ox Alpha,https://openrouter.ai/stealth/ox-alpha,157,116,2026-08-21T10:03:08.462904+00:00
+49336358,Version Control for Everything,https://tyoverby.com/posts/version-control-for-everything-else/,40,38,2026-08-21T10:03:08.462904+00:00
+49384224,The Religious Experience of Philip K. Dick by R. Crumb (1986),https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/,38,18,2026-08-21T10:03:08.462904+00:00
+49377853,I should have loved biology (2020),https://jsomers.net/i-should-have-loved-biology/,283,107,2026-08-21T10:03:08.462904+00:00
+49331084,Flat Chair by Sara Paculdo,https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/,7,2,2026-08-21T10:03:08.462904+00:00
+49384180,"Japan tried to build an operating system for the world, the US intervened",https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/,157,69,2026-08-21T10:03:08.462904+00:00
+49378446,Why aren't smart people happier? (2022),https://www.experimental-history.com/p/why-arent-smart-people-happier,183,257,2026-08-21T10:03:08.462904+00:00
+49378768,Show HN: Huzzah – a novel approach to coding with AI,https://www.danielvaughn.dev/posts/huzzah/,310,163,2026-08-21T10:03:08.462904+00:00
+49368886,CIA funding helped keep NeXT afloat in the 80s,https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink,401,245,2026-08-21T10:03:08.462904+00:00
+49376038,Launch HN: Vendo (YC S26) – Let users build features on top of your product,https://github.com/runvendo/vendo,37,20,2026-08-21T10:03:08.462904+00:00
+49383582,Micron announces $10B research hub in Boise,https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx,19,1,2026-08-21T10:03:08.462904+00:00
+49329919,Captain Zilog,https://www.zilog.com/captain_zilog/,57,6,2026-08-21T10:03:08.462904+00:00
+49375996,Vomit: Clean up Claude 5's token output with a separate LLM,https://github.com/zachahn/vomit,257,253,2026-08-21T10:03:08.462904+00:00
+49385296,Emacs 31.1 will release on 8/24,https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY,23,4,2026-08-21T10:03:08.462904+00:00
+49376265,Linux 7.2,https://www.igalia.com/2026/08/19/Linux-72-Released.html,254,100,2026-08-21T10:03:08.462904+00:00
+49372583,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html,970,306,2026-08-21T10:03:08.462904+00:00
+49360140,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025),https://arxiv.org/abs/2504.09762,239,173,2026-08-21T10:03:08.462904+00:00
+49375719,Anti-AI fonts are useless and harmful,https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/,168,128,2026-08-21T10:03:08.462904+00:00
+49384113,"Seed: Minimal, self-modifying agent harness",https://github.com/vivekhaldar/seed,23,9,2026-08-21T10:03:08.462904+00:00
+49304409,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh,40,11,2026-08-21T10:03:08.462904+00:00
+49295112,Speeding Up (Small) Ruby Hashes,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,57,0,2026-08-21T10:03:08.462904+00:00
+49385068,Better Batteries,https://matklad.github.io/2026/08/20/better-batteries.html,3,0,2026-08-21T10:03:08.462904+00:00
