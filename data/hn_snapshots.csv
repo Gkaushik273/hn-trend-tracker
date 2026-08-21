@@ -20129,3 +20129,33 @@ story_id,title,link,points,comments,scraped_at
 49374287,DiffusionGemma Technical Report,https://arxiv.org/abs/2608.00146,142,34,2026-08-21T05:03:36.352448+00:00
 49330622,Hard Problems and Heuristic Answers,https://stochastic.blog/hard-problems-and-heuristic-answers/,5,0,2026-08-21T05:03:36.352448+00:00
 49377248,Sixtyfour (YC P25) Is Hiring,https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern,0,0,2026-08-21T05:03:36.352448+00:00
+49383326,Codex on AWS bedrock bug causing 10x charges,https://github.com/openai/codex/issues/37674,70,18,2026-08-21T05:56:21.438171+00:00
+49378957,The August 17 outage,https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/,430,481,2026-08-21T05:56:21.438171+00:00
+49347543,I like 'em thick: an apology to my English teachers,https://www.experimental-history.com/p/i-like-em-thick,652,274,2026-08-21T05:56:21.438171+00:00
+49362689,HTML Can Do That,https://chrisburnell.com/html-can-do-that/,669,175,2026-08-21T05:56:21.438171+00:00
+49374269,Malicious Rust crate Arrayref runs a build-time payload,https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/,446,388,2026-08-21T05:56:21.438171+00:00
+49377853,I should have loved biology (2020),https://jsomers.net/i-should-have-loved-biology/,233,90,2026-08-21T05:56:21.438171+00:00
+49381896,Ox Alpha,https://openrouter.ai/stealth/ox-alpha,76,61,2026-08-21T05:56:21.438171+00:00
+49368886,CIA funding helped keep NeXT afloat in the 80s,https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink,386,229,2026-08-21T05:56:21.438171+00:00
+49329919,Captain Zilog,https://www.zilog.com/captain_zilog/,31,3,2026-08-21T05:56:21.438171+00:00
+49382152,There's no such thing as a small software team anymore,https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/,58,99,2026-08-21T05:56:21.438171+00:00
+49383026,AI companies destroy physical books – let's scan rare books before it's too late,https://annas-archive.gl/blog/physical-destruction.html,220,150,2026-08-21T05:56:21.438171+00:00
+49378446,Why aren't smart people happier? (2022),https://www.experimental-history.com/p/why-arent-smart-people-happier,136,189,2026-08-21T05:56:21.438171+00:00
+49304409,Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K,https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh,27,5,2026-08-21T05:56:21.438171+00:00
+49375996,Vomit: Clean up Claude 5's token output with a separate LLM,https://github.com/zachahn/vomit,223,230,2026-08-21T05:56:21.438171+00:00
+49378768,Show HN: Huzzah – a novel approach to coding with AI,https://www.danielvaughn.dev/posts/huzzah/,260,145,2026-08-21T05:56:21.438171+00:00
+49348079,Mojo is now open source,https://www.modular.com/blog/mojo-open-source,382,87,2026-08-21T05:56:21.438171+00:00
+49372583,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html,936,295,2026-08-21T05:56:21.438171+00:00
+49376265,Linux 7.2,https://www.igalia.com/2026/08/19/Linux-72-Released.html,222,77,2026-08-21T05:56:21.438171+00:00
+49378933,SpacetimeDB: A Short Technical Review,https://strn.cat/posts/spacetime/,78,16,2026-08-21T05:56:21.438171+00:00
+49375719,Anti-AI fonts are useless and harmful,https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/,142,96,2026-08-21T05:56:21.438171+00:00
+49348141,Git at any scale,https://cursor.com/blog/git-at-any-scale,312,101,2026-08-21T05:56:21.438171+00:00
+49295112,Speeding Up (Small) Ruby Hashes,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,38,0,2026-08-21T05:56:21.438171+00:00
+49378243,Consumer Rights Wiki,https://consumerrights.wiki/w/Main_Page,261,48,2026-08-21T05:56:21.438171+00:00
+49360140,Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces,https://arxiv.org/abs/2504.09762,214,132,2026-08-21T05:56:21.438171+00:00
+49376332,How to compromise your system with a job interview,https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview,143,129,2026-08-21T05:56:21.438171+00:00
+49377739,Project Cybersyn (2022),https://bactra.org/notebooks/cybersyn.html,55,43,2026-08-21T05:56:21.438171+00:00
+49379550,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/,1294,288,2026-08-21T05:56:21.438171+00:00
+49374287,DiffusionGemma Technical Report,https://arxiv.org/abs/2608.00146,146,35,2026-08-21T05:56:21.438171+00:00
+49377248,Sixtyfour (YC P25) Is Hiring,https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern,0,0,2026-08-21T05:56:21.438171+00:00
+49374635,Every Model Cheats,https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/,90,76,2026-08-21T05:56:21.438171+00:00
