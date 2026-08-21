@@ -20519,3 +20519,33 @@ story_id,title,link,points,comments,scraped_at
 49383582,Micron announces $10B research hub in Boise,https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx,94,41,2026-08-21T15:04:23.519958+00:00
 49319733,The Mystery of Dark Oxygen,https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen,42,12,2026-08-21T15:04:23.519958+00:00
 49381896,Ox Alpha,https://openrouter.ai/stealth/ox-alpha,208,163,2026-08-21T15:04:23.519958+00:00
+49388154,Kagi added a setting for removing paywalled links from search results,https://kagi.com/changelog#11296,396,143,2026-08-21T15:57:16.594804+00:00
+49385994,AI companies destroy physical books – let's scan rare books before it's too late,https://annas-archive.pk/blog/physical-destruction.html,527,347,2026-08-21T15:57:16.594804+00:00
+49389392,c100,https://caligra.com/c100/,33,18,2026-08-21T15:57:16.594804+00:00
+49386163,DeepSeek-v4-flash-vision-exp,https://api-docs.deepseek.com/guides/vision/,315,104,2026-08-21T15:57:16.594804+00:00
+49387570,I accidentally logged phone calls to military bases,https://lina.sh/blog/hijacking-e164-arpa,94,11,2026-08-21T15:57:16.594804+00:00
+49388446,What We Lost When Search Stopped Making Us Think,https://blog.8ball.space/what-we-lost-when-search/,41,24,2026-08-21T15:57:16.594804+00:00
+49387497,Grand jury declines to indict Ohio man charged with destroying Flock camera,https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/,354,191,2026-08-21T15:57:16.594804+00:00
+49389565,"AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",https://canews24.online/?p=71,7,0,2026-08-21T15:57:16.594804+00:00
+49387525,We are living in a version of the future out of J.G. Ballard or William Gibson,https://precastreinforced.co.uk/2026/08/16/new-worlds/,62,24,2026-08-21T15:57:16.594804+00:00
+49387735,What Happens When the Cost of Intelligence Drops 100x,https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/,78,61,2026-08-21T15:57:16.594804+00:00
+49387856,Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle,https://arxiv.org/abs/2608.18214,42,12,2026-08-21T15:57:16.594804+00:00
+49389466,Show HN: A desktop fly drawn to the scent of vibecode,https://github.com/kulikov0/desktop-vibe-fly,9,1,2026-08-21T15:57:16.594804+00:00
+49386659,TigerBeetle Core System Architecture: Deconstructing Performance Engineering,https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering,101,35,2026-08-21T15:57:16.594804+00:00
+49389524,Cancer-Related Mortality Among US Pilots and Flight Attendants,https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504,7,0,2026-08-21T15:57:16.594804+00:00
+49388682,"WPD won't replace stolen Flock cameras, citing public trust",https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html,12,1,2026-08-21T15:57:16.594804+00:00
+49389491,The B-right/V R2 Operating System,http://tronweb.super-nova.co.jp/b-right-vr2intro.html,8,0,2026-08-21T15:57:16.594804+00:00
+49387433,Yes/No/Cancel causes Aspirin sales to soar,https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html,52,38,2026-08-21T15:57:16.594804+00:00
+49388752,Claudette: Make Claude Stop Talking Like a BuzzFeed Article,https://github.com/adnanakil/nobuzz/blob/main/README.md,56,51,2026-08-21T15:57:16.594804+00:00
+49389493,"Show HN: AgentSight – eBPF observability for AI agents, no code changes",https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md,5,0,2026-08-21T15:57:16.594804+00:00
+49385860,"Small, native web tricks worth remembering",https://htmlcat.net/,169,44,2026-08-21T15:57:16.594804+00:00
+49386383,Kino: A high-performance Ractor web server for Ruby 4.0,https://github.com/yaroslav/kino,50,10,2026-08-21T15:57:16.594804+00:00
+49384896,The Lost Treasure of Sid Meier's Pirates,https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/,206,122,2026-08-21T15:57:16.594804+00:00
+49389430,Felony Bench,https://www.felonybench.com/,5,0,2026-08-21T15:57:16.594804+00:00
+49387349,DuckDB V2 PEG-based SQL parser,https://duckdb.org/2026/08/20/duckdb-20-peg-parser,27,3,2026-08-21T15:57:16.594804+00:00
+49388095,"Kodak's ""Pre-Invented"" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/,16,0,2026-08-21T15:57:16.594804+00:00
+49323227,"Making stinkarm stink less, or more?",https://xnacly.me/posts/2026/making-stinkarm-stink-less/,5,0,2026-08-21T15:57:16.594804+00:00
+49386877,The road to ACID transactions in Cassandra 6,https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html,25,0,2026-08-21T15:57:16.594804+00:00
+49331084,Flat Chair by Sara Paculdo,https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/,91,28,2026-08-21T15:57:16.594804+00:00
+49387221,Nothing Doing,https://www.futilitycloset.com/2026/08/10/nothing-doing-12/,13,7,2026-08-21T15:57:16.594804+00:00
+49389339,Code Obfuscation via Local Mixing,https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html,3,0,2026-08-21T15:57:16.594804+00:00
