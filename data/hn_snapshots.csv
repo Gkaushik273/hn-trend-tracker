@@ -20999,3 +20999,33 @@ story_id,title,link,points,comments,scraped_at
 49390463,"Building an (almost) fully self-hosted, sandboxed, agentic software factory",https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/,79,48,2026-08-22T00:53:09.977561+00:00
 49388095,"Kodak's ""pre-invented"" lunar orbiter camera; or, the fate of SAMOS readout",https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/,53,2,2026-08-22T00:53:09.977561+00:00
 49392654,Rust Glancer,https://matklad.github.io/2026/08/21/rust-glancer.html,28,5,2026-08-22T00:53:09.977561+00:00
+49395628,There's no reason for software to be slow anymore,https://danluu.com/perf-opt/,42,27,2026-08-22T02:12:35.090078+00:00
+49389430,Felony Bench,https://www.felonybench.com/,536,228,2026-08-22T02:12:35.090078+00:00
+49390427,Kobo can run apps now,https://bandarlabs.github.io/Cobalt/,444,148,2026-08-22T02:12:35.090078+00:00
+49393052,Rust Glancer: Rust LSP using 100x less RAM,https://rust-glancer.github.io/blog/hello-world/,34,18,2026-08-22T02:12:35.090078+00:00
+49392200,Scientists release biggest 2D map of the universe,https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/,153,49,2026-08-22T02:12:35.090078+00:00
+49394496,Three important steps in my maturation process,https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/,56,15,2026-08-22T02:12:35.090078+00:00
+49395605,Initial focus for our partnership with Motorola is a regular non-folding device,https://grapheneos.social/@GrapheneOS/117136278553665985,11,3,2026-08-22T02:12:35.090078+00:00
+49388154,Kagi added a setting for removing paywalled links from search results,https://kagi.com/changelog#11296,1020,345,2026-08-22T02:12:35.090078+00:00
+49394827,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",https://ozbrain.com,39,14,2026-08-22T02:12:35.090078+00:00
+49387570,I accidentally logged hundreds of thousands of phone calls to military bases,https://lina.sh/blog/hijacking-e164-arpa,455,52,2026-08-22T02:12:35.090078+00:00
+49386895,Felony charges for citizen deleting phone data at US Border,https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html,579,755,2026-08-22T02:12:35.090078+00:00
+49395171,HN: The Good Parts (2016),https://danluu.com/hn-comments/,20,6,2026-08-22T02:12:35.090078+00:00
+49386163,DeepSeek-v4-flash-vision-exp,https://api-docs.deepseek.com/guides/vision/,467,143,2026-08-22T02:12:35.090078+00:00
+49327408,People of ACM – Russ Cox,https://www.acm.org/articles/people-of-acm/2026/russ-cox,94,11,2026-08-22T02:12:35.090078+00:00
+49357530,"AI boosted homework scores, then exam scores dropped: study",https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning,235,292,2026-08-22T02:12:35.090078+00:00
+49393733,SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers,https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer,0,0,2026-08-22T02:12:35.090078+00:00
+49391553,OTel isn't going well (and I made a spreadsheet about it),https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/,26,6,2026-08-22T02:12:35.090078+00:00
+49326852,"Show HN: Rex, a parallel functional language for scientific workflows",https://github.com/peterkelly/rex,11,1,2026-08-22T02:12:35.090078+00:00
+49389952,How we made a text-to-speech model respond in sub-50 ms,https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/,107,28,2026-08-22T02:12:35.090078+00:00
+49380303,Early-life stress leaves a 'scar' inside brain cells in mice,https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/,50,18,2026-08-22T02:12:35.090078+00:00
+49389441,I ran Photoshop on a £0.60 computer chip,https://pointinthecloud.com/2026-08-19-144600.html,120,32,2026-08-22T02:12:35.090078+00:00
+49388752,Claudette: Make Claude stop talking like a BuzzFeed article,https://github.com/adnanakil/nobuzz/blob/main/README.md,205,144,2026-08-22T02:12:35.090078+00:00
+49374853,A look under our trunk: what's in our compute,https://waymo.com/blog/2026/08/look-under-our-trunk/,97,52,2026-08-22T02:12:35.090078+00:00
+49387525,New Worlds: We are living in the future of J.G. Ballard or William Gibson,https://precastreinforced.co.uk/2026/08/16/new-worlds/,207,149,2026-08-22T02:12:35.090078+00:00
+49376197,Autolith: A programming agent with a live runtime,https://www.lambda-symbolics.com/autolith,25,3,2026-08-22T02:12:35.090078+00:00
+49379026,"GitHub, autoscaling, and the component substitution fallacy",https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/,30,0,2026-08-22T02:12:35.090078+00:00
+49376769,Everyone says assembly is untyped—everyone is wrong,https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/,42,15,2026-08-22T02:12:35.090078+00:00
+49392465,Tumble Forth – from assembly to OS with C compiler (2023),https://tumbleforth.hardcoded.net/,57,8,2026-08-22T02:12:35.090078+00:00
+49386699,I'm becoming AI-blind,https://cymerys.com/w/im-becoming-ai-blind,277,283,2026-08-22T02:12:35.090078+00:00
+49346444,The coolest anti-surveillance tools at Defcon [video],https://www.youtube.com/watch?v=-2uAsJ5EPAw,161,12,2026-08-22T02:12:35.090078+00:00
