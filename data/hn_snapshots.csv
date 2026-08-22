@@ -21359,3 +21359,33 @@ story_id,title,link,points,comments,scraped_at
 49374853,A look under our trunk: what's in our compute,https://waymo.com/blog/2026/08/look-under-our-trunk/,121,68,2026-08-22T09:21:20.253242+00:00
 49397074,Canada will match US tariffs 'dollar for dollar' as trade talks break down,https://www.bbc.com/news/articles/cvgvyy4x2mvo,80,40,2026-08-22T09:21:20.253242+00:00
 49393733,SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers,https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer,0,0,2026-08-22T09:21:20.253242+00:00
+49393052,Rust Glancer: Rust LSP using 100x less RAM,https://rust-glancer.github.io/blog/hello-world/,211,46,2026-08-22T09:49:42.497982+00:00
+49389430,Felony Bench,https://www.felonybench.com/,703,278,2026-08-22T09:49:42.497982+00:00
+49390427,Kobo can run apps now,https://bandarlabs.github.io/Cobalt/,544,188,2026-08-22T09:49:42.497982+00:00
+49395628,There's no reason for software to be slow anymore,https://danluu.com/perf-opt/,403,291,2026-08-22T09:49:42.497982+00:00
+49386895,Felony charges for citizen deleting phone data at US Border,https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html,785,915,2026-08-22T09:49:42.497982+00:00
+49387570,I accidentally logged hundreds of thousands of phone calls to military bases,https://lina.sh/blog/hijacking-e164-arpa,546,64,2026-08-22T09:49:42.497982+00:00
+49388154,Kagi added a setting for removing paywalled links from search results,https://kagi.com/changelog#11296,1121,363,2026-08-22T09:49:42.497982+00:00
+49394496,Three important steps in my maturation process,https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/,140,66,2026-08-22T09:49:42.497982+00:00
+49391553,OTel isn’t going well,https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/,119,49,2026-08-22T09:49:42.497982+00:00
+49392200,Scientists release biggest 2D map of the universe,https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/,205,57,2026-08-22T09:49:42.497982+00:00
+49388694,Zig’s io.threaded is neat,https://matklad.github.io/2026/08/06/neat-io-threaded.html,71,39,2026-08-22T09:49:42.497982+00:00
+49357530,"AI boosted homework scores, then exam scores dropped: study",https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning,307,319,2026-08-22T09:49:42.497982+00:00
+49384210,Stop Making TUIs,https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/,135,200,2026-08-22T09:49:42.497982+00:00
+49391661,Optimizing meshoptimizer to process billions of triangles in minutes (2025),https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/,30,0,2026-08-22T09:49:42.497982+00:00
+49327408,People of ACM – Russ Cox,https://www.acm.org/articles/people-of-acm/2026/russ-cox,136,13,2026-08-22T09:49:42.497982+00:00
+49388752,Claudette: Make Claude stop talking like a BuzzFeed article,https://github.com/adnanakil/nobuzz/blob/main/README.md,273,180,2026-08-22T09:49:42.497982+00:00
+49376197,Autolith: A programming agent with a live runtime,https://www.lambda-symbolics.com/autolith,65,21,2026-08-22T09:49:42.497982+00:00
+49386699,I'm becoming AI-blind,https://cymerys.com/w/im-becoming-ai-blind,365,363,2026-08-22T09:49:42.497982+00:00
+49380303,Early-life stress leaves a 'scar' inside brain cells in mice,https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/,86,40,2026-08-22T09:49:42.497982+00:00
+49387525,New Worlds: We are living in the future of J.G. Ballard or William Gibson,https://precastreinforced.co.uk/2026/08/16/new-worlds/,241,165,2026-08-22T09:49:42.497982+00:00
+49364721,A revisit of remote Spectre attacks on Cloudflare Workers,https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/,52,0,2026-08-22T09:49:42.497982+00:00
+49329506,ESP32 Firmware Development with Docker Sandboxes,https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/,21,7,2026-08-22T09:49:42.497982+00:00
+49395605,Initial focus for our partnership with Motorola is a regular non-folding device,https://grapheneos.social/@GrapheneOS/117136278553665985,112,39,2026-08-22T09:49:42.497982+00:00
+49389952,How we made a text-to-speech model respond in sub-50 ms,https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/,145,34,2026-08-22T09:49:42.497982+00:00
+49376769,Everyone says assembly is untyped—everyone is wrong,https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/,79,33,2026-08-22T09:49:42.497982+00:00
+49395171,HN: The Good Parts (2016),https://danluu.com/hn-comments/,50,8,2026-08-22T09:49:42.497982+00:00
+49346444,The coolest anti-surveillance tools at Defcon [video],https://www.youtube.com/watch?v=-2uAsJ5EPAw,199,31,2026-08-22T09:49:42.497982+00:00
+49374853,A look under our trunk: what's in our compute,https://waymo.com/blog/2026/08/look-under-our-trunk/,123,68,2026-08-22T09:49:42.497982+00:00
+49381542,"Ozone: The fault is not in our trees, but in ourselves",https://www.science.org/content/blog-post/fault-not-our-trees-ourselves,28,1,2026-08-22T09:49:42.497982+00:00
+49392465,Tumble Forth – from assembly to OS with C compiler (2023),https://tumbleforth.hardcoded.net/,76,11,2026-08-22T09:49:42.497982+00:00
