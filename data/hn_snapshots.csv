@@ -24089,3 +24089,33 @@ story_id,title,link,points,comments,scraped_at
 49420861,Could We Dredge the Netherlands Without Fossil Fuels? (2018),https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels,32,33,2026-08-24T20:22:33.567594+00:00
 49390993,Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour,https://skimmiq.com/pt/,7,2,2026-08-24T20:22:33.567594+00:00
 49423077,Agent Lightning v1.0,https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1,9,0,2026-08-24T20:22:33.567594+00:00
+49420873,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",https://twitter.com/lemire/status/2091894299289874926,581,392,2026-08-24T20:57:12.954908+00:00
+49421158,MS Paint and Photos inivisibly watermark even locally generated output with GUID,https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/,410,159,2026-08-24T20:57:12.954908+00:00
+49422784,The entire city of San Francisco as a video game,https://sf.thijs.gg/,207,75,2026-08-24T20:57:12.954908+00:00
+49421489,IPFS Maintainers Winding Down,https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/,269,133,2026-08-24T20:57:12.954908+00:00
+49424606,Oceans hit highest temperature on record,https://www.bbc.com/news/articles/c62m4gpnp78o,180,65,2026-08-24T20:57:12.954908+00:00
+49419237,How Europe is killing makers and micro-entrepreneurs,https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs,877,580,2026-08-24T20:57:12.954908+00:00
+49424387,LLMs could control their host machines by exploiting inference engines,https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines,38,15,2026-08-24T20:57:12.954908+00:00
+49421536,Jabber/XMPP: 25 Years of Digital Independence,https://gultsch.de/posts/25-years-of-digital-independence/,107,41,2026-08-24T20:57:12.954908+00:00
+49424758,A Claude Code skill that recovers export-blocked Kindle highlights,https://github.com/l3a0/claude-plugins,32,5,2026-08-24T20:57:12.954908+00:00
+49421806,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",https://picomq.com/,58,8,2026-08-24T20:57:12.954908+00:00
+49421074,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),https://developers.openai.com/api/docs/pricing,236,208,2026-08-24T20:57:12.954908+00:00
+49423495,Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff,https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4,0,0,2026-08-24T20:57:12.954908+00:00
+49422548,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc,53,6,2026-08-24T20:57:12.954908+00:00
+49412396,"I were 17, I'd learn how to build LLMs from scratch",https://twitter.com/paulg/status/2091544343589060625,472,565,2026-08-24T20:57:12.954908+00:00
+49418255,SeL4 security proofs now complete on AArch64,https://proofcraft.systems/news-2026/#2026-08-21,152,34,2026-08-24T20:57:12.954908+00:00
+49423927,"Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",https://github.com/getkern/kern,29,4,2026-08-24T20:57:12.954908+00:00
+49423799,What Is a Syslog Server?,https://blog.greencloudvps.com/what-is-a-syslog-server.php,28,15,2026-08-24T20:57:12.954908+00:00
+49420530,Peppermint oil reduces blood pressure by 8.48 mmHg in small study,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538,51,27,2026-08-24T20:57:12.954908+00:00
+49421554,Coding expertise is going to collapse from AI reliance,https://larsfaye.com/articles/ai-coding-will-prevent-expertise,335,356,2026-08-24T20:57:12.954908+00:00
+49424167,"Removed all counters, replies, following/ers, timestamps, from textlog",https://textlog.cc/post/2059,25,9,2026-08-24T20:57:12.954908+00:00
+49415271,Executable Is a SQLite Database,https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database,432,86,2026-08-24T20:57:12.954908+00:00
+49419351,"Show HN: A techno machine in one HTML file, with verifiable renders",https://ssx360.github.io/rack-02/?src=hn,127,22,2026-08-24T20:57:12.954908+00:00
+49415893,FDA clears blood test to aid evaluation for Alzheimer's disease,https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/,167,82,2026-08-24T20:57:12.954908+00:00
+49420556,Codefloe Is a Professionally Hosted Public Git Forge,https://codefloe.com/,37,14,2026-08-24T20:57:12.954908+00:00
+49421948,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",https://glassbox.codecanary.org,69,35,2026-08-24T20:57:12.954908+00:00
+49420592,Hot Chips 2026: Applying High Bandwidth Flash (HBF),https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth,41,14,2026-08-24T20:57:12.954908+00:00
+49422204,"A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure,99,43,2026-08-24T20:57:12.954908+00:00
+49420861,Could We Dredge the Netherlands Without Fossil Fuels? (2018),https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels,35,39,2026-08-24T20:57:12.954908+00:00
+49390993,Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour,https://skimmiq.com/pt/,10,4,2026-08-24T20:57:12.954908+00:00
+49423539,Octopus intelligence may be related to never-before-seen mutation,https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/,14,6,2026-08-24T20:57:12.954908+00:00
