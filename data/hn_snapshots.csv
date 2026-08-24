@@ -23909,3 +23909,33 @@ story_id,title,link,points,comments,scraped_at
 49418163,Agent Is Not the Model,https://code.joejag.com/2026/your-agent-is-not-the-model.html,54,25,2026-08-24T16:28:29.940326+00:00
 49421758,Firefox intent to ship: JPEG XL,https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA/m/iqfJV5cXEQAJ,10,2,2026-08-24T16:28:29.940326+00:00
 49415852,OCR It – pull text out of un-copyable documents for your LLM,https://github.com/thiagotigaz/ocr-it,101,26,2026-08-24T16:28:29.940326+00:00
+49420873,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",https://twitter.com/lemire/status/2091894299289874926,287,161,2026-08-24T17:05:46.536784+00:00
+49421158,MS Paint and Photos inivisibly watermark even locally generated output with GUID,https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/,145,58,2026-08-24T17:05:46.536784+00:00
+49421489,IPFS Maintainers Winding Down,https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/,88,34,2026-08-24T17:05:46.536784+00:00
+49421074,OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21),https://developers.openai.com/api/docs/pricing,120,100,2026-08-24T17:05:46.536784+00:00
+49422204,"A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure,27,9,2026-08-24T17:05:46.536784+00:00
+49419237,How Europe is killing makers and micro-entrepreneurs,https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs,632,427,2026-08-24T17:05:46.536784+00:00
+49422227,Public services are increasingly strained by LLM-written appeals for benefits,https://arxiv.org/abs/2608.16603,16,6,2026-08-24T17:05:46.536784+00:00
+49418255,SeL4 security proofs now complete on AArch64,https://proofcraft.systems/news-2026/#2026-08-21,133,30,2026-08-24T17:05:46.536784+00:00
+49421536,Jabber/XMPP: 25 Years of Digital Independence,https://gultsch.de/posts/25-years-of-digital-independence/,18,6,2026-08-24T17:05:46.536784+00:00
+49420592,Hot Chips 2026: Applying High Bandwidth Flash (HBF),https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth,29,9,2026-08-24T17:05:46.536784+00:00
+49422243,"Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",https://github.com/ovenpasta/adi2,9,1,2026-08-24T17:05:46.536784+00:00
+49421554,Coding expertise is going to collapse from AI reliance,https://larsfaye.com/articles/ai-coding-will-prevent-expertise,124,151,2026-08-24T17:05:46.536784+00:00
+49412396,"I were 17, I'd learn how to build LLMs from scratch",https://twitter.com/paulg/status/2091544343589060625,385,508,2026-08-24T17:05:46.536784+00:00
+49421948,"Show HN: GlassBox – what the browser reveals, and how identifiable you are",https://glassbox.codecanary.org,13,1,2026-08-24T17:05:46.536784+00:00
+49421806,"Show HN: PicoMQ – Durable Streams over HTTP, on object storage",https://picomq.com/,7,0,2026-08-24T17:05:46.536784+00:00
+49422548,Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam,https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc,6,0,2026-08-24T17:05:46.536784+00:00
+49415271,Executable Is a SQLite Database,https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database,342,68,2026-08-24T17:05:46.536784+00:00
+49420832,Adafruit USB Type C CC Resistor Fixer,https://www.adafruit.com/product/6323,19,5,2026-08-24T17:05:46.536784+00:00
+49415893,FDA clears blood test to aid evaluation for Alzheimer's disease,https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/,144,67,2026-08-24T17:05:46.536784+00:00
+49420781,Hot Chips 2026: Samsung and HBM Base Die Opportunities,https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base,7,2,2026-08-24T17:05:46.536784+00:00
+49419351,"Show HN: A techno machine in one HTML file, with verifiable renders",https://ssx360.github.io/rack-02/?src=hn,66,14,2026-08-24T17:05:46.536784+00:00
+49411102,Anthropic's best AI model struggles to attract users as cheaper tools thrive,https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245,725,643,2026-08-24T17:05:46.536784+00:00
+49420999,NetBSD GSoC 2026 Improving RAIDframe,https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe,9,1,2026-08-24T17:05:46.536784+00:00
+49421347,Three Generations in E7,https://johncarlosbaez.wordpress.com/2026/08/12/three-generations-in-e7/,6,1,2026-08-24T17:05:46.536784+00:00
+49420861,Could We Dredge the Netherlands Without Fossil Fuels?,https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels,9,3,2026-08-24T17:05:46.536784+00:00
+49420902,"Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/,122,81,2026-08-24T17:05:46.536784+00:00
+49420783,Show HN: Free Inference Engineer and Model Training Roadmap,https://inferquest.org,12,3,2026-08-24T17:05:46.536784+00:00
+49416652,Fast drilldown dashboards from a single Parquet file,https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/,132,11,2026-08-24T17:05:46.536784+00:00
+49411643,How I find problems to solve as a staff engineer,https://lalitm.com/post/find-problems-staff-engineer/,532,152,2026-08-24T17:05:46.536784+00:00
+49413320,"Everything I own, owned",https://schlarp.com/posts/everything-i-own-owned/,1280,328,2026-08-24T17:05:46.536784+00:00
