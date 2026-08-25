@@ -24959,3 +24959,33 @@ story_id,title,link,points,comments,scraped_at
 49428638,SiFive's First Server Platform,https://chipsandcheese.com/p/sifives-first-server-platform,119,37,2026-08-25T18:30:53.198079+00:00
 49437637,DOJ prosecutes single FOIA dodger while defending systemwide evasion,https://freedom.press/the-classifieds/doj-prosecutes-single-foia-dodger-while-defending-systemwide-evasion/,11,2,2026-08-25T18:30:53.198079+00:00
 49428121,How Universities Should Prepare Founders,https://paulgraham.com/prepare.html,225,270,2026-08-25T18:30:53.198079+00:00
+49433292,Apple introduces M6 and M5 Ultra,https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/,747,619,2026-08-25T19:25:52.373411+00:00
+49433316,New Mac Studio with M5 Max and M5 Ultra,https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/,604,356,2026-08-25T19:25:52.373411+00:00
+49434378,OpenAI Jalapeño: Better than Nvidia Blackwell,https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia,109,45,2026-08-25T19:25:52.373411+00:00
+49437210,Black hole singularity is a surface not a point,https://arxiv.org/abs/2608.21590,87,34,2026-08-25T19:25:52.373411+00:00
+49437069,My Friend Aaron,https://rorz.io/writing/my-friend-aaron,169,39,2026-08-25T19:25:52.373411+00:00
+49439017,FDA authorizes first wearable device that monitors ketone and blood sugar levels,https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar,15,1,2026-08-25T19:25:52.373411+00:00
+49435675,Show HN: I made a Raspberry with Qwen my local car AI,https://github.com/ThinkOffApp/CarWatch,12,0,2026-08-25T19:25:52.373411+00:00
+49437483,Run OpenBSD on DigitalOcean for $4/month,https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/,48,18,2026-08-25T19:25:52.373411+00:00
+49433450,"New Mac mini, featuring M6 and M5 Pro",https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/,341,175,2026-08-25T19:25:52.373411+00:00
+49437566,Clara (YC P26) is hiring a growth engineer to bring AI doctors to market,https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer,0,0,2026-08-25T19:25:52.373411+00:00
+49437283,Nitter project received cease and desist,https://github.com/zedeus/nitter/issues/1442,254,173,2026-08-25T19:25:52.373411+00:00
+49438052,Dolly Parton has died,https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead,466,68,2026-08-25T19:25:52.373411+00:00
+49438492,Pgbot: A 5.9 MB read-only Postgres tool for humans and agents,https://pgbot.dev/,22,3,2026-08-25T19:25:52.373411+00:00
+49437049,Show HN: LatticeDB – Like SQLite but for graph databases,https://github.com/jeffhajewski/latticedb,45,11,2026-08-25T19:25:52.373411+00:00
+49434820,Bomb fishing is wreaking havoc on Indonesia's coral reefs,https://e360.yale.edu/digest/bomb-fishing-coral-reefs,182,110,2026-08-25T19:25:52.373411+00:00
+49423045,Tracking Costco gas prices,https://www.jack.bio/blog/costco-gas-tracking,33,19,2026-08-25T19:25:52.373411+00:00
+49436822,"Starbase, LA",https://www.spacex.com/sites/starbase-la,99,111,2026-08-25T19:25:52.373411+00:00
+49434645,"Building a backyard office, the build and cost breakdown",https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown,167,137,2026-08-25T19:25:52.373411+00:00
+49432319,Don't Wordle,https://dontwordle.com/,249,103,2026-08-25T19:25:52.373411+00:00
+49436786,"Tooltips need a delay, and then they need to skip it",https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/,51,10,2026-08-25T19:25:52.373411+00:00
+49437165,A new ceiling for Λ: the de Bruijn–Newman constant,https://www.judegomila.com/posts/riemann-lambda-0.1787854,30,4,2026-08-25T19:25:52.373411+00:00
+49437946,Firefox 157 will include JPEG XL by default on all platforms,https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1,78,10,2026-08-25T19:25:52.373411+00:00
+49436706,Fuzzing the Gleam Compiler,https://www.kurz.net/posts/fuzzing-gleam-compiler,23,1,2026-08-25T19:25:52.373411+00:00
+49435641,Behaviorally fingerprinting Ox Alpha's provenance,https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance,6,1,2026-08-25T19:25:52.373411+00:00
+49423878,Visualizing Binary Files,https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html,38,11,2026-08-25T19:25:52.373411+00:00
+49438661,Dolly Parton Has Died,https://en.wikipedia.org/wiki/Dolly_Parton,28,2,2026-08-25T19:25:52.373411+00:00
+49437361,Show HN: Lightweight system monitor for Linux VPS written in Go,https://github.com/leodeim/vpsmon,20,8,2026-08-25T19:25:52.373411+00:00
+49435781,Warnock: Harnessing GPU geometry amplification for vector graphics,https://dl.acm.org/doi/pdf/10.1145/3820012,27,2,2026-08-25T19:25:52.373411+00:00
+49436400,Run Minecraft in a Windows sandbox for computer use agents,https://cua.ai/docs/how-to-guides/sandbox/minecraft,17,6,2026-08-25T19:25:52.373411+00:00
+49432786,Solving the 1+N Query Problem,https://acadia.engineering/blog/solving-the-1-plus-N-query-problem,31,20,2026-08-25T19:25:52.373411+00:00
