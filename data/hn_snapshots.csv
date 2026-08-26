@@ -25259,3 +25259,33 @@ story_id,title,link,points,comments,scraped_at
 49423878,Visualizing Binary Files,https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html,71,15,2026-08-25T23:47:05.015883+00:00
 49435641,Behaviorally fingerprinting Ox Alpha's provenance,https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance,27,14,2026-08-25T23:47:05.015883+00:00
 49436706,Fuzzing the Gleam Compiler,https://www.kurz.net/posts/fuzzing-gleam-compiler,54,4,2026-08-25T23:47:05.015883+00:00
+49439017,FDA authorizes first wearable device that monitors ketone and blood sugar levels,https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar,233,136,2026-08-26T00:55:52.564083+00:00
+49433292,Apple introduces M6 and M5 Ultra,https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/,933,889,2026-08-26T00:55:52.564083+00:00
+49434378,OpenAI Jalapeño: Better than Nvidia Blackwell,https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia,306,211,2026-08-26T00:55:52.564083+00:00
+49441033,Python's pre-declared constants are kinda weird,https://sebsite.pw/w/20260801-pythonconstants.html,129,88,2026-08-26T00:55:52.564083+00:00
+49433316,New Mac Studio with M5 Max and M5 Ultra,https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/,695,442,2026-08-26T00:55:52.564083+00:00
+49441666,"Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",https://github.com/runetes/maiao,20,2,2026-08-26T00:55:52.564083+00:00
+49437210,Black hole singularity is a surface not a point,https://arxiv.org/abs/2608.21590,179,125,2026-08-26T00:55:52.564083+00:00
+49440410,When str.lower() is a security vulnerability in Python – Seth Larson,https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability,49,25,2026-08-26T00:55:52.564083+00:00
+49441375,"Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",https://github.com/swimmingbrain/texbrain,37,7,2026-08-26T00:55:52.564083+00:00
+49439499,C2PA Cameras Do Not Survive Contact with Reality,https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html,70,31,2026-08-26T00:55:52.564083+00:00
+49433450,"New Mac mini, featuring M6 and M5 Pro",https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/,417,252,2026-08-26T00:55:52.564083+00:00
+49437283,Nitter project received cease and desist,https://github.com/zedeus/nitter/issues/1442,593,421,2026-08-26T00:55:52.564083+00:00
+49434820,Bomb fishing is wreaking havoc on Indonesia's coral reefs,https://e360.yale.edu/digest/bomb-fishing-coral-reefs,257,140,2026-08-26T00:55:52.564083+00:00
+49437483,Run OpenBSD on DigitalOcean for $4/month,https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/,113,53,2026-08-26T00:55:52.564083+00:00
+49434645,"Building a backyard office, the build and cost breakdown",https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown,253,186,2026-08-26T00:55:52.564083+00:00
+49438052,Dolly Parton has died,https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead,1173,183,2026-08-26T00:55:52.564083+00:00
+49439296,A brief history of federal lift ticket regulation,https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket,21,0,2026-08-26T00:55:52.564083+00:00
+49437049,Show HN: LatticeDB – Like SQLite but for graph databases,https://github.com/jeffhajewski/latticedb,101,31,2026-08-26T00:55:52.564083+00:00
+49432319,Don't Wordle,https://dontwordle.com/,296,115,2026-08-26T00:55:52.564083+00:00
+49440786,"XCancel also down, at least for time being",item?id=49440786,204,97,2026-08-26T00:55:52.564083+00:00
+49437566,Clara (YC P26) is hiring a growth engineer to bring AI doctors to market,https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer,0,0,2026-08-26T00:55:52.564083+00:00
+49437069,My Friend Aaron,https://rorz.io/writing/my-friend-aaron,428,117,2026-08-26T00:55:52.564083+00:00
+49435675,Show HN: I made a Raspberry with Qwen my local car AI,https://github.com/ThinkOffApp/CarWatch,89,19,2026-08-26T00:55:52.564083+00:00
+49436786,"Tooltips need a delay, and then they need to skip it",https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/,108,23,2026-08-26T00:55:52.564083+00:00
+49423045,Tracking Costco gas prices,https://www.jack.bio/blog/costco-gas-tracking,72,74,2026-08-26T00:55:52.564083+00:00
+49437946,Firefox 157 will include JPEG XL by default on all platforms,https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1,266,67,2026-08-26T00:55:52.564083+00:00
+49436822,"Starbase, LA",https://www.spacex.com/sites/starbase-la,212,380,2026-08-26T00:55:52.564083+00:00
+49430259,Show HN: I built self-hosted deployment automation tool for Windows and IIS,https://fdeploy.com/,14,6,2026-08-26T00:55:52.564083+00:00
+49423878,Visualizing Binary Files,https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html,80,15,2026-08-26T00:55:52.564083+00:00
+49436706,Fuzzing the Gleam Compiler,https://www.kurz.net/posts/fuzzing-gleam-compiler,55,6,2026-08-26T00:55:52.564083+00:00
