@@ -26039,3 +26039,33 @@ story_id,title,link,points,comments,scraped_at
 49435595,Time complexity of operations on Python's built-in types,https://docs.python.org/3.16/library/time-complexity.html,14,3,2026-08-29T11:44:13.366883+00:00
 49477212,Migrating to HTTPX2,https://github.com/openai/openai-python/blob/main/httpx2.md,198,89,2026-08-29T11:44:13.366883+00:00
 49481455,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,https://arxiv.org/abs/2608.23691,108,31,2026-08-29T11:44:13.366883+00:00
+49489982,"Debian votes to allow ""responsible use of generative AI""",https://lwn.net/Articles/1091231/,220,162,2026-08-29T16:03:12.502952+00:00
+49490138,Indirect Calling of Nested Functions on GCC Without Executable Stack,https://uecker.codeberg.page/2026-08-29.html,21,4,2026-08-29T16:03:12.502952+00:00
+49426995,SQLite as a Document Database (2020),https://dgl.cx/2020/06/sqlite-json-support,22,0,2026-08-29T16:03:12.502952+00:00
+49447178,Show HN: Typebase – A single-folder back end you write in TypeScript,https://typebase.io,36,4,2026-08-29T16:03:12.502952+00:00
+49479546,Creating the Aetheryte Radio,https://haz.ee/posts/aetheryte-radio.html,30,4,2026-08-29T16:03:12.502952+00:00
+49487341,Samsung's Processing-in-Memory (PIM),https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing,182,64,2026-08-29T16:03:12.502952+00:00
+49424320,Glacier Mice,https://en.wikipedia.org/wiki/Glacier_mice,132,24,2026-08-29T16:03:12.502952+00:00
+49479837,GUIs should be fully keyboard-driven,https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html,944,463,2026-08-29T16:03:12.502952+00:00
+49485267,Boot a Virtual iPhone via Apple's Virtualization.framework,https://github.com/Lakr233/vphone-cli,342,90,2026-08-29T16:03:12.502952+00:00
+49433328,EVE Online moves to Python 3,https://www.eveonline.com/news/view/the-move-to-python-3-begins,135,69,2026-08-29T16:03:12.502952+00:00
+49420524,"Show HN: Galaxium, an experimental WebGPU space explorer",https://galaxium.app,52,18,2026-08-29T16:03:12.502952+00:00
+49478178,Htmx 4.0,https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released,744,184,2026-08-29T16:03:12.502952+00:00
+49450782,Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems,https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/,73,8,2026-08-29T16:03:12.502952+00:00
+49477854,U.S. sanctions against the A/I Collective,https://www.inventati.org/,665,677,2026-08-29T16:03:12.502952+00:00
+49486081,"StemDeck, a free, open-source and local AI stem separator",https://github.com/stemdeckapp/stemdeck,166,45,2026-08-29T16:03:12.502952+00:00
+49456819,Europe's last regular standard-gauge steam passenger service,https://parowozowniawolsztyn.pl/?page_id=2141,83,21,2026-08-29T16:03:12.502952+00:00
+49485416,I accidentally turned LLM memory into program analysis,https://pwning.systems/posts/llm-memory-program-analysis/,216,64,2026-08-29T16:03:12.502952+00:00
+49435595,Time complexity of operations on Python's built-in types,https://docs.python.org/3.16/library/time-complexity.html,46,9,2026-08-29T16:03:12.502952+00:00
+49477564,Inception-style curved map for turn-by-turn directions,https://www.orbify.eu/demo/,564,184,2026-08-29T16:03:12.502952+00:00
+49486334,TurboKV: Insanely fast Rust key-value store,https://github.com/kingroryg/turbokv,151,72,2026-08-29T16:03:12.502952+00:00
+49480466,Just the rumour of a bug is enough to find an exploit these days,https://anil.recoil.org/notes/rumour-is-the-exploit,359,115,2026-08-29T16:03:12.502952+00:00
+49489057,Iceland votes on whether to restart talks on joining EU,https://www.bbc.com/news/articles/cn45vdxyvvlo,260,309,2026-08-29T16:03:12.502952+00:00
+49417298,Monzo Stand-In,https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in,107,46,2026-08-29T16:03:12.502952+00:00
+49422397,Queen Caroline turned King Arthur into an 18C royal PR strategy,https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244,36,9,2026-08-29T16:03:12.502952+00:00
+49486172,Our decision on Cursor following its acquisition by SpaceX,https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/,684,407,2026-08-29T16:03:12.502952+00:00
+49490826,Parsing the Infamous Japanese Postal CSV,https://www.dampfkraft.com/posuto.html,3,0,2026-08-29T16:03:12.502952+00:00
+49419409,Experiments with Plotter Art,https://sometimes.digital/posts/experiments-with-plotter-art/,82,7,2026-08-29T16:03:12.502952+00:00
+49485532,Does the Sumerian King List Align with Paleoclimate Events?,https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/,120,73,2026-08-29T16:03:12.502952+00:00
+49472216,The Twelve-Factor App (2025),https://12factor.net/,294,163,2026-08-29T16:03:12.502952+00:00
+49481423,Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research,https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering,0,0,2026-08-29T16:03:12.502952+00:00
