@@ -26279,3 +26279,33 @@ story_id,title,link,points,comments,scraped_at
 49430745,"JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0,84,9,2026-08-30T18:09:20.234629+00:00
 49497928,monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter,https://github.com/fugue-labs/monty-go,35,11,2026-08-30T18:09:20.234629+00:00
 49495372,California lawmakers unanimously pass Linux exemption from age-verification law,https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt,621,297,2026-08-30T18:09:20.234629+00:00
+49491791,Creepy Crawlies,https://people.kernel.org/monsieuricon/creepy-crawlies,675,330,2026-08-30T21:20:05.169044+00:00
+49502214,Cores in space: The core memory module from a 1980 Spacelab computer,https://www.righto.com/2026/08/spacelab-core-memory.html,25,4,2026-08-30T21:20:05.169044+00:00
+49499867,Haiku R1/beta6 has been released,https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6,195,51,2026-08-30T21:20:05.169044+00:00
+49478426,NFC Energy-Harvesting PCB Business Card with an MCU,https://wilsonharper.net/projects/businesscard/,27,2,2026-08-30T21:20:05.169044+00:00
+49501611,Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver,https://github.com/KodeMunkie/sm750hdmifb,37,21,2026-08-30T21:20:05.169044+00:00
+49499891,Coordination Headwind: How Organizations Are Like Slime Molds,https://komoroske.com/slime-mold/,93,35,2026-08-30T21:20:05.169044+00:00
+49435285,Sort branches by last commit date,https://ryangreenberg.com/til/git-branches-by-commit-date/,31,12,2026-08-30T21:20:05.169044+00:00
+49497810,Hacking IKEA Furniture,https://greenlightning.eu/diy/hacking-ikea-furniture/,234,137,2026-08-30T21:20:05.169044+00:00
+49498787,METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack,https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/,159,97,2026-08-30T21:20:05.169044+00:00
+49499095,Zig: Pointer Stability for ArrayLists,https://ziglang.org/devlog/2026/#2026-08-27,66,27,2026-08-30T21:20:05.169044+00:00
+49496918,Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel,https://www.qubes-os.org/news/2026/08/29/qsb-118/,187,76,2026-08-30T21:20:05.169044+00:00
+49468126,Dad’s Custom Atari Peripherals,https://www.goto10retro.com/p/dads-custom-atari-peripherals,66,9,2026-08-30T21:20:05.169044+00:00
+49499394,European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy,https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement,278,112,2026-08-30T21:20:05.169044+00:00
+49471614,"Storm Summoner, a MIDI controller for effects pedals",https://kabaragoya.com/products/storm-summoner,17,6,2026-08-30T21:20:05.169044+00:00
+49500471,Artie (YC S23) Is Hiring Technical AES,https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1,0,0,2026-08-30T21:20:05.169044+00:00
+49499854,Omarchy: Any User Process Can Escalate to Root,https://0xcc.io/posts/omarchy-root-creds/,299,288,2026-08-30T21:20:05.169044+00:00
+49496782,Longest Straight Line Paths on Water or Land on the Earth (2018),https://arxiv.org/abs/1804.07389,179,55,2026-08-30T21:20:05.169044+00:00
+49463397,Electric rain can eat through metal,https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/,72,12,2026-08-30T21:20:05.169044+00:00
+49463888,Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video],https://www.youtube.com/watch?v=hpj6r6CjJf8,266,139,2026-08-30T21:20:05.169044+00:00
+49474515,Synchronisation and SMPTE timecode (time code),https://www.philrees.co.uk/articles/timecode.htm,20,4,2026-08-30T21:20:05.169044+00:00
+49498978,Europe's summer drought is so extreme that desertification is a growing threat,https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/,196,229,2026-08-30T21:20:05.169044+00:00
+49419381,What my dad taught me about AI coding in the 90s,https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/,113,54,2026-08-30T21:20:05.169044+00:00
+49497854,Automating Immersive Reading,https://smoores.dev/post/automating_immersive_reading/,79,24,2026-08-30T21:20:05.169044+00:00
+49497819,An implementation of Conway's Game of Life for Windows 3.1x and later,https://www.muppetlabs.com/~breadbox/software/windows.html,46,11,2026-08-30T21:20:05.169044+00:00
+49501791,The world may have less time than it thinks on climate change,https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change,76,66,2026-08-30T21:20:05.169044+00:00
+49497200,Building my own network stack,https://blog.lyc8503.net/en/post/dn42-2-dnet/,90,70,2026-08-30T21:20:05.169044+00:00
+49492632,Hy4 preview,https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/,375,237,2026-08-30T21:20:05.169044+00:00
+49489274,"When fruit is scarce, these monkeys hunt animals",https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/,46,27,2026-08-30T21:20:05.169044+00:00
+49495372,California lawmakers unanimously pass Linux exemption from age-verification law,https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt,664,329,2026-08-30T21:20:05.169044+00:00
+49498201,Claude Session URL appended to commit messages and PR descriptions by default,https://github.com/anthropics/claude-code/issues/66504,166,187,2026-08-30T21:20:05.169044+00:00
