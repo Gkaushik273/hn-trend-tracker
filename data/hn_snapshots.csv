@@ -26189,3 +26189,33 @@ story_id,title,link,points,comments,scraped_at
 49447178,Show HN: Typebase – A single-folder back end you write in TypeScript,https://typebase.io,99,25,2026-08-30T03:02:41.123648+00:00
 49486081,"StemDeck, a free, open-source and local AI stem separator",https://github.com/stemdeckapp/stemdeck,209,58,2026-08-30T03:02:41.123648+00:00
 49485416,I accidentally turned LLM memory into program analysis,https://pwning.systems/posts/llm-memory-program-analysis/,279,75,2026-08-30T03:02:41.123648+00:00
+49496782,Longest Straight Line Paths on Water or Land on the Earth (2018),https://arxiv.org/abs/1804.07389,12,2,2026-08-30T09:23:18.077947+00:00
+49425252,RISC-V is now officially supported by CPython,https://blog.python.org/2026/08/riscv-now-officially-supported/,158,32,2026-08-30T09:23:18.077947+00:00
+49492632,Hy4 preview,https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/,296,187,2026-08-30T09:23:18.077947+00:00
+49494520,Bug Blindness,https://danluu.com/bug-blind/,248,136,2026-08-30T09:23:18.077947+00:00
+49496543,Xcena and Samsung's Near Memory Compute CXL Device,https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs,5,0,2026-08-30T09:23:18.077947+00:00
+49494856,FreeCORE TrueNAS Core – Continued,https://freecore.org/,93,55,2026-08-30T09:23:18.077947+00:00
+49495372,California lawmakers unanimously pass Linux exemption from age-verification law,https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt,268,99,2026-08-30T09:23:18.077947+00:00
+49415386,"Tether: iMessage, SMS, etc. on Linux",https://zackbartel.com/blog/2026/08/tether/,457,180,2026-08-30T09:23:18.077947+00:00
+49494751,Benjamin Franklin's Alter Egos Gave Him the Most Freedom,https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/,61,23,2026-08-30T09:23:18.077947+00:00
+49453232,The Einstein-Szilard Refrigerator,https://invention.si.edu/invention-stories/einstein-szilard-refrigerator,16,3,2026-08-30T09:23:18.077947+00:00
+49490870,Nancy Grace Roman Space Telescope,https://science.nasa.gov/mission/roman-space-telescope/,193,77,2026-08-30T09:23:18.077947+00:00
+49469786,Benchmarking Pocket-Scale Inference,https://artificialanalysis.ai/hardware-inference-stack/mobile-phones,44,4,2026-08-30T09:23:18.077947+00:00
+49433554,"Creating Teensy ELF Executables for Linux (Or, ""Size Is Everything"") (1999)",https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html,42,10,2026-08-30T09:23:18.077947+00:00
+49494301,The Rise and Fall of Agent Civilizations,https://www.dwarkesh.com/p/openai-huggingface,103,46,2026-08-30T09:23:18.077947+00:00
+49496707,Iceland rejects reopening talks on EU entry,https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f,15,5,2026-08-30T09:23:18.077947+00:00
+49494182,Lawmakers added $1 to car insurance policies. That money paid for Flock cameras,https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/,295,168,2026-08-30T09:23:18.077947+00:00
+49426995,SQLite as a Document Database (2020),https://dgl.cx/2020/06/sqlite-json-support,210,49,2026-08-30T09:23:18.077947+00:00
+49492368,Functional State Machines in Rust: Typestate and Newtype Patterns,https://dl.acm.org/doi/10.1145/3830438.3830958,87,35,2026-08-30T09:23:18.077947+00:00
+49433328,EVE Online moves to Python 3,https://www.eveonline.com/news/view/the-move-to-python-3-begins,352,195,2026-08-30T09:23:18.077947+00:00
+49494571,Open Oscar Server: open-source server compatible with AIM and ICQ clients,https://github.com/mk6i/open-oscar-server,37,13,2026-08-30T09:23:18.077947+00:00
+49424320,Glacier Mice,https://en.wikipedia.org/wiki/Glacier_mice,297,59,2026-08-30T09:23:18.077947+00:00
+49450248,Is it safe to call print in a Python signal handler?,https://iafisher.com/2026/08/sigprint,46,25,2026-08-30T09:23:18.077947+00:00
+49491714,Calibrate Before You Accelerate: Bias Toward Action in a New Role,https://tucker.wales/writing/bias-towards-action/,157,58,2026-08-30T09:23:18.077947+00:00
+49447719,"Pop-2000, a lingua-franca POP-2 dialect",https://hitogata.neocities.org/POP-2000,13,1,2026-08-30T09:23:18.077947+00:00
+49487341,Samsung's Processing-in-Memory (PIM),https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing,260,103,2026-08-30T09:23:18.077947+00:00
+49438865,"Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",https://github.com/gbin/defragger,65,45,2026-08-30T09:23:18.077947+00:00
+49495127,Algorithmic rent-pricing litigation expands under new state and local laws,https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws,76,44,2026-08-30T09:23:18.077947+00:00
+49485267,Boot a Virtual iPhone via Apple's Virtualization.framework,https://github.com/Lakr233/vphone-cli,401,108,2026-08-30T09:23:18.077947+00:00
+49491568,"Good Culture Is the Biggest Productivity Hack, Not AI",https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity,386,93,2026-08-30T09:23:18.077947+00:00
+49484520,A few feral cats in an ALGOL trenchcoat.,https://wiki.xxiivv.com/site/pop2.html,14,2,2026-08-30T09:23:18.077947+00:00
