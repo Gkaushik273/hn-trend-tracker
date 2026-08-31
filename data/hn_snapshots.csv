@@ -26399,3 +26399,33 @@ story_id,title,link,points,comments,scraped_at
 49496918,Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel,https://www.qubes-os.org/news/2026/08/29/qsb-118/,234,90,2026-08-31T09:19:26.805819+00:00
 49499095,Zig: Pointer Stability for ArrayLists,https://ziglang.org/devlog/2026/#2026-08-27,108,68,2026-08-31T09:19:26.805819+00:00
 49483622,Racter (1984),https://www.ubu.com/historical/racter/index.html,29,8,2026-08-31T09:19:26.805819+00:00
+49510514,Playa Phone,https://playaphone.com/,186,79,2026-08-31T17:10:34.191743+00:00
+49511534,"ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",https://ravynos.com/,23,9,2026-08-31T17:10:34.191743+00:00
+49511856,I Turned My Security Cameras into an Automatic Bird Identification System,https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/,15,4,2026-08-31T17:10:34.191743+00:00
+49507822,"OpenShot 4.0: Record, Edit, and Color Like Never Before",https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/,415,96,2026-08-31T17:10:34.191743+00:00
+49510000,ChatGPT Work Tool and Skill Reference,https://codex-tool-reference.simonw.chatgpt.site/,99,44,2026-08-31T17:10:34.191743+00:00
+49511007,Launch HN: Almanac (YC S26) – AI that knows your company,https://usealmanac.com/,14,12,2026-08-31T17:10:34.191743+00:00
+49510511,C++26: Standard Library Hardening Experiments,https://www.cppstories.com/2026/hardening-experiments/,39,24,2026-08-31T17:10:34.191743+00:00
+49510302,"Marx, Keynes, and A.I",https://www.unpopularfront.news/p/marx-keynes-and-ai,37,25,2026-08-31T17:10:34.191743+00:00
+49510632,Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines,https://github.com/Hebbian-Robotics/hflow,18,4,2026-08-31T17:10:34.191743+00:00
+49510489,Culture Clash,https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash,34,17,2026-08-31T17:10:34.191743+00:00
+49509679,Show HN: Linux server management over SSH – written in Rust and Tauri,https://serverbox.stupidlabs.lol/,42,39,2026-08-31T17:10:34.191743+00:00
+49465672,Navigation App for People with Blindness and Low Vision,https://seas.harvard.edu/news/smartphone-navigation-app-people-blindness-and-low-vision,17,7,2026-08-31T17:10:34.191743+00:00
+49498993,DNS Abuse and Criminal Infrastructure,https://labs.ripe.net/author/andrew_campling/dns-abuse-and-criminal-infrastructure-beyond-definitions-and-blocklists/,37,22,2026-08-31T17:10:34.191743+00:00
+49511917,Konrad Zuse Museum shutting down due to lack of funding,https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html,19,3,2026-08-31T17:10:34.191743+00:00
+49506819,Breaking Claude Code Opus 5 Auto Mode,https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/,285,93,2026-08-31T17:10:34.191743+00:00
+49467016,Agents still can't automate Excel,https://www.orcaset.com/blog/agents-still-can-t-automate-excel,9,7,2026-08-31T17:10:34.191743+00:00
+49510612,Agentic Trust Controls,https://trustcontrols.ai/,17,3,2026-08-31T17:10:34.191743+00:00
+49508317,Agent Memory as a File Format,https://calpaterson.com/memoryfields.html,120,58,2026-08-31T17:10:34.191743+00:00
+49508059,Malleable software = solid bases and custom code,https://www.mdubakov.me/malleable-software-solid-bases-custom-code/,71,25,2026-08-31T17:10:34.191743+00:00
+49510532,"Doubling of Kobo's U.S. sales in both 2025 and 2026, 70% US female customer base",https://www.reddit.com/r/kobo/comments/1w20azv/the_doubling_of_kobos_us_sales_in_both_2025_and/,63,50,2026-08-31T17:10:34.191743+00:00
+49506142,uv: Deduplicate all files in the wheel cache,https://github.com/astral-sh/uv/pull/21327,170,83,2026-08-31T17:10:34.191743+00:00
+49418694,The Art of Chip-8,http://beyondloom.com/blog/artofchip8.html,38,6,2026-08-31T17:10:34.191743+00:00
+49481141,My hobby of building miniatures and taking pretty pictures,https://sandyuraz.com/blogs/tiny-cafe/,320,56,2026-08-31T17:10:34.191743+00:00
+49507121,Study: Blue light impairs the eye's ability to distinguish fine detail most,https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/,74,41,2026-08-31T17:10:34.191743+00:00
+49510540,"Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/,66,15,2026-08-31T17:10:34.191743+00:00
+49503601,“I just chose words carefully”,https://unsung.aresluna.org/i-just-chose-words-carefully/,1119,317,2026-08-31T17:10:34.191743+00:00
+49511750,Mental Health Workers Say Algorithmic Triage Is Hurting Patients,https://capitalandmain.com/mental-health-workers-say-algorithmic-triage-is-hurting-patients,34,4,2026-08-31T17:10:34.191743+00:00
+49507280,State of the Map 2026: OpenStreetMap conference,https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/,50,4,2026-08-31T17:10:34.191743+00:00
+49505219,P99 0 ms* autocomplete for 240M domain names,https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names,200,74,2026-08-31T17:10:34.191743+00:00
+49505217,Transfer files over an Ethernet patch cable,https://maurycyz.com/misc/etherfiles/,130,140,2026-08-31T17:10:34.191743+00:00
