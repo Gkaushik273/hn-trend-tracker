@@ -27269,3 +27269,33 @@ story_id,title,link,points,comments,scraped_at
 49563772,"Ok, but does it scale?",https://spacetimedb.com/blog/how-does-spacetime-scale,102,63,2026-09-04T22:00:35.942228+00:00
 49554643,GPT-6 Astra,https://openai.com/index/gpt-6-astra/,2138,1944,2026-09-04T22:00:35.942228+00:00
 49555131,Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express',https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express,16,3,2026-09-04T22:00:35.942228+00:00
+49570669,Actively exploited sandbox RCE in all Chromium versions,https://nvd.nist.gov/vuln/detail/cve-2026-85046,142,61,2026-09-05T00:14:22.151895+00:00
+49568506,Formalizing Fermat's Last Theorem,https://www.anthropic.com/research/formalizing-fermats-last-theorem,446,294,2026-09-05T00:14:22.151895+00:00
+49569896,Statichost.eu – European static site hosting,https://www.statichost.eu/,147,52,2026-09-05T00:14:22.151895+00:00
+49563355,Discovery of a new OpenAI agent message board,https://collusion.wiki/,1434,1152,2026-09-05T00:14:22.151895+00:00
+49570545,GPT-6 Astra on OpenRouter,https://openrouter.ai/openai/gpt-6-astra,86,37,2026-09-05T00:14:22.151895+00:00
+49569366,Can AI design circuit boards yet?,https://eebench.org/blog/can-ai-design-circuit-boards-yet/,140,75,2026-09-05T00:14:22.151895+00:00
+49568579,Shutting down our public encrypted DNS,https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead,228,81,2026-09-05T00:14:22.151895+00:00
+49546284,RSA-260 Factorized,https://twitter.com/penlume/status/2095372672356212876,48,14,2026-09-05T00:14:22.151895+00:00
+49569663,An open DNS recursive service for free security and high privacy,https://quad9.net/,57,10,2026-09-05T00:14:22.151895+00:00
+49571047,Can guitar frets perform multiplication?,https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html,14,1,2026-09-05T00:14:22.151895+00:00
+49567437,Show HN: Open-Source eInk Bike Computer,https://opentrailpaper.com,219,75,2026-09-05T00:14:22.151895+00:00
+49570772,Record-High 89% in U.S. Say Government Corruption Widespread,https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx,120,60,2026-09-05T00:14:22.151895+00:00
+49568828,Government Rails Site Hit Hours After CVE Patch,https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/,67,16,2026-09-05T00:14:22.151895+00:00
+49568697,Fermat's Last Theorem in Lean 4,https://github.com/anthropics/fermats-last-theorem,53,11,2026-09-05T00:14:22.151895+00:00
+49567873,The Rust React Compiler is now native in Vite,https://blog.master.dev/react-now-rusted-all-the-way-out/,106,19,2026-09-05T00:14:22.151895+00:00
+49570328,"Updates on HEIR, the Homomorphic Encryption Compiler Project",https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/,19,0,2026-09-05T00:14:22.151895+00:00
+49571537,Show HN: Moadim.io – A scheduler for agents,https://moadim.io/,3,0,2026-09-05T00:14:22.151895+00:00
+49529161,Decompiler Explorer,https://dogbolt.org,29,1,2026-09-05T00:14:22.151895+00:00
+49563851,IBM Bob,https://bob.ibm.com/,216,254,2026-09-05T00:14:22.151895+00:00
+49571255,Gimlet's Series B,https://gimletlabs.ai/blog/announcing-series-b,5,1,2026-09-05T00:14:22.151895+00:00
+49562657,Solving the Jane Street reverse engineering challenge,https://jestoph.com/2026/09/04/jane-street-challenge.html,388,86,2026-09-05T00:14:22.151895+00:00
+49566193,deSEC – Free Secure DNS,https://desec.io/,108,40,2026-09-05T00:14:22.151895+00:00
+49570597,Icons as a Service,https://nravic.com/blog/images/,14,0,2026-09-05T00:14:22.151895+00:00
+49569702,How to Create a Tor Exit Node (2015),https://madpsy.uk/how-to-create-a-tor-exit-node/,34,18,2026-09-05T00:14:22.151895+00:00
+49567310,“Next-token predictor” is the wrong mental model for LLMs,https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html,71,157,2026-09-05T00:14:22.151895+00:00
+49563415,SubImage (YC W25) Is Hiring a Founding Engineer in SF,https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer,0,0,2026-09-05T00:14:22.151895+00:00
+49571038,Christmas Village shoppers no longer will be allowed to enter booths,https://www.phillyvoice.com/christmas-village-booths-ada-compliance/,9,6,2026-09-05T00:14:22.151895+00:00
+49567053,Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive,https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/,322,199,2026-09-05T00:14:22.151895+00:00
+49512834,The Wormhole Hall of Shame,https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/,25,11,2026-09-05T00:14:22.151895+00:00
+49566788,Project HydraFusion: Frontier quality via multi-model orchestration,https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/,59,29,2026-09-05T00:14:22.151895+00:00
