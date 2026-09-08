@@ -28109,3 +28109,33 @@ story_id,title,link,points,comments,scraped_at
 49611549,Disappointed Optimists,https://cwodtke.com/disappointed-optimists/,47,2,2026-09-08T19:47:20.346546+00:00
 49609174,FreeBSD 14.5-Release,https://www.freebsd.org/releases/14.5R/announce/,73,12,2026-09-08T19:47:20.346546+00:00
 49607991,Antiquated HTML Snippets and Artefacts,https://vale.rocks/posts/html-relics,207,70,2026-09-08T19:47:20.346546+00:00
+49611251,Google DeepMind Releases AlphaGenome Atlas,https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/,441,107,2026-09-08T22:16:54.689177+00:00
+49613262,On the Navier–Stokes Millennium Prize Problem,https://openai.com/index/navier-stokes-solution/,961,779,2026-09-08T22:16:54.689177+00:00
+49616257,"Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",https://github.com/argonautlabsai/deltafin,162,74,2026-09-08T22:16:54.689177+00:00
+49605915,Navier-Stokes – Tristan Buckmaster [pdf],https://cims.nyu.edu/~tristanb/statement.pdf,955,422,2026-09-08T22:16:54.689177+00:00
+49610181,DaVinci Resolve 21.1,https://www.blackmagicdesign.com/media/release/20260908-03,319,142,2026-09-08T22:16:54.689177+00:00
+49611128,"Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/,193,97,2026-09-08T22:16:54.689177+00:00
+49616354,Mercury 2.5,https://www.inceptionlabs.ai/blog/introducing-mercury-2-5,77,8,2026-09-08T22:16:54.689177+00:00
+49617581,Large Language Models Develop Novel Social Biases Through Adaptive Exploration,https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH,9,2,2026-09-08T22:16:54.689177+00:00
+49615537,"Muse: Meta's personal AI agent, features and capabilities",https://ai.meta.com/muse/,195,184,2026-09-08T22:16:54.689177+00:00
+49575766,Implementation of GCC's Nested Functions (vs. C++ Lambdas),https://uecker.codeberg.page/2026-09-05.html,43,3,2026-09-08T22:16:54.689177+00:00
+49610631,I-have-ADHD: A skill to stop coding agents from burying the answer,https://github.com/ayghri/i-have-adhd,253,201,2026-09-08T22:16:54.689177+00:00
+49616272,Animation in Bevy: The Big Picture,https://glocq.com/en/blog/20260827/,23,1,2026-09-08T22:16:54.689177+00:00
+49613068,Show HN: LLM Attention Visualization,https://ishamf.dev/p/llm-attention-visualizer/,96,18,2026-09-08T22:16:54.689177+00:00
+49562430,"Tracing np.add, all the way down",https://blog.veitheller.de/numpy.html,18,1,2026-09-08T22:16:54.689177+00:00
+49600901,The Helicopter with Radioactive Blades,https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/,136,33,2026-09-08T22:16:54.689177+00:00
+49575914,Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster,https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/,62,25,2026-09-08T22:16:54.689177+00:00
+49599825,Reverse Engineering an ASIC,https://kjartanvandriel.github.io/asic/,7,0,2026-09-08T22:16:54.689177+00:00
+49616239,Trey Parker and Matt Stone Are Changing the Name of South Park to South America,https://twitter.com/SouthPark/status/2097364141237539116,98,38,2026-09-08T22:16:54.689177+00:00
+49610059,Show HN: Copperhead – Hardware as Fast as Software,https://copperhead.sh/,189,76,2026-09-08T22:16:54.689177+00:00
+49612191,C*: Unifying Programming and Verification in C,https://arxiv.org/abs/2504.02246,64,38,2026-09-08T22:16:54.689177+00:00
+49591563,The 92-Year-Old Mathematician and the Teenage Apprentice,https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html,111,9,2026-09-08T22:16:54.689177+00:00
+49611051,The two Christian saints who are the Buddha,https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/,192,132,2026-09-08T22:16:54.689177+00:00
+49612818,Connecting the Machines,https://herdr.dev/blog/connecting-the-machines/,67,24,2026-09-08T22:16:54.689177+00:00
+49615139,Function Arguments Are Not Function Colors,https://jerf.org/iri/post/2026/func_args_are_not_colors/,23,9,2026-09-08T22:16:54.689177+00:00
+49611230,ZX Spectrum: Experimenting with 1-Bit Sound,https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/,87,26,2026-09-08T22:16:54.689177+00:00
+49610641,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/,73,9,2026-09-08T22:16:54.689177+00:00
+49609174,FreeBSD 14.5-Release,https://www.freebsd.org/releases/14.5R/announce/,100,18,2026-09-08T22:16:54.689177+00:00
+49608023,Getting your hands dirty is good for you,https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks,205,170,2026-09-08T22:16:54.689177+00:00
+49612635,Y Combinator Early Access Network,https://events.ycombinator.com/yc-early-access-fall-26,70,53,2026-09-08T22:16:54.689177+00:00
+49614720,ChatGPT Images 2.5,https://openai.com/index/introducing-chatgpt-images-2-5/,251,313,2026-09-08T22:16:54.689177+00:00
