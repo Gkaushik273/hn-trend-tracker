@@ -28199,3 +28199,33 @@ story_id,title,link,points,comments,scraped_at
 49575766,Implementation of GCC's Nested Functions (vs. C++ Lambdas),https://uecker.codeberg.page/2026-09-05.html,66,11,2026-09-09T04:57:13.930315+00:00
 49562430,"Tracing np.add, all the way down",https://blog.veitheller.de/numpy.html,49,2,2026-09-09T04:57:13.930315+00:00
 49613068,Show HN: LLM Attention Visualization,https://ishamf.dev/p/llm-attention-visualizer/,146,23,2026-09-09T04:57:13.930315+00:00
+49622561,How GPT‑5.6 Sol helps run quantum computing experiments,https://openai.com/index/codex-quantum-computing-experiments/,47,30,2026-09-09T09:24:23.300001+00:00
+49615537,Muse – Meta’s personal AI agent,https://ai.meta.com/muse/,498,542,2026-09-09T09:24:23.300001+00:00
+49622305,On Really Trying (2009),https://gwern.net/on-really-trying,43,18,2026-09-09T09:24:23.300001+00:00
+49605915,Navier-Stokes – Tristan Buckmaster [pdf],https://cims.nyu.edu/~tristanb/statement.pdf,1650,699,2026-09-09T09:24:23.300001+00:00
+49546964,Tension wood: A 'muscle' that can both bend and straighten plants,https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html,115,25,2026-09-09T09:24:23.300001+00:00
+49607858,"Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",https://codeberg.org/jjba23/maak.el,6,0,2026-09-09T09:24:23.300001+00:00
+49617255,How to build a printer,https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/,325,64,2026-09-09T09:24:23.300001+00:00
+49580761,Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field,https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/,39,18,2026-09-09T09:24:23.300001+00:00
+49611251,AlphaGenome Atlas: a high-resolution map of human DNA,https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/,558,119,2026-09-09T09:24:23.300001+00:00
+49621102,"A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en,47,12,2026-09-09T09:24:23.300001+00:00
+49616354,Mercury 2.5,https://www.inceptionlabs.ai/blog/introducing-mercury-2-5,196,30,2026-09-09T09:24:23.300001+00:00
+49617581,Large language models develop novel social biases through adaptive exploration,https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH,158,81,2026-09-09T09:24:23.300001+00:00
+49621751,“Tweet” and the bird logo apparently enter the public domain,https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm,74,34,2026-09-09T09:24:23.300001+00:00
+49622042,Copyright does more harm than good and should be abolished,https://grapheneos.social/@GrapheneOS/117231186011306184,216,160,2026-09-09T09:24:23.300001+00:00
+49610181,DaVinci Resolve 21.1,https://www.blackmagicdesign.com/media/release/20260908-03,402,178,2026-09-09T09:24:23.300001+00:00
+49610631,I-have-ADHD: A skill to stop coding agents from burying the answer,https://github.com/ayghri/i-have-adhd,437,307,2026-09-09T09:24:23.300001+00:00
+49619464,27.5KB language-agnostic WebGPU syntax highlighter,https://gpu-lexer.vercel.app/,77,26,2026-09-09T09:24:23.300001+00:00
+49616968,Tao: Open math problems being non-renewably mined by AI,https://mathstodon.xyz/@tao/117237320796901560,360,318,2026-09-09T09:24:23.300001+00:00
+49613262,On the Navier–Stokes Millennium Prize Problem,https://openai.com/index/navier-stokes-solution/,1258,1004,2026-09-09T09:24:23.300001+00:00
+49611128,"Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/,247,123,2026-09-09T09:24:23.300001+00:00
+49579482,An Accidental Blackboard,https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html,57,27,2026-09-09T09:24:23.300001+00:00
+49597806,The origins of Partner’s computer case,https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/,33,4,2026-09-09T09:24:23.300001+00:00
+49580389,Ganon's Mysterious Origins (Revisited),https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider,33,17,2026-09-09T09:24:23.300001+00:00
+49579443,We built our house for LAN parties (2024),https://lanparty.house/,512,333,2026-09-09T09:24:23.300001+00:00
+49612089,Into the depths of C: Elaborating the de facto standards (2016),https://dl.acm.org/doi/10.1145/2980983.2908081,19,1,2026-09-09T09:24:23.300001+00:00
+49618050,"A Topological Picture Book, Rendered",https://e-infinity.space/picture-book/,102,11,2026-09-09T09:24:23.300001+00:00
+49591112,The Microeconomics of Artificial Intelligence (2025),https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence,54,30,2026-09-09T09:24:23.300001+00:00
+49575914,Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster,https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/,125,47,2026-09-09T09:24:23.300001+00:00
+49614720,ChatGPT Images 2.5,https://openai.com/index/introducing-chatgpt-images-2-5/,338,415,2026-09-09T09:24:23.300001+00:00
+49600901,The Helicopter with Radioactive Blades,https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/,180,55,2026-09-09T09:24:23.300001+00:00
