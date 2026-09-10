@@ -28499,3 +28499,33 @@ story_id,title,link,points,comments,scraped_at
 49611112,Show HN: Filament – Fast data movement engine in Go,https://github.com/galaxy-io/filament,19,3,2026-09-10T17:26:34.530968+00:00
 49646199,"Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf",https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/,5,0,2026-09-10T17:26:34.530968+00:00
 49577541,"Show HN: Art – draw one stroke, let symmetry complete it",https://mrdee.in/mandala/,76,31,2026-09-10T17:26:34.530968+00:00
+49643546,Rust is tier-1 language at Microsoft,https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/,478,268,2026-09-10T19:56:15.640296+00:00
+49646181,I have a theory that software drives people insane,https://graybeard.ing/software-drives-people-insane/,244,96,2026-09-10T19:56:15.640296+00:00
+49645443,"Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",https://cognition.com/blog/swe-2,212,99,2026-09-10T19:56:15.640296+00:00
+49648732,Genuine Creativity Is Your New Moat (2026),https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat,29,15,2026-09-10T19:56:15.640296+00:00
+49639408,More questions about whether researchers can trust OpenAI with unpublished math,https://mathstodon.xyz/@andreasthom/117240535270608201,337,446,2026-09-10T19:56:15.640296+00:00
+49645437,NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth,https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844,151,30,2026-09-10T19:56:15.640296+00:00
+49645686,Neki,https://planetscale.com/blog/introducing-neki,149,53,2026-09-10T19:56:15.640296+00:00
+49643982,Shopify moves back to Native from React Native,https://shopify.engineering/back-to-native,546,385,2026-09-10T19:56:15.640296+00:00
+49645907,Forgejo <=16.0.3 Critical RCE,https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md,84,34,2026-09-10T19:56:15.640296+00:00
+49647134,Music Theory for the 21st-Century Classroom,https://musictheory.pugetsound.edu/mt21c/MusicTheory.html,51,21,2026-09-10T19:56:15.640296+00:00
+49587121,Douglas Hofstadter: Analogy as the Core of Cognition [video],https://www.youtube.com/watch?v=n8m7lFQ3njk,86,40,2026-09-10T19:56:15.640296+00:00
+49645393,Don't Let Anyone Take Away Your Big Box of Cables,https://blog.jim-nielsen.com/2026/hands-off-my-cables/,77,62,2026-09-10T19:56:15.640296+00:00
+49647404,JEP 544: Ahead-of-Time Code Compilation,https://openjdk.org/jeps/544,33,15,2026-09-10T19:56:15.640296+00:00
+49645763,Neki is sharded Postgres by PlanetScale,https://neki.dev/,97,21,2026-09-10T19:56:15.640296+00:00
+49646778,Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1,https://tokenstead.ai/models/swe-2,31,12,2026-09-10T19:56:15.640296+00:00
+49639090,DeepSeek v4.1 Flash,https://twitter.com/deepseek_ai/status/2097930608790167907,867,489,2026-09-10T19:56:15.640296+00:00
+49627634,Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls,https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/,244,201,2026-09-10T19:56:15.640296+00:00
+49613072,>10x More Efficient Pretraining,https://magic.dev/blog/pretraining#,98,52,2026-09-10T19:56:15.640296+00:00
+49586139,Schemy Lisp En DOS,https://sled.neocities.org/,62,11,2026-09-10T19:56:15.640296+00:00
+49645754,Silicon Valley Is Transforming the Military-Industrial Complex,https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex,92,135,2026-09-10T19:56:15.640296+00:00
+49640646,What algorithm did Windows XP use to choose your initial user picture?,https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683,306,146,2026-09-10T19:56:15.640296+00:00
+49642531,"List of references on Sony websites to players ""owning"" their digital games",https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit,284,96,2026-09-10T19:56:15.640296+00:00
+49612470,Python sets and dictionaries can have quadratic-time performance,https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/,63,28,2026-09-10T19:56:15.640296+00:00
+49630931,iPhone Duo,https://www.apple.com/iphone-duo/,1377,2389,2026-09-10T19:56:15.640296+00:00
+49602716,Macbeth and His Problems,https://porticoquarterly.com/essay/macbeth-and-his-problems/,67,26,2026-09-10T19:56:15.640296+00:00
+49599992,Stockfish 19,https://stockfishchess.org/blog/2026/stockfish-19/,238,138,2026-09-10T19:56:15.640296+00:00
+49630125,"Show HN: DOOM in the kernel, or fibers in eBPF",https://ayles.github.io/doom-in-kernel/,21,6,2026-09-10T19:56:15.640296+00:00
+49645803,"Show HN: MultiMatte, a Promptable Image Background Removal Model",https://usefeyn.com/blog/multimatte/,21,4,2026-09-10T19:56:15.640296+00:00
+49610780,"To write non-fiction, draw the trunk, then the rest of the tree",https://devz.cl/posts/how-to-write/,69,24,2026-09-10T19:56:15.640296+00:00
+49644294,AI 2027 (2025),https://ai-2027.com,39,38,2026-09-10T19:56:15.640296+00:00
