@@ -28559,3 +28559,33 @@ story_id,title,link,points,comments,scraped_at
 49613072,Compute-efficient pretraining and scaling to trillion-parameter models,https://magic.dev/blog/pretraining#,105,58,2026-09-10T22:13:11.654021+00:00
 49642531,"List of references on Sony websites to players ""owning"" their digital games",https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit,333,110,2026-09-10T22:13:11.654021+00:00
 49599992,Stockfish 19,https://stockfishchess.org/blog/2026/stockfish-19/,255,145,2026-09-10T22:13:11.654021+00:00
+49643982,Shopify is moving from React Native back to Swift and Kotlin,https://shopify.engineering/back-to-native,722,478,2026-09-11T00:18:49.192198+00:00
+49639408,More questions about whether researchers can trust OpenAI with unpublished math,https://mathstodon.xyz/@andreasthom/117240535270608201,604,602,2026-09-11T00:18:49.192198+00:00
+49649124,The Deathray: A simple way for an untrusted site to freeze a Mac,https://auberon.xyz/blog/posts/deathray/,58,32,2026-09-11T00:18:49.192198+00:00
+49649213,OpenAI Agents API,https://developers.openai.com/api/docs/guides/agents-api/overview,94,68,2026-09-11T00:18:49.192198+00:00
+49645443,"Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",https://cognition.com/blog/swe-2,342,140,2026-09-11T00:18:49.192198+00:00
+49645393,Don't let anyone take away your big box of cables,https://blog.jim-nielsen.com/2026/hands-off-my-cables/,288,224,2026-09-11T00:18:49.192198+00:00
+49645437,Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025),https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images,256,38,2026-09-11T00:18:49.192198+00:00
+49650418,NTSB issues investigative update on B-767 runway excursion accident in Miami,https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx,41,54,2026-09-11T00:18:49.192198+00:00
+49647134,Music Theory for the 21st-Century Classroom,https://musictheory.pugetsound.edu/mt21c/MusicTheory.html,143,70,2026-09-11T00:18:49.192198+00:00
+49645907,Forgejo <=16.0.3 Critical RCE,https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md,145,54,2026-09-11T00:18:49.192198+00:00
+49649222,"Proof of Capture: Apple Reference Image, but open source and using steganography",https://merybenavente.me/blog/proof-of-capture,59,41,2026-09-11T00:18:49.192198+00:00
+49649789,Bodily Oddities,https://vester.si/bodily-oddities/,46,39,2026-09-11T00:18:49.192198+00:00
+49603335,Recursion into madness,https://blog.coredump.cx/p/recursion-into-madness,27,6,2026-09-11T00:18:49.192198+00:00
+49645686,Neki – Sharded Postgres,https://planetscale.com/blog/introducing-neki,189,97,2026-09-11T00:18:49.192198+00:00
+49627634,Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls,https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/,281,221,2026-09-11T00:18:49.192198+00:00
+49650326,OpenAI’s Navier-Stokes release included a Lean 4 formal proof,https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/,126,122,2026-09-11T00:18:49.192198+00:00
+49643546,Rust is tier-1 language at Microsoft,https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/,585,323,2026-09-11T00:18:49.192198+00:00
+49615922,What happens when a GPU writes memory,https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory,38,1,2026-09-11T00:18:49.192198+00:00
+49647404,JEP 544: Ahead-of-Time Code Compilation,https://openjdk.org/jeps/544,70,24,2026-09-11T00:18:49.192198+00:00
+49604581,Show HN: Vertumnus – printable posters of farmers' market produce seasonality,https://vertumnus.fyi,23,10,2026-09-11T00:18:49.192198+00:00
+49647300,Detecting and countering misuse of AI: September 2026,https://www.anthropic.com/threat-intelligence-report-september-2026,71,136,2026-09-11T00:18:49.192198+00:00
+49645754,Silicon Valley is transforming the military-industrial complex?,https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex,143,279,2026-09-11T00:18:49.192198+00:00
+49630931,iPhone Duo,https://www.apple.com/iphone-duo/,1407,2425,2026-09-11T00:18:49.192198+00:00
+49587121,Douglas Hofstadter: Analogy as the Core of Cognition [video],https://www.youtube.com/watch?v=n8m7lFQ3njk,133,71,2026-09-11T00:18:49.192198+00:00
+49640646,What algorithm did Windows XP use to choose your initial user picture?,https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683,336,165,2026-09-11T00:18:49.192198+00:00
+49608665,"Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",https://asm-editor.specy.app/,9,1,2026-09-11T00:18:49.192198+00:00
+49599992,Stockfish 19,https://stockfishchess.org/blog/2026/stockfish-19/,263,149,2026-09-11T00:18:49.192198+00:00
+49646778,Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1,https://tokenstead.ai/models/swe-2,54,25,2026-09-11T00:18:49.192198+00:00
+49648732,Creativity is the new moat,https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat,123,65,2026-09-11T00:18:49.192198+00:00
+49642531,"List of references on Sony websites to players ""owning"" their digital games",https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit,353,118,2026-09-11T00:18:49.192198+00:00
