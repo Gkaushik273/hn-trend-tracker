@@ -28769,3 +28769,33 @@ story_id,title,link,points,comments,scraped_at
 49658311,Measuring the sloppiness of code,https://earendil.com/posts/measuring-code-sloppiness/,223,216,2026-09-11T22:12:14.739895+00:00
 49610834,How the Chorleywood Bread Process transformed British bread,https://edconway.substack.com/p/the-little-holes-in-your-bread-are,89,87,2026-09-11T22:12:14.739895+00:00
 49662367,Room 641A,https://en.wikipedia.org/wiki/Room_641A,136,51,2026-09-11T22:12:14.739895+00:00
+49666735,OpenAI agents carried out an undisclosed attack on RubyGems,https://www.rubyhack.ai/,157,70,2026-09-12T00:26:36.323684+00:00
+49662371,A misalignment of AI in mathematics,https://mathandai.org/,575,637,2026-09-12T00:26:36.323684+00:00
+49662990,I spent $220 on Google app ads and 60% of the installs were robots,https://dayzlegame.com/blog/google-ads-bot-farm/,243,134,2026-09-12T00:26:36.323684+00:00
+49626718,A Design Space Exploration of Async/Await,https://cel.cs.brown.edu/blog/design-space-async-await/,110,22,2026-09-12T00:26:36.323684+00:00
+49663373,GrapheneOS' rewritten Messages app is released,https://github.com/GrapheneOS/Messaging/releases/tag/13,180,105,2026-09-12T00:26:36.323684+00:00
+49666146,Project Blinkenlights,https://blinkenlights.de/en/,33,14,2026-09-12T00:26:36.323684+00:00
+49665864,"Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",https://github.com/mirza-rizvi/ResolveHQ,21,8,2026-09-12T00:26:36.323684+00:00
+49662767,Litelm: LiteLLM Without the Bloat,https://github.com/kennethwolters/litelm,89,34,2026-09-12T00:26:36.323684+00:00
+49662214,Λ Snap – An inviting programming language for kids and adults for CS study,https://snap.berkeley.edu/,103,53,2026-09-12T00:26:36.323684+00:00
+49624717,AlphaGenome maps 9B DNA variants,https://spectrum.ieee.org/alphagenome-atlas,64,6,2026-09-12T00:26:36.323684+00:00
+49634928,Testing Race Conditions,https://projectzero.google/2026/09/maccconc-race-condition.html,5,0,2026-09-12T00:26:36.323684+00:00
+49640741,Hepburn Romanization: How to Read Japanese in the Latin Alphabet,https://www.fink-translate.com/blog/hepburn-romanization.html,14,5,2026-09-12T00:26:36.323684+00:00
+49660149,Rune is now open source,https://rune.build/blog/rune-is-now-open-source,134,53,2026-09-12T00:26:36.323684+00:00
+49666155,QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf],https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf,12,4,2026-09-12T00:26:36.323684+00:00
+49662672,The EPA is planning to scrap public review rules for data center pollution,https://capitalbnews.org/data-centers-permit-rules-epa/,322,214,2026-09-12T00:26:36.323684+00:00
+49601138,I've operated petabyte-scale ClickHouse clusters for 5 years,https://www.tinybird.co/blog/what-i-learned-operating-clickhouse,171,63,2026-09-12T00:26:36.323684+00:00
+49662020,Mind-altering drugs played key role in rise of Andean civilization,https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization,90,65,2026-09-12T00:26:36.323684+00:00
+49666960,"How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",https://www.firecrawl.dev/blog/ai-software-factory,3,0,2026-09-12T00:26:36.323684+00:00
+49621546,So you want to use OpenRouter?,https://mmoustafa.com/blog/so-you-want-to-use-openrouter/,692,189,2026-09-12T00:26:36.323684+00:00
+49661645,Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering,https://www.getzep.com/careers/,0,0,2026-09-12T00:26:36.323684+00:00
+49622406,Logo Programming Language,https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html,236,95,2026-09-12T00:26:36.323684+00:00
+49663054,CIA Releases President's Daily Briefs in Commemoration of 9/11,https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/,105,55,2026-09-12T00:26:36.323684+00:00
+49660676,Show HN: Godot and Rust based multiplexer (terminal panes and more),https://github.com/godot-pty/gpty,76,41,2026-09-12T00:26:36.323684+00:00
+49656225,Claude is only available to people over 18 years,https://support.claude.com/en/articles/15171100-age-assurance-on-claude,561,585,2026-09-12T00:26:36.323684+00:00
+49649789,Show HN: Bodily Oddities,https://vester.si/bodily-oddities/,155,127,2026-09-12T00:26:36.323684+00:00
+49656471,"RTK reports token savings, but our cost benchmarks disagree",https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/,145,71,2026-09-12T00:26:36.323684+00:00
+49635043,There is no 10x RBAC,https://infisical.com/blog/folder-based-rbac,16,5,2026-09-12T00:26:36.323684+00:00
+49665711,AI researchers debate how close we are to recursive self-improvement,https://www.dwarkesh.com/p/john-beren-charlie,6,0,2026-09-12T00:26:36.323684+00:00
+49610834,How the Chorleywood Bread Process transformed British bread,https://edconway.substack.com/p/the-little-holes-in-your-bread-are,97,102,2026-09-12T00:26:36.323684+00:00
+49652105,Google will buy half the electricity from one of Finland's nuclear power plants,https://www.bbc.com/news/articles/c8r6y4me2g6o,306,291,2026-09-12T00:26:36.323684+00:00
