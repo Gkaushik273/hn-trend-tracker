@@ -29699,3 +29699,33 @@ story_id,title,link,points,comments,scraped_at
 49715927,Why I'm still bearish on LLMs after Navier-Stokes,https://dank.systems/posts/2026-09-15-ai-bear.html,395,496,2026-09-16T17:25:29.670010+00:00
 49694035,Intelligence per Watt: Measuring Intelligence Efficiency of Local AI,https://arxiv.org/abs/2511.07885,129,44,2026-09-16T17:25:29.670010+00:00
 49725800,DeepSeek v4.1 Flash Is Now Our Best Hacking Model,https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model,113,38,2026-09-16T17:25:29.670010+00:00
+49731054,Vectorized and performance-portable Quicksort (2022),https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html,137,20,2026-09-16T20:19:15.070614+00:00
+49731285,Training a 4B model to produce 81% faster query plans than Postgres,https://rohanbansal.com/qorl,91,14,2026-09-16T20:19:15.070614+00:00
+49729000,Small programming tricks,https://will-keleher.com/posts/small-programming-tricks-matter/,239,134,2026-09-16T20:19:15.070614+00:00
+49731360,Accurate Models of AMD Matrix Cores,https://arxiv.org/abs/2609.14845,25,2,2026-09-16T20:19:15.070614+00:00
+49726955,Dream-RSI: Recursive Self-Improvement through Evolving Worlds,https://arxiv.org/abs/2609.14858,150,45,2026-09-16T20:19:15.070614+00:00
+49723408,"Mistral X Mozilla: Private, Multilingual AI Browsing",https://mistral.ai/news/mistral-x-mozilla/,470,168,2026-09-16T20:19:15.070614+00:00
+49711544,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,https://github.com/arnegiacomo/fugleramme,1966,230,2026-09-16T20:19:15.070614+00:00
+49710903,Tell the speakers that you liked their talks,https://ohhelloana.blog/tell-the-speakers/,217,58,2026-09-16T20:19:15.070614+00:00
+49712185,How big are factorials?,https://eli.thegreenplace.net/2026/how-big-are-factorials/,65,26,2026-09-16T20:19:15.070614+00:00
+49717298,The Siberian Ice Maiden and the Scythian World,https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian,24,0,2026-09-16T20:19:15.070614+00:00
+49723873,Learning Programming in an Age of LLMs,https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/,207,158,2026-09-16T20:19:15.070614+00:00
+49674451,Reversing Factorio's RNG,https://gegell.github.io/posts/factorio-rng/,6,1,2026-09-16T20:19:15.070614+00:00
+49729412,Claude Cowork and chat are now one Claude,https://claude.com/blog/cowork-is-now-claude,151,174,2026-09-16T20:19:15.070614+00:00
+49727659,The DeepMind Institute,https://institute.deepmind.com/,82,26,2026-09-16T20:19:15.070614+00:00
+49731620,How good are frontier models at physics?,https://arxiv.org/abs/2609.13009,17,3,2026-09-16T20:19:15.070614+00:00
+49724927,The Google Play app review process now regularly takes longer than a week,https://gultsch.social/@daniel/117280438824908947,314,296,2026-09-16T20:19:15.070614+00:00
+49726586,Hackers Got Inside a Flock Camera,https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/,376,184,2026-09-16T20:19:15.070614+00:00
+49730239,ER visits for gambling disorders doubled after expanded online gambling market,https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market,114,95,2026-09-16T20:19:15.070614+00:00
+49726343,Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models,https://stale.jock.pl/,60,39,2026-09-16T20:19:15.070614+00:00
+49731515,Fed Raises Rates for First Time in Three Years,https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe,18,2,2026-09-16T20:19:15.070614+00:00
+49731235,Why a fast-growing German AI startup is moving its parent company from the US,https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us,24,4,2026-09-16T20:19:15.070614+00:00
+49725541,Kyber (YC W23) Is Hiring a Forward Deployed Engineer,https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer,0,0,2026-09-16T20:19:15.070614+00:00
+49728733,Can we stop with the uptime percentages?,https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/,110,90,2026-09-16T20:19:15.070614+00:00
+49724488,Salesforce Global Outage,https://status.salesforce.com/products/all,249,152,2026-09-16T20:19:15.070614+00:00
+49693971,"Show HN: I made a flight simulator, except you're just a passenger",https://inflightsimulator.com,399,198,2026-09-16T20:19:15.070614+00:00
+49729228,This Code Is CRAP (2011),https://testing.googleblog.com/2011/02/this-code-is-crap.html,69,46,2026-09-16T20:19:15.070614+00:00
+49727580,A warning about 'model welfare',https://mustafa-suleyman.ai/a-warning-about-model-welfare,133,323,2026-09-16T20:19:15.070614+00:00
+49727592,Anatomy of a Texture,https://agentlien.github.io/texture/,43,8,2026-09-16T20:19:15.070614+00:00
+49726350,Scaling Golang CI by Replacing actions/setup-go,https://www.cloudx.ai/posts/setup-go,61,19,2026-09-16T20:19:15.070614+00:00
+49717558,Introducing System One Models and Jev,https://typesafe.ai/blog/introducing-system-one-models-and-jev,1766,469,2026-09-16T20:19:15.070614+00:00
