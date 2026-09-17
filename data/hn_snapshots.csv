@@ -29789,3 +29789,33 @@ story_id,title,link,points,comments,scraped_at
 49729816,Training Text-to-Image Models 3.6× Faster,https://www.linum.ai/field-notes/jit-ddt,36,7,2026-09-17T01:34:36.091920+00:00
 49727659,The DeepMind Institute,https://institute.deepmind.com/,140,43,2026-09-17T01:34:36.091920+00:00
 49710903,Tell the speakers that you liked their talks,https://ohhelloana.blog/tell-the-speakers/,272,75,2026-09-17T01:34:36.091920+00:00
+49735930,Keys Not Included: recovering the signing keys for US driver's license barcodes,https://ryan.science/blog/keys-not-included,122,47,2026-09-17T07:01:24.474541+00:00
+49724881,Nvidia announces native GPU programming in Rust,https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/,566,205,2026-09-17T07:01:24.474541+00:00
+49715318,Comparison of Malloc() Algorithms,https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html,37,0,2026-09-17T07:01:24.474541+00:00
+49731285,Training a 4B model to produce 81% faster query plans than Postgres,https://rohanbansal.com/qorl,502,105,2026-09-17T07:01:24.474541+00:00
+49718773,My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it,https://jakeasmith.com/blog/http-build-url/,24,4,2026-09-17T07:01:24.474541+00:00
+49732270,Xiaomi Mimo 2.6 live post-training dashboard,https://mimo.xiaomi.com/rl/,394,98,2026-09-17T07:01:24.474541+00:00
+49732513,Backups Aren't Simple,https://filipovski.net/2026/09/16/backups-arent-simple.html,190,100,2026-09-17T07:01:24.474541+00:00
+49700153,Developing provably correct Rust code with Verus,https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus,86,11,2026-09-17T07:01:24.474541+00:00
+49729000,Small programming tricks,https://will-keleher.com/posts/small-programming-tricks-matter/,488,213,2026-09-17T07:01:24.474541+00:00
+49721291,A 32-year-old bug walks into a Telnet server,https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/,42,11,2026-09-17T07:01:24.474541+00:00
+49732931,Breaking the 1.58-bit Barrier for Ternary LLMs,https://arxiv.org/abs/2609.16338,188,28,2026-09-17T07:01:24.474541+00:00
+49719596,The engineering behind the US Strategic Petroleum Reserve,https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve,177,69,2026-09-17T07:01:24.474541+00:00
+49719249,AWS says it can't restore some data from mideast facilities struck by Iran,https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d,348,276,2026-09-17T07:01:24.474541+00:00
+49734264,OpenSpec – A lightweight and configurable AI spec framework,https://openspec.dev/,121,50,2026-09-17T07:01:24.474541+00:00
+49734929,The Return of Sail Power: Cargo Ships Are Turning Back to the Wind,https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/,71,35,2026-09-17T07:01:24.474541+00:00
+49711424,Performance Improvements in .NET 11,https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/,262,46,2026-09-17T07:01:24.474541+00:00
+49695689,PCB is brought to you by Fable 5,https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/,71,27,2026-09-17T07:01:24.474541+00:00
+49733726,HarnessTax: How Much Does the Harness Matter for Coding Agents?,https://harnesstax.github.io/,102,34,2026-09-17T07:01:24.474541+00:00
+49711544,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,https://github.com/arnegiacomo/fugleramme,2138,243,2026-09-17T07:01:24.474541+00:00
+49674451,Reversing Factorio's RNG,https://gegell.github.io/posts/factorio-rng/,188,23,2026-09-17T07:01:24.474541+00:00
+49677916,Japan's book scene is moving from bookstores to libraries,https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving,165,71,2026-09-17T07:01:24.474541+00:00
+49735367,Part-human part-mouse brain developed in science breakthrough,https://www.bbc.com/news/articles/c60m3k28j81mo,27,19,2026-09-17T07:01:24.474541+00:00
+49735979,"Jev Ultrafast: A browser agent with a dynamic, indexed action space",https://github.com/browser-use/jev-ultrafast,21,2,2026-09-17T07:01:24.474541+00:00
+49692844,"Anecdotally, programmers dislike ""reduce""",https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/,136,205,2026-09-17T07:01:24.474541+00:00
+49736466,Cloudflare/Security-Audit-Skill,https://github.com/cloudflare/security-audit-skill,14,2,2026-09-17T07:01:24.474541+00:00
+49731282,Reverse-engineered Jev-like model,https://github.com/vinnylarouge/jevlike,113,16,2026-09-17T07:01:24.474541+00:00
+49726955,Dream-RSI: Recursive Self-Improvement through Evolving Worlds,https://arxiv.org/abs/2609.14858,197,49,2026-09-17T07:01:24.474541+00:00
+49727592,Anatomy of a Texture,https://agentlien.github.io/texture/,88,15,2026-09-17T07:01:24.474541+00:00
+49735692,"Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",https://www.vanityfair.com/news/2008/05/monsanto200805,59,21,2026-09-17T07:01:24.474541+00:00
+49726586,Hackers Got Inside a Flock Camera,https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/,517,236,2026-09-17T07:01:24.474541+00:00
