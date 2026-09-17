@@ -29819,3 +29819,33 @@ story_id,title,link,points,comments,scraped_at
 49727592,Anatomy of a Texture,https://agentlien.github.io/texture/,88,15,2026-09-17T07:01:24.474541+00:00
 49735692,"Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",https://www.vanityfair.com/news/2008/05/monsanto200805,59,21,2026-09-17T07:01:24.474541+00:00
 49726586,Hackers Got Inside a Flock Camera,https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/,517,236,2026-09-17T07:01:24.474541+00:00
+49737849,One Year of Sponsored Servo Development,https://servo.org/blog/2026/09/15/one-year-of-sponsorship/,163,69,2026-09-17T12:40:25.226119+00:00
+49738879,Neovim have a ~$800k Bitcoin donation sitting untouched since 2023,item?id=49738879,151,42,2026-09-17T12:40:25.226119+00:00
+49724881,Nvidia announces native GPU programming in Rust,https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/,761,307,2026-09-17T12:40:25.226119+00:00
+49738766,Better Vector Search for Long Documents: Chunking Inside Manticore Search,https://manticoresearch.com/blog/auto-chunking/,27,1,2026-09-17T12:40:25.226119+00:00
+49718773,My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it,https://jakeasmith.com/blog/http-build-url/,170,42,2026-09-17T12:40:25.226119+00:00
+49735930,Keys Not Included: recovering the signing keys for US driver's license barcodes,https://ryan.science/blog/keys-not-included,208,74,2026-09-17T12:40:25.226119+00:00
+49685835,The Relation Between Mathematics and Physics by Paul Dirac,https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html,89,26,2026-09-17T12:40:25.226119+00:00
+49731285,Training a 4B model to produce 81% faster query plans than Postgres,https://rohanbansal.com/qorl,585,121,2026-09-17T12:40:25.226119+00:00
+49737922,GLM Built Its Own Inference Infrastructure,https://z.ai/blog/glm-built-its-inference-infrastructure,130,96,2026-09-17T12:40:25.226119+00:00
+49713347,Online Z3 Guide,https://microsoft.github.io/z3guide/,25,6,2026-09-17T12:40:25.226119+00:00
+49732270,Xiaomi Mimo 2.6 live post-training dashboard,https://mimo.xiaomi.com/rl/,467,134,2026-09-17T12:40:25.226119+00:00
+49737787,CCC invites all model citizens to 40C3,https://events.ccc.de/en/2026/09/12/40c3-model-citizens/,28,0,2026-09-17T12:40:25.226119+00:00
+49719751,Lucasart's Afterlife,https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/,44,18,2026-09-17T12:40:25.226119+00:00
+49729000,Small programming tricks,https://will-keleher.com/posts/small-programming-tricks-matter/,566,251,2026-09-17T12:40:25.226119+00:00
+49715318,Comparison of Malloc() Algorithms,https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html,87,21,2026-09-17T12:40:25.226119+00:00
+49700153,Developing provably correct Rust code with Verus,https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus,129,24,2026-09-17T12:40:25.226119+00:00
+49732931,Breaking the 1.58-bit Barrier for Ternary LLMs,https://arxiv.org/abs/2609.16338,216,34,2026-09-17T12:40:25.226119+00:00
+49736466,Cloudflare/Security-Audit-Skill,https://github.com/cloudflare/security-audit-skill,97,17,2026-09-17T12:40:25.226119+00:00
+49711544,Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations,https://github.com/arnegiacomo/fugleramme,2195,245,2026-09-17T12:40:25.226119+00:00
+49694444,An Archive of Colour Gradients,https://phillips.shef.ac.uk/pub/cpt-city/,14,2,2026-09-17T12:40:25.226119+00:00
+49732513,Backups Aren't Simple,https://filipovski.net/2026/09/16/backups-arent-simple.html,268,169,2026-09-17T12:40:25.226119+00:00
+49721291,A 32-year-old bug walks into a Telnet server,https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/,70,30,2026-09-17T12:40:25.226119+00:00
+49695689,PCB is brought to you by Fable 5,https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/,129,59,2026-09-17T12:40:25.226119+00:00
+49719596,The engineering behind the US Strategic Petroleum Reserve,https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve,224,90,2026-09-17T12:40:25.226119+00:00
+49733726,HarnessTax: How Much Does the Harness Matter for Coding Agents?,https://harnesstax.github.io/,150,59,2026-09-17T12:40:25.226119+00:00
+49719249,AWS says it can't restore some data from mideast facilities struck by Iran,https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d,448,376,2026-09-17T12:40:25.226119+00:00
+49734264,OpenSpec – A lightweight and configurable AI spec framework,https://openspec.dev/,158,72,2026-09-17T12:40:25.226119+00:00
+49711424,Performance Improvements in .NET 11,https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/,309,82,2026-09-17T12:40:25.226119+00:00
+49677916,Japan's book scene is moving from bookstores to libraries,https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving,212,86,2026-09-17T12:40:25.226119+00:00
+49674451,Reversing Factorio's RNG,https://gegell.github.io/posts/factorio-rng/,223,41,2026-09-17T12:40:25.226119+00:00
