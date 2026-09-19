@@ -30179,3 +30179,33 @@ story_id,title,link,points,comments,scraped_at
 49740371,From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video],https://www.youtube.com/watch?v=1cRFfYQYGxE,27,0,2026-09-19T01:22:30.178955+00:00
 49755095,Mathematicians Build Long-Awaited Graph Sandwich,https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/,69,19,2026-09-19T01:22:30.178955+00:00
 49753131,Cekura (YC F24) Is Hiring,https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us,0,0,2026-09-19T01:22:30.178955+00:00
+49763296,San Francisco Onion Futures Company,https://onionfutures.com/,113,35,2026-09-19T06:12:06.097555+00:00
+49758736,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,https://grapheneos.social/@GrapheneOS/117282080803799576,730,357,2026-09-19T06:12:06.097555+00:00
+49733647,Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step,https://github.com/awlevin/typesafe-computer-use,42,9,2026-09-19T06:12:06.097555+00:00
+49762744,SDCC – Small Device C Compiler,https://sdcc.sourceforge.net/,49,12,2026-09-19T06:12:06.097555+00:00
+49763697,"Human brain is two separate organs, Stanford Medicine-led research finds",https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html,6,2,2026-09-19T06:12:06.097555+00:00
+49762687,Science Is Open Software,https://jepedersen.dk/blog/202505_research/,50,23,2026-09-19T06:12:06.097555+00:00
+49754785,Cloudflare Quick Tunnels,https://try.cloudflare.com/,659,272,2026-09-19T06:12:06.097555+00:00
+49763379,NASA-IBM Lunar Foundation open-Source Geospatial AI Model,https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/,9,0,2026-09-19T06:12:06.097555+00:00
+49761432,How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip,https://spectrum.ieee.org/llms-for-chip-design,99,74,2026-09-19T06:12:06.097555+00:00
+49758580,Saving another 100TB of RAM,https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/,307,59,2026-09-19T06:12:06.097555+00:00
+49734131,Why building a Rust LSP is hard,https://rust-glancer.github.io/blog/why-lsp-is-hard/,38,18,2026-09-19T06:12:06.097555+00:00
+49747070,How to Write with an LLM,https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/,460,310,2026-09-19T06:12:06.097555+00:00
+49730069,You can run Git on object storage if you re-make packfiles,https://www.tigrisdata.com/blog/objgit-packfiles/,11,1,2026-09-19T06:12:06.097555+00:00
+49726773,Goroutine Leak Profiles,https://go.dev/blog/goroutine-leak-profiles,17,2,2026-09-19T06:12:06.097555+00:00
+49758419,Xcode 27.1 Beta Release Notes,https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes,135,84,2026-09-19T06:12:06.097555+00:00
+49744704,The first new cat species discovered in 100 years,https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years,237,89,2026-09-19T06:12:06.097555+00:00
+49748553,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,https://cactuscompute.com/needle,189,83,2026-09-19T06:12:06.097555+00:00
+49752041,OpenJev,https://openjev.com/,596,255,2026-09-19T06:12:06.097555+00:00
+49757050,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/,176,64,2026-09-19T06:12:06.097555+00:00
+49744036,The Farnese letter,https://simonklee.dk/farnese-letter,39,6,2026-09-19T06:12:06.097555+00:00
+49758615,Cache-to-Cache: Direct Semantic Communication Between LLMs (2025),https://arxiv.org/abs/2510.03215,78,12,2026-09-19T06:12:06.097555+00:00
+49749369,Minimal Phone 2,https://minimalcompany.com/,236,206,2026-09-19T06:12:06.097555+00:00
+49731413,Cyclomatic Complexity in C#,https://blog.ndepend.com/understanding-cyclomatic-complexity/,49,17,2026-09-19T06:12:06.097555+00:00
+49760187,Claude Code now reads AGENTS.md if there is no Claude.md,https://code.claude.com/docs/en/changelog,607,215,2026-09-19T06:12:06.097555+00:00
+49733523,LispBM is a concurrent Lisp for microcontrollers with message passing,https://www.lispbm.com/,22,3,2026-09-19T06:12:06.097555+00:00
+49750694,Inside ZCode: Silently uploading your Git history to the cloud,https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/,285,96,2026-09-19T06:12:06.097555+00:00
+49749724,Warez: The Infrastructure and Aesthetics of Piracy (2021),https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157,130,43,2026-09-19T06:12:06.097555+00:00
+49761840,Alibaba open-sources AI model that can detect cancer and nearly 150 conditions,https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions,96,11,2026-09-19T06:12:06.097555+00:00
+49746626,How SpaceX streamlined the Raptor engine,https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor,191,68,2026-09-19T06:12:06.097555+00:00
+49758689,The Implications of Linguistic Illegibility for LLM Security,https://arxiv.org/abs/2609.02852,64,26,2026-09-19T06:12:06.097555+00:00
