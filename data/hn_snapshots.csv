@@ -30209,3 +30209,33 @@ story_id,title,link,points,comments,scraped_at
 49761840,Alibaba open-sources AI model that can detect cancer and nearly 150 conditions,https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions,96,11,2026-09-19T06:12:06.097555+00:00
 49746626,How SpaceX streamlined the Raptor engine,https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor,191,68,2026-09-19T06:12:06.097555+00:00
 49758689,The Implications of Linguistic Illegibility for LLM Security,https://arxiv.org/abs/2609.02852,64,26,2026-09-19T06:12:06.097555+00:00
+49763697,"Human brain is two separate organs, Stanford Medicine-led research finds",https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html,269,107,2026-09-19T11:17:37.836697+00:00
+49764791,AI-generated posters don’t have to be horrible,https://john.hartnup.uk/2026/06/07/ai-event-posters.html,168,115,2026-09-19T11:17:37.836697+00:00
+49763928,"If math is more than proof, we need to better celebrate the rest of it",https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/,119,87,2026-09-19T11:17:37.836697+00:00
+49763987,GPT-6 Astra Solves a WWI German Radio Cipher,https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio,135,66,2026-09-19T11:17:37.836697+00:00
+49758736,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,https://grapheneos.social/@GrapheneOS/117282080803799576,861,441,2026-09-19T11:17:37.836697+00:00
+49720143,“The Secret Life of Circuits” is here,https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here,48,18,2026-09-19T11:17:37.836697+00:00
+49763296,San Francisco Onion Futures Company,https://onionfutures.com/,206,72,2026-09-19T11:17:37.836697+00:00
+49763883,Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7,https://browser.geekbench.com/v7/cpu/389219,75,53,2026-09-19T11:17:37.836697+00:00
+49754785,Cloudflare Quick Tunnels,https://try.cloudflare.com/,718,285,2026-09-19T11:17:37.836697+00:00
+49764686,"Dear Customer, Fuck You",https://fuck-off.ai,16,2,2026-09-19T11:17:37.836697+00:00
+49762744,SDCC – Small Device C Compiler,https://sdcc.sourceforge.net/,91,19,2026-09-19T11:17:37.836697+00:00
+49747070,How to Write with an LLM,https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/,500,338,2026-09-19T11:17:37.836697+00:00
+49762687,Science Is Open Software,https://jepedersen.dk/blog/202505_research/,100,40,2026-09-19T11:17:37.836697+00:00
+49758580,Saving another 100TB of RAM,https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/,373,81,2026-09-19T11:17:37.836697+00:00
+49734131,Why building a Rust LSP is hard,https://rust-glancer.github.io/blog/why-lsp-is-hard/,89,32,2026-09-19T11:17:37.836697+00:00
+49730069,You can run Git on object storage if you re-make packfiles,https://www.tigrisdata.com/blog/objgit-packfiles/,51,15,2026-09-19T11:17:37.836697+00:00
+49761432,How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip,https://spectrum.ieee.org/llms-for-chip-design,130,92,2026-09-19T11:17:37.836697+00:00
+49735541,Ctenophores: Wonders of Biology,https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/,29,6,2026-09-19T11:17:37.836697+00:00
+49763379,NASA-IBM Lunar Foundation open-Source Geospatial AI Model,https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/,30,2,2026-09-19T11:17:37.836697+00:00
+49744704,The first new cat species discovered in 100 years,https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years,280,106,2026-09-19T11:17:37.836697+00:00
+49752041,OpenJev,https://openjev.com/,633,269,2026-09-19T11:17:37.836697+00:00
+49726773,Goroutine Leak Profiles,https://go.dev/blog/goroutine-leak-profiles,36,4,2026-09-19T11:17:37.836697+00:00
+49748553,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,https://cactuscompute.com/needle,200,89,2026-09-19T11:17:37.836697+00:00
+49736823,Communication by means of modulated Johnson noise,https://www.pnas.org/doi/10.1073/pnas.2201337119,6,1,2026-09-19T11:17:37.836697+00:00
+49757050,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/,195,73,2026-09-19T11:17:37.836697+00:00
+49728602,Veronese's Dogs,https://publicdomainreview.org/essay/veroneses-dogs,11,1,2026-09-19T11:17:37.836697+00:00
+49758615,Cache-to-Cache: Direct Semantic Communication Between LLMs (2025),https://arxiv.org/abs/2510.03215,93,13,2026-09-19T11:17:37.836697+00:00
+49749724,Warez: The Infrastructure and Aesthetics of Piracy (2021),https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157,171,73,2026-09-19T11:17:37.836697+00:00
+49750694,Inside ZCode: Silently uploading your Git history to the cloud,https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/,304,100,2026-09-19T11:17:37.836697+00:00
+49731413,Cyclomatic Complexity in C#,https://blog.ndepend.com/understanding-cyclomatic-complexity/,66,24,2026-09-19T11:17:37.836697+00:00
