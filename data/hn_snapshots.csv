@@ -30839,3 +30839,33 @@ story_id,title,link,points,comments,scraped_at
 49795122,Socrates vs. the Written Word (2011),https://wondermark.com/socrates-vs-writing/,60,37,2026-09-22T13:32:41.680524+00:00
 49787142,Python Workers are now generally available,https://blog.cloudflare.com/python-workers-ga/,247,39,2026-09-22T13:32:41.680524+00:00
 49789081,How do traffic signals work? (2019),https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work,98,68,2026-09-22T13:32:41.680524+00:00
+49803892,Claude Opus 5.5,https://www.anthropic.com/claude-opus-5-5,345,423,2026-09-22T17:52:30.760414+00:00
+49801324,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,https://www.cryptocellar.org/bgac/the-mvueh-break.html,359,283,2026-09-22T17:52:30.760414+00:00
+49804683,There's a high chance of devices being sold with GrapheneOS preinstalled in 2027,https://grapheneos.social/@GrapheneOS/117299954135808210,43,8,2026-09-22T17:52:30.760414+00:00
+49804316,"Claude Opus 5.5 Intelligence, Performance and Price Analysis",https://artificialanalysis.ai/models/claude-opus-5-5,49,23,2026-09-22T17:52:30.760414+00:00
+49803959,WordPress: Unauthenticated path traversal leading to conditional RCE,https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp,38,15,2026-09-22T17:52:30.760414+00:00
+49803635,16-bit Intel 8088 chip,https://allpoetry.com/16-bit-Intel-8088-chip,54,7,2026-09-22T17:52:30.760414+00:00
+49802161,OpenAI is well positioned to fast-follow Jev,https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/,161,114,2026-09-22T17:52:30.760414+00:00
+49804931,Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent,https://www.coveragecat.com/,8,5,2026-09-22T17:52:30.760414+00:00
+49803085,Writing Rust code that's fast by asking agents to make the code faster,https://minimaxir.com/2026/09/agentic-iteration/,51,22,2026-09-22T17:52:30.760414+00:00
+49801939,"Apple has added persistent 'ads' to iOS, and it's driving users crazy",https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy,379,282,2026-09-22T17:52:30.760414+00:00
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,https://droprun.sh/,106,35,2026-09-22T17:52:30.760414+00:00
+49803683,"Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",https://ai-rete-rag.com/,15,0,2026-09-22T17:52:30.760414+00:00
+49794193,Solitaire Alone Together,https://solitairealonetogether.com/,71,19,2026-09-22T17:52:30.760414+00:00
+49797323,Can gzip be a language model?,https://nathan.rs/posts/gzip-lm/,333,127,2026-09-22T17:52:30.760414+00:00
+49798204,AMD's random number generator can't generate a 0?,https://board.flatassembler.net/topic.php?t=24261,203,154,2026-09-22T17:52:30.760414+00:00
+49779984,One Minute Park,https://oneminutepark.tv/,10,3,2026-09-22T17:52:30.760414+00:00
+49792730,MiMo v2.6,https://mimo.xiaomi.com/mimo-v2-6,1052,463,2026-09-22T17:52:30.760414+00:00
+49802789,Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor,https://github.com/General-Instinct/InstinctFlash,8,0,2026-09-22T17:52:30.760414+00:00
+49794615,"Spymarks, not Watermarks",https://brand.io/article/spymarks/,619,156,2026-09-22T17:52:30.760414+00:00
+49801218,The Economics of Open-Weight Inference,https://data.ornn.com/publications/the-economics-of-open-weight-inference,21,9,2026-09-22T17:52:30.760414+00:00
+49773597,Teleoperated Humans,https://www.jefftk.com/p/teleoperated-humans,34,37,2026-09-22T17:52:30.760414+00:00
+49802871,I asked Meta’s Muse for its filesystem and it sent me 6.8GB,https://mouse.dev/blog/muse-runtime-export/,197,107,2026-09-22T17:52:30.760414+00:00
+49780622,MUNI Heritage Weekend in San Francisco,https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/,106,22,2026-09-22T17:52:30.760414+00:00
+49802030,Meta’s Muse has a serious 0-day,https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/,82,32,2026-09-22T17:52:30.760414+00:00
+49792342,Transformers Explained Visually,https://poloclub.github.io/transformer-explainer/,572,84,2026-09-22T17:52:30.760414+00:00
+49782452,Relativistic raytracing,https://publish.obsidian.md/h1m3/Articles/Relativistic+raytracing,14,2,2026-09-22T17:52:30.760414+00:00
+49802581,Vacate a drone restriction that criminalized recording immigration agents,https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration,57,13,2026-09-22T17:52:30.760414+00:00
+49797982,I said no and Apple said yes,https://dbushell.com/2026/09/22/apple-intelligence/,677,547,2026-09-22T17:52:30.760414+00:00
+49794330,I don't want to read what you didn't write,https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/,952,392,2026-09-22T17:52:30.760414+00:00
+49796660,"MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",https://artificialanalysis.ai/models/mimo-v2-6-pro,141,60,2026-09-22T17:52:30.760414+00:00
