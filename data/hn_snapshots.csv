@@ -31049,3 +31049,33 @@ story_id,title,link,points,comments,scraped_at
 49819221,Italian parliament votes for return to nuclear energy,https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567,6,0,2026-09-23T17:38:42.548635+00:00
 49803959,WordPress: Unauthenticated path traversal leading to conditional RCE,https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp,225,124,2026-09-23T17:38:42.548635+00:00
 49811429,Data-only attacks are easier than you think (2024),https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think,88,35,2026-09-23T17:38:42.548635+00:00
+49820134,Claude discovers a novel enzyme system with CRISPR-like repeats,https://www.anthropic.com/news/claude-discovers-novel-enzyme-system,259,254,2026-09-23T20:57:44.245434+00:00
+49817469,Fixing the Portobello Police Station Clock,https://pointinthecloud.com/2026-04-11-211700.html,321,71,2026-09-23T20:57:44.245434+00:00
+49820065,A brief history of Windows scroll bar shortcuts,https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/,61,33,2026-09-23T20:57:44.245434+00:00
+49819221,Italian parliament votes for return to nuclear energy,https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567,351,201,2026-09-23T20:57:44.245434+00:00
+49817615,Gemini 3.8 text-to-speech,https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/,194,100,2026-09-23T20:57:44.245434+00:00
+49817524,Radicle: Disclosure of Vulnerability in the Network Protocol,https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol,94,33,2026-09-23T20:57:44.245434+00:00
+49812769,Jev in 25 Lines of Python,https://www.nobodywho.ai/posts/jev-in-25-lines/,567,183,2026-09-23T20:57:44.245434+00:00
+49805509,GPT-6 Sol and Luna,https://openai.com/index/introducing-gpt-6-sol-and-luna/,1720,818,2026-09-23T20:57:44.245434+00:00
+49803892,Claude Opus 5.5,https://www.anthropic.com/claude-opus-5-5,1759,1066,2026-09-23T20:57:44.245434+00:00
+49813482,Tokens too cheap to meter,https://jyn.dev/tokens-too-cheap-to-meter/,185,154,2026-09-23T20:57:44.245434+00:00
+49821608,DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why,https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/,137,43,2026-09-23T20:57:44.245434+00:00
+49814947,Claude Code reads AGENTS.md only when telemetry is on [fixed],https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/,421,236,2026-09-23T20:57:44.245434+00:00
+49815982,Stripe's Knowledge AI Platform,https://stripe.dev/blog/meet-stripes-knowledge-ai-platform,153,97,2026-09-23T20:57:44.245434+00:00
+49814236,Z80 REPL (2018),https://abagames.github.io/z80-repl/index.html,127,17,2026-09-23T20:57:44.245434+00:00
+49791296,Show HN: Conway's Game of Life in boot sector,https://github.com/0xAX/BootLife,12,3,2026-09-23T20:57:44.245434+00:00
+49815466,I don't want the details,https://michaelheap.com/i-dont-want-the-details/,289,173,2026-09-23T20:57:44.245434+00:00
+49821196,How we made claude.ai 3x faster in two weeks,https://claude.dev/blog/how-we-made-claude-ai-faster/,80,50,2026-09-23T20:57:44.245434+00:00
+49819814,"UK military jamming other nations' satellites to defend itself, BBC told",https://www.bbc.com/news/articles/c32l8y8kygdvo,89,147,2026-09-23T20:57:44.245434+00:00
+49821086,Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes,https://www.forensicdbg.com,8,0,2026-09-23T20:57:44.245434+00:00
+49822186,LensVLM-9B by Apple,https://huggingface.co/papers/2605.07019,10,0,2026-09-23T20:57:44.245434+00:00
+49799241,Show HN: An atlas of system designs with interactive architecture diagrams,https://atlas-sysdes.vercel.app/,5,2,2026-09-23T20:57:44.245434+00:00
+49814780,QuestDB (YC S20) Is Hiring a Sales Engineer,https://questdb.com/careers/pre-sales-engineer-north-america/,0,0,2026-09-23T20:57:44.245434+00:00
+49816374,Seattle City Council votes to ban surveillance pricing in sale of groceries,https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/,222,124,2026-09-23T20:57:44.245434+00:00
+49801324,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,https://www.cryptocellar.org/bgac/the-mvueh-break.html,718,431,2026-09-23T20:57:44.245434+00:00
+49809935,Web-based IBM 1620 emulator and IPL-V from 1963,https://github.com/pkimpel/retro-1620,35,7,2026-09-23T20:57:44.245434+00:00
+49811065,Transit rewards,https://waymo.com/blog/2026/09/transit-rewards/,243,305,2026-09-23T20:57:44.245434+00:00
+49817289,Strands Harness,https://strandsagents.com/blog/introducing-strands-harness/,120,86,2026-09-23T20:57:44.245434+00:00
+49818698,28% of job postings on company career sites have been open over 90 days,https://unlisted.careers/ghost-jobs/report/2026-09,163,246,2026-09-23T20:57:44.245434+00:00
+49817404,GPT-6 Astra has gained the ability to drive a car,https://drivingbench.com/,249,213,2026-09-23T20:57:44.245434+00:00
+49796379,What California is learning from solar panels built over irrigation canals,https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals,348,678,2026-09-23T20:57:44.245434+00:00
