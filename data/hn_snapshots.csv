@@ -32459,3 +32459,33 @@ story_id,title,link,points,comments,scraped_at
 49925602,Anatomy of a Lean proof for software engineers,https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/,25,0,2026-10-02T20:02:15.663450+00:00
 49932079,F.02 Decommission,https://www.figure.ai/news/f-02-decommission,19,5,2026-10-02T20:02:15.663450+00:00
 49934784,Supabase is acquiring Turso,https://supabase.com/blog/supabase-is-acquiring-turso,173,90,2026-10-02T20:02:15.663450+00:00
+49937276,Apple Pass Designer,https://developer.apple.com/pass-designer/,280,190,2026-10-02T23:54:44.242696+00:00
+49927754,Court agrees with EFF: Utah's VPN law demands a technical impossibility,https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility,447,202,2026-10-02T23:54:44.242696+00:00
+49932147,A 12-year sequence of telescope images of a star and four planets orbiting,https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f,164,33,2026-10-02T23:54:44.242696+00:00
+49933740,"With most information hidden, the game Stratego had stumped AI until now",https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/,151,74,2026-10-02T23:54:44.242696+00:00
+49937504,Muse Gadgets,https://gadgets.muse.ai,97,47,2026-10-02T23:54:44.242696+00:00
+49925184,Mike Tomlin spent 12 years building a Minecraft city,https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/,201,52,2026-10-02T23:54:44.242696+00:00
+49933869,The Forgetful CPU (Linux on M4),https://yuka.dev/blog-2026-10-02-linux-m4.html,25,0,2026-10-02T23:54:44.242696+00:00
+49926411,Loss of cell identity drives human aging: Two new papers,https://erictopol.substack.com/p/loss-of-cell-identity-drives-human,154,38,2026-10-02T23:54:44.242696+00:00
+49938521,Zig v0.17.0,https://ziglang.org/download/0.17.0/release-notes.html,184,95,2026-10-02T23:54:44.242696+00:00
+49936575,From the creator of Redis; run LLM locally with ds4,https://dwarfstar.sh/,123,35,2026-10-02T23:54:44.242696+00:00
+49929391,Greg Kroah-Hartman – Security in the LLM Age [video],https://www.youtube.com/watch?v=NnV_cWeoo5Q,159,32,2026-10-02T23:54:44.242696+00:00
+49934620,One month coding with GLM 5.3 Flash,https://wagtail.org/blog/one-month-on-glm-53-flash/,93,74,2026-10-02T23:54:44.242696+00:00
+49937916,Show HN: Made an open-source Lego AI generator,https://github.com/anteloc/ldraw-nova,55,35,2026-10-02T23:54:44.242696+00:00
+49938616,Every SaaS business will become a harness around a model,https://blog.sshh.io/p/the-harness-is-the-company,72,54,2026-10-02T23:54:44.242696+00:00
+49938783,"Open-sourcing AstaBrief, the fast report-generation model in Asta",https://allenai.org/blog/astabrief,13,0,2026-10-02T23:54:44.242696+00:00
+49937631,Updates to Full Disk Access in macOS,https://developer.apple.com/news/?id=p6zjojqw,84,54,2026-10-02T23:54:44.242696+00:00
+49927747,Sites in ChatGPT,https://chatgpt.com/features/sites/,189,209,2026-10-02T23:54:44.242696+00:00
+49925974,FLUX 3 Image,https://bfl.ai/models/flux-3-image,257,57,2026-10-02T23:54:44.242696+00:00
+49932191,Our Project Suncatcher prototype satellite is in orbit,https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/,38,45,2026-10-02T23:54:44.242696+00:00
+49911472,Philip Sidney and the Extreme (Dis)Graces of the Parenthesis,https://publicdomainreview.org/essay/philip-sidney-and-the-extreme-disgraces-of-the-parenthesis/,5,0,2026-10-02T23:54:44.242696+00:00
+49933230,Venice’s failed war against Constantinople led to the first bond market,https://bigthink.com/books/a-fabulous-debt/,57,19,2026-10-02T23:54:44.242696+00:00
+49932340,"Blogging with Gleam, Org-Mode and Pandoc",https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/,45,9,2026-10-02T23:54:44.242696+00:00
+49933235,The Legend of von Neumann (1973) [pdf],https://gwern.net/doc/math/1973-halmos.pdf,233,136,2026-10-02T23:54:44.242696+00:00
+49925602,Anatomy of a Lean proof for software engineers,https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/,68,6,2026-10-02T23:54:44.242696+00:00
+49928566,Show HN: Giving Opus 5.5 a simulated paint canvas,https://stillwet.art/,179,60,2026-10-02T23:54:44.242696+00:00
+49935797,STS-51-F Abort-to-Orbit (1985),https://en.wikipedia.org/wiki/STS-51-F,32,10,2026-10-02T23:54:44.242696+00:00
+49932911,The first packet sent via RFC1149 avian carrier is up for auction at Christie's,https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216,34,5,2026-10-02T23:54:44.242696+00:00
+49928215,Show HN: Pyxel – A Python retro game engine with built-in art and sound editors,https://github.com/kitao/pyxel,58,8,2026-10-02T23:54:44.242696+00:00
+49932079,F.02 Decommission,https://www.figure.ai/news/f-02-decommission,51,20,2026-10-02T23:54:44.242696+00:00
+49939773,"<input type=""password"" maxlength=""20""> prevents me from logging into Vanguard",https://tanin.nanakorn.com/input-type-password-maxlength-20-is-considered-harmful-and-why-i-couldnt-login-into-vanguard/,38,50,2026-10-02T23:54:44.242696+00:00
