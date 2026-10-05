@@ -32879,3 +32879,33 @@ story_id,title,link,points,comments,scraped_at
 49956003,Xray-core concealed a certificate verification bypass vulnerability,https://github.com/net4people/bbs/issues/672,81,10,2026-10-05T09:22:19.902993+00:00
 49955297,Blindsight (Watts Novel),https://en.wikipedia.org/wiki/Blindsight_(Watts_novel),85,83,2026-10-05T09:22:19.902993+00:00
 49950554,Why don't more developers “use the platform”?,https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/,299,314,2026-10-05T09:22:19.902993+00:00
+49966163,The future of independence is interdependence,https://onlys.ky/independence-is-interdependence/,72,36,2026-10-05T18:41:03.811625+00:00
+49963171,Web Search API,https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/,349,173,2026-10-05T18:41:03.811625+00:00
+49967444,US closely monitoring case of lab worker who possibly died of plague in Siberia,https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk,114,81,2026-10-05T18:41:03.811625+00:00
+49965308,"Making a GTK application in Haskell, part 1",https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/,89,14,2026-10-05T18:41:03.811625+00:00
+49968105,"OpenAI ""rogue"" agent activities found on Wikimedia projects",https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/,44,24,2026-10-05T18:41:03.811625+00:00
+49962012,Denmark Data Breach Exposes 8.8M People's Personal Data,https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger,400,287,2026-10-05T18:41:03.811625+00:00
+49963385,Mold Linker Version 3.0.0 Release – Rewritten in Rust,https://github.com/rui314/mold/releases/tag/v3.0.0,163,86,2026-10-05T18:41:03.811625+00:00
+49961861,Huawei and Qualcomm announce broad patent license agreement,https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement,150,89,2026-10-05T18:41:03.811625+00:00
+49956290,The technology to eradicate mosquito-borne disease exists,https://worksinprogress.co/issue/mosquitoes-are-a-choice/,169,132,2026-10-05T18:41:03.811625+00:00
+49917900,Differences Between `Foldl` and `Foldr`,https://blog.haskell.org/foldl-and-foldr/,106,24,2026-10-05T18:41:03.811625+00:00
+49964303,Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped,https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped,329,180,2026-10-05T18:41:03.811625+00:00
+49952148,Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear,https://github.com/rsutcliffe/nightwatch,13,1,2026-10-05T18:41:03.811625+00:00
+49961057,"Anthropic reported diary entry to police, woman faces felony charge",https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html,199,152,2026-10-05T18:41:03.811625+00:00
+49917784,Beating the Compiler,https://www.mattkeeter.com/blog/2024-07-12-interpreter/,37,28,2026-10-05T18:41:03.811625+00:00
+49965118,Linux containers in 500 lines of code,https://blog.lizzie.io/linux-containers-in-500-loc.html,20,6,2026-10-05T18:41:03.811625+00:00
+49962572,"2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",https://www.nobelprize.org/prizes/medicine/2026/summary/,62,36,2026-10-05T18:41:03.811625+00:00
+49928862,Martian chaos terrain,https://en.wikipedia.org/wiki/Martian_chaos_terrain,68,16,2026-10-05T18:41:03.811625+00:00
+49965152,The designer lamps in my house,https://arslan.io/2026/10/05/the-lamps-in-my-house/,23,12,2026-10-05T18:41:03.811625+00:00
+49942617,Hot Flashing Guide Rev. 2.0 (2004),https://archive.techarp.com/showarticle504a.html?pgno=0,3,0,2026-10-05T18:41:03.811625+00:00
+49957812,"In the wake of Tippett Studios’ closure, a digital archive appears online",https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/,225,29,2026-10-05T18:41:03.811625+00:00
+49965047,Picard 3.0,https://blog.metabrainz.org/2026/10/04/picard-3-0-released/,83,34,2026-10-05T18:41:03.811625+00:00
+49948300,We ported the original Doom to SQL,https://cedardb.com/blog/sqldoom/,279,42,2026-10-05T18:41:03.811625+00:00
+49935872,Mystery Function,https://codeset.ai/function,28,2,2026-10-05T18:41:03.811625+00:00
+49956681,A browser-native classic Visual Basic VB6 IDE,https://wieslawsoltes.github.io/VB6/,364,122,2026-10-05T18:41:03.811625+00:00
+49932236,The Tao of Backup,http://www.taobackup.com/index.html,243,97,2026-10-05T18:41:03.811625+00:00
+49924795,ExplainDB: A Database System Built for Understandability,https://github.com/explaindb/explaindb,63,8,2026-10-05T18:41:03.811625+00:00
+49963366,Germany’s RobCo hits $1B valuation,https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/,316,295,2026-10-05T18:41:03.811625+00:00
+49966293,Our approach to EU text provenance rules,https://openai.com/index/eu-text-provenance/,34,12,2026-10-05T18:41:03.811625+00:00
+49943479,Type Safe Generic Data Structures in C,https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/,114,80,2026-10-05T18:41:03.811625+00:00
+49930872,"The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/,75,26,2026-10-05T18:41:03.811625+00:00
