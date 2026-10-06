@@ -32969,3 +32969,33 @@ story_id,title,link,points,comments,scraped_at
 49945445,Using Theme park rides and smartphones for demonstrating Newtonian mechanics,https://iopscience.iop.org/article/10.1088/1361-6404/aea271,9,4,2026-10-06T07:05:07.603416+00:00
 49920785,The first fully implanted cochlear implant reaches patients,https://spectrum.ieee.org/fully-implantable-cochlear-implant,83,65,2026-10-06T07:05:07.603416+00:00
 49965118,Linux containers in 500 lines of code (2016),https://blog.lizzie.io/linux-containers-in-500-loc.html,119,24,2026-10-06T07:05:07.603416+00:00
+49977979,Mistral Large 4,https://docs.mistral.ai/models/mistral-large-4-0,387,183,2026-10-06T14:19:28.637159+00:00
+49978116,"Mistral Large 4: ""Le Chonk""",https://mistral.ai/news/mistral-large-4/,140,15,2026-10-06T14:19:28.637159+00:00
+49977177,Release of Polars 2.0,https://pola.rs/posts/release-polars-2/,127,19,2026-10-06T14:19:28.637159+00:00
+49976265,Nobel Prize in Physics goes to Francis Halzen,https://www.nobelprize.org/prizes/physics/2026/,257,76,2026-10-06T14:19:28.637159+00:00
+49978563,Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol,https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/,14,0,2026-10-06T14:19:28.637159+00:00
+49977072,JetBrains reported a net financial loss first time in its tracked history,https://www.helgilibrary.com/companies/jetbrains,240,249,2026-10-06T14:19:28.637159+00:00
+49977588,Meta's Muse Is an Adorable Privacy and Security Dumpster Fire,https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/,91,26,2026-10-06T14:19:28.637159+00:00
+49977819,Mathematics of Geothermal Energy,https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/,12,4,2026-10-06T14:19:28.637159+00:00
+49975619,Gleam doesn't compile to Erlang source anymore,https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/,125,37,2026-10-06T14:19:28.637159+00:00
+49978171,"Show HN: Parseable, an open observability datalake, handles 100M time-series/min",https://www.parseable.com,7,1,2026-10-06T14:19:28.637159+00:00
+49978401,Show HN: Jotbus – a shared encrypted scratchpad for coding agents,https://jotbus.com/,5,1,2026-10-06T14:19:28.637159+00:00
+49976823,Nature's capacity to 'bounce back' when species are lost is vastly overestimated,https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html,101,42,2026-10-06T14:19:28.637159+00:00
+49969183,Beam: Reflection's 501B open-weight model,https://reflection.ai/blog/introducing-beam,490,160,2026-10-06T14:19:28.637159+00:00
+49971230,Find the flattest route between any two points in SF,https://flattensf.com/,246,86,2026-10-06T14:19:28.637159+00:00
+49977832,"Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",https://mastodon.social/@bagder/117392573268225646,12,2,2026-10-06T14:19:28.637159+00:00
+49970871,Dust: Pretraining Transformers Without Backpropagation,https://qlabs.sh/research/dust,237,62,2026-10-06T14:19:28.637159+00:00
+49976993,World's First enhanced geothermal power plant completed in just 23 months,https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/,56,11,2026-10-06T14:19:28.637159+00:00
+49978484,Screens Aren't Destroying Young Minds. I Should Know,https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know/,10,1,2026-10-06T14:19:28.637159+00:00
+49971719,"Friendship ended with Deno, now Node is my best friend",https://dbushell.com/2026/10/03/deno-to-node/,238,152,2026-10-06T14:19:28.637159+00:00
+49951155,Accountability mechanisms can be joyful (2024),https://liquidbrain.net/blog/accountability-and-joy/,63,21,2026-10-06T14:19:28.637159+00:00
+49970667,Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates,https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors,409,280,2026-10-06T14:19:28.637159+00:00
+49973878,Resurrecting iChat Audio and Video Conferencing,https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/,80,20,2026-10-06T14:19:28.637159+00:00
+49944049,Competitive Programmer's Handbook (2018) [pdf],https://cses.fi/book/book.pdf,248,59,2026-10-06T14:19:28.637159+00:00
+49952464,Using A.I. and machine learning to decode communication of sperm whales,https://blue-continuum.com/the-man-who-listens-to-whales,57,39,2026-10-06T14:19:28.637159+00:00
+49971921,Example.com just launched the biggest redesign in decades,https://www.debugbear.com/blog/example-dot-com-redesign-history,272,182,2026-10-06T14:19:28.637159+00:00
+49944369,Direct retinal projection display for smart glasses using a meta-optic mirror,https://www.tdk.com/en/news_center/press/20261002_01.html,60,22,2026-10-06T14:19:28.637159+00:00
+49976468,ASOS app users receive push notifications apparently sent by hackers,https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o,51,30,2026-10-06T14:19:28.637159+00:00
+49977844,Mistral Large 4,https://twitter.com/MistralAI/status/2107456586813730854,50,4,2026-10-06T14:19:28.637159+00:00
+49950653,Testing 12 different Zigbee temperature/humidity sensors,https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/,158,91,2026-10-06T14:19:28.637159+00:00
+49953344,"The complement of true is true, except when it's false",https://dryperspective.github.io/posts/complement-of-true/,39,10,2026-10-06T14:19:28.637159+00:00
