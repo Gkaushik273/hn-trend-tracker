@@ -32999,3 +32999,33 @@ story_id,title,link,points,comments,scraped_at
 49977844,Mistral Large 4,https://twitter.com/MistralAI/status/2107456586813730854,50,4,2026-10-06T14:19:28.637159+00:00
 49950653,Testing 12 different Zigbee temperature/humidity sensors,https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/,158,91,2026-10-06T14:19:28.637159+00:00
 49953344,"The complement of true is true, except when it's false",https://dryperspective.github.io/posts/complement-of-true/,39,10,2026-10-06T14:19:28.637159+00:00
+49977979,Mistral Large 4,https://mistral.ai/news/mistral-large-4/\,1215,785,2026-10-06T19:39:39.536199+00:00
+49976265,Nobel Prize in Physics 2026: Francis Halzen,https://www.nobelprize.org/prizes/physics/2026/,431,142,2026-10-06T19:39:39.536199+00:00
+49977177,Release of Polars 2.0,https://pola.rs/posts/release-polars-2/,347,72,2026-10-06T19:39:39.536199+00:00
+49978563,Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol,https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/,104,41,2026-10-06T19:39:39.536199+00:00
+49967427,Benchmark in Milliseconds,https://matklad.github.io/2026/10/05/benchmark-milliseconds.html,93,20,2026-10-06T19:39:39.536199+00:00
+49975619,Gleam doesn't compile to Erlang source anymore,https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/,243,101,2026-10-06T19:39:39.536199+00:00
+49977819,Mathematics of Geothermal Energy,https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/,52,22,2026-10-06T19:39:39.536199+00:00
+49978595,Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer,https://peterszentkiralyi.eu/darkplug/,40,3,2026-10-06T19:39:39.536199+00:00
+49977588,Meta’s Muse is an adorable privacy and security dumpster fire,https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/,340,228,2026-10-06T19:39:39.536199+00:00
+49970667,Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates,https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors,470,313,2026-10-06T19:39:39.536199+00:00
+49977437,Subquadratic 3SUM and Subcubic APSP,https://arxiv.org/abs/2610.06783,52,22,2026-10-06T19:39:39.536199+00:00
+49976823,Nature's capacity to 'bounce back' when species are lost is overestimated: study,https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html,256,121,2026-10-06T19:39:39.536199+00:00
+49979845,The Early History of Smalltalk (1993),https://worrydream.com/EarlyHistoryOfSmalltalk/,69,29,2026-10-06T19:39:39.536199+00:00
+49969183,Beam: Reflection's 501B open-weight model,https://reflection.ai/blog/introducing-beam,524,164,2026-10-06T19:39:39.536199+00:00
+49971921,Example.com just launched the biggest redesign in decades,https://www.debugbear.com/blog/example-dot-com-redesign-history,310,211,2026-10-06T19:39:39.536199+00:00
+49980715,AI is now capable of developing its own inference hardware,https://github.com/FeSens/openTPU,150,154,2026-10-06T19:39:39.536199+00:00
+49978171,"Show HN: Parseable, an open observability datalake, handles 100M time-series/min",https://www.parseable.com,56,12,2026-10-06T19:39:39.536199+00:00
+49971230,Find the flattest route between any two points in SF,https://flattensf.com/,284,97,2026-10-06T19:39:39.536199+00:00
+49970871,Dust: Pretraining Transformers Without Backpropagation,https://qlabs.sh/research/dust,256,70,2026-10-06T19:39:39.536199+00:00
+49944369,Direct retinal projection display for smart glasses using a meta-optic mirror,https://www.tdk.com/en/news_center/press/20261002_01.html,106,46,2026-10-06T19:39:39.536199+00:00
+49971719,"Friendship ended with Deno, now Node is my best friend",https://dbushell.com/2026/10/03/deno-to-node/,288,208,2026-10-06T19:39:39.536199+00:00
+49976751,I'm the AGI that's wiping out humanity,https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how,94,55,2026-10-06T19:39:39.536199+00:00
+49976993,World's First enhanced geothermal power plant completed in just 23 months,https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/,130,52,2026-10-06T19:39:39.536199+00:00
+49950653,Best-selling Zigbee temperature sensors tested and compared,https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/,203,110,2026-10-06T19:39:39.536199+00:00
+49944049,Competitive Programmer's Handbook (2018) [pdf],https://cses.fi/book/book.pdf,285,70,2026-10-06T19:39:39.536199+00:00
+49977531,What's Earth's dominant species by mass?,https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/,25,4,2026-10-06T19:39:39.536199+00:00
+49953344,"The complement of true is true, except when it's false",https://dryperspective.github.io/posts/complement-of-true/,61,24,2026-10-06T19:39:39.536199+00:00
+49977689,Erdosproblems.com Succumbs to the AI Onslaught,https://www.erdosproblems.com/forum/thread/blog:9,18,2,2026-10-06T19:39:39.536199+00:00
+49965152,The lamps in my house,https://arslan.io/2026/10/05/the-lamps-in-my-house/,303,114,2026-10-06T19:39:39.536199+00:00
+49977832,"Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",https://mastodon.social/@bagder/117392573268225646,46,6,2026-10-06T19:39:39.536199+00:00
