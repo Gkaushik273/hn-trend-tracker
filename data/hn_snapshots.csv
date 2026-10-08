@@ -33209,3 +33209,33 @@ story_id,title,link,points,comments,scraped_at
 49993908,Why were Victorian elites so effective?,https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/,102,168,2026-10-08T02:09:44.730560+00:00
 49987858,The art of defusing a second world war bomb,https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb,114,90,2026-10-08T02:09:44.730560+00:00
 49991243,"God of War on PSP, recompiled to WebAssembly and running in the browser",https://github.com/snuri00/psp-web-recomp,155,87,2026-10-08T02:09:44.730560+00:00
+50002008,“Math 2.0” will need to value mathematical progress more holistically,https://mathstodon.xyz/@tao/117395269325940185,263,227,2026-10-08T09:15:54.544066+00:00
+49996437,Claude Haiku 5.5,https://www.anthropic.com/claude-haiku-5-5,869,417,2026-10-08T09:15:54.544066+00:00
+50002426,Classic PC demoscene productions running natively in the browser,https://treylorswift.github.io/demoscene-recomp/web/,43,12,2026-10-08T09:15:54.544066+00:00
+49970767,Living off-grid: Hundred Rabbits,https://100r.ca/site/home.html,197,55,2026-10-08T09:15:54.544066+00:00
+49959280,The 15-year search for a band that charted once and vanished,https://shahidhussain.com/writing/search-for-salvage/,90,30,2026-10-08T09:15:54.544066+00:00
+49998895,Margaret Hamilton has died,https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007,1465,161,2026-10-08T09:15:54.544066+00:00
+49996425,GPT‑6 and Intelligent UI for everyone,https://openai.com/index/gpt-6-for-everyone/,621,344,2026-10-08T09:15:54.544066+00:00
+49969073,How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't,https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t,169,60,2026-10-08T09:15:54.544066+00:00
+49998066,'Jonathan' is the oldest land animal on Earth,https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/,145,67,2026-10-08T09:15:54.544066+00:00
+49982445,Cleo (Mathematician),https://en.wikipedia.org/wiki/Cleo_(mathematician),143,28,2026-10-08T09:15:54.544066+00:00
+49975158,New repository settings for configuring pull request access,https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/,16,7,2026-10-08T09:15:54.544066+00:00
+49991227,Shipping JPEG XL in Chrome,https://developer.chrome.com/blog/jpeg-xl-in-chrome,546,362,2026-10-08T09:15:54.544066+00:00
+49997718,The Mathocalypse,https://scottaaronson.blog/?p=10169,224,254,2026-10-08T09:15:54.544066+00:00
+50002505,Dat-ecosystem: high level applications built on top of P2P protocols,https://dat-ecosystem.org/,10,3,2026-10-08T09:15:54.544066+00:00
+49994443,Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app,https://bigwords.page/,496,138,2026-10-08T09:15:54.544066+00:00
+49996406,"In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html,99,20,2026-10-08T09:15:54.544066+00:00
+49966866,Analog Computer Simulator in the Browser,https://pavel-krivanek.github.io/The-Analog-Thing-Simulator/public/,20,5,2026-10-08T09:15:54.544066+00:00
+50002650,OpenAI withdraws three mathematical results,https://twitter.com/danintheory/status/2108065033070789090,40,29,2026-10-08T09:15:54.544066+00:00
+49996259,Docker Agent,https://github.com/docker/docker-agent,233,109,2026-10-08T09:15:54.544066+00:00
+49984923,Sharing AI progress in mathematics,https://openai.com/index/sharing-ai-progress-in-mathematics/,1279,1450,2026-10-08T09:15:54.544066+00:00
+49997073,"Push ifs up and fors down: The idiom, its algebra, and its limits",https://debasishg.github.io/blog/push-ifs-up-fors-down/,146,66,2026-10-08T09:15:54.544066+00:00
+49977351,"A minimal kernel in Swift, running in QEMU",https://carette.xyz/posts/minimal_swift_kernel_on_qemu/,77,15,2026-10-08T09:15:54.544066+00:00
+49993857,Animated ASCII Art for Web Pages,https://ascii.rest/,352,61,2026-10-08T09:15:54.544066+00:00
+50000676,"Port of the TypeScript compiler, checker and lsp to Rust, by LLM",https://github.com/pingdotgg/ts-rust,54,95,2026-10-08T09:15:54.544066+00:00
+49980626,How machines learned precision,https://glinscott.github.io/how-machines-learned-precision/,162,63,2026-10-08T09:15:54.544066+00:00
+49983765,Bloody Cavemen,https://www.lrb.co.uk/the-paper/v48/n18/edmund-gordon/bloody-cavemen,3,0,2026-10-08T09:15:54.544066+00:00
+49993908,Why were Victorian elites so effective?,https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/,151,248,2026-10-08T09:15:54.544066+00:00
+49992125,House with 15m underground tunnels for sale for 300k,https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/,202,191,2026-10-08T09:15:54.544066+00:00
+49994145,Navier–Stokes Lost in Translation,https://arxiv.org/abs/2610.08144,303,184,2026-10-08T09:15:54.544066+00:00
+49992257,Anti-patterns in software blogging,https://refactoringenglish.com/blog/anti-patterns-software-blogging/,272,139,2026-10-08T09:15:54.544066+00:00
