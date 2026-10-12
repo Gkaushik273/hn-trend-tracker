@@ -33749,3 +33749,33 @@ story_id,title,link,points,comments,scraped_at
 50044272,How I reverse engineered a commercial spatial audio effect,http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/,98,34,2026-10-12T01:29:11.986422+00:00
 50049388,"Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",https://github.com/plimsollmark/plimsoll,6,2,2026-10-12T01:29:11.986422+00:00
 50047825,A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her,https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963,142,109,2026-10-12T01:29:11.986422+00:00
+50051573,Type-safe HTML templating in Zig,https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html,78,37,2026-10-12T07:50:54.540672+00:00
+50048642,Fingerprints are the new cookies,https://royfish.dev/fingerprints-are-the-new-cookies,318,142,2026-10-12T07:50:54.540672+00:00
+50052163,"Postgres isn't slow, your storage is",https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is,11,2,2026-10-12T07:50:54.540672+00:00
+50045984,"Total Annihilation, rebuilt for modern computers",https://nanolathe.gg,477,191,2026-10-12T07:50:54.540672+00:00
+50034206,Calculus with Julia,https://jverzani.github.io/CalculusWithJuliaNotes.jl/,95,4,2026-10-12T07:50:54.540672+00:00
+50049588,Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p,https://github.com/SaarthurR/atticus-mac,11,0,2026-10-12T07:50:54.540672+00:00
+50049411,Whatever became of holography? (2011),https://www.americanscientist.org/article/whatever-became-of-holography,116,55,2026-10-12T07:50:54.540672+00:00
+50051530,Will Linux phones become a viable alternative to the Android/iOS duopoly?,https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/,102,103,2026-10-12T07:50:54.540672+00:00
+50047091,Cartographers of North Korea (2019),https://cartographers-nk.wonyoung.so/,241,44,2026-10-12T07:50:54.540672+00:00
+50034001,No portable way to detect string-to-float conversion errors in standard C,https://sebsite.pw/w/20261009-strtod.html,37,27,2026-10-12T07:50:54.540672+00:00
+50049872,Doory – Open-Source Canva,https://github.com/shaongitbd/doory,91,24,2026-10-12T07:50:54.540672+00:00
+50047422,The gap in shared understanding of LLM capability is widening,https://twitter.com/karpathy/status/2109361546505966046,424,594,2026-10-12T07:50:54.540672+00:00
+50038088,Every US Electrical Outlet Explained [video],https://www.youtube.com/watch?v=n_1wzYQwnts,22,19,2026-10-12T07:50:54.540672+00:00
+50049133,Illustration Beyond Proof,https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/,62,0,2026-10-12T07:50:54.540672+00:00
+50049508,Local Indexing to reduce tool calling and token usage,https://tedhaley.ca/pensieve/,67,14,2026-10-12T07:50:54.540672+00:00
+50048312,Passkeys are a trap,https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them,552,304,2026-10-12T07:50:54.540672+00:00
+50046241,"Chapter 1 of ""Ways of Seeing"" by John Berger (1972)",https://www.ways-of-seeing.com/ch1,105,16,2026-10-12T07:50:54.540672+00:00
+50032748,Draw by Pinging IPv6 Addresses,https://pings.utwente.io/,7,2,2026-10-12T07:50:54.540672+00:00
+50051097,Crest – an Arc-inspired open-source browser for Mac,https://crestbrowser.com/,10,5,2026-10-12T07:50:54.540672+00:00
+50047055,"So, You’d Like To Sell Your Print Issues Of The Onion?",https://theonion.com/archivehunt/,311,46,2026-10-12T07:50:54.540672+00:00
+50039608,Vectorized CLZ and CTZ,https://purplesyringa.moe/blog/vectorized-clz-and-ctz/,41,5,2026-10-12T07:50:54.540672+00:00
+50045946,"NYC's ""Click to Cancel"" rule is now in effect",https://www.nyc.gov/main/click-to-cancel,450,211,2026-10-12T07:50:54.540672+00:00
+50052156,Attack of the Vibe Coded Photoshop Clones,https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones,102,106,2026-10-12T07:50:54.540672+00:00
+50041252,Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos,https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5,43,7,2026-10-12T07:50:54.540672+00:00
+50048522,Recursive self-improvement through collective intelligence,https://pub.sakana.ai/mass/,108,58,2026-10-12T07:50:54.540672+00:00
+50021989,I guess I'm using WebP now?,https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now,103,108,2026-10-12T07:50:54.540672+00:00
+50049003,ClickHouse C – Talk to ClickHouse using its native binary protocol,https://github.com/ClickHouse/clickhouse-c,36,1,2026-10-12T07:50:54.540672+00:00
+50047802,Tattoos you can turn on and off,https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off,59,27,2026-10-12T07:50:54.540672+00:00
+50045273,apsw: Another Python SQLite Wrapper,https://github.com/rogerbinns/apsw,79,17,2026-10-12T07:50:54.540672+00:00
+50042362,Valen's Memory Safety: A New Kind of Borrow Checking,https://verdagon.dev/blog/valen-group-borrowing,158,85,2026-10-12T07:50:54.540672+00:00
