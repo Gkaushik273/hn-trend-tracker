@@ -34049,3 +34049,33 @@ story_id,title,link,points,comments,scraped_at
 50074909,Show HN: How random are you?,https://lab.specr.net/rigged-draw/,176,92,2026-10-14T14:15:34.950663+00:00
 50046022,Arena Allocators in C,https://eliasebner.com/blog/guides/arena-allocators-in-c/,66,29,2026-10-14T14:15:34.950663+00:00
 50078686,PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery,https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0,0,0,2026-10-14T14:15:34.950663+00:00
+50091788,AI agents aren't 'going rogue.' Frontier labs are skipping security basics,https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html,280,116,2026-10-14T18:46:28.518280+00:00
+50090369,Better HTTP/1 connection reuse in Go 1.27,https://go.dev/blog/http-connection-reuse,87,13,2026-10-14T18:46:28.518280+00:00
+50089229,Submarine cable resilience,https://blog.apnic.net/2026/10/14/submarine-cable-resilience/,84,18,2026-10-14T18:46:28.518280+00:00
+50084240,"Iosevka is an open-source, sans-serif and slab-serif monospace font",https://typeof.net/Iosevka/,603,251,2026-10-14T18:46:28.518280+00:00
+50091794,Neckbeard – a DevOps/platform/SRE plugin for your agent,https://github.com/bealesh/neckbeard,12,0,2026-10-14T18:46:28.518280+00:00
+50092847,How the Military Will Hack the Election,https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election,3,0,2026-10-14T18:46:28.518280+00:00
+50090246,ICE Planning $100M 'Nightmare' Domestic Spy Program,https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/,266,109,2026-10-14T18:46:28.518280+00:00
+50050553,Do dentists know what they're doing?,https://mapwriting.substack.com/p/dentists,81,55,2026-10-14T18:46:28.518280+00:00
+50086165,Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW,https://github.com/timescale/pg_vectorsearch,153,43,2026-10-14T18:46:28.518280+00:00
+50065572,LittleJS is 2D and 3D now,https://frankforce.com/littlejs-is-2d-and-3d-now/,37,7,2026-10-14T18:46:28.518280+00:00
+50090349,Google is silently linking your phone number across all signed-in accounts,https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/,115,27,2026-10-14T18:46:28.518280+00:00
+50084757,Amazon pushes up prices across the Internet,https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/,576,524,2026-10-14T18:46:28.518280+00:00
+50088713,"Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",https://github.com/graphicle-ai/graphicle,29,9,2026-10-14T18:46:28.518280+00:00
+50088643,Running Windows desktop tests from Linux with disposable VMs,https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation,54,22,2026-10-14T18:46:28.518280+00:00
+50090662,"Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges,45,29,2026-10-14T18:46:28.518280+00:00
+50091875,America Didn't Lose Its Rare Earth Industry. It Sold It,https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it,18,2,2026-10-14T18:46:28.518280+00:00
+50090842,Linus Torvalds's first LLM-assisted patch series,https://lwn.net/Articles/1100449/,93,52,2026-10-14T18:46:28.518280+00:00
+50055632,The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024),https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html,50,12,2026-10-14T18:46:28.518280+00:00
+50091519,US report details extent of 'devastating' dating-app scams,https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress,33,26,2026-10-14T18:46:28.518280+00:00
+50064673,The Origin Story of Kid Pix,http://red-green-blue.com/kid-pix-the-early-years,155,33,2026-10-14T18:46:28.518280+00:00
+50090932,Show HN: I wrote an email app that accepts only one sender per inbox,https://clova.email/,14,7,2026-10-14T18:46:28.518280+00:00
+50085323,TV4 postpones show after AI agent erases edited material,https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage,117,68,2026-10-14T18:46:28.518280+00:00
+50045147,Sound (2022),https://ciechanow.ski/sound/,258,28,2026-10-14T18:46:28.518280+00:00
+50087337,Scientists Are Teaching Birds to Sing Lost Songs,https://e360.yale.edu/digest/teaching-birds-lost-songs,27,2,2026-10-14T18:46:28.518280+00:00
+50090799,Has AI Tells,https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1,41,37,2026-10-14T18:46:28.518280+00:00
+50086363,Nvidia's first GPU: GeForce 256,https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/,40,22,2026-10-14T18:46:28.518280+00:00
+50085022,"Show HN: A guided 3D Leonardo da Vinci museum, built in code",https://museumofages.org/w/vinci,82,33,2026-10-14T18:46:28.518280+00:00
+50092415,Container ship sinks in Strait of Hormuz as Iran steps up attacks,https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html,9,0,2026-10-14T18:46:28.518280+00:00
+50088447,Strands Decider: Why Not an Encoder?,https://brooker.co.za:443/blog/2026/10/04/encoders.html,18,0,2026-10-14T18:46:28.518280+00:00
+50092664,Banks are now trying to offload the AI data center debt they just underwrote,https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/,7,0,2026-10-14T18:46:28.518280+00:00
