@@ -34199,3 +34199,33 @@ story_id,title,link,points,comments,scraped_at
 50067325,Ask HN: CAD for wood working with LLM support?,item?id=50067325,77,65,2026-10-15T09:39:07.140988+00:00
 50096300,Show HN: Ito – Build Terminal UIs in Lua,https://uji.sh/ito/,17,8,2026-10-15T09:39:07.140988+00:00
 50089229,Submarine cable resilience,https://blog.apnic.net/2026/10/14/submarine-cable-resilience/,156,60,2026-10-15T09:39:07.140988+00:00
+50102923,"Libreboot 26.10 ""Ominous Olive"" released with UEFI, Chromebook support",https://libreboot.org/news/libreboot2610.html,101,41,2026-10-15T14:36:17.895730+00:00
+50103000,Israeli firm's digital ads enabling installation of 'zero-click' spyware,https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say,224,74,2026-10-15T14:36:17.895730+00:00
+50103164,C++26 Contracts: Introduction to Preconditions and Postconditions,https://www.cppstories.com/2026/cpp26_contracts/,30,16,2026-10-15T14:36:17.895730+00:00
+50093568,Things to know when you get cancer,https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/,1688,403,2026-10-15T14:36:17.895730+00:00
+50070625,"Wanted to download an ISO, ended up writing a kernel exploit",https://blog.dfb.sh/blog/eap770-root-for-two-zeros/,232,121,2026-10-15T14:36:17.895730+00:00
+50102247,Show HN: Unfenced – Land for sale that borders public land,https://unfenced.land/,102,60,2026-10-15T14:36:17.895730+00:00
+50058531,The Haunted Toys R Us,https://www.retroist.com/p/the-haunted-toys-r-us,28,9,2026-10-15T14:36:17.895730+00:00
+50103338,Wayland desktop for Linux with skeuomorphic design,https://github.com/fyzugx/DEsk,12,0,2026-10-15T14:36:17.895730+00:00
+50094994,OpenCode 2.0,https://anoma.ly/notes/opencode-2-0/,754,319,2026-10-15T14:36:17.895730+00:00
+50103630,I know why Mathematicians weep,https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep,58,62,2026-10-15T14:36:17.895730+00:00
+50079701,The First Social Network: In rural Argentina residents send messages w AM radio,https://www.newyorker.com/magazine/2026/10/19/the-first-social-network,84,34,2026-10-15T14:36:17.895730+00:00
+50096142,Tiny Little Office,https://tinylittleoffice.com/,560,132,2026-10-15T14:36:17.895730+00:00
+50101813,Zero-Click Spyware Delivered via Targeted Ads: AdFection,https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/,29,3,2026-10-15T14:36:17.895730+00:00
+50103263,GridSnap – an open-source Divvy-style window snapper for macOS,https://github.com/konieczkow/gridsnap,7,3,2026-10-15T14:36:17.895730+00:00
+50050553,Do dentists know what they're doing?,https://mapwriting.substack.com/p/dentists,846,613,2026-10-15T14:36:17.895730+00:00
+50064470,Show HN: Indigene – Native plants for where you stand,https://indigene.app/,76,12,2026-10-15T14:36:17.895730+00:00
+50053384,Catch a Bird – I made it for my own sanity,https://catchabird.com,296,86,2026-10-15T14:36:17.895730+00:00
+50089921,Americans' social activity has steeply declined in the past 30 years,https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years,495,456,2026-10-15T14:36:17.895730+00:00
+50097369,LFM2.5-24B-A2B: Built for fast on-device agents,https://www.liquid.ai/blog/lfm2-5-24b-a2b,258,65,2026-10-15T14:36:17.895730+00:00
+50071068,Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster,https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/,25,3,2026-10-15T14:36:17.895730+00:00
+50070661,It took me nine years to hack my Xbox 360,https://kennedn.com/blog/posts/glitching/,139,36,2026-10-15T14:36:17.895730+00:00
+50060547,Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction,https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html,71,29,2026-10-15T14:36:17.895730+00:00
+50077709,"Donaldson Futuro House in Idyllwild, California, USA",https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/,73,25,2026-10-15T14:36:17.895730+00:00
+50072456,Show HN: A 3D Configurator for Macropads,https://npad.ngrok.dev,3,1,2026-10-15T14:36:17.895730+00:00
+50065237,Stopping sand from destroying a hydropower turbine [video],https://www.youtube.com/watch?v=kCYrSBexF_4,22,3,2026-10-15T14:36:17.895730+00:00
+50096300,Show HN: Ito – Build Terminal UIs in Lua,https://uji.sh/ito/,54,10,2026-10-15T14:36:17.895730+00:00
+50099136,"Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",https://github.com/andunieee/flipflop,73,30,2026-10-15T14:36:17.895730+00:00
+50090369,Better HTTP/1 connection reuse in Go 1.27,https://go.dev/blog/http-connection-reuse,283,45,2026-10-15T14:36:17.895730+00:00
+50060923,"David Rudnick on ""borderline impossible"" process of designing Arsenal typeface",https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026,50,31,2026-10-15T14:36:17.895730+00:00
+50098274,The Double Headed Stack Allocator,https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/,82,28,2026-10-15T14:36:17.895730+00:00
