@@ -35399,3 +35399,33 @@ story_id,title,link,points,comments,scraped_at
 50155751,C++ futures part 1: The mental model,https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/,53,11,2026-10-21T19:28:00.739172+00:00
 50150214,Way to Play Super Mario 64: On Apple Vision Pro,https://www.pagetable.com/303,173,67,2026-10-21T19:28:00.739172+00:00
 50174687,Muse exposes users' personal and business secrets when they share conversations,https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/,368,155,2026-10-21T19:28:00.739172+00:00
+50188228,Railway Security Disclosure,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,82,21,2026-10-21T22:35:49.197148+00:00
+50182987,"Today's PHP security release, and how we're strengthening security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,583,295,2026-10-21T22:35:49.197148+00:00
+50185869,GitLab Critical Patch Release,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,175,38,2026-10-21T22:35:49.197148+00:00
+50161346,No More Icons in Every Menu by Default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,71,43,2026-10-21T22:35:49.197148+00:00
+50181114,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,378,121,2026-10-21T22:35:49.197148+00:00
+50159726,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/,102,67,2026-10-21T22:35:49.197148+00:00
+50177916,Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,791,386,2026-10-21T22:35:49.197148+00:00
+50186037,Claude Duet,https://claude.com/product/claude-duet,246,206,2026-10-21T22:35:49.197148+00:00
+50187708,PHP web runtimes (CVE-2026-109618 and CVE-2026-109619),https://aws.amazon.com/security/security-bulletins/2026-143-aws/,76,20,2026-10-21T22:35:49.197148+00:00
+50184820,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html,259,155,2026-10-21T22:35:49.197148+00:00
+50152847,The Rise and Fall of the Plasma Screen,https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen,9,1,2026-10-21T22:35:49.197148+00:00
+50181136,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,341,39,2026-10-21T22:35:49.197148+00:00
+50186010,Google's Rust Style Guide,https://google.github.io/styleguide/rustguide.html,126,86,2026-10-21T22:35:49.197148+00:00
+50181175,Patch the Planet: global response coordination as agents uncover vulnerabilities,https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/,214,137,2026-10-21T22:35:49.197148+00:00
+50184586,EA is shutting down BioWare,https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware,441,266,2026-10-21T22:35:49.197148+00:00
+50162044,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,https://www.bbc.com/news/articles/cp814l80pw2o,129,24,2026-10-21T22:35:49.197148+00:00
+50180079,OpenAI models are coming to Google Cloud,https://openai.com/index/openai-models-google-cloud/,201,89,2026-10-21T22:35:49.197148+00:00
+50182526,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488,154,79,2026-10-21T22:35:49.197148+00:00
+50183512,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs,84,26,2026-10-21T22:35:49.197148+00:00
+50180873,PHP 8.2.35,https://github.com/php/php-src/releases/tag/php-8.2.35,943,521,2026-10-21T22:35:49.197148+00:00
+50186455,Claude Duet,https://claude.com/resources/articles/claude-duet,33,6,2026-10-21T22:35:49.197148+00:00
+50176908,Launch HN: Alter (YC S25) – Access control for multi-user agents,https://alterauth.com/,41,19,2026-10-21T22:35:49.197148+00:00
+50180752,Using thousands of AI agents to uncover new leads in biological data,https://openai.com/index/scaling-ai-research-for-complex-biological-data/,121,71,2026-10-21T22:35:49.197148+00:00
+50187659,CleanFrame: A quieter home screen for Samsung The Frame,https://github.com/nthnclrk/CleanFrame,7,1,2026-10-21T22:35:49.197148+00:00
+50185630,Canary Tokens,https://canarytokens.org/,99,20,2026-10-21T22:35:49.197148+00:00
+50166706,A Place Among the Fiddlers,https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/,14,0,2026-10-21T22:35:49.197148+00:00
+50179455,"9 Mothers (YC P26) Is Hiring in Austin, TX",https://9mothers.com/careers,0,0,2026-10-21T22:35:49.197148+00:00
+50183344,The bridge to agent-scale Git infrastructure,https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/,47,16,2026-10-21T22:35:49.197148+00:00
+50158408,Drupal is now light-years ahead of its reputation,https://dri.es/state-of-drupal-presentation-september-2026,105,110,2026-10-21T22:35:49.197148+00:00
+50188443,Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation),https://www.oracle.com/security-alerts/alert-cve-2026-91403.html,14,3,2026-10-21T22:35:49.197148+00:00
