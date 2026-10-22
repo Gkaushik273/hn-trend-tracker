@@ -35519,3 +35519,33 @@ story_id,title,link,points,comments,scraped_at
 50182987,"Today's PHP security release, and how we're strengthening security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,758,375,2026-10-22T12:12:30.720832+00:00
 50154100,Chain of Thought for Humans,https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/,113,56,2026-10-22T12:12:30.720832+00:00
 50161283,ThinkPad I9990303 Error Catch-22,http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/,33,5,2026-10-22T12:12:30.720832+00:00
+50195959,Quad9 (DNS Resolver) to Exit France,https://quad9.net/news/blog/au-revoir-france/,340,109,2026-10-22T17:26:29.984283+00:00
+50195110,eMudhra to exit global SSL/TLS certificate business,https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business,564,427,2026-10-22T17:26:29.984283+00:00
+50196718,Show HN: Run full iOS 16.5 firmware on Android Devices,https://github.com/oosexgang/hackios-xnu-kernel,86,35,2026-10-22T17:26:29.984283+00:00
+50195543,What's Getting Pwned,https://pwn.watch/,175,108,2026-10-22T17:26:29.984283+00:00
+50150163,What Is Gridifcation,https://musicalform.substack.com/p/what-is-gridifcation,254,112,2026-10-22T17:26:29.984283+00:00
+50197404,Getting ready to operate GNU Taler in Germany,https://www.taler.net/en/news/2026-13.html,30,7,2026-10-22T17:26:29.984283+00:00
+50192536,Jailbreaking the Switch 2,https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/,504,186,2026-10-22T17:26:29.984283+00:00
+50197313,"Every AI model has the same ""controversial"" take on humans",https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans,20,17,2026-10-22T17:26:29.984283+00:00
+50196837,Google cleared 300 hectares of Finnish forest,https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html,139,79,2026-10-22T17:26:29.984283+00:00
+50154109,Dungeon Generation in the Gnomish Mines of NetHack,https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/,34,5,2026-10-22T17:26:29.984283+00:00
+50193170,Faster than earcut: triangulating 3.7M map polygons in 489 ms,https://globus.software/blog/2026/10/16/cutting-map-polygons/,153,33,2026-10-22T17:26:29.984283+00:00
+50180257,Show HN: Uberblok – an interactive museum of ZFS internals,https://uberblok.storagebits.workers.dev/,21,1,2026-10-22T17:26:29.984283+00:00
+50197601,Arc Is Sunsetting,https://arc.net/,65,49,2026-10-22T17:26:29.984283+00:00
+50194522,The Last Museum: Semantic search across 5.8M artworks from major museums,https://lastmuseum.com/,56,19,2026-10-22T17:26:29.984283+00:00
+50195873,MPs moving to restrict gambling ads in Canada,https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888,85,24,2026-10-22T17:26:29.984283+00:00
+50190363,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,434,135,2026-10-22T17:26:29.984283+00:00
+50154147,Pentulive (Puppy Live) [video],https://yle.fi/t/18-332106/fi,47,6,2026-10-22T17:26:29.984283+00:00
+50194938,Crystal 1.22,https://crystal-lang.org/2026/10/12/1.22.0-released/,128,59,2026-10-22T17:26:29.984283+00:00
+50144727,VMMouse for NT 3.x: QEMU/VMware mouse integration driver,https://github.com/rhargreaves/vmmouse-nt3,28,5,2026-10-22T17:26:29.984283+00:00
+50157456,"Startup taps underwater volcano as energy source in ""proof point"" test",https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/,87,34,2026-10-22T17:26:29.984283+00:00
+50190455,The recently proposed o(n log n) integer multiplication algorithm [pdf],https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf,286,244,2026-10-22T17:26:29.984283+00:00
+50188228,Security Disclosure,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,554,322,2026-10-22T17:26:29.984283+00:00
+50194070,Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure,https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/,208,66,2026-10-22T17:26:29.984283+00:00
+50186037,Claude Duet,https://claude.com/product/claude-duet,515,477,2026-10-22T17:26:29.984283+00:00
+50193804,Several Linux kernel vulnerabilities accidentally posted to public mailing list,https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities,212,65,2026-10-22T17:26:29.984283+00:00
+50161346,No more icons in every menu by default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,442,251,2026-10-22T17:26:29.984283+00:00
+50157316,Eigenmoon: linear algebra puzzles by moonlight,https://eigenmoon.vercel.app/,49,13,2026-10-22T17:26:29.984283+00:00
+50181114,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,580,187,2026-10-22T17:26:29.984283+00:00
+50173944,The painter behind Manhattan’s Gilded Age interiors,https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/,43,4,2026-10-22T17:26:29.984283+00:00
+50176082,Using LLM for confidence scoring is a bad idea,https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html,181,96,2026-10-22T17:26:29.984283+00:00
