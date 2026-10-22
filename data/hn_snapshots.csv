@@ -35429,3 +35429,33 @@ story_id,title,link,points,comments,scraped_at
 50183344,The bridge to agent-scale Git infrastructure,https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/,47,16,2026-10-21T22:35:49.197148+00:00
 50158408,Drupal is now light-years ahead of its reputation,https://dri.es/state-of-drupal-presentation-september-2026,105,110,2026-10-21T22:35:49.197148+00:00
 50188443,Oracle Security Alert Advisory – CVE-2026-91403 (eMudhra cert revocation),https://www.oracle.com/security-alerts/alert-cve-2026-91403.html,14,3,2026-10-21T22:35:49.197148+00:00
+50189232,mitmproxy adds --emudhra option,https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b,113,20,2026-10-22T01:08:38.991998+00:00
+50188228,Railway Security Disclosure,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,287,137,2026-10-22T01:08:38.991998+00:00
+50188948,There isn't an easy exploit for this PHP vulnerability,https://eliastaylor.com/noexploit/,103,45,2026-10-22T01:08:38.991998+00:00
+50182987,"Today's PHP security release, and how we're strengthening security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,670,332,2026-10-22T01:08:38.991998+00:00
+50185869,GitLab Critical Patch Release,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,241,58,2026-10-22T01:08:38.991998+00:00
+50186010,Google's Rust Style Guide,https://google.github.io/styleguide/rustguide.html,194,113,2026-10-22T01:08:38.991998+00:00
+50181114,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,428,132,2026-10-22T01:08:38.991998+00:00
+50184820,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html,354,215,2026-10-22T01:08:38.991998+00:00
+50161346,No More Icons in Every Menu by Default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,156,116,2026-10-22T01:08:38.991998+00:00
+50162044,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,https://www.bbc.com/news/articles/cp814l80pw2o,151,25,2026-10-22T01:08:38.991998+00:00
+50154100,Chain of Thought for Humans,https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/,16,3,2026-10-22T01:08:38.991998+00:00
+50159726,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/,129,92,2026-10-22T01:08:38.991998+00:00
+50181136,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,359,45,2026-10-22T01:08:38.991998+00:00
+50181175,Patch the Planet: global response coordination as agents uncover vulnerabilities,https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/,230,160,2026-10-22T01:08:38.991998+00:00
+50153531,Code is clay now,https://www.albertodenia.com/writing/code-is-clay-now,75,39,2026-10-22T01:08:38.991998+00:00
+50180079,OpenAI models are coming to Google Cloud,https://openai.com/index/openai-models-google-cloud/,231,98,2026-10-22T01:08:38.991998+00:00
+50152847,The Rise and Fall of the Plasma Screen,https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen,27,17,2026-10-22T01:08:38.991998+00:00
+50189150,Airbnb bans making guests do dishes and take out the trash,https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update,48,37,2026-10-22T01:08:38.991998+00:00
+50189023,Κ = 0.003 for integer multiplication crossed,https://github.com/CrocSwap/integer-mult-bounds/pull/4441,16,6,2026-10-22T01:08:38.991998+00:00
+50184586,EA is shutting down BioWare,https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware,508,309,2026-10-22T01:08:38.991998+00:00
+50176908,Launch HN: Alter (YC S25) – Access control for multi-user agents,https://alterauth.com/,52,20,2026-10-22T01:08:38.991998+00:00
+50186037,Claude Duet,https://claude.com/product/claude-duet,307,267,2026-10-22T01:08:38.991998+00:00
+50180873,PHP 8.2.35,https://github.com/php/php-src/releases/tag/php-8.2.35,965,532,2026-10-22T01:08:38.991998+00:00
+50182526,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488,166,80,2026-10-22T01:08:38.991998+00:00
+50189278,When Do We Become the Person We Ought to Be?,https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought,7,1,2026-10-22T01:08:38.991998+00:00
+50187708,PHP web runtimes (CVE-2026-109618 and CVE-2026-109619),https://aws.amazon.com/security/security-bulletins/2026-143-aws/,106,26,2026-10-22T01:08:38.991998+00:00
+50183512,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs,97,37,2026-10-22T01:08:38.991998+00:00
+50180752,Using thousands of AI agents to uncover new leads in biological data,https://openai.com/index/scaling-ai-research-for-complex-biological-data/,132,83,2026-10-22T01:08:38.991998+00:00
+50188612,Qpack amplification attacks against HTTP/3 servers,https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers,13,1,2026-10-22T01:08:38.991998+00:00
+50177916,Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,840,401,2026-10-22T01:08:38.991998+00:00
