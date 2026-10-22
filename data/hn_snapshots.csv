@@ -35459,3 +35459,33 @@ story_id,title,link,points,comments,scraped_at
 50180752,Using thousands of AI agents to uncover new leads in biological data,https://openai.com/index/scaling-ai-research-for-complex-biological-data/,132,83,2026-10-22T01:08:38.991998+00:00
 50188612,Qpack amplification attacks against HTTP/3 servers,https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers,13,1,2026-10-22T01:08:38.991998+00:00
 50177916,Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds,https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/,840,401,2026-10-22T01:08:38.991998+00:00
+50190455,The recently proposed o(n log n) integer multiplication algorithm [pdf],https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf,123,72,2026-10-22T06:18:52.054751+00:00
+50190363,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,59,21,2026-10-22T06:18:52.054751+00:00
+50188948,There isn't an easy exploit for this PHP vulnerability,https://eliastaylor.com/noexploit/,390,183,2026-10-22T06:18:52.054751+00:00
+50188228,Security Disclosure,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,401,233,2026-10-22T06:18:52.054751+00:00
+50185869,GitLab critical patch release,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,301,73,2026-10-22T06:18:52.054751+00:00
+50186010,Rust Style Guide,https://google.github.io/styleguide/rustguide.html,268,149,2026-10-22T06:18:52.054751+00:00
+50181114,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,477,162,2026-10-22T06:18:52.054751+00:00
+50176082,Using LLM for confidence scoring is a bad idea,https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html,48,30,2026-10-22T06:18:52.054751+00:00
+50190959,I can't believe PowerShell is good,https://www.spacebar.news/powershell-is-actually-good/,46,39,2026-10-22T06:18:52.054751+00:00
+50191507,OpenAI CLI,https://github.com/openai/openai-cli,12,3,2026-10-22T06:18:52.054751+00:00
+50189232,mitmproxy adds --emudhra option,https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b,382,95,2026-10-22T06:18:52.054751+00:00
+50161346,No more icons in every menu by default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,246,163,2026-10-22T06:18:52.054751+00:00
+50154100,Chain of Thought for Humans,https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/,76,33,2026-10-22T06:18:52.054751+00:00
+50166590,Beyond the &,https://lwn.net/Articles/1096028/,41,2,2026-10-22T06:18:52.054751+00:00
+50184820,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html,484,301,2026-10-22T06:18:52.054751+00:00
+50173716,PingCap TiDB Leaks,https://fulcrumsec.vg/pingcap/,288,43,2026-10-22T06:18:52.054751+00:00
+50162044,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,https://www.bbc.com/news/articles/cp814l80pw2o,185,37,2026-10-22T06:18:52.054751+00:00
+50183892,Show HN: Omnara – Open-source alternative to Claude Managed Agents,https://github.com/omnara-ai/omnara,59,16,2026-10-22T06:18:52.054751+00:00
+50160241,What Is the Karakoram Anomaly?,https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real,12,3,2026-10-22T06:18:52.054751+00:00
+50180079,OpenAI models are coming to Google Cloud,https://openai.com/index/openai-models-google-cloud/,276,112,2026-10-22T06:18:52.054751+00:00
+50182987,"Today's PHP security release, and how we're strengthening security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,709,348,2026-10-22T06:18:52.054751+00:00
+50181136,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,395,50,2026-10-22T06:18:52.054751+00:00
+50153531,Code is clay now,https://www.albertodenia.com/writing/code-is-clay-now,149,82,2026-10-22T06:18:52.054751+00:00
+50190334,LLM agents play Pokemon showdown,https://olivergrabner.com/research/pokemon/,26,15,2026-10-22T06:18:52.054751+00:00
+50181175,Patch the Planet: global response coordination as agents uncover vulnerabilities,https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/,249,167,2026-10-22T06:18:52.054751+00:00
+50182526,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488,183,91,2026-10-22T06:18:52.054751+00:00
+50160988,"Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",https://www.jhiblog.org/2026/10/19/clockwork-metaphors/,7,1,2026-10-22T06:18:52.054751+00:00
+50188614,Postgres recovery_prefetch can cause outages,https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/,15,0,2026-10-22T06:18:52.054751+00:00
+50159726,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/,167,105,2026-10-22T06:18:52.054751+00:00
+50176908,Launch HN: Alter (YC S25) – Access control for multi-user agents,https://alterauth.com/,58,25,2026-10-22T06:18:52.054751+00:00
