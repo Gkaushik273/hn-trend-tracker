@@ -35489,3 +35489,33 @@ story_id,title,link,points,comments,scraped_at
 50188614,Postgres recovery_prefetch can cause outages,https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/,15,0,2026-10-22T06:18:52.054751+00:00
 50159726,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/,167,105,2026-10-22T06:18:52.054751+00:00
 50176908,Launch HN: Alter (YC S25) – Access control for multi-user agents,https://alterauth.com/,58,25,2026-10-22T06:18:52.054751+00:00
+50192900,CVE-2026-111943: Compromised Intermediate Certificate Authority,https://nvd.nist.gov/vuln/detail/cve-2026-111943,179,46,2026-10-22T12:12:30.720832+00:00
+50193170,Faster than earcut: triangulating 3.7M map polygons in 489 ms,https://globus.software/blog/2026/10/16/cutting-map-polygons/,60,13,2026-10-22T12:12:30.720832+00:00
+50192536,Jailbreaking the Switch 2,https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/,112,32,2026-10-22T12:12:30.720832+00:00
+50190363,WorldTUI: I trained a 360M model to pretend to be a terminal,https://simedw.com/2026/10/21/world-model-terminal/,289,92,2026-10-22T12:12:30.720832+00:00
+50190455,The recently proposed o(n log n) integer multiplication algorithm [pdf],https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf,224,161,2026-10-22T12:12:30.720832+00:00
+50188228,Security Disclosure,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,496,287,2026-10-22T12:12:30.720832+00:00
+50193804,Several Linux kernel vulnerabilities accidentally posted to public mailing list,https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities,55,12,2026-10-22T12:12:30.720832+00:00
+50157456,"Startup taps underwater volcano as energy source in ""proof point"" test",https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/,23,9,2026-10-22T12:12:30.720832+00:00
+50194009,Xbox wants you to pay 24 to 40 cents per hour to stream games you bought,https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/,18,10,2026-10-22T12:12:30.720832+00:00
+50186037,Claude Duet,https://claude.com/product/claude-duet,431,393,2026-10-22T12:12:30.720832+00:00
+50161346,No more icons in every menu by default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,355,213,2026-10-22T12:12:30.720832+00:00
+50181114,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,541,175,2026-10-22T12:12:30.720832+00:00
+50186010,Rust Style Guide,https://google.github.io/styleguide/rustguide.html,327,195,2026-10-22T12:12:30.720832+00:00
+50185869,GitLab critical patch release,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,363,86,2026-10-22T12:12:30.720832+00:00
+50176082,Using LLM for confidence scoring is a bad idea,https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html,116,63,2026-10-22T12:12:30.720832+00:00
+50191507,OpenAI CLI,https://github.com/openai/openai-cli,151,80,2026-10-22T12:12:30.720832+00:00
+50155616,The Robot I Didn't Expect to Build,https://spectrum.ieee.org/agility-robotics-digit-5-redesign,21,15,2026-10-22T12:12:30.720832+00:00
+50173716,PingCap TiDB Leaks,https://fulcrumsec.vg/pingcap/,371,60,2026-10-22T12:12:30.720832+00:00
+50160241,What Is the Karakoram Anomaly?,https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real,45,8,2026-10-22T12:12:30.720832+00:00
+50184820,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html,595,339,2026-10-22T12:12:30.720832+00:00
+50162044,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,https://www.bbc.com/news/articles/cp814l80pw2o,231,51,2026-10-22T12:12:30.720832+00:00
+50194070,Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure,https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/,13,1,2026-10-22T12:12:30.720832+00:00
+50153531,Code is clay now,https://www.albertodenia.com/writing/code-is-clay-now,189,129,2026-10-22T12:12:30.720832+00:00
+50166590,Beyond the &,https://lwn.net/Articles/1096028/,77,6,2026-10-22T12:12:30.720832+00:00
+50180079,OpenAI models are coming to Google Cloud,https://openai.com/index/openai-models-google-cloud/,302,126,2026-10-22T12:12:30.720832+00:00
+50181136,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,430,58,2026-10-22T12:12:30.720832+00:00
+50189232,mitmproxy adds --emudhra option,https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b,518,122,2026-10-22T12:12:30.720832+00:00
+50182987,"Today's PHP security release, and how we're strengthening security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,758,375,2026-10-22T12:12:30.720832+00:00
+50154100,Chain of Thought for Humans,https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/,113,56,2026-10-22T12:12:30.720832+00:00
+50161283,ThinkPad I9990303 Error Catch-22,http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/,33,5,2026-10-22T12:12:30.720832+00:00
