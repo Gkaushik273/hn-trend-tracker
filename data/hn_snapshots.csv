@@ -35909,3 +35909,33 @@ story_id,title,link,points,comments,scraped_at
 50191250,The Chalk and the Airplane,https://unintendedconsequenc.es/chalk-and-the-airplane/,23,9,2026-10-24T16:47:47.535787+00:00
 50169499,The Real Kevin Bacon,https://pudding.cool/2026/10/kevin-bacon/,349,90,2026-10-24T16:47:47.535787+00:00
 50215530,CVE Tracker,https://cve.0xosprey.com/,202,71,2026-10-24T16:47:47.535787+00:00
+50222622,Roku developer repositories moved from GitHub to GitLab,https://blog.roku.com/developer/gitlab-move,163,110,2026-10-24T19:11:36.714471+00:00
+50223785,Dream-1,https://dreamlabs.ai/research/dream-1/,37,10,2026-10-24T19:11:36.714471+00:00
+50222927,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",https://de.numista.com/9866,58,10,2026-10-24T19:11:36.714471+00:00
+50222133,FreeDNS,https://freedns.afraid.org/,170,42,2026-10-24T19:11:36.714471+00:00
+50222525,Neural chip decodes interactions between brain regions,https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/,59,10,2026-10-24T19:11:36.714471+00:00
+50223752,Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology,https://www.science.org/doi/10.1126/sciadv.aeh8870,12,3,2026-10-24T19:11:36.714471+00:00
+50219177,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497,221,101,2026-10-24T19:11:36.714471+00:00
+50218430,OBS Studio 33,https://github.com/obsproject/obs-studio/releases/tag/33.0.0,399,138,2026-10-24T19:11:36.714471+00:00
+50171936,Symbolic Learning in Python and Julia,https://github.com/astroautomata/PySR,19,2,2026-10-24T19:11:36.714471+00:00
+50223844,Danish Government silently drops plan to dump MS Office,https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft,28,1,2026-10-24T19:11:36.714471+00:00
+50212065,Kimi K3.1 Pro and K3.1 Pro Highspeed,https://www.kimi.ai/blog/kimi-k3-1-pro,1049,639,2026-10-24T19:11:36.714471+00:00
+50192975,TornadoVM 7 Enables GPU-Native Workloads from Java Applications,https://www.infoq.com/news/2026/10/tornadovm-7-gpu/,69,13,2026-10-24T19:11:36.714471+00:00
+50186450,Physicists trap a single antimatter particle for a month,https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/,237,70,2026-10-24T19:11:36.714471+00:00
+50219700,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,https://github.com/Zagitta/gpu-unlock,113,45,2026-10-24T19:11:36.714471+00:00
+50219666,I Don't Understand Quantum Physics (2018),https://www.southampton.ac.uk/~doug/quantum_physics/index.html,231,159,2026-10-24T19:11:36.714471+00:00
+50211474,"Today, we hacked what we'd set out to hack: the iPhone",https://blog.calif.io/p/iphone,1052,656,2026-10-24T19:11:36.714471+00:00
+50222283,Oai-math-revised: a community hub for revising OpenAI's math write-ups,https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/,13,10,2026-10-24T19:11:36.714471+00:00
+50179920,"Cecilia Berdichevsky, Clementina expert (1961)",https://en.wikipedia.org/wiki/Cecilia_Berdichevsky,19,0,2026-10-24T19:11:36.714471+00:00
+50202285,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,1501,240,2026-10-24T19:11:36.714471+00:00
+50189981,"Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",https://sourceforge.net/projects/zac-os-9/,8,2,2026-10-24T19:11:36.714471+00:00
+50217500,Twelve years of distributed SQLite,https://philipotoole.com/twelve-years-of-distributed-sqlite/,333,51,2026-10-24T19:11:36.714471+00:00
+50207910,Apple Music 404 Not Found,https://music.apple.com/this-url-doesnt-exist,889,263,2026-10-24T19:11:36.714471+00:00
+50195535,Parsing EDIFACT in Python with syntax trees,https://github.com/AmadeusITGroup/Edison,18,6,2026-10-24T19:11:36.714471+00:00
+50218195,How close can pure functional programming get to C?,https://rtfeldman.com/fp-vs-c,223,62,2026-10-24T19:11:36.714471+00:00
+50172962,Bringing uv and ty together,https://astral.sh/blog/uv-ty-integration,263,88,2026-10-24T19:11:36.714471+00:00
+50180251,Tiling Noise – Procedural GPU Patterns,https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/,41,1,2026-10-24T19:11:36.714471+00:00
+50171379,"A practical guide to AI image generation, from diffusion to agents",https://danielball.com/notes/ai_image_generation.html,219,67,2026-10-24T19:11:36.714471+00:00
+50213925,Dessa: Conversation Model trained only on speech,https://block.xyz/dessa,479,180,2026-10-24T19:11:36.714471+00:00
+50220042,Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706,https://gitlab.com/c4psu13/mali-pagecache-root,42,11,2026-10-24T19:11:36.714471+00:00
+50217903,Apple Security Research Device,https://security.apple.com/research-device/,154,94,2026-10-24T19:11:36.714471+00:00
