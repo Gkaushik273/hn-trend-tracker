@@ -36029,3 +36029,33 @@ story_id,title,link,points,comments,scraped_at
 50223647,Why is AI generated language so hard to understand?,https://arxiv.org/abs/2610.29162,163,151,2026-10-25T02:57:37.398729+00:00
 50222283,Oai-math-revised: a community hub for revising OpenAI's math write-ups,https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/,36,28,2026-10-25T02:57:37.398729+00:00
 50218195,How close can pure functional programming get to C?,https://rtfeldman.com/fp-vs-c,258,88,2026-10-25T02:57:37.398729+00:00
+50225695,We should be more ambitious with the software we build,https://danluu.com/ambitious/,360,307,2026-10-25T08:09:08.993237+00:00
+50227356,Cerebras Deploys Trillion-Parameter AI Models,https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras,129,42,2026-10-25T08:09:08.993237+00:00
+50193936,How Japanese Dried Bonito Is Made,https://kottke.org/26/10/how-japanese-dried-bonito-is-made,20,3,2026-10-25T08:09:08.993237+00:00
+50224100,The Goose Programming Language,https://aardappel.github.io/goose/,361,237,2026-10-25T08:09:08.993237+00:00
+50224210,SpeedCrunch 1.1,https://www.speedcrunch.org/,130,23,2026-10-25T08:09:08.993237+00:00
+50225674,Small Programs and Languages,https://ratfactor.com/cards/pl-small,98,7,2026-10-25T08:09:08.993237+00:00
+50226577,Why Gopher in 2026?,https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt,70,20,2026-10-25T08:09:08.993237+00:00
+50226419,"America has lost 200k of jobs in media, film and the arts. How much is AI?",https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class,328,323,2026-10-25T08:09:08.993237+00:00
+50172432,I Built a Stereo Vision Board for Hardware Hackers,https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/,65,11,2026-10-25T08:09:08.993237+00:00
+50219666,I don't understand quantum physics (2018),https://www.southampton.ac.uk/~doug/quantum_physics/index.html,308,243,2026-10-25T08:09:08.993237+00:00
+50222133,FreeDNS,https://freedns.afraid.org/,284,73,2026-10-25T08:09:08.993237+00:00
+50169450,Social dynamics of toxic metal industry in medieval Europe,https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829,39,14,2026-10-25T08:09:08.993237+00:00
+50194935,In Rainbows,https://hitogata.neocities.org/Rainbows,26,4,2026-10-25T08:09:08.993237+00:00
+50219177,"Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497,303,151,2026-10-25T08:09:08.993237+00:00
+50225663,The Importance of Limitations for Creativity and Learning (2023),https://ratfactor.com/cards/limitations,60,16,2026-10-25T08:09:08.993237+00:00
+50202285,"Local Wikipedia: Wikipedia, but only for things a half hour walk from you",https://edjefferson.com/localwiki/,1579,246,2026-10-25T08:09:08.993237+00:00
+50186289,A story of a Figma bug that wasn't a bug at all (2021),https://aresluna.org/this-is-a-story-of-a-figma-bug/,25,1,2026-10-25T08:09:08.993237+00:00
+50176674,"Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",https://pragtical.dev/blog/pragtical-v3140-release,12,1,2026-10-25T08:09:08.993237+00:00
+50222927,"The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",https://de.numista.com/9866,113,35,2026-10-25T08:09:08.993237+00:00
+50222525,Neural chip decodes interactions between brain regions,https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/,103,37,2026-10-25T08:09:08.993237+00:00
+50224916,Show HN: Steal My Bitcoin,https://stealmybitcoin.com/,463,289,2026-10-25T08:09:08.993237+00:00
+50219700,GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards,https://github.com/Zagitta/gpu-unlock,235,71,2026-10-25T08:09:08.993237+00:00
+50222622,Roku developer repositories moved from GitHub to GitLab,https://blog.roku.com/developer/gitlab-move,285,194,2026-10-25T08:09:08.993237+00:00
+50223777,Bbtree: Fastest Ordered Map,https://bbtree.xiangpeng.systems/post/,102,10,2026-10-25T08:09:08.993237+00:00
+50228167,Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness,https://github.com/slee-persis/GVS5H,149,49,2026-10-25T08:09:08.993237+00:00
+50186450,Physicists trap a single antimatter particle for a month,https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/,303,86,2026-10-25T08:09:08.993237+00:00
+50218195,How close can pure functional programming get to C?,https://rtfeldman.com/fp-vs-c,266,93,2026-10-25T08:09:08.993237+00:00
+50171379,"A practical guide to AI image generation, from diffusion to agents",https://danielball.com/notes/ai_image_generation.html,258,83,2026-10-25T08:09:08.993237+00:00
+50223647,Why is AI generated language so hard to understand?,https://arxiv.org/abs/2610.29162,188,165,2026-10-25T08:09:08.993237+00:00
+50224422,"Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",https://missileer.watch,172,115,2026-10-25T08:09:08.993237+00:00
