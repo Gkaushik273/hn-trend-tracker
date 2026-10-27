@@ -36329,3 +36329,33 @@ story_id,title,link,points,comments,scraped_at
 50240922,Switzerland. Block by block. At 1:1 scale,https://blocks.manifold3d.ch/,450,212,2026-10-26T22:59:08.432353+00:00
 50246658,Concerning behavior from a popular open-weight AI model,https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model,240,96,2026-10-26T22:59:08.432353+00:00
 50214967,World Wars I and II Military Aviation Museum Collection,https://www.militaryaviationmuseum.org/our-collection/,27,10,2026-10-26T22:59:08.432353+00:00
+50251344,"Announcing three new discoveries in mathematics, computer science, and physics",https://openai.com/index/building-scientific-understanding-with-academic-communities/,459,175,2026-10-27T01:53:38.072335+00:00
+50251661,The Exponential Time Hypothesis Is False [pdf],https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf,283,111,2026-10-27T01:53:38.072335+00:00
+50245138,Sebastian Raschka's from-scratch video course on building reasoning models,https://magazine.sebastianraschka.com/p/building-reasoning-models,558,81,2026-10-27T01:53:38.072335+00:00
+50252159,Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses),https://blog.cloudflare.com/kv-cache-exposure-remediation/,73,15,2026-10-27T01:53:38.072335+00:00
+50248055,Oldest GUI application that still runs on Windows 11,https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/,291,187,2026-10-27T01:53:38.072335+00:00
+50248371,Type Server Protocol,https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md,194,140,2026-10-27T01:53:38.072335+00:00
+50204697,A Printer Printing onto Paper,https://twitter.com/macrofying/status/2112904628509528219,62,15,2026-10-27T01:53:38.072335+00:00
+50253529,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",https://github.com/otya128/winevdm,11,1,2026-10-27T01:53:38.072335+00:00
+50245831,CSS-Tricks has a new owner,https://css-tricks.com/css-tricks-has-a-new-owner/,382,90,2026-10-27T01:53:38.072335+00:00
+50231041,LISPy things you can do in 64K bytes of core (2019),https://t3x.org/lisp64k/index.html,24,1,2026-10-27T01:53:38.072335+00:00
+50252008,"Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it,22,16,2026-10-27T01:53:38.072335+00:00
+50247493,Nietzschian Debugger,https://github.com/DilawarShafiq/nietzschian-debugger,130,41,2026-10-27T01:53:38.072335+00:00
+50248124,GPT-6.1 Terra,https://openai.com/index/introducing-gpt-6-1-terra/,501,320,2026-10-27T01:53:38.072335+00:00
+50245385,Solar power is becoming bigger than nuclear,https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear,140,236,2026-10-27T01:53:38.072335+00:00
+50247928,A Man from the Future: Why Johnny Can't Stop Abstracting,http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html,118,60,2026-10-27T01:53:38.072335+00:00
+50242939,Anthropic S-1,https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm,1481,1449,2026-10-27T01:53:38.072335+00:00
+50226808,Virtual and Real World Combine at LAN Party (1998),https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html,5,0,2026-10-27T01:53:38.072335+00:00
+50243061,New iPad mini,https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/,136,388,2026-10-27T01:53:38.072335+00:00
+50246238,"Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",https://github.com/FrigadeHQ/hob,118,29,2026-10-27T01:53:38.072335+00:00
+50236681,SIMD-accelerated computer vision on a $2 microcontroller,https://shraiwi.com/blog/simd-fast-esp32s3/,173,54,2026-10-27T01:53:38.072335+00:00
+50245524,Microsoft offers mass buyouts for roughly a quarter of its workforce,https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/,766,681,2026-10-27T01:53:38.072335+00:00
+50200152,Blaise Pascal invented fixed route public transport (2024),https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html,262,136,2026-10-27T01:53:38.072335+00:00
+50209525,Diamond Transistor,https://www.df.com/diamond-transistor,125,67,2026-10-27T01:53:38.072335+00:00
+50241664,Websites Should Be Printable,https://brennenputh.me/blog/printable-websites/,269,177,2026-10-27T01:53:38.072335+00:00
+50241925,Pharo 14,https://pharo.org/news/2026-10-26-Pharo14Release.html,239,64,2026-10-27T01:53:38.072335+00:00
+50211780,"Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/,43,58,2026-10-27T01:53:38.072335+00:00
+50213502,Native Prometheus Integration with Nginx,https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/,33,9,2026-10-27T01:53:38.072335+00:00
+50249275,The EPA Is Quietly Killing Its Web Archive,https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/,243,44,2026-10-27T01:53:38.072335+00:00
+50242870,Fixing Tool-Call Accuracy in vLLM,https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm,145,64,2026-10-27T01:53:38.072335+00:00
+50248665,US designates helium as a critical material,https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c,178,105,2026-10-27T01:53:38.072335+00:00
