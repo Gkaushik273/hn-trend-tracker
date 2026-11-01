@@ -37109,3 +37109,33 @@ story_id,title,link,points,comments,scraped_at
 50311045,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,https://maketecheasier.com/arecibo-zinc-creep-collapse/,149,45,2026-11-01T17:00:25.957875+00:00
 50321048,Altoids Project,https://uvdn7.github.io/altoids-project/,147,7,2026-11-01T17:00:25.957875+00:00
 50289711,"A brief history of just-in-time: forty years of JIT work, from 1960–2000",https://dl.acm.org/doi/10.1145/857076.857077,61,1,2026-11-01T17:00:25.957875+00:00
+50326821,"Show HN: HackerBooks – HackerTube, but for books mentioned on HN",https://hackerbooks.org,576,139,2026-11-01T21:03:51.945947+00:00
+50319510,HackerTube: YouTube built from videos recommended by HN,https://karpathy.bearblog.dev/hacker-tube/,2057,507,2026-11-01T21:03:51.945947+00:00
+50328251,Mathematics has changed. Let's act like it,https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/,109,127,2026-11-01T21:03:51.945947+00:00
+50299811,Nibnib: Image compression with extreme decompression speed,https://github.com/raphlinus/nibnib,18,0,2026-11-01T21:03:51.945947+00:00
+50308754,Copper – A minimal low-level programming language with OOP and generics,https://tibleiz.net/copper/,87,48,2026-11-01T21:03:51.945947+00:00
+50271106,Tips for more effective fuzz testing with AFL++,https://nullprogram.com/blog/2025/02/05/,20,1,2026-11-01T21:03:51.945947+00:00
+50320963,An Italian farmer found some unknown seeds in his attic and planted them,https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/,718,193,2026-11-01T21:03:51.945947+00:00
+50325454,Proving and improving the Platonic Representation Hypothesis with JEPAs,https://arxiv.org/abs/2610.39302,88,47,2026-11-01T21:03:51.945947+00:00
+50326099,Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case,https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/,294,110,2026-11-01T21:03:51.945947+00:00
+50319749,Bidirectional charging during grid outages,https://www.jefftk.com/p/bidirectional-charging-during-grid-outages,64,88,2026-11-01T21:03:51.945947+00:00
+50325694,Novellas with Groff,https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html,86,38,2026-11-01T21:03:51.945947+00:00
+50314617,One-minute frequency disturbances from synchronization in power systems,https://www.nature.com/articles/s41560-026-02144-0,95,36,2026-11-01T21:03:51.945947+00:00
+50327058,Seoul Viosys begins production of rare-earth-free white light emitter,https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml,103,19,2026-11-01T21:03:51.945947+00:00
+50328488,It wasn't AI that flipped Proton's charge,https://blog.raed.dev/posts/proton-loser-thinking/,103,48,2026-11-01T21:03:51.945947+00:00
+50322173,Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing,https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/,285,165,2026-11-01T21:03:51.945947+00:00
+50325253,"Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",https://github.com/ivankovic/omnidiff,78,30,2026-11-01T21:03:51.945947+00:00
+50323088,The AI cost of JavaScript frameworks,https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/,254,180,2026-11-01T21:03:51.945947+00:00
+50327266,Frontier Airlines Likely Breached,https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/,127,36,2026-11-01T21:03:51.945947+00:00
+50327650,Patrick Stewart taught us what good men do with power,https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism,259,180,2026-11-01T21:03:51.945947+00:00
+50280131,Radiation Map of the World,https://radiaverse.com/,99,30,2026-11-01T21:03:51.945947+00:00
+50319143,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf,655,315,2026-11-01T21:03:51.945947+00:00
+50314508,Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2,https://kevs3d.co.uk/phoria2/,58,8,2026-11-01T21:03:51.945947+00:00
+50313227,Parchment Paper History: How We Got Paper Perfect for Baking (2019),https://tedium.co/2019/11/21/nonstick-parchment-paper-history/,14,10,2026-11-01T21:03:51.945947+00:00
+50320995,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve,400,198,2026-11-01T21:03:51.945947+00:00
+50290533,Show HN: Point your camera at a landscape to learn about its geology,https://outcrop.rocks/,123,32,2026-11-01T21:03:51.945947+00:00
+50328462,US Jobs Pickup May Keep Fed on Track to Hike Rates Again,https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again,21,13,2026-11-01T21:03:51.945947+00:00
+50310038,Understanding Email Encryption (2025),https://www.fastmail.com/blog/email-encryption/,109,23,2026-11-01T21:03:51.945947+00:00
+50303984,Running a bootstrapped SaaS for 20 years with my brother,https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/,219,51,2026-11-01T21:03:51.945947+00:00
+50322022,Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024),https://arxiv.org/abs/2409.02292,171,90,2026-11-01T21:03:51.945947+00:00
+50328487,Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare,https://nurse.org/news/uber-for-nursing-gig-apps-report/,117,114,2026-11-01T21:03:51.945947+00:00
