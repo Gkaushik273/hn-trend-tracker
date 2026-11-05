@@ -37559,3 +37559,33 @@ story_id,title,link,points,comments,scraped_at
 50380410,Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it,https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet,9,1,2026-11-05T17:04:22.311033+00:00
 50364860,So my ISP was hijacking my DNS,https://www.karthihegde.dev/posts/dns_tampering,144,112,2026-11-05T17:04:22.311033+00:00
 50380808,OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities,https://edera.dev/stories/ocap-bounded-authority,11,0,2026-11-05T17:04:22.311033+00:00
+50383740,Kagi Search for Everyone,https://kagi.com/changelog,283,145,2026-11-05T22:44:29.581897+00:00
+50384233,MS Paint Remote Code Execution Vulnerability,https://www.cve.org/CVERecord?id=CVE-2026-83844,157,44,2026-11-05T22:44:29.581897+00:00
+50378228,sshole,https://sshhole.com,2162,543,2026-11-05T22:44:29.581897+00:00
+50385272,Claude Code sends your email address to websites,https://github.com/anthropics/claude-code/issues/107757,30,5,2026-11-05T22:44:29.581897+00:00
+50379704,Alpine Linux Security Advisory: OpenSSH-server password authentication bypass,https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/,527,105,2026-11-05T22:44:29.581897+00:00
+50383057,The Hackintosh Reborn,https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/,140,50,2026-11-05T22:44:29.581897+00:00
+50383963,"Tencent Launches Hy4, One of the Leading Open-Source AI Models",https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/,51,1,2026-11-05T22:44:29.581897+00:00
+50381383,Window Sweaters,https://github.com/saragordic/window-sweaters,197,70,2026-11-05T22:44:29.581897+00:00
+50383739,Goodbye from Salon,https://www.salon.com/2026/11/05/goodbye-from-salon/,280,101,2026-11-05T22:44:29.581897+00:00
+50383877,The Cost of Blogging,https://onlinegoddess.net/2026/11/the-cost-of-blogging/,27,21,2026-11-05T22:44:29.581897+00:00
+50380810,Motorola Signature 27 with GrapheneOS support,https://motorolanews.com/motorola-signature-27-2/,352,257,2026-11-05T22:44:29.581897+00:00
+50381687,Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3,https://github.com/rivet-dev/rivet,63,32,2026-11-05T22:44:29.581897+00:00
+50379576,"September in Servo: <progress>, rounded rectangles, and more",https://servo.org/blog/2026/11/05/september-in-servo/,162,38,2026-11-05T22:44:29.581897+00:00
+50381033,My psychophysics as a bilateral cochlear implant user,https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf,147,44,2026-11-05T22:44:29.581897+00:00
+50378571,Download your favourite YouTube videos,https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/,235,110,2026-11-05T22:44:29.581897+00:00
+50383294,Introducing Pangram Image 1.0,https://www.pangram.com/blog/introducing-pangram-image-1-0,26,2,2026-11-05T22:44:29.581897+00:00
+50381512,Bild AI (YC W25) Is Hiring Founding Product Engineers,https://www.ycombinator.com/companies/bild-ai/jobs,0,0,2026-11-05T22:44:29.581897+00:00
+50384822,$2.5T has been wiped from US stocks,https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks,51,28,2026-11-05T22:44:29.581897+00:00
+50378942,I wish tech companies knew more about me,https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me,253,232,2026-11-05T22:44:29.581897+00:00
+50377976,OpenSSH 10.6p2 Critical workaround for alpine without PAM,https://www.openssh.org/releasenotes.html#10.6p2,226,11,2026-11-05T22:44:29.581897+00:00
+50368208,Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights),https://www.linum.ai/field-notes/pjit-21k,115,13,2026-11-05T22:44:29.581897+00:00
+50378508,Obscure audio codec is a perfect fit for the N64,https://phoboslab.org/log/2026/11/n64-ulc-codec,166,19,2026-11-05T22:44:29.581897+00:00
+50380979,"The Stacks Project, Formalized in Lean",https://axiommath.ai/research/the-stacks-project-formalized/,57,11,2026-11-05T22:44:29.581897+00:00
+50379249,MCP Explained,https://mcp-explained.com/,212,108,2026-11-05T22:44:29.581897+00:00
+50376313,GPT-6 Astra covertly underperforms on safety research,https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/,260,141,2026-11-05T22:44:29.581897+00:00
+50349667,"The Lisp curse, now coming to your ecosystem",https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html,185,136,2026-11-05T22:44:29.581897+00:00
+50383163,"Hungary: Communist-era files released, up to 60k former agents revealed",https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed,93,20,2026-11-05T22:44:29.581897+00:00
+50380704,Show HN: Stroq – a local audit of what your coding agent did and why,https://github.com/AGGIB/Stroq,54,11,2026-11-05T22:44:29.581897+00:00
+50380268,We can do better than line-buffered output,https://nullprogram.com/blog/2026/11/05/,82,8,2026-11-05T22:44:29.581897+00:00
+50377078,Baidu released ERNIE 5.5 Flash Base,https://ernie.baidu.com/release/ernie-5-5-flash-base/,160,90,2026-11-05T22:44:29.581897+00:00
