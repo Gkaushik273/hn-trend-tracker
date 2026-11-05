@@ -37529,3 +37529,33 @@ story_id,title,link,points,comments,scraped_at
 50365780,Tencent Hy4,https://hy.tencent.ai/research/hy4,237,87,2026-11-05T08:56:28.138273+00:00
 50367653,"'It's just vape, nail, charity shops': Can anything save UK high street?",https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham,119,271,2026-11-05T08:56:28.138273+00:00
 50338474,Basically no one is using AI agents for their DoorDash orders,https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/,132,241,2026-11-05T08:56:28.138273+00:00
+50378228,Sshole,https://sshhole.com,1269,356,2026-11-05T17:04:22.311033+00:00
+50379704,Alpine Linux Security advisory: OpenSSH-server password authentication bypass,https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/,203,10,2026-11-05T17:04:22.311033+00:00
+50380810,Motorola Signature 27 with GrapheneOS support,https://motorolanews.com/motorola-signature-27-2/,73,14,2026-11-05T17:04:22.311033+00:00
+50381302,Vibe Coding Keypad,https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad,21,11,2026-11-05T17:04:22.311033+00:00
+50379576,"September in Servo: <progress>, rounded rectangles, and more",https://servo.org/blog/2026/11/05/september-in-servo/,73,14,2026-11-05T17:04:22.311033+00:00
+50381512,Bild AI (YC W25) Is Hiring Founding Product Engineers,https://www.ycombinator.com/companies/bild-ai/jobs,0,0,2026-11-05T17:04:22.311033+00:00
+50379249,MCP Explained,https://mcp-explained.com/,132,65,2026-11-05T17:04:22.311033+00:00
+50349667,"The Lisp curse, now coming to your ecosystem",https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html,26,5,2026-11-05T17:04:22.311033+00:00
+50381033,My psychophysics as a bilateral cochlear implant user,https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf,25,5,2026-11-05T17:04:22.311033+00:00
+50378571,Download your favourite YouTube videos,https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/,109,52,2026-11-05T17:04:22.311033+00:00
+50377976,OpenSSH 10.6p2 Critical workaround for alpine without PAM,https://www.openssh.org/releasenotes.html#10.6p2,146,7,2026-11-05T17:04:22.311033+00:00
+50380979,"The Stacks Project, Formalized in Lean",https://axiommath.ai/research/the-stacks-project-formalized/,9,0,2026-11-05T17:04:22.311033+00:00
+50378508,Obscure audio codec is a perfect fit for the N64,https://phoboslab.org/log/2026/11/n64-ulc-codec,98,6,2026-11-05T17:04:22.311033+00:00
+50380658,Building a Multi-Agent System from Scratch: Architecture Patterns,https://kadhar.dev/blog/multi-agent-systems-from-scratch,13,4,2026-11-05T17:04:22.311033+00:00
+50378942,I wish tech companies knew more about me,https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me,59,47,2026-11-05T17:04:22.311033+00:00
+50377078,Baidu released ERNIE 5.5 Flash Base,https://ernie.baidu.com/release/ernie-5-5-flash-base/,139,76,2026-11-05T17:04:22.311033+00:00
+50376313,GPT-6 Astra covertly underperforms on safety research,https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/,156,68,2026-11-05T17:04:22.311033+00:00
+50379773,Image of our satellite-choked night skies,https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies,99,68,2026-11-05T17:04:22.311033+00:00
+50380170,"Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",https://nordstjernen.org/,15,9,2026-11-05T17:04:22.311033+00:00
+50375354,Lemmings CSS Animation,https://markblah.github.io/lemmings/,337,69,2026-11-05T17:04:22.311033+00:00
+50368208,Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights),https://www.linum.ai/field-notes/pjit-21k,7,0,2026-11-05T17:04:22.311033+00:00
+50380268,We can do better than line-buffered output,https://nullprogram.com/blog/2026/11/05/,17,0,2026-11-05T17:04:22.311033+00:00
+50377821,Awesome repositories are no longer awesome,https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/,205,101,2026-11-05T17:04:22.311033+00:00
+50380365,An updated Model Spec for more capable and beneficial AI,https://openai.com/index/updated-model-spec/,7,1,2026-11-05T17:04:22.311033+00:00
+50380704,Show HN: Stroq – a local audit of what your coding agent did and why,https://github.com/AGGIB/Stroq,7,3,2026-11-05T17:04:22.311033+00:00
+50380273,"Offline survival assistant – local LLM and Kiwix, runs from a USB stick",https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md,11,4,2026-11-05T17:04:22.311033+00:00
+50378625,Discord is ditching Electron and its new app uses less RAM,https://www.theverge.com/news/1027379/discord-ditching-electron-web-app,170,141,2026-11-05T17:04:22.311033+00:00
+50380410,Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it,https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet,9,1,2026-11-05T17:04:22.311033+00:00
+50364860,So my ISP was hijacking my DNS,https://www.karthihegde.dev/posts/dns_tampering,144,112,2026-11-05T17:04:22.311033+00:00
+50380808,OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities,https://edera.dev/stories/ocap-bounded-authority,11,0,2026-11-05T17:04:22.311033+00:00
