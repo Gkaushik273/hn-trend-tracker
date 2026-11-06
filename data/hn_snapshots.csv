@@ -37679,3 +37679,33 @@ story_id,title,link,points,comments,scraped_at
 50393235,"Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",https://github.com/zalando-incubator/agentic-identity-broker,15,3,2026-11-06T18:11:04.422359+00:00
 50394906,Anthropic IPO Buyers See Valuation as Low as $1.1T,https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout,34,27,2026-11-06T18:11:04.422359+00:00
 50378228,sshole,https://sshhole.com,2888,707,2026-11-06T18:11:04.422359+00:00
+50397429,A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost,https://hightouch.com/blog/llm-judges-identity-resolution,254,54,2026-11-06T23:21:46.801264+00:00
+50397994,AI is dramatically accelerating AI research,https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai,140,86,2026-11-06T23:21:46.801264+00:00
+50399569,ChatGPT silently passes data between connectors and the bounty wants an ID card,https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053,19,3,2026-11-06T23:21:46.801264+00:00
+50399657,"CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/,17,5,2026-11-06T23:21:46.801264+00:00
+50397219,Firecracker VM Escape: PwnEscape Part 2,https://pwn.ai/blog/firecracker-escape,130,66,2026-11-06T23:21:46.801264+00:00
+50391456,Tesla to wind down Cybertruck production,https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817,773,1598,2026-11-06T23:21:46.801264+00:00
+50388001,US FAA says it will phase out floppy disks from air traffic control by 2028,https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/,249,202,2026-11-06T23:21:46.801264+00:00
+50354308,The Ubuntu 26.04 Rust sudo is not compatible with standard sudo,https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible,92,66,2026-11-06T23:21:46.801264+00:00
+50394855,First steps in bare-metal programming using UEFI,https://kevinboone.me/efitest_index.html,161,30,2026-11-06T23:21:46.801264+00:00
+50397017,Restaurant Delivery Payment-Skimming Campaign,https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming,63,25,2026-11-06T23:21:46.801264+00:00
+50396834,Replit rebuilt its sandbox engine with microVMs,https://frontier.replit.com/sandbox-engine-microvms-part-1/,46,12,2026-11-06T23:21:46.801264+00:00
+50389333,Blender's UI and Runtime: Much Faster Than GPUI,https://github.com/ppmpreetham/BUI,676,271,2026-11-06T23:21:46.801264+00:00
+50395919,Memorilla: Latent Semantic Memory for LLMs,https://arxiv.org/abs/2610.21375,70,5,2026-11-06T23:21:46.801264+00:00
+50395450,Devvm.dev: One VM for every project,https://devvm.dev/,85,44,2026-11-06T23:21:46.801264+00:00
+50397711,Google has acquired Crusoe's data center site in southeast Wyoming,https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update,16,2,2026-11-06T23:21:46.801264+00:00
+50379221,Show HN: Waymark – A workflow engine that compiles jobs instead of replaying,https://github.com/piercefreeman/waymark,27,5,2026-11-06T23:21:46.801264+00:00
+50392118,Gemini Omni 1.2 Flash,https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/,281,212,2026-11-06T23:21:46.801264+00:00
+50395869,Size-It-Up (Game),https://magnitudle.com/size-it-up,57,22,2026-11-06T23:21:46.801264+00:00
+50395043,UpCodes (YC S17) is hiring SDR's to sell AI compliance software,https://up.codes/careers?utm_source=HN,0,0,2026-11-06T23:21:46.801264+00:00
+50368291,Annie Ernaux still feels like an outsider,https://www.vulture.com/article/annie-ernaux-interview-french-protests-nobel-prize.html,5,0,2026-11-06T23:21:46.801264+00:00
+50392348,How octopuses squeeze through too small gaps,https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps,41,11,2026-11-06T23:21:46.801264+00:00
+50394906,Anthropic IPO buyers see valuation as low as $1.1T,https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout,188,432,2026-11-06T23:21:46.801264+00:00
+50389570,Chomsky and the two cultures of statistical learning (2011),https://www.norvig.com/chomsky.html,89,72,2026-11-06T23:21:46.801264+00:00
+50394977,PyLings: Solve Exercises and Learn Python,https://github.com/thesayfulla/pylings,40,2,2026-11-06T23:21:46.801264+00:00
+50396108,40C3 halfnarp – Submit talk preferences to aid scheduling,https://halfnarp.events.ccc.de,34,7,2026-11-06T23:21:46.801264+00:00
+50396064,We know 15k websites are infected. how do we tell them?,https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/,132,113,2026-11-06T23:21:46.801264+00:00
+50397325,"Show HN: Agents infer Lego mechanisms from sources, then animate them",https://github.com/anteloc/ldraw-mecha/tree/v0.5.0,22,1,2026-11-06T23:21:46.801264+00:00
+50393758,Deus Ex,https://www.filfre.net/2026/11/deus-ex/,316,159,2026-11-06T23:21:46.801264+00:00
+50397176,My first and last telegram was from Rebecca West,https://thelampmagazine.com/blog/rebecca-wests-nightingale,30,6,2026-11-06T23:21:46.801264+00:00
+50394569,"Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",https://github.com/anomalyco/rune,138,100,2026-11-06T23:21:46.801264+00:00
