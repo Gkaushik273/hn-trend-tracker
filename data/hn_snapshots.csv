@@ -37979,3 +37979,33 @@ story_id,title,link,points,comments,scraped_at
 50412152,Petered,https://aworkinglibrary.com/writing/petered,148,88,2026-11-08T20:57:16.123421+00:00
 50404747,The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf],https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf,80,52,2026-11-08T20:57:16.123421+00:00
 50412318,Person of Interest,https://krthr.co/person-of-interest/,273,180,2026-11-08T20:57:16.123421+00:00
+50418176,KetchUp – Open-source SketchUp alternative built with Rust and WebGPU,https://ketchup3d.github.io/app/,113,17,2026-11-09T00:32:59.374451+00:00
+50418818,Herb Sutter: When a language's creator and its owners strongly disagree [pdf],https://isocpp.org/files/papers/P4454R0.pdf,27,2,2026-11-09T00:32:59.374451+00:00
+50418182,Chimera Vocal Synth,https://chimera-vocal-synth.vercel.app/,53,10,2026-11-09T00:32:59.374451+00:00
+50417407,Ask HN: What are you working on? (November 2026),item?id=50417407,100,384,2026-11-09T00:32:59.374451+00:00
+50416053,"Dux: Free, open-source Wayland desktop shell with file manager and theming",https://duxlabs.dev/,178,58,2026-11-09T00:32:59.374451+00:00
+50368481,Declarative Dragging,https://declarative-dragging.github.io/,308,37,2026-11-09T00:32:59.374451+00:00
+50416158,Outlook.com Is Quietly Rejecting Email from Domains Without DMARC,https://mailroute.net/blog/outlook-rejecting-email-without-dmarc,213,169,2026-11-09T00:32:59.374451+00:00
+50415628,Goldman Sachs is pulling Claude Code from its bankers and traders,https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers,562,339,2026-11-09T00:32:59.374451+00:00
+50416456,"The Web Is More Than Enough, by Paul Ford",https://ftrain.com/aboard-the-web-is-more-than-enough,58,29,2026-11-09T00:32:59.374451+00:00
+50411961,"Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",https://github.com/synchopate/llama-modchip,350,145,2026-11-09T00:32:59.374451+00:00
+50418016,Nvidia CEO Jensen Huang's letter to staff about affair,https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company,281,278,2026-11-09T00:32:59.374451+00:00
+50372838,"Edward Hopper's Iconic Painting, ""Nighthawks",https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/,64,22,2026-11-09T00:32:59.374451+00:00
+50416014,Playing with the STM32MP2,https://serd.es/2026/11/08/playing-with-stm32mp2.html,31,17,2026-11-09T00:32:59.374451+00:00
+50353814,The History of Djgpp (1998),https://www.delorie.com/djgpp/history.html,34,10,2026-11-09T00:32:59.374451+00:00
+50412067,Writing as a thinking tool,http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html,263,80,2026-11-09T00:32:59.374451+00:00
+50384664,The Kekulé Problem – Cormac McCarthy,https://nautil.us/the-kekul-problem-236574,5,1,2026-11-09T00:32:59.374451+00:00
+50362963,Show HN: Vegetable Gardening for Engineers,https://jrcpl.us/contrib/2020/gardening-for-engineers/,157,31,2026-11-09T00:32:59.374451+00:00
+50410107,"Goodbye Claude, hello Pi",https://caleb.software/posts/claude-to-pi.html,689,424,2026-11-09T00:32:59.374451+00:00
+50413769,I'm not a fan of Deno's security model (2024),https://goldstein.lol/posts/deno-security/,81,39,2026-11-09T00:32:59.374451+00:00
+50416801,Nvidia Board of Directors Is Investigating Jensen Huang,https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors,358,274,2026-11-09T00:32:59.374451+00:00
+50415135,A Little Snitch for Windows,https://packethound.app/,87,43,2026-11-09T00:32:59.374451+00:00
+50415750,Playing Zork 1 on a CP/M emulator on Linux (2021),https://kevinboone.me/cpmzork.html,27,12,2026-11-09T00:32:59.374451+00:00
+50366821,Porting Android 16 to my blind mother's keypad phone,https://z1x.us/blog/four-hundred-bucks-of-e-waste,150,46,2026-11-09T00:32:59.374451+00:00
+50416471,Starship Flight 15 on 11/13 plans to catch both booster and ship,https://www.spacex.com/launches/starship-flight-15,80,40,2026-11-09T00:32:59.374451+00:00
+50407882,"Claude Code's ""Don't Ask Again"" exposes passwords in 1,122 public GitHub files",https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again,582,394,2026-11-09T00:32:59.374451+00:00
+50416363,How I Fight AI Brain Fry,https://sergeykuhne.com/blog/fighting-ai-brain-fry,133,120,2026-11-09T00:32:59.374451+00:00
+50389923,The Reconstruction of Torn Documents,https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/,87,49,2026-11-09T00:32:59.374451+00:00
+50412830,"How to prove equations using diagrams, part 1",https://www.epatters.org/post/e-graphs-1/,61,6,2026-11-09T00:32:59.374451+00:00
+50411467,Agent memory needs its OpenTelemetry moment,https://www.lorekit.io/blog/open-agent-memory-format,171,102,2026-11-09T00:32:59.374451+00:00
+50412072,JIT bitmap text rendering for microcontrollers,https://linebender.org/blog/jit-bitmap-text/,93,18,2026-11-09T00:32:59.374451+00:00
