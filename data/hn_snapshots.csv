@@ -38219,3 +38219,33 @@ story_id,title,link,points,comments,scraped_at
 50448174,AI is an information gateway. Audiences still don't want it making their news,https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/,7,1,2026-11-11T02:04:13.616372+00:00
 50439284,What's new in the .NET 11 runtime,https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime,241,176,2026-11-11T02:04:13.616372+00:00
 50448340,LLMs Play Zachtronics' TIS-100,https://tis-100.wincon.dev/,5,0,2026-11-11T02:04:13.616372+00:00
+50449748,Protecting SSH Keys with macOS Secure Enclave,https://gatezh.com/posts/macos-secure-enclave-ssh-keys/,187,66,2026-11-11T09:40:58.493941+00:00
+50451102,OSS projects banning AI-generated contributions,https://osssaysno.com,28,27,2026-11-11T09:40:58.493941+00:00
+50441707,Smart home devices should work without the internet,https://docodethatmatters.com/home-automation-overnight-success/,929,334,2026-11-11T09:40:58.493941+00:00
+50442736,.name Grandfathered,https://neil.fraser.name/news/2026/11/10/,827,183,2026-11-11T09:40:58.493941+00:00
+50445401,Scion is back and is going to sell a kei truck in America,https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/,467,313,2026-11-11T09:40:58.493941+00:00
+50450007,Greg Kurtzer's Ginux is now a userspace kernel,https://github.com/gmkurtzer/ginux,60,28,2026-11-11T09:40:58.493941+00:00
+50448921,A great old-timey game-programming hack (2013),https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html,150,27,2026-11-11T09:40:58.493941+00:00
+50446520,Apple has new Mac app coming to make running local AI models easy,https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/,228,189,2026-11-11T09:40:58.493941+00:00
+50449275,"To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna,87,55,2026-11-11T09:40:58.493941+00:00
+50446246,Six Math Essentials,https://teorth.github.io/tao-web/six-math-essentials.html,239,44,2026-11-11T09:40:58.493941+00:00
+50427107,Why I wrote the BEAM book (2025),https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/,84,11,2026-11-11T09:40:58.493941+00:00
+50414657,A Compendium of Abandoned Greenhouses,https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/,41,2,2026-11-11T09:40:58.493941+00:00
+50443824,Synaptics patent claims stop work on DisplayLink drivers,https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/,391,226,2026-11-11T09:40:58.493941+00:00
+50444129,Starlink Mini 2,https://starlink.com/mini-2,404,408,2026-11-11T09:40:58.493941+00:00
+50439193,AlphaProof Code,https://deepmind.google/blog/introducing-alphaproof-code/,630,185,2026-11-11T09:40:58.493941+00:00
+50393070,"Why Amstrad chose the 3"" drives",https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/,26,4,2026-11-11T09:40:58.493941+00:00
+50443427,Val Town is winding down,https://blog.val.town/winding-down,379,94,2026-11-11T09:40:58.493941+00:00
+50447074,Tracking Anthropic-discovered vulnerabilities,https://www.vulncheck.com/blog/anthropic-glasswing-november-update,398,190,2026-11-11T09:40:58.493941+00:00
+50443812,"Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",https://github.com/GoogleChrome/modern-web-guidance,367,108,2026-11-11T09:40:58.493941+00:00
+50406224,Hacking the Meta Ray-Ban smartglasses,https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/,109,39,2026-11-11T09:40:58.493941+00:00
+50429210,A ZIP-style Prolog VM for trilog,https://github.com/no382001/zipc,10,3,2026-11-11T09:40:58.493941+00:00
+50443716,"Claude Whiteboards, Claude Sheets, and Claude Data",https://claude.com/resources/articles/sheets-whiteboards-data,222,157,2026-11-11T09:40:58.493941+00:00
+50448340,LLMs Play Zachtronics' TIS-100,https://tis-100.wincon.dev/,68,11,2026-11-11T09:40:58.493941+00:00
+50438318,AI usage generates a fragile codebase,https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/,541,514,2026-11-11T09:40:58.493941+00:00
+50447036,$30M Raised to Redo the CPU,https://tendrils.co/blog/2026-11-10/30m-raised,94,98,2026-11-11T09:40:58.493941+00:00
+50443090,AMD's Zen 6 Family: Feeding the Beast,https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast,232,92,2026-11-11T09:40:58.493941+00:00
+50442225,Announcing .NET 11,https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/,184,233,2026-11-11T09:40:58.493941+00:00
+50449891,Show HN: Black Ops II statically recompiled to native ARM64 macOS,https://github.com/adrbn/bo2-mac,18,2,2026-11-11T09:40:58.493941+00:00
+50414004,"""Jumping genes"" helped ants evolve after the extinction of the dinosaurs",https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08,7,0,2026-11-11T09:40:58.493941+00:00
+50433216,Process Explorer for macOS,https://github.com/microsoft/Procexp-Mac,201,63,2026-11-11T09:40:58.493941+00:00
