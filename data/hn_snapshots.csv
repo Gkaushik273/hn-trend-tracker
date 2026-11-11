@@ -38189,3 +38189,33 @@ story_id,title,link,points,comments,scraped_at
 50437242,M John Harrison becomes first science fiction author to win the Booker,https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize,117,85,2026-11-10T22:26:59.189730+00:00
 50412554,NetBSD 11 desktop on a Raspberry Pi 4,https://neongd.com/articles/netbsd11-rpi4.gmi,119,69,2026-11-10T22:26:59.189730+00:00
 50437790,Queens Public Library under ransomware attack,https://connect.queenslibrary.org/,190,106,2026-11-10T22:26:59.189730+00:00
+50447074,"After 7 months, Glasswing overwelms maintainers with underwhelming findings",https://www.vulncheck.com/blog/anthropic-glasswing-november-update,231,89,2026-11-11T02:04:13.616372+00:00
+50442736,.name Grandfathered,https://neil.fraser.name/news/2026/11/10/,691,159,2026-11-11T02:04:13.616372+00:00
+50445401,Scion is back and is going to sell a kei truck in America,https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/,328,249,2026-11-11T02:04:13.616372+00:00
+50441707,Smart home devices should work without the internet,https://docodethatmatters.com/home-automation-overnight-success/,718,254,2026-11-11T02:04:13.616372+00:00
+50446246,Six Math Essentials by Terence Tao,https://teorth.github.io/tao-web/six-math-essentials.html,130,25,2026-11-11T02:04:13.616372+00:00
+50443824,Synaptics patent claims stop work on DisplayLink drivers,https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/,293,163,2026-11-11T02:04:13.616372+00:00
+50444129,Starlink Mini 2,https://starlink.com/mini-2,239,254,2026-11-11T02:04:13.616372+00:00
+50443427,Val Town is winding down,https://blog.val.town/winding-down,306,82,2026-11-11T02:04:13.616372+00:00
+50406224,Hacking the meta ray-ban smartglasses,https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/,43,14,2026-11-11T02:04:13.616372+00:00
+50439193,AlphaProof Code,https://deepmind.google/blog/introducing-alphaproof-code/,579,177,2026-11-11T02:04:13.616372+00:00
+50443812,"Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",https://github.com/GoogleChrome/modern-web-guidance,263,77,2026-11-11T02:04:13.616372+00:00
+50410587,Pinot Noir: inside the criminal gangs making fake wine,https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine,31,7,2026-11-11T02:04:13.616372+00:00
+50447900,The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot),https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md,17,1,2026-11-11T02:04:13.616372+00:00
+50448921,A great old-timey game-programming hack (2013),https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html,3,0,2026-11-11T02:04:13.616372+00:00
+50432637,Ergodic Literature,https://en.wikipedia.org/wiki/Ergodic_literature,13,2,2026-11-11T02:04:13.616372+00:00
+50445013,What objective is reasoning solving?,https://alexwang.ai/posts/reasoning-as-pathfinding/,105,46,2026-11-11T02:04:13.616372+00:00
+50447036,$30M Raised to Redo the CPU,https://tendrils.co/blog/2026-11-10/30m-raised,31,17,2026-11-11T02:04:13.616372+00:00
+50443090,AMD's Zen 6 Family: Feeding the Beast,https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast,184,69,2026-11-11T02:04:13.616372+00:00
+50444684,A comprehensive study of how fingerprintable users are,https://fingerprinting.study/,73,34,2026-11-11T02:04:13.616372+00:00
+50433216,Process Explorer for macOS,https://github.com/microsoft/Procexp-Mac,138,48,2026-11-11T02:04:13.616372+00:00
+50439695,Ableton Live 13,https://www.ableton.com/en/live/,274,299,2026-11-11T02:04:13.616372+00:00
+50446219,Sherman Anti-Trust Act (1890),https://www.archives.gov/milestone-documents/sherman-anti-trust-act,72,45,2026-11-11T02:04:13.616372+00:00
+50441518,"Show HN: Valencia, Spain in Sim City/Isometric View",https://tinyvalencia.com/,196,50,2026-11-11T02:04:13.616372+00:00
+50410329,Simon Winchester has died,https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html,72,25,2026-11-11T02:04:13.616372+00:00
+50441350,Show HN: Aircad – Professional drafting and 3D modeling in the browser,https://aircad.com,17,8,2026-11-11T02:04:13.616372+00:00
+50438318,AI usage generates a fragile codebase,https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/,381,407,2026-11-11T02:04:13.616372+00:00
+50445279,Research taste in history: the importance of learning Babylonian math,https://resobscura.substack.com/p/research-taste-in-history-the-importance,11,0,2026-11-11T02:04:13.616372+00:00
+50448174,AI is an information gateway. Audiences still don't want it making their news,https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/,7,1,2026-11-11T02:04:13.616372+00:00
+50439284,What's new in the .NET 11 runtime,https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime,241,176,2026-11-11T02:04:13.616372+00:00
+50448340,LLMs Play Zachtronics' TIS-100,https://tis-100.wincon.dev/,5,0,2026-11-11T02:04:13.616372+00:00
