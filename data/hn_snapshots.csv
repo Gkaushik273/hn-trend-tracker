@@ -38369,3 +38369,33 @@ story_id,title,link,points,comments,scraped_at
 50452455,My AI agents found an unmapped Maya site?,https://pietromiotti.com/latest/maya-site,1018,374,2026-11-12T14:28:54.416579+00:00
 50460154,A general purpose Apple Silicon layer for x86-64 PCs,https://github.com/tylertms/Stela,126,52,2026-11-12T14:28:54.416579+00:00
 50451903,Using voltage glitching to unleash the A100 in my mining card,https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/,327,125,2026-11-12T14:28:54.416579+00:00
+50467087,Jensen Huang resigns,https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f,2416,2352,2026-11-12T21:32:17.904316+00:00
+50471668,Ask HN: Microsoft/Azure Outage?,item?id=50471668,374,190,2026-11-12T21:32:17.904316+00:00
+50472260,Gemini 4 Hydrogen and Orchestrator,https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/,162,30,2026-11-12T21:32:17.904316+00:00
+50472038,Rust 1.100,https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/,123,91,2026-11-12T21:32:17.904316+00:00
+50472490,Dwarf planet candidate appears which takes roughly 280 years to orbit our sun,https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/,99,44,2026-11-12T21:32:17.904316+00:00
+50470488,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",https://github.com/simpsoka/zigzag,176,74,2026-11-12T21:32:17.904316+00:00
+50471761,22-Year-Old PostgreSQL Bug Turned into Remote Code Execution,https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/,70,10,2026-11-12T21:32:17.904316+00:00
+50468888,I'm making LLMs work on small and old devices,https://github.com/hyperionaidev/smolmaxxing/,214,77,2026-11-12T21:32:17.904316+00:00
+50467618,Abandoned Quake 4 expansion finished by modders and now playable,https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64,207,75,2026-11-12T21:32:17.904316+00:00
+50471431,Gemini 4 Hydrogen,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/,373,245,2026-11-12T21:32:17.904316+00:00
+50473231,"Data centers need power – lower income, rural residents pay the price",https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price,99,91,2026-11-12T21:32:17.904316+00:00
+50458849,Relax: JIT compiler for Rust to reduce build times,https://makepad.github.io/relax/,65,27,2026-11-12T21:32:17.904316+00:00
+50472505,Distributed Ray Tracer,https://ray.hatchet.run,16,0,2026-11-12T21:32:17.904316+00:00
+50467460,Talking Zen 6 with Mike Clark at AMD In-Depth,https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at,154,2,2026-11-12T21:32:17.904316+00:00
+50471281,Show HN: Kapso – Iterative learning from enterprise data,item?id=50471281,24,9,2026-11-12T21:32:17.904316+00:00
+50459508,Words of warning about radiocarbon dating medieval human bones,https://www.nature.com/articles/s40494-026-02958-x,31,3,2026-11-12T21:32:17.904316+00:00
+50471650,"Show HN: AgentRun – open-source, Self-improving Managed Agents",https://github.com/Parcha-ai/agentrun/blob/main/README.md,54,7,2026-11-12T21:32:17.904316+00:00
+50465352,Why Writing Correct Software Is Hard,https://pron.github.io/posts/correctness-and-complexity,329,147,2026-11-12T21:32:17.904316+00:00
+50457344,Pulling the Lever in a Subway Problem,https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem,31,34,2026-11-12T21:32:17.904316+00:00
+50468944,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,https://github.com/chocoford/ExcalidrawZ,87,23,2026-11-12T21:32:17.904316+00:00
+50466410,Adapting CPython for Yk,https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html,14,0,2026-11-12T21:32:17.904316+00:00
+50470445,AWS Lambda Web Functions keep billing memory ~7 minutes after the last request,https://www.easel.sh/blog/lambda-web-functions-idle-memory,58,26,2026-11-12T21:32:17.904316+00:00
+50467297,Our software engineering interviews are changing a little,https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/,135,119,2026-11-12T21:32:17.904316+00:00
+50438261,Socratic Tutor,https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md,627,143,2026-11-12T21:32:17.904316+00:00
+50469994,Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep,https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep,215,145,2026-11-12T21:32:17.904316+00:00
+50465829,Anthropic IPO,https://ipo.anthropic.com/us/,728,736,2026-11-12T21:32:17.904316+00:00
+50471621,Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company,https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html,105,32,2026-11-12T21:32:17.904316+00:00
+50425017,A live tree of systemd jobs on the boot console,https://codeberg.org/wvhulle/bootvine,331,129,2026-11-12T21:32:17.904316+00:00
+50473606,"Microsoft Status: ""We are re-routing the protocols""",https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821,17,11,2026-11-12T21:32:17.904316+00:00
+50467439,Libreagi – Save OSS Models,https://libreagi.com/,101,21,2026-11-12T21:32:17.904316+00:00
