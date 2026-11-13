@@ -38429,3 +38429,33 @@ story_id,title,link,points,comments,scraped_at
 50472505,Distributed Ray Tracer,https://ray.hatchet.run,36,12,2026-11-13T02:19:28.606893+00:00
 50468944,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,https://github.com/chocoford/ExcalidrawZ,107,24,2026-11-13T02:19:28.606893+00:00
 50467439,Libreagi – Save OSS Models,https://libreagi.com/,130,25,2026-11-13T02:19:28.606893+00:00
+50467087,Jensen Huang resigns,https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f,3531,3123,2026-11-13T09:49:15.348363+00:00
+50478515,IceWM,https://ice-wm.org/,161,85,2026-11-13T09:49:15.348363+00:00
+50480480,The Dawn of the Data Intelligence Engineer,https://motherduck.com/blog/the-data-intelligence-engineer/,9,6,2026-11-13T09:49:15.348363+00:00
+50472038,Rust 1.100,https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/,671,256,2026-11-13T09:49:15.348363+00:00
+50477649,Brave Search API now accepts agentic payments via the x402 protocol,https://brave.com/blog/search-api-agentic-payments/,97,64,2026-11-13T09:49:15.348363+00:00
+50470488,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",https://github.com/simpsoka/zigzag,516,182,2026-11-13T09:49:15.348363+00:00
+50472260,Gemini 4 Hydrogen and Orchestrator,https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/,414,113,2026-11-13T09:49:15.348363+00:00
+50478609,Microsoft Outlook/365 still down after 12 hours,https://twitter.com/MSFT365Status/status/2121079061774491735,235,138,2026-11-13T09:49:15.348363+00:00
+50475713,Edge0-145B: Frontier AI Capabilities on Your Own Computer,https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer,239,71,2026-11-13T09:49:15.348363+00:00
+50472490,Dwarf planet candidate appears which takes roughly 280 years to orbit our sun,https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/,303,127,2026-11-13T09:49:15.348363+00:00
+50473190,"Former Nvidia CEO Huang had a relationship with a second employee, sources say",https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/,270,276,2026-11-13T09:49:15.348363+00:00
+50477714,Switcher (2004),https://folklore.org/Switcher.html,94,26,2026-11-13T09:49:15.348363+00:00
+50471731,Service degradation on Microsoft 365,https://status.cloud.microsoft/,875,771,2026-11-13T09:49:15.348363+00:00
+50468888,I'm making LLMs work on small and old devices,https://github.com/hyperionaidev/smolmaxxing/,364,129,2026-11-13T09:49:15.348363+00:00
+50474361,Foundation Models framework,https://developer.apple.com/foundation-models-framework/,210,27,2026-11-13T09:49:15.348363+00:00
+50471761,Turning a 22-year-old Postgres type-confusion primitive into RCE,https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/,193,37,2026-11-13T09:49:15.348363+00:00
+50467618,Abandoned Quake 4 expansion finished by modders and now playable,https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64,271,100,2026-11-13T09:49:15.348363+00:00
+50479098,Global Microsoft Outage,https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk,80,25,2026-11-13T09:49:15.348363+00:00
+50458849,Relax: JIT compiler for Rust to reduce build times,https://makepad.github.io/relax/,158,73,2026-11-13T09:49:15.348363+00:00
+50477231,Nvidia employees petition to bring back Jensen Huang,https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/,569,407,2026-11-13T09:49:15.348363+00:00
+50460263,"Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",https://github.com/jjba23/sift,55,8,2026-11-13T09:49:15.348363+00:00
+50465829,Anthropic IPO,https://ipo.anthropic.com/us/,925,866,2026-11-13T09:49:15.348363+00:00
+50471650,"Show HN: AgentRun – open-source, Self-improving Managed Agents",https://github.com/Parcha-ai/agentrun/blob/main/README.md,103,28,2026-11-13T09:49:15.348363+00:00
+50467460,Talking Zen 6 with Mike Clark at AMD In-Depth,https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at,216,5,2026-11-13T09:49:15.348363+00:00
+50474586,Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech,https://github.com/KoljaB/RealtimeVAD,23,4,2026-11-13T09:49:15.348363+00:00
+50471431,Gemini 4 Hydrogen,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/,528,333,2026-11-13T09:49:15.348363+00:00
+50471281,Show HN: Kapso – Iterative learning from enterprise data,item?id=50471281,45,11,2026-11-13T09:49:15.348363+00:00
+50479721,TSMC Hacked,https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm,30,5,2026-11-13T09:49:15.348363+00:00
+50466410,Adapting CPython for Yk,https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html,71,4,2026-11-13T09:49:15.348363+00:00
+50479045,Microsoft says attempts to fix global outage not going 'as expected',https://www.bbc.com/news/live/cq5y10ge3dp3t,40,19,2026-11-13T09:49:15.348363+00:00
