@@ -38399,3 +38399,33 @@ story_id,title,link,points,comments,scraped_at
 50425017,A live tree of systemd jobs on the boot console,https://codeberg.org/wvhulle/bootvine,331,129,2026-11-12T21:32:17.904316+00:00
 50473606,"Microsoft Status: ""We are re-routing the protocols""",https://admin.cloud.microsoft/?#/servicehealth/:/alerts/MO1550821,17,11,2026-11-12T21:32:17.904316+00:00
 50467439,Libreagi – Save OSS Models,https://libreagi.com/,101,21,2026-11-12T21:32:17.904316+00:00
+50467087,Jensen Huang resigns,https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f,3003,2818,2026-11-13T02:19:28.606893+00:00
+50472038,Rust 1.100,https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/,443,181,2026-11-13T02:19:28.606893+00:00
+50472260,Gemini 4 Hydrogen and Orchestrator,https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/,312,75,2026-11-13T02:19:28.606893+00:00
+50470488,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",https://github.com/simpsoka/zigzag,350,142,2026-11-13T02:19:28.606893+00:00
+50472490,Dwarf planet candidate appears which takes roughly 280 years to orbit our sun,https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/,205,94,2026-11-13T02:19:28.606893+00:00
+50474361,Foundation Models framework,https://developer.apple.com/foundation-models-framework/,131,17,2026-11-13T02:19:28.606893+00:00
+50475713,Edge0-145B: Frontier AI Capabilities on Your Own Computer,https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer,57,16,2026-11-13T02:19:28.606893+00:00
+50471731,Service degradation on Microsoft 365,https://status.cloud.microsoft/,526,480,2026-11-13T02:19:28.606893+00:00
+50471761,Turning a 22-year-old Postgres type-confusion primitive into RCE,https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/,147,22,2026-11-13T02:19:28.606893+00:00
+50474311,AI is turning Apple's app review process into a nightmare for synth developers,https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html,107,98,2026-11-13T02:19:28.606893+00:00
+50468888,I'm making LLMs work on small and old devices,https://github.com/hyperionaidev/smolmaxxing/,282,97,2026-11-13T02:19:28.606893+00:00
+50467618,Abandoned Quake 4 expansion finished by modders and now playable,https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64,243,84,2026-11-13T02:19:28.606893+00:00
+50460263,"Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",https://github.com/jjba23/sift,13,1,2026-11-13T02:19:28.606893+00:00
+50458849,Relax: JIT compiler for Rust to reduce build times,https://makepad.github.io/relax/,121,50,2026-11-13T02:19:28.606893+00:00
+50476586,Chicago schools to Google – we'd rather lose Search than be forced to accept AI,https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html,43,12,2026-11-13T02:19:28.606893+00:00
+50471431,Gemini 4 Hydrogen,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/,471,299,2026-11-13T02:19:28.606893+00:00
+50467460,Talking Zen 6 with Mike Clark at AMD In-Depth,https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at,192,2,2026-11-13T02:19:28.606893+00:00
+50454700,Before Pixels: Speed-Minder,https://unsung.aresluna.org/before-pixels-speed-minder/,17,0,2026-11-13T02:19:28.606893+00:00
+50474883,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,https://unemploymentlabs.com/checkpoint-forensics,175,48,2026-11-13T02:19:28.606893+00:00
+50465829,Anthropic IPO,https://ipo.anthropic.com/us/,828,808,2026-11-13T02:19:28.606893+00:00
+50473888,Announcement: Conductor Is Back,https://twitter.com/charlieholtz/status/2120973052024598620,8,3,2026-11-13T02:19:28.606893+00:00
+50471281,Show HN: Kapso – Iterative learning from enterprise data,item?id=50471281,38,10,2026-11-13T02:19:28.606893+00:00
+50439283,Safety in Algae Home Experiments,https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments,28,2,2026-11-13T02:19:28.606893+00:00
+50471650,"Show HN: AgentRun – open-source, Self-improving Managed Agents",https://github.com/Parcha-ai/agentrun/blob/main/README.md,77,16,2026-11-13T02:19:28.606893+00:00
+50466410,Adapting CPython for Yk,https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html,45,2,2026-11-13T02:19:28.606893+00:00
+50459508,Words of warning about radiocarbon dating medieval human bones,https://www.nature.com/articles/s40494-026-02958-x,59,11,2026-11-13T02:19:28.606893+00:00
+50467297,Our software engineering interviews are changing a little,https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/,173,168,2026-11-13T02:19:28.606893+00:00
+50472505,Distributed Ray Tracer,https://ray.hatchet.run,36,12,2026-11-13T02:19:28.606893+00:00
+50468944,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,https://github.com/chocoford/ExcalidrawZ,107,24,2026-11-13T02:19:28.606893+00:00
+50467439,Libreagi – Save OSS Models,https://libreagi.com/,130,25,2026-11-13T02:19:28.606893+00:00
