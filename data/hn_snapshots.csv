@@ -38639,3 +38639,33 @@ story_id,title,link,points,comments,scraped_at
 50496051,Project Zero will disclose vulnerabilities 90 days after reporting,https://projectzero.google/2026/11/disclosure-policy.html,63,7,2026-11-14T20:51:11.553379+00:00
 50497155,Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM,https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/,120,59,2026-11-14T20:51:11.553379+00:00
 50497147,Show HN: Agweb – a browser for agents that stays out of your way,https://github.com/paul-nameless/agweb,68,21,2026-11-14T20:51:11.553379+00:00
+50500963,SpaceX catches the Starship to end Flight 15,https://www.spacex.com/launches/starship-flight-15,582,379,2026-11-15T00:37:23.486241+00:00
+50499017,Lovable apps expose passport details and more than 200K private messages,https://www.crissyfield.de/research/lovable-en/,603,250,2026-11-15T00:37:23.486241+00:00
+50501594,How did Woz write the Apple 1 BASIC before building the computer?,https://retrocomputing.stackexchange.com/questions/17957,59,17,2026-11-15T00:37:23.486241+00:00
+50499038,A family tree of software job titles,https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/,187,91,2026-11-15T00:37:23.486241+00:00
+50496976,KDE: The documentary [video],https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c,366,78,2026-11-15T00:37:23.486241+00:00
+50497892,PyPI's redesigned project pages with clearer security signals are now live,https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/,197,89,2026-11-15T00:37:23.486241+00:00
+50501631,Nvidia deliberately kept GPU prices high through circular financing deals,https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html,98,45,2026-11-15T00:37:23.486241+00:00
+50440709,Why get an expensive Pi when I have an old phone?,https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/,495,279,2026-11-15T00:37:23.486241+00:00
+50497589,Show HN: DeepSeek V3 in ~200 lines of pure Jax,https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax,154,8,2026-11-15T00:37:23.486241+00:00
+50453901,Seagate's new hybrid drive raises some old questions,https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/,64,37,2026-11-15T00:37:23.486241+00:00
+50496811,Advancing science and engineering with Antigravity's /teamwork,https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/,157,36,2026-11-15T00:37:23.486241+00:00
+50416011,Reverse engineering a vintage diode-transistor logic chip,https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html,89,4,2026-11-15T00:37:23.486241+00:00
+50441444,Generative AI uses more energy on non-English text,https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/,171,95,2026-11-15T00:37:23.486241+00:00
+50467278,Testing a trash can Faraday cage,https://www.jefftk.com/p/testing-a-trash-can-faraday-cage,62,55,2026-11-15T00:37:23.486241+00:00
+50471874,"'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/,81,48,2026-11-15T00:37:23.486241+00:00
+50501844,L3Harris statement on the Nov. 13 ground stop,https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop,50,19,2026-11-15T00:37:23.486241+00:00
+50499723,"LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379,169,87,2026-11-15T00:37:23.486241+00:00
+50497132,"Show HN: A terminal-native idle factory game, written in Rust with ratatui",https://gitlab.com/snipedbywifi/terminactory,128,27,2026-11-15T00:37:23.486241+00:00
+50496051,Project Zero will disclose vulnerabilities 90 days after reporting,https://projectzero.google/2026/11/disclosure-policy.html,139,32,2026-11-15T00:37:23.486241+00:00
+50455732,Oxford Molecular Motors,https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor,3,1,2026-11-15T00:37:23.486241+00:00
+50444891,Write your own kernel optimiser,https://blog.csongor.co.uk/cachet-grids-and-tiles/,9,0,2026-11-15T00:37:23.486241+00:00
+50448895,The Sicilian Citrus Family Tree,https://www.notesfromtheroad.com/europa/citrus-family-tree.html,22,4,2026-11-15T00:37:23.486241+00:00
+50496602,Tech companies are trying to shift the concept of privacy again,https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again,443,168,2026-11-15T00:37:23.486241+00:00
+50496885,A visual explanation of reinforcement learning,https://aatishb.com/myriad/how-brains-learn/,115,6,2026-11-15T00:37:23.486241+00:00
+50497416,Demystifying phone unlocking tools: A technical overview,https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/,69,5,2026-11-15T00:37:23.486241+00:00
+50478632,Let's Write a PostScript Interpreter,https://beyondloom.com/blog/postscript.html,102,17,2026-11-15T00:37:23.486241+00:00
+50464467,Possible Futures,https://borretti.me/article/possible-futures,62,57,2026-11-15T00:37:23.486241+00:00
+50497009,Italy fines Meta $887M over Android users' data access,https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/,317,215,2026-11-15T00:37:23.486241+00:00
+50499945,Dartmouth (Guarini) will not admit math PhD cohort this year,https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year,67,23,2026-11-15T00:37:23.486241+00:00
+50497137,Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6),https://github.com/FURSOY/fursoy-cpu,66,21,2026-11-15T00:37:23.486241+00:00
