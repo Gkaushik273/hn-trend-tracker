@@ -38909,3 +38909,33 @@ story_id,title,link,points,comments,scraped_at
 50521045,Technical issue at JPMorgan Chase triggers online banking delays for US banks,https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda,764,637,2026-11-17T08:44:12.999077+00:00
 50523784,Spamhaus new email sender requirements in November,https://www.spamhaus.org/sender-guidelines/,102,91,2026-11-17T08:44:12.999077+00:00
 50515151,Squircles,https://linebender.org/wiki/curves/squircle/,185,47,2026-11-17T08:44:12.999077+00:00
+50535230,GPT‑6.2 Astra and Sol,https://openai.com/index/introducing-gpt-6-2-astra-sol/,153,44,2026-11-17T18:02:29.651182+00:00
+50532191,What is the best harness for each model?,https://runta.com/blog/introducing-frontierharness-eval-v1-1/,183,74,2026-11-17T18:02:29.651182+00:00
+50532385,"Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",https://alloyhtml.com/example.html,97,13,2026-11-17T18:02:29.651182+00:00
+50530163,New Evidence Shows School Phone Bans Are Gradually Improving Test Scores,https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html,859,445,2026-11-17T18:02:29.651182+00:00
+50522980,Carnegie Mellon is putting computer science courses on YouTube for free,https://www.cs.cmu.edu/learn/,2125,285,2026-11-17T18:02:29.651182+00:00
+50518328,First Photos of the Poles of a Rod-Shaped Bacterium,https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664,75,17,2026-11-17T18:02:29.651182+00:00
+50533089,NSA Internal Network Down,https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/,155,93,2026-11-17T18:02:29.651182+00:00
+50534429,YC wrote software to run our internship expo – and an 8-bit SIM to show it off,item?id=50534429,0,0,2026-11-17T18:02:29.651182+00:00
+50533270,Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium,https://github.com/RunanywhereAI/trnrt,15,1,2026-11-17T18:02:29.651182+00:00
+50534664,"Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/,31,4,2026-11-17T18:02:29.651182+00:00
+50517375,Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs,https://arxiv.org/abs/2611.18126,15,2,2026-11-17T18:02:29.651182+00:00
+50511874,VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012,https://visualbasic.world/,175,65,2026-11-17T18:02:29.651182+00:00
+50515291,Elephant-Goldfish Model,https://egm.dev/,15,11,2026-11-17T18:02:29.651182+00:00
+50529612,How the Claude Code team thinks about verification,https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/,170,151,2026-11-17T18:02:29.651182+00:00
+50524767,"Optimizely compromised, served malware on Zoom, GitLab",https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/,589,237,2026-11-17T18:02:29.651182+00:00
+50470523,"Rows vs. Columns: How different are they, really?",https://spiraldb.com/blog/rows-vs-columns,117,42,2026-11-17T18:02:29.651182+00:00
+50509456,Turbo Pascal Compiler Written in Turbo Pascal,https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal,83,32,2026-11-17T18:02:29.651182+00:00
+50532773,Antfly learned to stop worrying and love Apache 2.0,https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2,20,6,2026-11-17T18:02:29.651182+00:00
+50523601,BugMeNot has closed,https://www.bugmenot.com/,691,316,2026-11-17T18:02:29.651182+00:00
+50533723,Jensen Huang Posts on X,https://twitter.com/JensenHuang/status/2122726005219737649,49,30,2026-11-17T18:02:29.651182+00:00
+50512779,Nimony: A New Compiler for Nim,https://nimony.org/,155,79,2026-11-17T18:02:29.651182+00:00
+50533366,Charles Schwab website goes down,https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11,39,20,2026-11-17T18:02:29.651182+00:00
+50526560,If an App Asks for Full Disk Access or System and App Protection Override,https://support.apple.com/en-us/149699,213,111,2026-11-17T18:02:29.651182+00:00
+50532086,We don't need more apps. We need better open source,https://jordankrueger.com/blog/better-open-source-not-more-apps/,279,179,2026-11-17T18:02:29.651182+00:00
+50525575,Why 3dfx 1 cards had such a washed out color output?,https://twitter.com/id_aa_carmack/status/2122478083319992513,253,92,2026-11-17T18:02:29.651182+00:00
+50532849,Highly classified US national security communications network goes down,https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down,209,197,2026-11-17T18:02:29.651182+00:00
+50535238,Apple Services Down,https://downdetector.com/status/apple-support/,8,0,2026-11-17T18:02:29.651182+00:00
+50515603,Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags,https://github.com/plabayo/venndb,31,2,2026-11-17T18:02:29.651182+00:00
+50522643,Chemistry is Actually Geometry,https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry,316,130,2026-11-17T18:02:29.651182+00:00
+50496787,"Show HN: Zigzag, a native Mac browser for people leaving Arc",https://github.com/ZigaoWang/zigzag,100,61,2026-11-17T18:02:29.651182+00:00
