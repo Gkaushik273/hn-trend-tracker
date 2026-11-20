@@ -39149,3 +39149,33 @@ story_id,title,link,points,comments,scraped_at
 50560822,Everything you need to survive and rebuild society,https://lastbook.org/,328,177,2026-11-19T22:42:44.578890+00:00
 50560955,"Cooling buildings is overtaking heating them as an energy need, IEA says",https://maccus.fr/en/cooling-overtaking-heating/,142,95,2026-11-19T22:42:44.578890+00:00
 50563328,AI Came for the Coders. Understanding Why Tells Us Who's Next,https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html,22,15,2026-11-19T22:42:44.578890+00:00
+50568130,Gemini 4 Neon is the new #1 on the Models Engineering Index,https://git-aarvin.github.io/mei/,227,134,2026-11-20T03:49:35.207408+00:00
+50562754,Anthropic’s Nasdaq debut,https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/,989,1922,2026-11-20T03:49:35.207408+00:00
+50563066,Pancreatic cancer halted by virus injection in three patients,https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/,650,101,2026-11-20T03:49:35.207408+00:00
+50569226,"OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",https://github.com/openssl/openssl/pull/33652,50,19,2026-11-20T03:49:35.207408+00:00
+50568861,Vint Cerf on why TCP/IP was never patented,https://seremot.com/p/vint-cerf-on-why-tcpip-was-never,37,6,2026-11-20T03:49:35.207408+00:00
+50563148,Claude solves two open problems in the physics of black holes,https://www.anthropic.com/research/claude-black-hole-physics,427,191,2026-11-20T03:49:35.207408+00:00
+50528119,How to CAD Almost Anything,https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/,166,42,2026-11-20T03:49:35.207408+00:00
+50569519,What Comes After AGI?,https://institute.deepmind.com/essays/what-comes-after-agi/,8,0,2026-11-20T03:49:35.207408+00:00
+50519231,Garage Door Spam,https://blog.harrison.page/garage-door-spam/,784,323,2026-11-20T03:49:35.207408+00:00
+50568643,"Postgres 19 is out, and it's available on Neon and Databricks Lakebase",https://www.databricks.com/blog/postgresql-19-available-lakebase,23,5,2026-11-20T03:49:35.207408+00:00
+50564159,The 98% Slot Machine: How Paid Advertising Became an Extraction Tax,https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine,228,121,2026-11-20T03:49:35.207408+00:00
+50567374,RegExr: Temporarily Offline,https://regexr.com/,61,28,2026-11-20T03:49:35.207408+00:00
+50562320,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,https://github.com/onlook-dev/onlook/,93,69,2026-11-20T03:49:35.207408+00:00
+50567209,Synology Security Advisory,https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21,119,85,2026-11-20T03:49:35.207408+00:00
+50558906,Someone reported java4shell bug in September 2026,https://github.com/openjdk/jdk/pull/32781,389,104,2026-11-20T03:49:35.207408+00:00
+50538977,Weight-Space Programming builds neural networks like a 1990s researcher,https://notesbylex.com/weight-space-programming-1990s,28,1,2026-11-20T03:49:35.207408+00:00
+50564366,Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video],https://www.youtube.com/watch?v=lwfewYL7X0o,87,155,2026-11-20T03:49:35.207408+00:00
+50561515,Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest,https://cornholenews.news,200,94,2026-11-20T03:49:35.207408+00:00
+50530132,Talking Venice with Mahesh Subramony at AMD In-Depth,https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony,19,0,2026-11-20T03:49:35.207408+00:00
+50568082,"Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87,129,37,2026-11-20T03:49:35.207408+00:00
+50541489,Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch,https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/,4,0,2026-11-20T03:49:35.207408+00:00
+50562113,UK government forced to admit it issued Apple a secret encryption order,https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/,556,248,2026-11-20T03:49:35.207408+00:00
+50559719,Making 8-page foldable zines from a single A4 sheet in the browser,https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/,261,57,2026-11-20T03:49:35.207408+00:00
+50544546,"IRA Velinsky, industrial designer for Commodore and Atari",https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/,7,0,2026-11-20T03:49:35.207408+00:00
+50569516,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/,4,0,2026-11-20T03:49:35.207408+00:00
+50566261,Rebuilding my local voice assistant pipeline,https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline,70,12,2026-11-20T03:49:35.207408+00:00
+50547048,Nintendo takes Picofly firmware down from GitHub [video],https://www.youtube.com/watch?v=-TLCGUpoD6c,265,105,2026-11-20T03:49:35.207408+00:00
+50536950,An Oregon library ditched Dewey Decimal and got people excited about books again,https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system,211,150,2026-11-20T03:49:35.207408+00:00
+50537832,Computer Graphics from Scratch (2021),https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html,64,14,2026-11-20T03:49:35.207408+00:00
+50558533,How the European Commission rolled out Matrix to more than 40k staff,https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/,674,327,2026-11-20T03:49:35.207408+00:00
