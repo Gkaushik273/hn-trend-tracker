@@ -39389,3 +39389,33 @@ story_id,title,link,points,comments,scraped_at
 50579568,Hurried Announcement: Alessandro Masullo GRH,https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/,2392,1160,2026-11-22T01:57:18.145710+00:00
 50579331,We promoted developers into architects without informing them,https://manidoraisamy.com/developer-to-architect.html,581,310,2026-11-22T01:57:18.145710+00:00
 50548136,Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust,https://contextgeneric.dev/blog/v0.8.0-release/,21,0,2026-11-22T01:57:18.145710+00:00
+50596133,"Toyota, Nissan, and Honda to standardize parts to lower costs",https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/,436,249,2026-11-22T09:24:23.344069+00:00
+50582069,Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades',https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib,960,211,2026-11-22T09:24:23.344069+00:00
+50589618,Lean verification of the Riemann Hypothesis,https://leanprover-community.github.io/blog/posts/riemann-hypothesis/,1015,834,2026-11-22T09:24:23.344069+00:00
+50596664,Show HN: The Riemann Proof Handbook,https://github.com/tamnd/riemann-handbook,39,12,2026-11-22T09:24:23.344069+00:00
+50591853,Inkling-2-Mini in 5.4 GB Memory,https://github.com/ShinMegamiBoson/lookatmyquant,453,113,2026-11-22T09:24:23.344069+00:00
+50594911,Sandwich Simulator,https://stulle.app/,211,69,2026-11-22T09:24:23.344069+00:00
+50596960,Notes on the discrete Fourier transform (DFT),https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/,20,4,2026-11-22T09:24:23.344069+00:00
+50595554,Data Processing Incidents on Inference Providers,https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/,138,53,2026-11-22T09:24:23.344069+00:00
+50569846,If tiny 'primordial' black holes exist,https://phys.org/news/2026-11-tiny-primordial-black-holes.html,28,1,2026-11-22T09:24:23.344069+00:00
+50588982,Detonating a pile of lead azide,https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really,602,386,2026-11-22T09:24:23.344069+00:00
+50554572,Reversing the Next-Page Prefetcher in Skylake-X,"https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",8,0,2026-11-22T09:24:23.344069+00:00
+50583028,Getting the mind to steer the body to steer you,https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body,263,89,2026-11-22T09:24:23.344069+00:00
+50594132,PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors,https://github.com/sebaandrada-cell/PcapAnalyzer,111,13,2026-11-22T09:24:23.344069+00:00
+50587875,My monitor was cutting my download speed by 75%,https://blog.tymscar.com/posts/studiodisplayethernet/,574,268,2026-11-22T09:24:23.344069+00:00
+50595537,The Mythology of Conscious AI,https://www.noemamag.com/the-mythology-of-conscious-ai/,58,111,2026-11-22T09:24:23.344069+00:00
+50596155,Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow,https://github.com/EL4CTEO/fast-anything,23,6,2026-11-22T09:24:23.344069+00:00
+50560314,Split Radiance Cascades,https://www.jacktollenaar.top/articles/split-rc.html,26,0,2026-11-22T09:24:23.344069+00:00
+50559820,Is 'fork' missing operation in sandboxes?,https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable,3,2,2026-11-22T09:24:23.344069+00:00
+50593481,"Pandex – Official European Law for AI Agents, over MCP",https://www.pandex.io,88,20,2026-11-22T09:24:23.344069+00:00
+50593737,Advice for the next 100 Rust GUIs,https://linebender.org/blog/next-100-guis/,159,58,2026-11-22T09:24:23.344069+00:00
+50592097,Upload2Shell (CVE-2026-125396),https://pwn.ai/upload2shell,115,56,2026-11-22T09:24:23.344069+00:00
+50487155,Show HN: Compile the same source for GPUs and CPUs,https://github.com/ThrudTheBarbarian/xc,10,0,2026-11-22T09:24:23.344069+00:00
+50553496,Pion Interceptor: WebRTC for Hackers,https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/,10,1,2026-11-22T09:24:23.344069+00:00
+50544428,Reaktiv Workbook – A spreadsheet where every cell is Python,https://workbook.bui.app/,18,2,2026-11-22T09:24:23.344069+00:00
+50546587,LLMs can read and write executables byte by byte from a hex dump,https://sgiannopoulos.github.io/blog/machine-code-programming/,240,154,2026-11-22T09:24:23.344069+00:00
+50587208,GnuPG Security Advisory for GPGME,https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html,251,100,2026-11-22T09:24:23.344069+00:00
+50593679,Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers,https://tasklet.ai/careers,0,0,2026-11-22T09:24:23.344069+00:00
+50553223,"Shaping the Loops, Closing the Loops",https://revyl.com/blog/pattern-engineering/,25,9,2026-11-22T09:24:23.344069+00:00
+50579568,Hurried Announcement: Alessandro Masullo GRH,https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/,2413,1173,2026-11-22T09:24:23.344069+00:00
+50591260,PostgreSQL Extensions in Go,https://jespino.github.io/gopgext/,146,24,2026-11-22T09:24:23.344069+00:00
