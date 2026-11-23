@@ -39509,3 +39509,33 @@ story_id,title,link,points,comments,scraped_at
 50605479,Nespresso's project to reduce grams of coffee per capsule,https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/,119,129,2026-11-23T03:26:37.110813+00:00
 50594182,A Better Vocabulary for Testing,https://alperenkeles.com/posts/vocab-for-testing/,122,29,2026-11-23T03:26:37.110813+00:00
 50602153,Harvard CS 2881R AI Safety,https://boazbk.github.io/mltheoryseminar/,50,7,2026-11-23T03:26:37.110813+00:00
+50609685,GLM-5.4: Toward Generalized Coding with Our First Loop Transformer,https://z.ai/blog/glm-5.4,326,144,2026-11-23T13:27:15.718623+00:00
+50587750,MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash,https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/,30,4,2026-11-23T13:27:15.718623+00:00
+50607261,XNU Linux: Full OS X GUI Userspace on Linux,https://github.com/AFK-surf/xnulinux,421,193,2026-11-23T13:27:15.718623+00:00
+50606192,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,647,118,2026-11-23T13:27:15.718623+00:00
+50610334,The next circle of security hell,https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/,38,21,2026-11-23T13:27:15.718623+00:00
+50610318,Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor,https://github.com/os6/nospeaker,11,2,2026-11-23T13:27:15.718623+00:00
+50607668,"Yes, 17M lines of Lean is a lot",https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/,150,187,2026-11-23T13:27:15.718623+00:00
+50584526,Elixir HLS makes FPGA circuits from functions written in Elixir,https://github.com/elixir-hls/elixir-hls,54,0,2026-11-23T13:27:15.718623+00:00
+50603845,"A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth,588,245,2026-11-23T13:27:15.718623+00:00
+50602843,The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife,https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife,549,297,2026-11-23T13:27:15.718623+00:00
+50601525,Perplexity and Intelligence,https://openai.com/index/perplexity-and-intelligence/,624,409,2026-11-23T13:27:15.718623+00:00
+50547698,"Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527,282,93,2026-11-23T13:27:15.718623+00:00
+50598441,Masullo on the Riemann Hypothesis,https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/,256,242,2026-11-23T13:27:15.718623+00:00
+50610743,Win4wine – Run Windows Shell as the Linux Desktop on Wine,https://github.com/mikuta0407/win4wine,5,2,2026-11-23T13:27:15.718623+00:00
+50581961,Brake Check: Hijacking Trailer Brakes over Bluetooth,https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/,42,34,2026-11-23T13:27:15.718623+00:00
+50607627,A Partial Evaluator for C,https://phoenix.labri.fr/software/tempo/,82,20,2026-11-23T13:27:15.718623+00:00
+50608390,CollectWise (YC F24) Is Hiring,https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager,0,0,2026-11-23T13:27:15.718623+00:00
+50603143,Assume People Are Not Interested in Your Blog Post,https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/,244,122,2026-11-23T13:27:15.718623+00:00
+50606499,Treemap of the Riemann Hypothesis Lean Proof,https://pengowray.github.io/riemann-zeta-proof-visualizer/,119,45,2026-11-23T13:27:15.718623+00:00
+50603589,"A miniature San Francisco with live buses, planes and boats",https://smallsf.com/,304,99,2026-11-23T13:27:15.718623+00:00
+50604988,GL.iNet Security Notice 2026-11-20,https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20,228,106,2026-11-23T13:27:15.718623+00:00
+50604123,The struggle for freedom: How BSD escaped AT&T licensing,https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/,135,47,2026-11-23T13:27:15.718623+00:00
+50610830,Amodei reportedly suggested games could pacify masses after AI took their jobs,https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness,27,20,2026-11-23T13:27:15.718623+00:00
+50604472,The Usefulness of Useless Knowledge [pdf] (1939),https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf,144,29,2026-11-23T13:27:15.718623+00:00
+50571578,The Quartz Page,http://www.quartzpage.de/index.html,10,3,2026-11-23T13:27:15.718623+00:00
+50569505,LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025),https://arxiv.org/abs/2506.13771,59,9,2026-11-23T13:27:15.718623+00:00
+50607194,The New Docker: Built to Run on Trust,https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/,59,130,2026-11-23T13:27:15.718623+00:00
+50603465,"Nyx, the Oldest Internet Service Provider",https://nyx.net/,146,25,2026-11-23T13:27:15.718623+00:00
+50599762,Show HN: I built a game where you are an LLM's subagent,https://github.com/gulivan/worker755,338,79,2026-11-23T13:27:15.718623+00:00
+50602947,What Happened to Silicon Valley?,https://www.oreilly.com/radar/what-happened-to-silicon-valley/,737,396,2026-11-23T13:27:15.718623+00:00
