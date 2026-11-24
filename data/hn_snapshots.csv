@@ -39569,3 +39569,33 @@ story_id,title,link,points,comments,scraped_at
 50616933,Apple removed my open-source app from EU App Stores after 9 years,https://github.com/glushchenko/fsnotes/discussions/2056,501,108,2026-11-24T01:07:33.122757+00:00
 50619630,Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux,https://openai.com/index/introducing-shirudo/,18,2,2026-11-24T01:07:33.122757+00:00
 50615520,How should an LLM see a computer?,https://www.greptile.com/blog/trex-computer-use,44,22,2026-11-24T01:07:33.122757+00:00
+50624497,2035 Came Early,https://fzakaria.com/2026/11/23/2035-came-early,307,89,2026-11-24T11:19:12.388381+00:00
+50614249,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,2036,476,2026-11-24T11:19:12.388381+00:00
+50620349,Stalwart is now a drop-in replacement for Microsoft Exchange,https://stalw.art/blog/microsoft-exchange-replacement/,498,262,2026-11-24T11:19:12.388381+00:00
+50624061,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,https://www.phoronix.com/review/amd-epyc-9006-7601,109,46,2026-11-24T11:19:12.388381+00:00
+50611576,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,2611,3503,2026-11-24T11:19:12.388381+00:00
+50623515,Drone Maps of Salvage Yards,https://salvageyarddrone.wordpress.com/,98,37,2026-11-24T11:19:12.388381+00:00
+50604710,Modernizing iperf/iperf3 and introducing fireperf,https://blog.daniel-baumann.ch/posts/20261122-1.html,114,8,2026-11-24T11:19:12.388381+00:00
+50592307,Arctic: A Practical Lock-Free Adaptive Radix Tree,https://www.usenix.org/conference/osdi26/presentation/ni,48,0,2026-11-24T11:19:12.388381+00:00
+50619103,GPUI is getting its own repository,https://github.com/zed-industries/gpui,281,103,2026-11-24T11:19:12.388381+00:00
+50607512,Lowering Perplexity Without Scaling,https://micjm.com/blog/lowering-perplexity-without-scaling/,58,14,2026-11-24T11:19:12.388381+00:00
+50622774,New York Bans Subscription and Post-Purchase Fees on Cars,https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription,393,138,2026-11-24T11:19:12.388381+00:00
+50619207,"Bored.com: Fun, interesting and cool websites to explore when bored",https://www.bored.com/,256,54,2026-11-24T11:19:12.388381+00:00
+50615308,"""Dario is hyping the dangers so OSS models are illegal and he stays in control""",https://twitter.com/ylecun/status/2124550037912920090,1725,967,2026-11-24T11:19:12.388381+00:00
+50622934,Making a dumb TV just smart enough,https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/,86,30,2026-11-24T11:19:12.388381+00:00
+50617499,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",https://arm.jonpalmisc.com/,1061,245,2026-11-24T11:19:12.388381+00:00
+50606611,Becoming a Magician,https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/,17,2,2026-11-24T11:19:12.388381+00:00
+50606192,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,1010,174,2026-11-24T11:19:12.388381+00:00
+50620721,Freeing the iPod Nano 5G,https://viktorkrapivin.com/blog/nano5g-priv-prvd,115,12,2026-11-24T11:19:12.388381+00:00
+50598679,Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88,https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html,7,1,2026-11-24T11:19:12.388381+00:00
+50602041,Falsehoods Programmers Believe About ATProto,https://reiver.link/atproto/falsehoods-programmers-believe/,7,3,2026-11-24T11:19:12.388381+00:00
+50625888,Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex,https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/,24,4,2026-11-24T11:19:12.388381+00:00
+50582698,How photos were transmitted by wire in the 1930s (2024),https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s,68,10,2026-11-24T11:19:12.388381+00:00
+50622804,Rune: Rust VM for Emacs,https://github.com/CeleritasCelery/rune,45,14,2026-11-24T11:19:12.388381+00:00
+50611402,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF,172,35,2026-11-24T11:19:12.388381+00:00
+50609685,GLM-5.4: Toward generalized coding with our first loop transformer,https://z.ai/blog/glm-5.4,1134,369,2026-11-24T11:19:12.388381+00:00
+50610170,New material gets stronger the more it bends,https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/,34,18,2026-11-24T11:19:12.388381+00:00
+50620328,Latent Introspection: LLMs Can Detect Prior Concept Injections,https://arxiv.org/abs/2602.20031,62,4,2026-11-24T11:19:12.388381+00:00
+50621466,"The Power of GraphQL, Without GraphQL",https://cobalt27.dev/,57,37,2026-11-24T11:19:12.388381+00:00
+50620831,The search for a top dark matter candidate,https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/,49,31,2026-11-24T11:19:12.388381+00:00
+50600838,C++26 is done (again): ISO C++ meeting trip report,https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/,136,173,2026-11-24T11:19:12.388381+00:00
