@@ -39629,3 +39629,33 @@ story_id,title,link,points,comments,scraped_at
 50627836,Anthropic breaks below $83 IPO price,https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading,252,512,2026-11-24T21:26:00.724855+00:00
 50608604,Show HN: KradleBench – Multi-agent AI evals in Minecraft,https://www.kradle.ai?1,11,2,2026-11-24T21:26:00.724855+00:00
 50620831,The search for a top dark matter candidate,https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/,64,52,2026-11-24T21:26:00.724855+00:00
+50637220,Matrix Multiplication is Θ(n^2.25) [pdf],https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf,274,121,2026-11-25T04:26:29.425259+00:00
+50638032,Button Sounds – collection of professionally-recorded button clicks and presses,https://buttons.joshwcomeau.com/,42,3,2026-11-25T04:26:29.425259+00:00
+50637686,Models Can Communicate via Inference Servers Despite Being Sandboxed,https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being,56,14,2026-11-25T04:26:29.425259+00:00
+50633922,Ternary Bonsai 2.5 27B,https://prismml.com/news/bonsai-2-5-27b,376,127,2026-11-25T04:26:29.425259+00:00
+50637056,PenGPT: A Generative Transformer for Handwriting and Sketches,https://greydanus.github.io/2026/11/12/pengpt/,120,19,2026-11-25T04:26:29.425259+00:00
+50637874,I've been drinking wine in my kitchen,https://scottaaronson.blog/?p=10362,31,6,2026-11-25T04:26:29.425259+00:00
+50634658,GPT-6 models demonstrate intrinsic protein-design capabilities,https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/,210,65,2026-11-25T04:26:29.425259+00:00
+50637890,Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native,https://rida.dev/blog/bypassing-ios-safari-60-fps-limit,21,6,2026-11-25T04:26:29.425259+00:00
+50638220,"Marginalia Search, Money, C++, Rust, AI, Stuff",https://www.marginalia.nu/log/a_141_marginalia_update/,13,2,2026-11-25T04:26:29.425259+00:00
+50637888,Lua for Data Representation,https://citrons.xyz/journal/2025-07-23,10,0,2026-11-25T04:26:29.425259+00:00
+50634426,Launch HN: Versine (YC F26) – MCP to send and receive money,item?id=50634426,77,62,2026-11-25T04:26:29.425259+00:00
+50626430,New Rewritable Antimony Elenide Display Shows an Image for Months Without Power,https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/,14,4,2026-11-25T04:26:29.425259+00:00
+50638070,Serving Qwen via AWS Lambdas for fun and 80x negative profit,https://noahbuilt.it/writing/qwen-on-5600-lambdas,9,2,2026-11-25T04:26:29.425259+00:00
+50598555,The Spray Bottle,https://mechanical-pencil.com/products/spray-bottle,407,106,2026-11-25T04:26:29.425259+00:00
+50637891,Macrohistory in Six Facts,https://basilhalperin.com/essays/macrohistory.html,10,0,2026-11-25T04:26:29.425259+00:00
+50637871,Top open problems in mathematics ranked by LLM-assessed importance,https://www.proofatlas.ai/open-problems/,11,3,2026-11-25T04:26:29.425259+00:00
+50630594,Active intrusion campaign against Check Point security management servers,https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign,272,139,2026-11-25T04:26:29.425259+00:00
+50625265,Gödel Enigma,https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description,106,34,2026-11-25T04:26:29.425259+00:00
+50636925,"Here in the World: Letters of Albert Camus, 1944–1959",https://literaryreview.co.uk/here-in-the-world,33,2,2026-11-25T04:26:29.425259+00:00
+50609483,Calculate how many mesh radio nodes your city needs,https://meshcoveragecalculator.lalala.ing/,92,18,2026-11-25T04:26:29.425259+00:00
+50637936,Show HN: Sliding-panes React UI library (inspired by WebOS Enyo),https://vcarl.com/sashay/,8,1,2026-11-25T04:26:29.425259+00:00
+50606655,Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility,https://statwonk.com/hierarchical-bayesian-neural-network.html,32,2,2026-11-25T04:26:29.425259+00:00
+50637863,Bo3mac: Static ARM64 Recompiler and Direct Metal Port of Black Ops III,https://github.com/mawlicious/bo3mac,7,0,2026-11-25T04:26:29.425259+00:00
+50610820,An Italian folding bicycle design that fits into a suitcase,https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase,145,99,2026-11-25T04:26:29.425259+00:00
+50633424,From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver,https://andlukyane.com/blog/cayley-graphs-and-torchtpu,78,1,2026-11-25T04:26:29.425259+00:00
+50627783,GTA 6 Running on Windows,https://twitter.com/raul_bs3/status/2125213756238291075,324,416,2026-11-25T04:26:29.425259+00:00
+50638075,A faster algorithm for extracting hexadecimal digits of π,https://www.stylewarning.com/posts/faster-digit-extraction/,5,0,2026-11-25T04:26:29.425259+00:00
+50635271,Heart attack and stroke risk detectable decades in advance,https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance,193,96,2026-11-25T04:26:29.425259+00:00
+50631041,"Weave (YC W25) is hiring ML, AI, product, & design engineers",https://jobs.ashbyhq.com/weave-os,0,0,2026-11-25T04:26:29.425259+00:00
+50629231,"A training engine for your local model, using your idle compute",https://github.com/sous-labs/songe,200,64,2026-11-25T04:26:29.425259+00:00
