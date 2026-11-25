@@ -39689,3 +39689,33 @@ story_id,title,link,points,comments,scraped_at
 50637888,Lua for data representation (2025),https://citrons.xyz/journal/2025-07-23,81,37,2026-11-25T14:46:42.024250+00:00
 50627783,GTA 6 Running on Windows,https://twitter.com/raul_bs3/status/2125213756238291075,464,522,2026-11-25T14:46:42.024250+00:00
 50638075,A faster algorithm for extracting hexadecimal digits of π,https://www.stylewarning.com/posts/faster-digit-extraction/,63,2,2026-11-25T14:46:42.024250+00:00
+50644817,1Password Security Incident,https://1password.com/blog/update-on-nov-2026-security-incident,1003,423,2026-11-25T23:26:47.801336+00:00
+50648050,Much shorter version of GRH Lean verification from Anthropic,https://github.com/lsernau/grh-lean,158,63,2026-11-25T23:26:47.801336+00:00
+50647673,The New York Times tells photographers not to use the latest Photoshop,https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/,99,46,2026-11-25T23:26:47.801336+00:00
+50601280,GPT-6.2 Astra is the first model to beat Googlers' code golf records,https://bjin.github.io/go-codegolf-benchmark/#leaderboard,173,37,2026-11-25T23:26:47.801336+00:00
+50643129,A few questions for the guy who went snorkeling in a Home Depot retention pond,https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts,418,99,2026-11-25T23:26:47.801336+00:00
+50647181,Slow Ubuntu security response times,https://www.openwall.com/lists/oss-security/2026/11/25/9,79,27,2026-11-25T23:26:47.801336+00:00
+50647161,Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server,https://opensec.in/blog/nfs2root-cve-2026-99362,57,18,2026-11-25T23:26:47.801336+00:00
+50646108,Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening,https://scottaaronson.blog/?p=10379,757,593,2026-11-25T23:26:47.801336+00:00
+50647158,"72-Hour Fasting Can Reset Your Immune System, USC Study Shows",https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/,68,28,2026-11-25T23:26:47.801336+00:00
+50589784,SSH is a GUI framework,https://zydra.sh/articles/ssh-is-a-gui-framework/,111,55,2026-11-25T23:26:47.801336+00:00
+50648035,Defang Security Incident,https://defang.io/blog/post/security-incident-november-2026/,38,14,2026-11-25T23:26:47.801336+00:00
+50644980,The polynomial Hirsch conjecture is false [pdf],https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf,104,24,2026-11-25T23:26:47.801336+00:00
+50645074,Britain's ghost stations,https://spectator.com/article/britains-ghost-stations-are-fascinating/,79,17,2026-11-25T23:26:47.801336+00:00
+50642086,"Google releases Cogentic papers on integer factorization, discrete logs and more",https://github.com/google-research/google-research/tree/master/cogentic_research_papers,423,318,2026-11-25T23:26:47.801336+00:00
+50641171,"Windows Loudness Equalization, reverse-engineered and ported to PipeWire",https://github.com/xoxorwr/pw-loudness-eq,304,173,2026-11-25T23:26:47.801336+00:00
+50642939,I checked Clojure's core with Lean and found unreported bugs,https://s.conao3.com/blog/2026/e4f733,169,57,2026-11-25T23:26:47.801336+00:00
+50637220,The matrix multiplication exponent is nine fourths [pdf],https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf,1015,564,2026-11-25T23:26:47.801336+00:00
+50638032,Button Sounds – collection of professionally-recorded button clicks and presses,https://buttons.joshwcomeau.com/,832,130,2026-11-25T23:26:47.801336+00:00
+50624446,Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs,https://jayd.ml/2026/11/14/rockbox-on-yp3.html,205,85,2026-11-25T23:26:47.801336+00:00
+50619073,The undocumented 249-file limit for Googlebot rendering,https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit,25,9,2026-11-25T23:26:47.801336+00:00
+50611593,Show HN: An agent skill that optimizes code with falsifiable hypotheses,https://chszlab.github.io/AgenticAlgorithmEngineering/,56,7,2026-11-25T23:26:47.801336+00:00
+50635783,Predicting LoRA size for any dataset,https://engram.com/blog/lora-size,103,11,2026-11-25T23:26:47.801336+00:00
+50624684,"Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",https://www.rchive.computer/,23,14,2026-11-25T23:26:47.801336+00:00
+50648823,Jev is (probably) Qwen3.5-35B-A3B,https://modaic.dev/blog/latency-doesnt-lie,5,0,2026-11-25T23:26:47.801336+00:00
+50623028,A fast CAS with a focus on resolution of singularities,https://github.com/pportilla/atlas,7,1,2026-11-25T23:26:47.801336+00:00
+50639698,Smart people who give a shit use tools,https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools,249,190,2026-11-25T23:26:47.801336+00:00
+50610682,A Beer Brewer's Noise Estimation,https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation,13,1,2026-11-25T23:26:47.801336+00:00
+50643199,"In C++, = default and {} are not the same constructor",https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/,98,158,2026-11-25T23:26:47.801336+00:00
+50641323,Hazel (YC W24) Is Hiring a Product Designer,https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract,0,0,2026-11-25T23:26:47.801336+00:00
+50637686,Models Can Communicate via Inference Servers Despite Being Sandboxed,https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being,444,190,2026-11-25T23:26:47.801336+00:00
