@@ -39719,3 +39719,33 @@ story_id,title,link,points,comments,scraped_at
 50643199,"In C++, = default and {} are not the same constructor",https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/,98,158,2026-11-25T23:26:47.801336+00:00
 50641323,Hazel (YC W24) Is Hiring a Product Designer,https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract,0,0,2026-11-25T23:26:47.801336+00:00
 50637686,Models Can Communicate via Inference Servers Despite Being Sandboxed,https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being,444,190,2026-11-25T23:26:47.801336+00:00
+50646108,Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening,https://scottaaronson.blog/?p=10379,1170,1007,2026-11-26T05:17:13.694057+00:00
+50644817,1Password Security Incident,https://1password.com/blog/update-on-nov-2026-security-incident,1285,542,2026-11-26T05:17:13.694057+00:00
+50648050,Much shorter version of GRH Lean verification from Anthropic,https://github.com/lsernau/grh-lean,362,180,2026-11-26T05:17:13.694057+00:00
+50598636,"The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf,33,2,2026-11-26T05:17:13.694057+00:00
+50649864,Tell HN: Lots of Ask HNs again,item?id=50649864,173,71,2026-11-26T05:17:13.694057+00:00
+50626466,What VP ≠ VNP Means (In 3 Minutes),https://www.friedgil.com/vpvnp,46,1,2026-11-26T05:17:13.694057+00:00
+50649834,Collection of preserved UI style guides,https://aresluna.org/ui-style-guides/,62,4,2026-11-26T05:17:13.694057+00:00
+50601280,GPT-6.2 Astra is the first model to beat Googlers' code golf records,https://bjin.github.io/go-codegolf-benchmark/#leaderboard,315,88,2026-11-26T05:17:13.694057+00:00
+50647181,Slow Ubuntu security response times,https://www.openwall.com/lists/oss-security/2026/11/25/9,202,98,2026-11-26T05:17:13.694057+00:00
+50643129,A few questions for the guy who went snorkeling in a Home Depot retention pond,https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts,458,112,2026-11-26T05:17:13.694057+00:00
+50637448,How did pinwheel calculators work?,https://blog.coredump.cx/p/how-did-pinwheel-calculators-work,47,4,2026-11-26T05:17:13.694057+00:00
+50650892,Minipg: PostgreSQL as a Single Executable,https://progrium.github.io/minipg/,22,2,2026-11-26T05:17:13.694057+00:00
+50651117,"OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",https://twitter.com/thsottiaux/status/2125784147889393806,65,32,2026-11-26T05:17:13.694057+00:00
+50648323,Deploying a payphone on a tiny Pacific Island for fun and zero profit,https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/,72,9,2026-11-26T05:17:13.694057+00:00
+50648365,Bare Metal Qwen,https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os,95,21,2026-11-26T05:17:13.694057+00:00
+50647161,Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server,https://opensec.in/blog/nfs2root-cve-2026-99362,111,40,2026-11-26T05:17:13.694057+00:00
+50647673,The New York Times warns photographers not to update Photoshop over AI features,https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features,275,247,2026-11-26T05:17:13.694057+00:00
+50589784,SSH is a GUI framework,https://zydra.sh/articles/ssh-is-a-gui-framework/,159,79,2026-11-26T05:17:13.694057+00:00
+50642086,"Google releases Cogentic papers on integer factorization, discrete logs and more",https://github.com/google-research/google-research/tree/master/cogentic_research_papers,470,342,2026-11-26T05:17:13.694057+00:00
+50620991,Hkust 3D Prints a Titanium Alloy That Keeps Hardening,https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/,20,1,2026-11-26T05:17:13.694057+00:00
+50644980,The polynomial Hirsch conjecture is false [pdf],https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf,143,37,2026-11-26T05:17:13.694057+00:00
+50651158,Qualcomm's Oryon 3 Reaches the Top,https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top,11,1,2026-11-26T05:17:13.694057+00:00
+50644814,Deriving Black-Scholes,https://david.alvarezrosa.com/posts/deriving-black-scholes/,57,44,2026-11-26T05:17:13.694057+00:00
+50608175,Can a TV be too large? An investigation,https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/,39,56,2026-11-26T05:17:13.694057+00:00
+50634381,Marginal Grains,https://asteriskmag.com/issues/16/marginal-grains,4,0,2026-11-26T05:17:13.694057+00:00
+50641171,"Windows Loudness Equalization, reverse-engineered and ported to PipeWire",https://github.com/xoxorwr/pw-loudness-eq,328,184,2026-11-26T05:17:13.694057+00:00
+50616473,The trouble with serendipity: Scientific discoveries don't happen how you think,https://www.worksinprogress.news/p/the-trouble-with-serendipity,31,10,2026-11-26T05:17:13.694057+00:00
+50610682,A beer brewer's noise estimation,https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation,22,2,2026-11-26T05:17:13.694057+00:00
+50624446,Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs,https://jayd.ml/2026/11/14/rockbox-on-yp3.html,243,96,2026-11-26T05:17:13.694057+00:00
+50623020,Hacking radiators,https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/,43,16,2026-11-26T05:17:13.694057+00:00
